@@ -2,7 +2,10 @@ import time
 import json
 
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+import undetected_chromedriver as uc
 
 from config import CHROME_DRIVER_PATH
 
@@ -33,22 +36,56 @@ def get_parsed_items(driver):
     return parsed_items
 
 
+CATEGORY_URL = "https://www.ozon.ru/category/bodi-i-korsazhi-zhenskie-31309"
+PAGE_NUM = 5
+USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.123 YaBrowser/23.9.1.962 Yowser/2.5 Safari/537.36"
+
 if __name__ == "__main__":
-    service = webdriver.ChromeService(executable_path=CHROME_DRIVER_PATH)
-    driver = webdriver.Chrome(service=service)
+    # options = Options()
+    # # options.add_argument('--headless=new')
+    # options.add_argument("window-size=1920,1080")
+    # service = webdriver.ChromeService(executable_path=CHROME_DRIVER_PATH)
+    # driver = webdriver.Chrome(options=options, service=service)
 
-    cat_url = "https://www.ozon.ru/category/bodi-i-korsazhi-zhenskie-31309"
+    options = uc.ChromeOptions()
+    options.add_argument(f"user-agent={USER_AGENT}")
+    options.add_argument('--no-sandbox')
+    options.add_argument('--window-size=1920,1080')
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    driver = uc.Chrome(options=options, driver_executable_path=CHROME_DRIVER_PATH)
 
-    driver.get(cat_url)
+    parsed_items = []
+    json_file = open("parsed_items_page.json", "w+")
 
-    time.sleep(15)
+    try:
+        driver.get(CATEGORY_URL)
 
-    for i in range(5):
-        time.sleep(5)
-        print(i)
-        parsed_items = get_parsed_items(driver)
-        with open(f"parsed_items_page_{i}.json", "w+") as json_file:
-            json.dump(parsed_items, json_file, default=str, indent=2, ensure_ascii=False)
+        time.sleep(10)
 
-        next_page_btn_el = driver.find_element(By.CLASS_NAME, value="q1e")
-        next_page_btn_el.click()
+        while True:
+            try:
+                el = driver.find_element(by=By.CLASS_NAME, value="rb")
+                print(f"Reload btn found: {el.get_attribute('outerHTML')}")
+                el.click()
+                print(driver.get_log('browser'))
+                print(driver.get_log('driver'))
+                time.sleep(5)
+            except NoSuchElementException:
+                print("Reload btn isn't found")
+                break
+
+        for i in range(PAGE_NUM):
+            time.sleep(5)
+            print(i)
+            driver.get_screenshot_as_file(f'screen_{i}.png')
+            parsed_items_batch = get_parsed_items(driver)
+            # print(f"Parsed: {parsed_items_batch}")
+            parsed_items.extend(parsed_items_batch)
+
+            next_page_btn_el = driver.find_element(By.CLASS_NAME, value="q1e")
+            next_page_btn_el.click()
+    finally:
+        # print(f"Write: {parsed_items}")
+        json.dump(parsed_items, json_file, default=str, indent=2, ensure_ascii=False)
+        json_file.close()
