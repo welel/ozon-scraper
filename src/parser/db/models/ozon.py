@@ -67,6 +67,7 @@ class OzonProduct(TimestampsMixin, BaseModel):
     sku_id: Mapped[int] = mapped_column(
         sa.BigInteger,
         nullable=False,
+        unique=True,
         comment="Stock Keeping Unit ID",
     )
     name: Mapped[str | None] = mapped_column(
