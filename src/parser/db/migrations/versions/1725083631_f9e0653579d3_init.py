@@ -1,8 +1,8 @@
 """init
 
-Revision ID: afbd904ac748
+Revision ID: f9e0653579d3
 Revises: 
-Create Date: 2024-08-31 07:52:44.270565
+Create Date: 2024-08-31 08:53:51.317702
 
 """
 from typing import Sequence, Union
@@ -12,7 +12,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision: str = 'afbd904ac748'
+revision: str = 'f9e0653579d3'
 down_revision: Union[str, None] = None
 branch_labels: Union[str, Sequence[str], None] = None
 depends_on: Union[str, Sequence[str], None] = None
@@ -28,6 +28,7 @@ def upgrade() -> None:
     sa.Column('name', sa.String(length=1024), nullable=True, comment='Category name'),
     sa.Column('image_url', sa.String(length=2083), nullable=True, comment='URL to the category image'),
     sa.Column('parsing_priority', sa.Integer(), nullable=False, comment='Category parsing priority (0 is parsed first)'),
+    sa.Column('is_active_to_parse', sa.Boolean(), nullable=False, comment='Wheather to parse the category while parsing'),
     sa.PrimaryKeyConstraint('id')
     )
     op.create_table('mp_ozon_product',
@@ -66,7 +67,6 @@ def upgrade() -> None:
     sa.ForeignKeyConstraint(['parsed_by_product_id'], ['mp_ozon_product.id'], ),
     sa.PrimaryKeyConstraint('id')
     )
-    op.execute("DROP TYPE IF EXISTS ozon_media_type;")
     op.create_table('mp_ozon_review_media',
     sa.Column('id', sa.Integer(), autoincrement=True, nullable=False, comment='Product Media ID - PK'),
     sa.Column('review_id', sa.Integer(), nullable=False, comment='Foreign Key to OzonReview'),
@@ -88,5 +88,5 @@ def downgrade() -> None:
     op.drop_table('mp_ozon_review')
     op.drop_table('mp_ozon_product')
     op.drop_table('mp_ozon_category')
-    op.execute("DROP TYPE IF EXISTS ozon_media_type;")
+    op.execute('DROP TYPE IF EXISTS ozon_media_type;')
     # ### end Alembic commands ###

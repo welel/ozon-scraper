@@ -51,3 +51,8 @@ class DBConfig:
 
 class SeleniumConfig:
     chrome_driver_path = "/usr/bin/chromedriver-128"
+
+
+class OzonParserConfig:
+    domain = "https://www.ozon.ru/"
+    short_cat_url = domain + "category/{cat_id}"

@@ -47,6 +47,12 @@ class OzonCategory(BaseModel):
         default=10_000,
         comment="Category parsing priority (0 is parsed first)",
     )
+    is_active_to_parse: Mapped[int] = mapped_column(
+        sa.Boolean,
+        nullable=False,
+        default=False,
+        comment="Wheather to parse the category while parsing",
+    )
 
 
 class OzonProduct(TimestampsMixin, BaseModel):

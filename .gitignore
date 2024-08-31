@@ -1,6 +1,7 @@
 # Project
 .vscode/
 out/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
