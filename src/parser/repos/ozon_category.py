@@ -55,3 +55,12 @@ class OzonCategoriesRepo(OzonCategoryInterface):
             db_category = self._get_from_db(cat_id, session)
             if db_category is not None:
                 return DBOzonCategory.model_validate(db_category)
+
+    def get_list_on_parsing(self) -> list[OzonCategory]:
+        with get_session() as session:
+            query = session.query(DBOzonCategory).filter(
+                DBOzonCategory.is_active_to_parse.is_(True),
+            ).order_by(
+                DBOzonCategory.parsing_priority
+            )
+            return [OzonCategory.model_validate(cat) for cat in query]

@@ -26,3 +26,7 @@ class OzonCategoryInterface(ABC):
     @abstractmethod
     def get(self, cat_id: int) -> OzonCategory | None:
         pass
+
+    @abstractmethod
+    def get_list_on_parsing(self) -> list[OzonCategory]:
+        pass
