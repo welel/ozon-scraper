@@ -36,7 +36,7 @@ class SettingField:
 
 
 UUID_LEN = 36
-URL_MAX_LEN = 2048
+URL_MAX_LEN = 2083
 
 
 class AppConfig:

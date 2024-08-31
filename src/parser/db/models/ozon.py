@@ -1,26 +1,51 @@
 import enum
-from datetime import datetime
 
 import sqlalchemy as sa
 from sqlalchemy.orm import Mapped, mapped_column
 
 from config import DBConfig, URL_MAX_LEN, UUID_LEN
 from db.models.base import BaseModel
+from db.models.mixins import TimestampsMixin
 
 
-class TimestampsMixin:
-    created_at: Mapped[datetime] = mapped_column(
-        sa.DateTime,
-        nullable=False,
-        default=sa.func.now(),
-        comment="Timestamp of record creation",
+class OzonCategory(BaseModel):
+    __tablename__ = f"{DBConfig.table_prefix}ozon_category"
+    id: Mapped[int] = mapped_column(
+        sa.Integer,
+        primary_key=True,
+        autoincrement=True,
+        comment="Category ID from Ozon - PK",
     )
-    updated_at: Mapped[datetime] = mapped_column(
-        sa.DateTime,
+    parent_id: Mapped[int | None] = mapped_column(
+        sa.Integer,
+        nullable=True,
+        comment="Parent category ID from Ozon",
+    )
+    url: Mapped[str] = mapped_column(
+        sa.String(URL_MAX_LEN),
         nullable=False,
-        default=sa.func.now(),
-        onupdate=sa.func.now(),
-        comment="Timestamp of last record update",
+        comment="URL to the category page",
+    )
+    short_url: Mapped[str] = mapped_column(
+        sa.String(URL_MAX_LEN),
+        nullable=False,
+        comment="Short URL to the category page",
+    )
+    name: Mapped[str | None] = mapped_column(
+        sa.String(1024),
+        nullable=True,
+        comment="Category name",
+    )
+    image_url: Mapped[str | None] = mapped_column(
+        sa.String(URL_MAX_LEN),
+        nullable=True,
+        comment="URL to the category image",
+    )
+    parsing_priority: Mapped[int] = mapped_column(
+        sa.Integer,
+        nullable=False,
+        default=10_000,
+        comment="Category parsing priority (0 is parsed first)",
     )
 
 
