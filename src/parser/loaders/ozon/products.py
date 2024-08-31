@@ -15,7 +15,8 @@ class OzonProductList(RootModel):
     root: list[CreateOzonProductProperties]
 
 
-class OzonCategoryLoader(SeleniumLoader):
+class OzonProductsLoader(SeleniumLoader):
+    """Loads products from a category page."""
     schema = OzonProductList
     wait_time = 5
     max_depth: int

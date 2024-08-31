@@ -1,15 +1,19 @@
 # Ozon Reviews
 
-## TODO
+## Plan
 
-- [ ] Get category catalog links
-    - [ ] Gather by hand 10 categories
-- [ ] Parse category page for product IDs
-    - [ ] Parse 10 categories by 100 pages with #product
+- [x] Get category catalog links
+    - [x] Gather by hand 10 categories
+- [x] Parse category page for product IDs
+    - [x] Parse 10 categories by 100 pages with #product
 - [ ] Parse product reviews content
     - Order and prioritize parsing order
     - Parse reviews with #review
     - Parse reviews media with #review_media
+
+## TODO
+
+- Add category_id for product
 
 ## Details
 

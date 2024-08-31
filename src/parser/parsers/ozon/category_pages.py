@@ -4,7 +4,7 @@ import logging
 from config import AppConfig
 from repos.ozon_product import OzonProductsRepo
 from repos.ozon_category import OzonCategoriesRepo
-from loaders.ozon.category import OzonCategoryLoader
+from loaders.ozon.products import OzonProductsLoader
 from ..abstract import AbstractParser
 
 
@@ -20,7 +20,7 @@ class OzonCategoriesParser(AbstractParser):
         prod_repo = OzonProductsRepo()
         for url in urls:
             self.logger.info("Parse category: %s", url)
-            for product_batch in OzonCategoryLoader(url).iload():
+            for product_batch in OzonProductsLoader(url).iload():
                 for product in product_batch:
                     prod_repo.create_or_update(product)
         self.logger.info("Finished parsing.")
