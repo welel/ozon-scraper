@@ -1,5 +1,24 @@
+import logging
+import logging.config
 import os
+import sys
+from pathlib import Path, PosixPath
 from typing import Any
+
+from dotenv import load_dotenv
+import yaml
+
+
+load_dotenv()
+
+
+def load_yaml_config(filepath: PosixPath | str) -> dict:
+    """Loads yaml file by `filepath` and returns content as a dict."""
+    if not os.path.isfile(filepath) or not os.access(filepath, os.R_OK):
+        print(f"ERROR: config file '{filepath}' not eixsts or not readable\n")
+        sys.exit(1)
+    with open(filepath, "r") as config_file:
+        return yaml.load(config_file, Loader=yaml.FullLoader)
 
 
 class SettingField:
@@ -35,8 +54,14 @@ class SettingField:
             raise TypeError(f"Cannot cast {value} to {self.type}!")
 
 
+BASE_DIR = Path(__file__).resolve().parent
+
 UUID_LEN = 36
 URL_MAX_LEN = 2083
+
+
+logging_config_path = os.path.join(BASE_DIR, "logging.yml")
+logging.config.dictConfig(load_yaml_config(logging_config_path))
 
 
 class AppConfig:
@@ -51,6 +76,11 @@ class DBConfig:
 
 class SeleniumConfig:
     chrome_driver_path = "/usr/bin/chromedriver-128"
+    default_user_agent = (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like "
+        "Gecko) Chrome/119.0.6045.123 YaBrowser/23.9.1.962 Yowser/2.5 "
+        "Safari/537.36"
+    )
 
 
 class OzonParserConfig:
