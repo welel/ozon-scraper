@@ -7,59 +7,24 @@ from selenium.webdriver.common.by import By
 
 from dto.ozon_product import CreateOzonProductProperties
 from ..abstract import LoadedData, ValidatedData
-from ..exc import LoaderError
-from ..selenium_loader import SeleniumLoader
+from .ozon import OzonLoader
 
 
 class OzonProductList(RootModel):
     root: list[CreateOzonProductProperties]
 
 
-class OzonProductsLoader(SeleniumLoader):
+class OzonProductsLoader(OzonLoader):
     """Loads products from a category page."""
     schema = OzonProductList
     wait_time = 5
     max_depth: int
 
-    def __init__(self, *args, max_depth: int = 25, **kwargs):
+    def __init__(self, *args, cat_id: int, max_depth: int = 25, **kwargs):
         super().__init__(*args, **kwargs)
+        self.cat_id = cat_id
         self.depth = 1
         self.max_depth = max_depth
-
-    def bypass_captcha(self):
-        max_tries = 10
-        while True:
-            if max_tries == 0:
-                raise LoaderError("Max captcha bypass tries exceeded")
-            try:
-                btn = self.driver.find_element(by=By.CLASS_NAME, value="rb")
-                self.logger.warning(
-                    "Captha - reload button found: %s",
-                    btn.get_attribute('outerHTML'),
-                )
-                btn.click()
-                self.logger.info(
-                    "Browser log: %s", self.driver.get_log('browser')
-                )
-                self._wait()
-                max_tries -= 1
-            except NoSuchElementException:
-                break
-
-    def bypass_age_banner(self):
-        try:
-            birth_input = self.driver.find_element(By.TAG_NAME, "input")
-            name = birth_input.get_attribute("name")
-            if name != "birthdate":
-                return
-            self.logger.info("Age banner detected...")
-
-            birth_input.send_keys("05051995")  # ddmmyyyy
-            btn = self.driver.find_element(By.CLASS_NAME, "c5ak_46")
-            btn.click()
-            self._wait()
-        except NoSuchElementException:
-            pass
 
     def _load(self) -> Optional[LoadedData]:
         self.bypass_captcha()
@@ -129,6 +94,7 @@ class OzonProductsLoader(SeleniumLoader):
                     review_count=review_count,
                     url=url,
                     image_url=image_url,
+                    category_id=self.cat_id,
                 ))
 
             except Exception as e:

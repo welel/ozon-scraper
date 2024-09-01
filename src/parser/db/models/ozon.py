@@ -110,6 +110,12 @@ class OzonProduct(TimestampsMixin, BaseModel):
         nullable=True,
         comment="URL to the product image",
     )
+    category_id: Mapped[int] = mapped_column(
+        sa.Integer,
+        sa.ForeignKey(f"{OzonCategory.__tablename__}.id"),
+        nullable=True,
+        comment="FK to the category which triggered parsing of this product",
+    )
 
 
 class OzonReview(TimestampsMixin, BaseModel):
@@ -134,7 +140,8 @@ class OzonReview(TimestampsMixin, BaseModel):
     )
     review_uuid: Mapped[str | None] = mapped_column(
         sa.String(UUID_LEN),
-        nullable=True,
+        nullable=False,
+        unique=True,
         comment="Unique identifier for the review",
     )
     review_puuid: Mapped[str | None] = mapped_column(

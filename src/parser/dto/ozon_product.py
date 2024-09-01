@@ -45,6 +45,10 @@ class BaseOzonProduct(BaseModel):
         None,
         description="URL to the product image",
     )
+    category_id: Optional[int] = Field(
+        None,
+        description="Category ID which triggered parsing of this product",
+    )
 
 
 class OzonProduct(TimestampsMixin, BaseOzonProduct):
