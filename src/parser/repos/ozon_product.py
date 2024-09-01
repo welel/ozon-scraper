@@ -65,3 +65,16 @@ class OzonProductsRepo(OzonProductInterface):
             ).first()
             if db_product is not None:
                 return OzonProduct.model_validate(db_product)
+
+    def get_list_on_parsing(self) -> list[OzonProduct]:
+        like = ""
+        unlike = ""
+        with get_session() as session:
+            query = session.query(DBOzonProduct).filter(
+                DBOzonProduct.name.ilike(like),
+                DBOzonProduct.name.not_ilike(unlike),
+                DBOzonProduct.review_count > 100,
+            ).order_by(
+                DBOzonProduct.review_count.desc(),
+            ).limit(100)
+            return [OzonProduct.model_validate(prod) for prod in query]

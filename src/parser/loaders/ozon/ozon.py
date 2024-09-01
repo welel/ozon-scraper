@@ -1,4 +1,5 @@
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 from ..exc import LoaderError
 from ..selenium_loader import SeleniumLoader
@@ -39,5 +40,17 @@ class OzonLoader(SeleniumLoader):
             btn = self.driver.find_element(By.CLASS_NAME, "c5ak_46")
             btn.click()
             self._wait()
+        except NoSuchElementException:
+            pass
+
+    def accept_cookie(self):
+        try:
+            accept_cookie_btn = self.driver.find_element(
+                By.CLASS_NAME, "ed4_9"
+            )
+            ActionChains(self.driver).move_to_element(
+                accept_cookie_btn
+            ).perform()
+            accept_cookie_btn.click()
         except NoSuchElementException:
             pass

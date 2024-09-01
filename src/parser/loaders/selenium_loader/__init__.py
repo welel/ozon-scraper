@@ -1,5 +1,7 @@
 import time
 
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.by import By
 import undetected_chromedriver as uc
 
 from config import SeleniumConfig
@@ -35,3 +37,32 @@ class SeleniumLoader(AbstractLoader):
     def _shutdown(self) -> None:
         self.logger.info("Shutdown selenium instance...")
         self.driver.quit()
+
+    def _scroll_down_until_bottom(
+            self,
+            step: int = 1000,
+            wait_time: float = 2.0,
+            step_in_row: int = 1,
+    ):
+        """Scrolls page with dynamically loading content to the very bottom"""
+        def get_last_element_y_coordinate() -> int:
+            last_element_of_body = "//body/*[last()]"
+            last_el = self.driver.find_element(By.XPATH, last_element_of_body)
+            return last_el.location["y"]
+
+        current_y = get_last_element_y_coordinate()
+        while True:
+            for _ in range(step_in_row):
+                ActionChains(self.driver).scroll_by_amount(0, step).perform()
+                time.sleep(wait_time)
+
+            new_y = get_last_element_y_coordinate()
+            if current_y == new_y:
+                break
+            current_y = new_y
+
+    def _get_clipboard_text(self) -> str:
+        self.driver.set_permissions("clipboard-read", "granted")
+        return self.driver.execute_script(
+            "const text = await navigator.clipboard.readText(); return text;"
+        )
