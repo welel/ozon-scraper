@@ -1,8 +1,8 @@
-"""ozon objects
+"""ozon
 
-Revision ID: 411bb3c629fe
+Revision ID: d4a2929a3493
 Revises: 
-Create Date: 2024-09-01 22:07:53.702947
+Create Date: 2024-09-01 23:12:49.391484
 
 """
 from typing import Sequence, Union
@@ -12,7 +12,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision: str = '411bb3c629fe'
+revision: str = 'd4a2929a3493'
 down_revision: Union[str, None] = None
 branch_labels: Union[str, Sequence[str], None] = None
 depends_on: Union[str, Sequence[str], None] = None
@@ -65,7 +65,7 @@ def upgrade() -> None:
     )
     op.create_table('mp_ozon_review_media',
     sa.Column('id', sa.String(length=32), nullable=False, comment='Product Media ID - PK (md5 from id from media URL)'),
-    sa.Column('review_uuid', sa.String(2083), nullable=False, comment='Foreign Key to Ozon review'),
+    sa.Column('review_uuid', sa.String(length=36), nullable=False, comment='Foreign Key to Ozon review'),
     sa.Column('type', sa.Enum('video', 'image', name='ozon_media_type'), nullable=False, comment='Type of media (video or image)'),
     sa.Column('url', sa.String(length=2083), nullable=False, comment='URL to the media resource'),
     sa.Column('extension', sa.String(length=16), nullable=False, comment='File extension of the media (without dot).'),

@@ -108,7 +108,7 @@ class OzonProduct(TimestampsMixin, BaseModel):
 class OzonReview(TimestampsMixin, BaseModel):
     __tablename__ = f"{DBConfig.table_prefix}ozon_review"
 
-    uuid: Mapped[str | None] = mapped_column(
+    uuid: Mapped[str] = mapped_column(
         sa.String(UUID_LEN),
         primary_key=True,
         comment="Unique identifier for the review",
