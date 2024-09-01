@@ -3,13 +3,14 @@ import enum
 import sqlalchemy as sa
 from sqlalchemy.orm import Mapped, mapped_column
 
-from config import DBConfig, URL_MAX_LEN, UUID_LEN
-from db.models.base import BaseModel
-from db.models.mixins import TimestampsMixin
+from config import MD5_LEN, DBConfig, URL_MAX_LEN, UUID_LEN
+from database.models.base import BaseModel
+from database.models.mixins import TimestampsMixin
 
 
 class OzonCategory(BaseModel):
     __tablename__ = f"{DBConfig.table_prefix}ozon_category"
+
     id: Mapped[int] = mapped_column(
         sa.Integer,
         primary_key=True,
@@ -21,6 +22,11 @@ class OzonCategory(BaseModel):
         nullable=True,
         comment="Parent category ID from Ozon",
     )
+    level: Mapped[int] = mapped_column(
+        sa.Integer,
+        nullable=False,
+        comment="Category level in the category tree",
+    )
     url: Mapped[str] = mapped_column(
         sa.String(URL_MAX_LEN),
         nullable=False,
@@ -31,43 +37,24 @@ class OzonCategory(BaseModel):
         nullable=False,
         comment="Short URL to the category page",
     )
-    name: Mapped[str | None] = mapped_column(
+    name: Mapped[str] = mapped_column(
         sa.String(1024),
         nullable=True,
         comment="Category name",
     )
-    image_url: Mapped[str | None] = mapped_column(
+    image_url: Mapped[str] = mapped_column(
         sa.String(URL_MAX_LEN),
         nullable=True,
         comment="URL to the category image",
-    )
-    parsing_priority: Mapped[int] = mapped_column(
-        sa.Integer,
-        nullable=False,
-        default=10_000,
-        comment="Category parsing priority (0 is parsed first)",
-    )
-    is_active_to_parse: Mapped[int] = mapped_column(
-        sa.Boolean,
-        nullable=False,
-        default=False,
-        comment="Wheather to parse the category while parsing",
     )
 
 
 class OzonProduct(TimestampsMixin, BaseModel):
     __tablename__ = f"{DBConfig.table_prefix}ozon_product"
 
-    id: Mapped[int] = mapped_column(
-        sa.Integer,
-        primary_key=True,
-        autoincrement=True,
-        comment="Product ID - PK",
-    )
     sku_id: Mapped[int] = mapped_column(
         sa.BigInteger,
-        nullable=False,
-        unique=True,
+        primary_key=True,
         comment="Stock Keeping Unit ID",
     )
     name: Mapped[str | None] = mapped_column(
@@ -114,40 +101,22 @@ class OzonProduct(TimestampsMixin, BaseModel):
         sa.Integer,
         sa.ForeignKey(f"{OzonCategory.__tablename__}.id"),
         nullable=True,
-        comment="FK to the category which triggered parsing of this product",
+        comment="Product category ID",
     )
 
 
 class OzonReview(TimestampsMixin, BaseModel):
     __tablename__ = f"{DBConfig.table_prefix}ozon_review"
 
-    id: Mapped[int] = mapped_column(
-        sa.Integer,
-        primary_key=True,
-        autoincrement=True,
-        comment="Review ID - PK",
-    )
-    parsed_by_product_id: Mapped[int] = mapped_column(
-        sa.Integer,
-        sa.ForeignKey(f"{OzonProduct.__tablename__}.id"),
-        nullable=False,
-        comment="FK to the product which triggered parsing of this review",
-    )
-    sku_id: Mapped[int | None] = mapped_column(
-        sa.BigInteger,
-        nullable=True,
-        comment="Stock Keeping Unit ID",
-    )
-    review_uuid: Mapped[str | None] = mapped_column(
+    uuid: Mapped[str | None] = mapped_column(
         sa.String(UUID_LEN),
-        nullable=False,
-        unique=True,
+        primary_key=True,
         comment="Unique identifier for the review",
     )
-    review_puuid: Mapped[str | None] = mapped_column(
-        sa.String(UUID_LEN),
+    product_sku_id: Mapped[int | None] = mapped_column(
+        sa.BigInteger,
         nullable=True,
-        comment="(product/parent)? unique identifier for the review",
+        comment="Product Stock Keeping Unit ID",
     )
     rating: Mapped[int | None] = mapped_column(
         sa.Integer,
@@ -184,7 +153,7 @@ class OzonReview(TimestampsMixin, BaseModel):
         nullable=True,
         comment="Number of dislikes on the review",
     )
-    text: Mapped[str | None] = mapped_column(
+    comment_text: Mapped[str | None] = mapped_column(
         sa.Text,
         nullable=True,
         comment="Text of the review",
@@ -211,16 +180,15 @@ class OzonReviewMedia(TimestampsMixin, BaseModel):
     Type = OzonMediaType
 
     id: Mapped[int] = mapped_column(
-        sa.Integer,
+        sa.String(MD5_LEN),
         primary_key=True,
-        autoincrement=True,
-        comment="Product Media ID - PK",
+        comment="Product Media ID - PK (md5 from id from media URL)",
     )
-    review_id: Mapped[int] = mapped_column(
-        sa.Integer,
-        sa.ForeignKey(f"{OzonReview.__tablename__}.id"),
+    review_uuid: Mapped[int] = mapped_column(
+        sa.String(UUID_LEN),
+        sa.ForeignKey(f"{OzonReview.__tablename__}.uuid"),
         nullable=False,
-        comment="Foreign Key to OzonReview",
+        comment="Foreign Key to Ozon review",
     )
     type: Mapped[OzonMediaType] = mapped_column(
         sa.Enum(OzonMediaType, name="ozon_media_type"),
@@ -232,13 +200,23 @@ class OzonReviewMedia(TimestampsMixin, BaseModel):
         nullable=False,
         comment="URL to the media resource",
     )
-    template_url: Mapped[str | None] = mapped_column(
-        sa.String(URL_MAX_LEN),
-        nullable=True,
-        comment="Template URL for the media resource",
-    )
     extension: Mapped[str] = mapped_column(
         sa.String(16),
         nullable=False,
         comment="File extension of the media (without dot).",
+    )
+    video_duration_sec: Mapped[int | None] = mapped_column(
+        sa.Integer,
+        nullable=True,
+        comment="Video duration in seconds",
+    )
+    width: Mapped[int | None] = mapped_column(
+        sa.Integer,
+        nullable=True,
+        comment="Media width pixels",
+    )
+    height: Mapped[int | None] = mapped_column(
+        sa.Integer,
+        nullable=True,
+        comment="Media height pixels",
     )

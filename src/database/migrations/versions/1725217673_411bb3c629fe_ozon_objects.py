@@ -1,8 +1,8 @@
-"""init
+"""ozon objects
 
-Revision ID: 998055af4602
+Revision ID: 411bb3c629fe
 Revises: 
-Create Date: 2024-08-31 13:09:04.691403
+Create Date: 2024-09-01 22:07:53.702947
 
 """
 from typing import Sequence, Union
@@ -12,7 +12,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision: str = '998055af4602'
+revision: str = '411bb3c629fe'
 down_revision: Union[str, None] = None
 branch_labels: Union[str, Sequence[str], None] = None
 depends_on: Union[str, Sequence[str], None] = None
@@ -23,16 +23,31 @@ def upgrade() -> None:
     op.create_table('mp_ozon_category',
     sa.Column('id', sa.Integer(), autoincrement=True, nullable=False, comment='Category ID from Ozon - PK'),
     sa.Column('parent_id', sa.Integer(), nullable=True, comment='Parent category ID from Ozon'),
+    sa.Column('level', sa.Integer(), nullable=False, comment='Category level in the category tree'),
     sa.Column('url', sa.String(length=2083), nullable=False, comment='URL to the category page'),
     sa.Column('short_url', sa.String(length=2083), nullable=False, comment='Short URL to the category page'),
     sa.Column('name', sa.String(length=1024), nullable=True, comment='Category name'),
     sa.Column('image_url', sa.String(length=2083), nullable=True, comment='URL to the category image'),
-    sa.Column('parsing_priority', sa.Integer(), nullable=False, comment='Category parsing priority (0 is parsed first)'),
-    sa.Column('is_active_to_parse', sa.Boolean(), nullable=False, comment='Wheather to parse the category while parsing'),
     sa.PrimaryKeyConstraint('id')
     )
+    op.create_table('mp_ozon_review',
+    sa.Column('uuid', sa.String(length=36), nullable=False, comment='Unique identifier for the review'),
+    sa.Column('product_sku_id', sa.BigInteger(), nullable=True, comment='Product Stock Keeping Unit ID'),
+    sa.Column('rating', sa.Integer(), nullable=True, comment='Rating given by the reviewer'),
+    sa.Column('user_name', sa.String(length=64), nullable=True, comment='Name of the user who reviewed'),
+    sa.Column('user_image_url', sa.String(length=2083), nullable=True, comment="URL to the user's profile image"),
+    sa.Column('comment_count', sa.Integer(), nullable=False, comment='Number of comments on the review'),
+    sa.Column('url', sa.String(length=2083), nullable=False, comment='URL to the review page'),
+    sa.Column('like_count', sa.Integer(), nullable=True, comment='Number of likes on the review'),
+    sa.Column('dislike_count', sa.Integer(), nullable=True, comment='Number of dislikes on the review'),
+    sa.Column('comment_text', sa.Text(), nullable=True, comment='Text of the review'),
+    sa.Column('advantages_text', sa.Text(), nullable=True, comment='Text describing the advantages in the review'),
+    sa.Column('disadvantages_text', sa.Text(), nullable=True, comment='Text describing the disadvantages in the review'),
+    sa.Column('created_at', sa.DateTime(), nullable=False, comment='Timestamp of record creation'),
+    sa.Column('updated_at', sa.DateTime(), nullable=False, comment='Timestamp of last record update'),
+    sa.PrimaryKeyConstraint('uuid')
+    )
     op.create_table('mp_ozon_product',
-    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False, comment='Product ID - PK'),
     sa.Column('sku_id', sa.BigInteger(), nullable=False, comment='Stock Keeping Unit ID'),
     sa.Column('name', sa.String(length=1024), nullable=True, comment='Product name'),
     sa.Column('price', sa.Integer(), nullable=True, comment='Current price of the product in RUB'),
@@ -42,42 +57,24 @@ def upgrade() -> None:
     sa.Column('review_count', sa.Integer(), nullable=True, comment='Number of reviews for the product'),
     sa.Column('url', sa.String(length=2083), nullable=False, comment='URL to the product page'),
     sa.Column('image_url', sa.String(length=2083), nullable=True, comment='URL to the product image'),
+    sa.Column('category_id', sa.Integer(), nullable=True, comment='Product category ID'),
     sa.Column('created_at', sa.DateTime(), nullable=False, comment='Timestamp of record creation'),
     sa.Column('updated_at', sa.DateTime(), nullable=False, comment='Timestamp of last record update'),
-    sa.PrimaryKeyConstraint('id'),
-    sa.UniqueConstraint('sku_id')
-    )
-    op.create_table('mp_ozon_review',
-    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False, comment='Review ID - PK'),
-    sa.Column('parsed_by_product_id', sa.Integer(), nullable=False, comment='FK to the product which triggered parsing of this review'),
-    sa.Column('sku_id', sa.BigInteger(), nullable=True, comment='Stock Keeping Unit ID'),
-    sa.Column('review_uuid', sa.String(length=36), nullable=True, comment='Unique identifier for the review'),
-    sa.Column('review_puuid', sa.String(length=36), nullable=True, comment='(product/parent)? unique identifier for the review'),
-    sa.Column('rating', sa.Integer(), nullable=True, comment='Rating given by the reviewer'),
-    sa.Column('user_name', sa.String(length=64), nullable=True, comment='Name of the user who reviewed'),
-    sa.Column('user_image_url', sa.String(length=2083), nullable=True, comment="URL to the user's profile image"),
-    sa.Column('comment_count', sa.Integer(), nullable=False, comment='Number of comments on the review'),
-    sa.Column('url', sa.String(length=2083), nullable=False, comment='URL to the review page'),
-    sa.Column('like_count', sa.Integer(), nullable=True, comment='Number of likes on the review'),
-    sa.Column('dislike_count', sa.Integer(), nullable=True, comment='Number of dislikes on the review'),
-    sa.Column('text', sa.Text(), nullable=True, comment='Text of the review'),
-    sa.Column('advantages_text', sa.Text(), nullable=True, comment='Text describing the advantages in the review'),
-    sa.Column('disadvantages_text', sa.Text(), nullable=True, comment='Text describing the disadvantages in the review'),
-    sa.Column('created_at', sa.DateTime(), nullable=False, comment='Timestamp of record creation'),
-    sa.Column('updated_at', sa.DateTime(), nullable=False, comment='Timestamp of last record update'),
-    sa.ForeignKeyConstraint(['parsed_by_product_id'], ['mp_ozon_product.id'], ),
-    sa.PrimaryKeyConstraint('id')
+    sa.ForeignKeyConstraint(['category_id'], ['mp_ozon_category.id'], ),
+    sa.PrimaryKeyConstraint('sku_id')
     )
     op.create_table('mp_ozon_review_media',
-    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False, comment='Product Media ID - PK'),
-    sa.Column('review_id', sa.Integer(), nullable=False, comment='Foreign Key to OzonReview'),
+    sa.Column('id', sa.String(length=32), nullable=False, comment='Product Media ID - PK (md5 from id from media URL)'),
+    sa.Column('review_uuid', sa.String(2083), nullable=False, comment='Foreign Key to Ozon review'),
     sa.Column('type', sa.Enum('video', 'image', name='ozon_media_type'), nullable=False, comment='Type of media (video or image)'),
     sa.Column('url', sa.String(length=2083), nullable=False, comment='URL to the media resource'),
-    sa.Column('template_url', sa.String(length=2083), nullable=True, comment='Template URL for the media resource'),
     sa.Column('extension', sa.String(length=16), nullable=False, comment='File extension of the media (without dot).'),
+    sa.Column('video_duration_sec', sa.Integer(), nullable=True, comment='Video duration in seconds'),
+    sa.Column('width', sa.Integer(), nullable=True, comment='Media width pixels'),
+    sa.Column('height', sa.Integer(), nullable=True, comment='Media height pixels'),
     sa.Column('created_at', sa.DateTime(), nullable=False, comment='Timestamp of record creation'),
     sa.Column('updated_at', sa.DateTime(), nullable=False, comment='Timestamp of last record update'),
-    sa.ForeignKeyConstraint(['review_id'], ['mp_ozon_review.id'], ),
+    sa.ForeignKeyConstraint(['review_uuid'], ['mp_ozon_review.uuid'], ),
     sa.PrimaryKeyConstraint('id')
     )
     # ### end Alembic commands ###
@@ -86,8 +83,8 @@ def upgrade() -> None:
 def downgrade() -> None:
     # ### commands auto generated by Alembic - please adjust! ###
     op.drop_table('mp_ozon_review_media')
-    op.drop_table('mp_ozon_review')
     op.drop_table('mp_ozon_product')
+    op.drop_table('mp_ozon_review')
     op.drop_table('mp_ozon_category')
     op.execute('DROP TYPE IF EXISTS ozon_media_type;')
     # ### end Alembic commands ###
