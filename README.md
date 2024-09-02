@@ -13,10 +13,13 @@
 
 ## TODO
 
-- Add category_id for product
-- Change models (ozon - ozon only)
-- 2 new parsers -> reviews media from data-state, rest info as it is now
 - refactor dto, repos on the top for bot
+- take out manage
+- update category loading
+- parsers
+    - products from cat page
+    - reviews media from data-state
+    - rest review from sliders
 
 ## Details
 

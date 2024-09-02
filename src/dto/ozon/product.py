@@ -2,7 +2,7 @@ from typing import Optional
 
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
 
-from .mixins import TimestampsMixin
+from ..mixins import TimestampsMixin
 
 
 class BaseOzonProduct(BaseModel):
@@ -52,10 +52,7 @@ class BaseOzonProduct(BaseModel):
 
 
 class OzonProduct(TimestampsMixin, BaseOzonProduct):
-    id: int = Field(
-        ...,
-        description="Product ID - PK",
-    )
+    pass
 
 
 class CreateOzonProductProperties(BaseOzonProduct):

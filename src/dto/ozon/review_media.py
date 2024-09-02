@@ -3,7 +3,7 @@ from typing import Optional
 
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
 
-from .mixins import TimestampsMixin
+from ..mixins import TimestampsMixin
 
 
 class OzonMediaType(str, Enum):
@@ -14,7 +14,11 @@ class OzonMediaType(str, Enum):
 class BaseOzonReviewMedia(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
-    review_id: int = Field(
+    id: str = Field(
+        ...,
+        description="PK - review media ID - PK (md5 from id from media URL)",
+    )
+    review_uuid: int = Field(
         ...,
         description="Foreign Key to OzonReview",
     )
@@ -26,22 +30,27 @@ class BaseOzonReviewMedia(BaseModel):
         ...,
         description="URL to the media resource",
     )
-    template_url: Optional[HttpUrl] = Field(
-        None,
-        description="Template URL for the media resource",
-    )
     extension: str = Field(
         ...,
         max_length=16,
         description="File extension of the media (without dot).",
     )
+    video_duration_sec: Optional[int] = Field(
+        None,
+        description="Video duration in seconds",
+    )
+    width: Optional[int] = Field(
+        None,
+        description="Media width pixels",
+    )
+    height: Optional[int] = Field(
+        None,
+        description="Media height pixels",
+    )
 
 
 class OzonReviewMedia(TimestampsMixin, BaseOzonReviewMedia):
-    id: int = Field(
-        ...,
-        description="Product Media ID - PK",
-    )
+    pass
 
 
 class CreateOzonReviewMediaProperties(BaseOzonReviewMedia):

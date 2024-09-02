@@ -115,7 +115,7 @@ class OzonReview(TimestampsMixin, BaseModel):
     )
     product_sku_id: Mapped[int | None] = mapped_column(
         sa.BigInteger,
-        nullable=True,
+        sa.ForeignKey(f"{OzonProduct.__tablename__}.sku_id"),
         comment="Product Stock Keeping Unit ID",
     )
     rating: Mapped[int | None] = mapped_column(
@@ -179,12 +179,12 @@ class OzonReviewMedia(TimestampsMixin, BaseModel):
     __tablename__ = f"{DBConfig.table_prefix}ozon_review_media"
     Type = OzonMediaType
 
-    id: Mapped[int] = mapped_column(
+    id: Mapped[str] = mapped_column(
         sa.String(MD5_LEN),
         primary_key=True,
         comment="Product Media ID - PK (md5 from id from media URL)",
     )
-    review_uuid: Mapped[int] = mapped_column(
+    review_uuid: Mapped[str] = mapped_column(
         sa.String(UUID_LEN),
         sa.ForeignKey(f"{OzonReview.__tablename__}.uuid"),
         nullable=False,

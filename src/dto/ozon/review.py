@@ -3,29 +3,20 @@ from typing import Optional
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
 
 from config import UUID_LEN
-from .mixins import TimestampsMixin
+from ..mixins import TimestampsMixin
 
 
 class BaseOzonReview(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
-    parsed_by_product_id: int = Field(
+    uuid: str = Field(
         ...,
-        description="FK to the product which triggered parsing of this review",
-    )
-    sku_id: Optional[int] = Field(
-        None,
-        description="Stock Keeping Unit ID",
-    )
-    review_uuid: Optional[str] = Field(
-        None,
         max_length=UUID_LEN,
         description="Unique identifier for the review",
     )
-    review_puuid: Optional[str] = Field(
-        None,
-        max_length=UUID_LEN,
-        description="(product/parent)? unique identifier for the review",
+    product_sku_id: int = Field(
+        ...,
+        description="Product Stock Keeping Unit ID",
     )
     rating: Optional[int] = Field(
         None,
@@ -56,7 +47,7 @@ class BaseOzonReview(BaseModel):
         None,
         description="Number of dislikes on the review",
     )
-    text: Optional[str] = Field(
+    comment_text: Optional[str] = Field(
         None,
         description="Text of the review",
     )
@@ -71,10 +62,7 @@ class BaseOzonReview(BaseModel):
 
 
 class OzonReview(TimestampsMixin, BaseOzonReview):
-    id: int = Field(
-        ...,
-        description="Review ID - PK",
-    )
+    pass
 
 
 class CreateOzonReviewProperties(BaseOzonReview):

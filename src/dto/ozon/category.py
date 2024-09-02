@@ -3,12 +3,20 @@ from typing import Optional
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
 
 
-class BaseOzonCategory(BaseModel):
+class OzonCategory(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
+    id: int = Field(
+        ...,
+        description="Category ID from Ozon - PK",
+    )
     parent_id: Optional[int] = Field(
         None,
         description="Parent category ID from Ozon",
+    )
+    level: int = Field(
+        ...,
+        description="Category level in the category tree",
     )
     url: HttpUrl = Field(
         ...,
@@ -27,20 +35,3 @@ class BaseOzonCategory(BaseModel):
         None,
         description="URL to the category image",
     )
-
-
-class OzonCategory(BaseOzonCategory):
-    model_config = ConfigDict(from_attributes=True)
-
-    id: int = Field(
-        ...,
-        description="Category ID from Ozon - PK",
-    )
-
-
-class CreateOzonCategoryProperties(OzonCategory):
-    pass
-
-
-class OzonCategoryUpdatableProperties(BaseOzonCategory):
-    pass
