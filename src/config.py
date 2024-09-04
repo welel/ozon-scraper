@@ -5,20 +5,20 @@ import sys
 from pathlib import Path, PosixPath
 from typing import Any
 
-from dotenv import load_dotenv
 import yaml
+from dotenv import load_dotenv
 
 
 load_dotenv()
 
 
-# def load_yaml_config(filepath: PosixPath | str) -> dict:
-#     """Loads yaml file by `filepath` and returns content as a dict."""
-#     if not os.path.isfile(filepath) or not os.access(filepath, os.R_OK):
-#         print(f"ERROR: config file '{filepath}' not eixsts or not readable\n")
-#         sys.exit(1)
-#     with open(filepath, "r") as config_file:
-#         return yaml.load(config_file, Loader=yaml.FullLoader)
+def load_yaml_config(filepath: PosixPath | str) -> dict:
+    """Loads yaml file by `filepath` and returns content as a dict."""
+    if not os.path.isfile(filepath) or not os.access(filepath, os.R_OK):
+        print(f"ERROR: config file '{filepath}' not eixsts or not readable\n")
+        sys.exit(1)
+    with open(filepath, "r") as config_file:
+        return yaml.load(config_file, Loader=yaml.FullLoader)
 
 
 class SettingField:
@@ -61,8 +61,8 @@ MD5_LEN = 32
 URL_MAX_LEN = 2083
 
 
-# logging_config_path = os.path.join(BASE_DIR, "logging.yml")
-# logging.config.dictConfig(load_yaml_config(logging_config_path))
+logging_config_path = os.path.join(BASE_DIR, "logging.yml")
+logging.config.dictConfig(load_yaml_config(logging_config_path))
 
 
 class AppConfig:

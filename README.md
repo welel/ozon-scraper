@@ -13,7 +13,7 @@
 
 ## TODO
 
-- [] refactor dto, repos on the top for bot
+- [x] refactor dto, repos on the top for bot
 - [x] take out manage
 - [x] update category loading
 - parsers
