@@ -86,4 +86,4 @@ class SeleniumConfig:
 
 class OzonParserConfig:
     domain = "https://www.ozon.ru/"
-    short_cat_url = domain + "category/{cat_id}"
+    short_category_url = domain + "category/{cat_id}"
