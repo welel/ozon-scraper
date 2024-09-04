@@ -5,7 +5,7 @@ from .product import (  # noqa
     OzonProductUpdatableProperties,
 )
 from .review import (  # noqa
-    CreateOzonReviewProperties,
+    OzonReviewCreateProperties,
     OzonReview,
     OzonReviewUpdatableProperties,
 )
