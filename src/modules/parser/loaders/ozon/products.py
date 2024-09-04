@@ -5,13 +5,13 @@ from pydantic import RootModel
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 
-from dto.ozon_product import CreateOzonProductProperties
+from dto.ozon.product import OzonProductCreateProperties
 from ..abstract import LoadedData, ValidatedData
 from .ozon import OzonLoader
 
 
 class OzonProductList(RootModel):
-    root: list[CreateOzonProductProperties]
+    root: list[OzonProductCreateProperties]
 
 
 class OzonProductsLoader(OzonLoader):
@@ -30,7 +30,7 @@ class OzonProductsLoader(OzonLoader):
         self.bypass_captcha()
         self.bypass_age_banner()
 
-        product_cards = self.driver.find_elements(By.CLASS_NAME, "nj2_23")
+        product_cards = self.driver.find_elements(By.CLASS_NAME, "tile-root")
         self.logger.info("Fetched %s product cards", len(product_cards))
 
         products = []
@@ -84,7 +84,7 @@ class OzonProductsLoader(OzonLoader):
                 image_el = card.find_element(By.TAG_NAME, "img")
                 image_url = image_el.get_attribute("src")
 
-                products.append(CreateOzonProductProperties(
+                products.append(OzonProductCreateProperties(
                     sku_id=sku_id,
                     name=name,
                     price=price,
@@ -105,16 +105,16 @@ class OzonProductsLoader(OzonLoader):
     def _stop_expr(self, data: ValidatedData) -> bool:
         self.logger.info("Depth state %s/%s", self.depth, self.max_depth)
         if self.depth >= self.max_depth:
-            return False
+            return True
         try:
             # Check next page button
-            self.driver.find_element(By.CLASS_NAME, value="q1e")
+            self.driver.find_element(By.CLASS_NAME, value="qe2")
         except NoSuchElementException:
-            return False
-        return True
+            return True
+        return False
 
     def _init_next_page(self, data: LoadedData):
         self.logger.info("Loading next page...")
-        next_page_btn_el = self.driver.find_element(By.CLASS_NAME, value="q1e")
+        next_page_btn_el = self.driver.find_element(By.CLASS_NAME, value="qe2")
         next_page_btn_el.click()
         self._wait()

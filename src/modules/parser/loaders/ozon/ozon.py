@@ -1,6 +1,7 @@
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
+
 from ..exc import LoaderError
 from ..selenium_loader import SeleniumLoader
 
@@ -37,7 +38,7 @@ class OzonLoader(SeleniumLoader):
             self.logger.info("Age banner detected...")
 
             birth_input.send_keys("05051995")  # ddmmyyyy
-            btn = self.driver.find_element(By.CLASS_NAME, "c5ak_46")
+            btn = self.driver.find_element(By.TAG_NAME, "button")
             btn.click()
             self._wait()
         except NoSuchElementException:
