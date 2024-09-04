@@ -2,16 +2,10 @@ from typing import Optional
 
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
 
-from ..mixins import TimestampsMixin
-
 
 class BaseOzonProduct(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
-    sku_id: int = Field(
-        ...,
-        description="Stock Keeping Unit ID",
-    )
     name: Optional[str] = Field(
         None,
         max_length=1024,
@@ -51,11 +45,14 @@ class BaseOzonProduct(BaseModel):
     )
 
 
-class OzonProduct(TimestampsMixin, BaseOzonProduct):
-    pass
+class OzonProduct(BaseOzonProduct):
+    sku_id: int = Field(
+        ...,
+        description="Stock Keeping Unit ID",
+    )
 
 
-class CreateOzonProductProperties(BaseOzonProduct):
+class OzonProductCreateProperties(OzonProduct):
     pass
 
 

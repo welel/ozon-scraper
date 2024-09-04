@@ -32,9 +32,9 @@ class OzonCategoriesRepo(SqlalchemyBaseRepo, OzonCategoryInterface):
         with get_session() as session:
             return self._create_or_update(category.id, category, session)
 
-    def get(self, cat_id: int) -> OzonCategory | None:
+    def get(self, id_: int) -> OzonCategory | None:
         with get_session() as session:
-            return self._get(cat_id, session)
+            return self._get(id_, session)
 
     def get_list_on_parsing(self) -> list[OzonCategory]:
         # with get_session() as session:

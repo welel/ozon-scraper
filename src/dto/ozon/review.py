@@ -3,17 +3,11 @@ from typing import Optional
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
 
 from config import UUID_LEN
-from ..mixins import TimestampsMixin
 
 
 class BaseOzonReview(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
-    uuid: str = Field(
-        ...,
-        max_length=UUID_LEN,
-        description="Unique identifier for the review",
-    )
     product_sku_id: int = Field(
         ...,
         description="Product Stock Keeping Unit ID",
@@ -61,11 +55,15 @@ class BaseOzonReview(BaseModel):
     )
 
 
-class OzonReview(TimestampsMixin, BaseOzonReview):
-    pass
+class OzonReview(BaseOzonReview):
+    uuid: str = Field(
+        ...,
+        max_length=UUID_LEN,
+        description="Unique identifier for the review",
+    )
 
 
-class CreateOzonReviewProperties(BaseOzonReview):
+class OzonReviewCreateProperties(OzonReview):
     pass
 
 
