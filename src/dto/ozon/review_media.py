@@ -12,7 +12,7 @@ class OzonMediaType(str, Enum):
 class BaseOzonReviewMedia(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
-    review_uuid: int = Field(
+    review_uuid: str = Field(
         ...,
         description="Foreign Key to OzonReview",
     )

@@ -20,7 +20,7 @@ class OzonProductsLoader(OzonLoader):
     wait_time = 5
     max_depth: int
 
-    def __init__(self, *args, cat_id: int, max_depth: int = 25, **kwargs):
+    def __init__(self, *args, cat_id: int, max_depth: int = 40, **kwargs):
         super().__init__(*args, **kwargs)
         self.cat_id = cat_id
         self.depth = 1

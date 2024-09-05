@@ -9,7 +9,7 @@ from ..sqlalchemy_base import SqlalchemyBaseRepo
 from .interfaces.review import OzonReviewInterface
 
 
-class OzonCategoriesRepo(SqlalchemyBaseRepo, OzonReviewInterface):
+class OzonReviewsRepo(SqlalchemyBaseRepo, OzonReviewInterface):
     sa_model = OzonReviewModel
     py_model = OzonReview
 

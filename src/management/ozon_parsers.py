@@ -1,7 +1,7 @@
 import click
 
 from modules.parser.parsers.ozon.category_pages import OzonCategoriesParser
-# from parsers.ozon.product_reviews import OzonReviewsParser
+from modules.parser.parsers.ozon.product_reviews import OzonReviewsStateParser
 
 
 @click.command(
@@ -18,15 +18,18 @@ def parse_ozon_category_pages():
         raise
 
 
-# @click.command(
-#     "parse_ozon_product_reviews",
-#     help="Parses products reviews.",
-# )
-# def parse_ozon_product_reviews():
-#     parser = OzonReviewsParser()
-#     click.echo(f"Parser created: {parser}. Starting parsing...")
-#     try:
-#         parser.run()
-#     except Exception as e:
-#         click.echo(f"Error while parsing: {e}")
-#         raise
+@click.command(
+    "parse_ozon_product_reviews_from_state",
+    help=(
+        "Parses products reviews from data-state html object "
+        "(only first 15 reviews and media)."
+    ),
+)
+def parse_ozon_product_reviews():
+    parser = OzonReviewsStateParser()
+    click.echo(f"Parser created: {parser}. Starting parsing...")
+    try:
+        parser.run()
+    except Exception as e:
+        click.echo(f"Error while parsing: {e}")
+        raise

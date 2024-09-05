@@ -22,6 +22,7 @@ class OzonCategoriesParser(AbstractParser):
             for product_batch in OzonProductsLoader(
                     str(cat.short_url), cat_id=cat.id
             ).iload():
+                self.logger.info("Parsed %d products", len(product_batch))
                 for product in product_batch:
                     prod_repo.create_or_update(product)
         self.logger.info("Finished parsing.")

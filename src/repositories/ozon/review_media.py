@@ -9,7 +9,7 @@ from ..sqlalchemy_base import SqlalchemyBaseRepo
 from .interfaces.review_media import OzonReviewMediaInterface
 
 
-class OzonCategoriesRepo(SqlalchemyBaseRepo, OzonReviewMediaInterface):
+class OzonReviewMediaRepo(SqlalchemyBaseRepo, OzonReviewMediaInterface):
     sa_model = OzonReviewMediaModel
     py_model = OzonReviewMedia
 

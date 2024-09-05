@@ -40,11 +40,23 @@ class SeleniumLoader(AbstractLoader):
 
     def _scroll_down_until_bottom(
             self,
-            step: int = 1000,
+            step_px: int = 1000,
             wait_time: float = 2.0,
             step_in_row: int = 1,
-    ):
-        """Scrolls page with dynamically loading content to the very bottom"""
+            max_step: int | None = None,
+    ) -> bool:
+        """Scrolls page with dynamically loading content to the very bottom.
+
+        Args:
+            step_px: Size of a step in px.
+            wait_time: Pause on `wait_time` sec after `step_in_row` steps.
+            step_in_row: Performs `step_in_row` steps without a pause.
+            max_step: Stops after `max_step` performed steps.
+
+        Retruns:
+            True - stopped by the end of the page;
+            False - stopped by max_step steps.
+        """
         def get_last_element_y_coordinate() -> int:
             last_element_of_body = "//body/*[last()]"
             last_el = self.driver.find_element(By.XPATH, last_element_of_body)
@@ -53,13 +65,20 @@ class SeleniumLoader(AbstractLoader):
         current_y = get_last_element_y_coordinate()
         while True:
             for _ in range(step_in_row):
-                ActionChains(self.driver).scroll_by_amount(0, step).perform()
+                ActionChains(self.driver).scroll_by_amount(
+                    0, step_px
+                ).perform()
+                max_step -= 1
                 time.sleep(wait_time)
 
             new_y = get_last_element_y_coordinate()
             if current_y == new_y:
                 break
             current_y = new_y
+
+            if max_step <= 0:
+                return False
+        return True
 
     def _get_clipboard_text(self) -> str:
         self.driver.set_permissions("clipboard-read", "granted")
