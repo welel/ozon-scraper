@@ -55,12 +55,19 @@ def download_file(filename: str, url: str, out_path_: str) -> None:
     default=1_000,
     help="Max files to download. Default: 1000."
 )
+@click.option(
+    "--skip-labeled",
+    is_flag=True,
+    default=False,
+    help="Skip media with labels. Default: False."
+)
 def export_media(
         out_path: str,
         media_type: str,
         comment_count_ge: int,
         like_count_ge: int,
         max_files: int,
+        skip_labeled: bool,
 ):
     if not os.path.exists(out_path):
         click.echo(f"Error: The specified path '{out_path}' does not exist.")
@@ -77,6 +84,7 @@ def export_media(
         comment_count_ge,
         like_count_ge,
         max_files,
+        skip_labeled,
     )
 
     click.echo(f"Download {len(media)} medias")
