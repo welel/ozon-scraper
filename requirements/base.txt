@@ -1,0 +1,9 @@
+alembic==1.13.2
+click==8.1.7
+psycopg==3.2.1
+psycopg-binary==3.2.1
+pydantic==2.8.2
+pydantic_core==2.20.1
+PyYAML==6.0.2
+SQLAlchemy==2.0.32
+typing_extensions==4.12.2
