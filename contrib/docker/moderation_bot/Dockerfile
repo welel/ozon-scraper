@@ -12,4 +12,4 @@ RUN pip install --upgrade pip && \
 
 COPY . .
 
-CMD ["python", "src/manage.py", "start_labling_bot"]
+CMD ["python", "src/manage.py", "start_moderation_bot"]

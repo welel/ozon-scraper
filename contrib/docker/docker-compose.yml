@@ -12,11 +12,11 @@ services:
     volumes:
       - parser_db:/var/lib/postgresql/data
 
-  labling_bot:
-    image: labling-bot
+  moderation_bot:
+    image: moderation-bot
     build:
       context: ../../
-      dockerfile: contrib/docker/labling_bot/Dockerfile
+      dockerfile: contrib/docker/moderation_bot/Dockerfile
     environment:
       DATABASE_URL: ${DATABASE_URL}
       TELEGRAM_API_TOKEN: ${TELEGRAM_API_TOKEN}
