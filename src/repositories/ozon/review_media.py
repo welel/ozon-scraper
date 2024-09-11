@@ -74,3 +74,27 @@ class OzonReviewMediaRepo(SqlalchemyBaseRepo, OzonReviewMediaInterface):
             if limit is not None:
                 query = query.limit(limit)
             return [OzonReviewMedia.model_validate(rm) for rm in query]
+
+    def get_next_on_label(self) -> OzonReviewMedia | None:
+        """Returns first media review without the label."""
+        from database.models.ozon import OzonReview
+        from database.models.labling import OzonReviewMediaLabel
+
+        with get_session() as session:
+            query = session.query(OzonReviewMediaModel).join(
+                OzonReview, OzonReview.uuid == OzonReviewMediaModel.review_uuid
+            ).join(
+                OzonReviewMediaLabel,
+                (
+                    OzonReviewMediaLabel.review_media_id
+                    == OzonReviewMediaModel.id
+                ),
+                isouter=True,
+            ).filter(
+                OzonReview.comment_count >= 3,
+                OzonReview.like_count >= 3,
+                OzonReviewMediaLabel.review_media_id.is_(None),
+            )
+            if found := query.first():
+                return OzonReviewMedia.model_validate(found)
+            return None
