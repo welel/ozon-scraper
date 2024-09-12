@@ -1,7 +1,8 @@
 import logging
 
 from aiogram import Bot, Router, types
-from aiogram.filters.command import Command, StateFilter
+from aiogram.filters import StateFilter
+from aiogram.filters.command import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import default_state, State
 from aiogram.fsm.storage.memory import MemoryStorage
