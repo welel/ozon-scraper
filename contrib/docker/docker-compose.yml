@@ -17,9 +17,17 @@ services:
     build:
       context: ../../
       dockerfile: contrib/docker/moderation_bot/Dockerfile
-    environment:
+    environment: &app_envs
       DATABASE_URL: ${DATABASE_URL}
       TELEGRAM_API_TOKEN: ${TELEGRAM_API_TOKEN}
+
+  cron:
+    image: mp-cron
+    build:
+      context: ../../
+      dockerfile: contrib/docker/cron/Dockerfile
+    environment:
+      <<: *app_envs
 
 volumes:
   parser_db:

@@ -1,0 +1,1 @@
+*/1 * * * * /usr/local/bin/python3 /app/src/manage.py post_content >> /var/log/cron.log 2>&1
