@@ -1,4 +1,3 @@
-# docker compose --env-file=.env up -d
 services:
 
   parser_db:
@@ -12,12 +11,24 @@ services:
       - 5530:5432
     volumes:
       - parser_db:/var/lib/postgresql/data
-    networks:
-      - common-net
+
+  moderation_bot:
+    image: moderation-bot
+    build:
+      context: ../../
+      dockerfile: contrib/docker/moderation_bot/Dockerfile
+    environment: &app_envs
+      DATABASE_URL: ${DATABASE_URL}
+      TELEGRAM_API_TOKEN: ${TELEGRAM_API_TOKEN}
+
+  cron:
+    image: mp-cron
+    build:
+      context: ../../
+      dockerfile: contrib/docker/cron/Dockerfile
+    environment:
+      <<: *app_envs
+      TELEGRAM_CHANNEL_CHAT_ID: ${TELEGRAM_CHANNEL_CHAT_ID}
 
 volumes:
   parser_db:
-
-networks:
-  common-net:
-    name: common-net
