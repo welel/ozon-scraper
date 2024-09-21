@@ -91,9 +91,9 @@ class OzonReviewMediaRepo(SqlalchemyBaseRepo, OzonReviewMediaInterface):
                 ),
                 isouter=True,
             ).filter(
-                OzonReview.comment_count >= 3,
-                OzonReview.like_count >= 3,
                 OzonReviewMediaLabel.review_media_id.is_(None),
+            ).order_by(
+                OzonReview.like_count.desc(),
             )
             if found := query.first():
                 return OzonReviewMedia.model_validate(found)

@@ -31,22 +31,31 @@ def _get_label_keyboard(media_id: str) -> InlineKeyboardMarkup:
 
 async def _send_review_media_on_label(chat_id: int, bot: Bot):
     if media := OzonReviewMediaRepo().get_next_on_label():
-        keyboard = _get_label_keyboard(media.id)
+        try:
+            keyboard = _get_label_keyboard(media.id)
 
-        if media.type == "image":
-            await bot.send_photo(
-                chat_id=chat_id,
-                photo=str(media.url),
-                reply_markup=keyboard,
-                caption=media.id,
+            if media.type == "image":
+                await bot.send_photo(
+                    chat_id=chat_id,
+                    photo=str(media.url),
+                    reply_markup=keyboard,
+                    caption=media.id,
+                )
+            else:
+                await bot.send_video(
+                    chat_id=chat_id,
+                    video=str(media.url),
+                    reply_markup=keyboard,
+                    caption=media.id,
+                )
+        except Exception:
+            logger.exception("Failed to send media %s", media)
+            with get_session() as session:
+                _create_or_update_label(media.id, 1, session)
+            await bot.send_message(
+                chat_id, f"Failed to label media {media}, set label 1."
             )
-        else:
-            await bot.send_video(
-                chat_id=chat_id,
-                video=str(media.url),
-                reply_markup=keyboard,
-                caption=media.id,
-            )
+            await _send_review_media_on_label(chat_id, bot)
     else:
         bot.send_message(chat_id, "No media on labling.")
         await asyncio.sleep(60)
