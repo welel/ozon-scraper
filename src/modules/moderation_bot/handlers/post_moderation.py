@@ -47,6 +47,9 @@ _storage = {}
 def _get_moderation_keyboard(moderation_id: str) -> InlineKeyboardMarkup:
     buttons = [
         InlineKeyboardButton(
+            text="Tier 3", callback_data=f"tier_4_{moderation_id}"
+        ),
+        InlineKeyboardButton(
             text="Tier 3", callback_data=f"tier_3_{moderation_id}"
         ),
         InlineKeyboardButton(
