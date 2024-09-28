@@ -131,6 +131,11 @@ class Post(TimestampsMixin, BaseModel):
         nullable=True,
         comment="Foreign key to PostType (use default for None).",
     )
+    data: Mapped[dict] = mapped_column(
+        MutableDict.as_mutable(JSONB),
+        default=dict,
+        comment="Additional data",
+    )
 
 
 class PostMediaType(enum.Enum):
