@@ -1,37 +1,37 @@
 import logging
 import uuid
 
+import sqlalchemy as sa
 from aiogram import Bot, Router, types
 from aiogram.exceptions import TelegramBadRequest
 from aiogram.filters import StateFilter
 from aiogram.filters.command import Command
 from aiogram.fsm.context import FSMContext
-from aiogram.fsm.state import default_state, State
+from aiogram.fsm.state import State, default_state
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import (
     InlineKeyboardButton,
     InlineKeyboardMarkup,
+    InputMediaPhoto,
+    InputMediaVideo,
     Message,
 )
-from aiogram.types import InputMediaPhoto, InputMediaVideo
+from jinja2 import Template
 
 from config import AppConfig
 from database import get_session
-
-import sqlalchemy as sa
 from database.models import (
-    OzonReviewMedia,
     OzonReview,
-    PostOzonReviewMedia,
+    OzonReviewMedia,
     OzonReviewMediaLabel,
     Post,
     PostMedia,
-    PostType,
-    PostTemplate,
+    PostOzonReviewMedia,
     PostPool,
     PostPoolPost,
+    PostTemplate,
+    PostType,
 )
-from jinja2 import Template
 
 
 MAX_CAPTION_LEN = 1024

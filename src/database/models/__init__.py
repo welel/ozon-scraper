@@ -1,7 +1,12 @@
 from .content import PostOzonReviewMedia  # noqa
-from .ozon import OzonMediaType, OzonProduct, OzonReview, OzonReviewMedia  # noqa
-from .parser import ParserOzonCategoryMeta  # noqa
 from .labling import OzonReviewMediaLabel  # noqa
+from .ozon import (  # noqa
+    OzonMediaType,
+    OzonProduct,
+    OzonReview,
+    OzonReviewMedia,
+)
+from .parser import ParserOzonCategoryMeta  # noqa
 from .telegram import (  # noqa
     Post,
     PostMedia,

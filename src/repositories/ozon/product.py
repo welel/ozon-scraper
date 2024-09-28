@@ -5,6 +5,7 @@ from dto.ozon.product import (
     OzonProductCreateProperties,
     OzonProductUpdatableProperties,
 )
+
 from ..sqlalchemy_base import SqlalchemyBaseRepo
 from .interfaces.product import OzonProductInterface
 

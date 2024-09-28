@@ -2,14 +2,14 @@ import enum
 from datetime import datetime
 
 import sqlalchemy as sa
-from sqlalchemy.ext.mutable import MutableDict
 from sqlalchemy.dialects.postgresql import ARRAY, JSONB
+from sqlalchemy.ext.mutable import MutableDict
 from sqlalchemy.orm import Mapped, mapped_column
 
-from config import DBConfig, URL_MAX_LEN
+from config import URL_MAX_LEN, DBConfig
 from database.models.base import BaseModel
-from database.models.ozon import OzonReview
 from database.models.mixins import TimestampsMixin
+from database.models.ozon import OzonReview
 
 
 class PostTemplate(BaseModel):

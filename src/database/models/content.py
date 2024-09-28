@@ -3,7 +3,6 @@ from sqlalchemy.orm import Mapped, mapped_column
 
 from config import DBConfig
 from database.models.base import BaseModel
-
 from database.models.ozon import OzonReviewMedia
 from database.models.telegram import Post
 

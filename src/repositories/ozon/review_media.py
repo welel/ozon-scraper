@@ -5,6 +5,7 @@ from dto.ozon.review_media import (
     OzonReviewMediaCreateProperties,
     OzonReviewMediaUpdatableProperties,
 )
+
 from ..sqlalchemy_base import SqlalchemyBaseRepo
 from .interfaces.review_media import OzonReviewMediaInterface
 
@@ -49,8 +50,8 @@ class OzonReviewMediaRepo(SqlalchemyBaseRepo, OzonReviewMediaInterface):
             limit: int | None = None,
             skip_labeled: bool = False,
     ) -> list[OzonReviewMedia]:
-        from database.models.ozon import OzonReview
         from database.models.labling import OzonReviewMediaLabel
+        from database.models.ozon import OzonReview
 
         with get_session() as session:
             query = session.query(OzonReviewMediaModel).join(
@@ -77,8 +78,8 @@ class OzonReviewMediaRepo(SqlalchemyBaseRepo, OzonReviewMediaInterface):
 
     def get_next_on_label(self) -> OzonReviewMedia | None:
         """Returns first media review without the label."""
-        from database.models.ozon import OzonReview
         from database.models.labling import OzonReviewMediaLabel
+        from database.models.ozon import OzonReview
 
         with get_session() as session:
             query = session.query(OzonReviewMediaModel).join(

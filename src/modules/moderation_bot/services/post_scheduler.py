@@ -1,5 +1,5 @@
-from datetime import datetime, time, timedelta
 from dataclasses import dataclass
+from datetime import datetime, time, timedelta
 from enum import Enum
 
 

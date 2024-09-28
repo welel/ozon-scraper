@@ -6,6 +6,7 @@ from dto.ozon.category import (
     OzonCategoryCreateProperties,
     OzonCategoryUpdatableProperties,
 )
+
 from ..sqlalchemy_base import SqlalchemyBaseRepo
 from .interfaces.category import OzonCategoryInterface
 

@@ -1,13 +1,10 @@
+import click
+
 from .export import export_media
 from .label_studio_import import import_label_studio_labels
 from .loaders import load_ozon_categories_from_api_results
 from .moderation_bot import start_moderation_bot
-from .ozon_parsers import (
-    parse_ozon_category_pages,
-    parse_ozon_product_reviews,
-)
-
-import click
+from .ozon_parsers import parse_ozon_category_pages, parse_ozon_product_reviews
 
 
 @click.group()

@@ -2,10 +2,11 @@
 import logging
 
 from config import AppConfig
-from repositories.ozon.product import OzonProductsRepo
 from repositories.ozon.category import OzonCategoriesRepo
-from ..abstract import AbstractParser
+from repositories.ozon.product import OzonProductsRepo
+
 from ...loaders.ozon.products import OzonProductsLoader
+from ..abstract import AbstractParser
 
 
 class OzonCategoriesParser(AbstractParser):

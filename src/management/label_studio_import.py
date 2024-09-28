@@ -4,7 +4,6 @@ import os
 import click
 from pydantic import BaseModel, RootModel, ValidationError
 
-
 from database import get_session
 from database.models.labling import OzonReviewMediaLabel
 
