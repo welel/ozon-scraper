@@ -3,7 +3,6 @@ from .ozon import OzonMediaType, OzonProduct, OzonReview, OzonReviewMedia  # noq
 from .parser import ParserOzonCategoryMeta  # noqa
 from .labling import OzonReviewMediaLabel  # noqa
 from .telegram import (  # noqa
-    TelegramOzonReviewPost,
     Post,
     PostMedia,
     PostMediaType,

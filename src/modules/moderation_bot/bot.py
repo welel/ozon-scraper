@@ -4,8 +4,7 @@ from aiogram.client.default import DefaultBotProperties
 
 from .config import TELEGRAM_API_TOKEN
 from .handlers.labling import labling_router
-from .handlers.post_moderation import post_moderation_router
-from .handlers.post_moderation_2 import router as mod2_router
+from .handlers.post_moderation import router as moderation_router
 
 
 async def start_bot():
@@ -15,5 +14,5 @@ async def start_bot():
     )
     dp = Dispatcher()
     dp.include_router(labling_router)
-    dp.include_router(mod2_router)
+    dp.include_router(moderation_router)
     await dp.start_polling(bot)

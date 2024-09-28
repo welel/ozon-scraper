@@ -29,6 +29,8 @@ services:
     environment:
       <<: *app_envs
       TELEGRAM_CHANNEL_CHAT_ID: ${TELEGRAM_CHANNEL_CHAT_ID}
+    profiles:
+      - depricated
 
 volumes:
   parser_db:
