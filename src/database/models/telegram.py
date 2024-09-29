@@ -1,5 +1,6 @@
 import enum
 from datetime import datetime
+from datetime import time as datetime_time
 
 import sqlalchemy as sa
 from sqlalchemy.dialects.postgresql import ARRAY, JSONB
@@ -9,7 +10,6 @@ from sqlalchemy.orm import Mapped, mapped_column
 from config import URL_MAX_LEN, DBConfig
 from database.models.base import BaseModel
 from database.models.mixins import TimestampsMixin
-from database.models.ozon import OzonReview
 
 
 class PostTemplate(BaseModel):
@@ -186,4 +186,90 @@ class PostPoolPost(BaseModel):
         sa.DateTime,
         nullable=True,
         comment="Datetime of posting",
+    )
+
+
+class Channel(BaseModel):
+    __tablename__ = f"{DBConfig.table_prefix}channel"
+
+    id: Mapped[int] = mapped_column(
+        sa.Integer,
+        primary_key=True,
+        autoincrement=True,
+        comment="Channel ID",
+    )
+    name: Mapped[str] = mapped_column(
+        sa.String(128),
+        nullable=False,
+        comment="Name of the channel",
+    )
+    description: Mapped[str | None] = mapped_column(
+        sa.Text,
+        nullable=True,
+        comment="Description of the channel",
+    )
+    chat_id: Mapped[str] = mapped_column(
+        sa.String(32),
+        nullable=False,
+        comment="Telegram chat id for bot posting",
+    )
+
+
+class Weekday(str, enum.Enum):
+    Mon = ("Mon", 0)
+    Tue = ("Tue", 1)
+    Wed = ("Wed", 2)
+    Thu = ("Thu", 3)
+    Fri = ("Fri", 4)
+    Sat = ("Sat", 5)
+    Sun = ("Sun", 6)
+
+    def __new__(cls, value: str, index_: int):
+        obj = str.__new__(cls, value)
+        obj._value_ = value
+        obj.index = index_
+        return obj
+
+
+class PostSchedulerTrigger(BaseModel):
+    __tablename__ = f"{DBConfig.table_prefix}post_scheduler_trigger"
+
+    id: Mapped[int] = mapped_column(
+        sa.Integer,
+        primary_key=True,
+        autoincrement=True,
+        comment="Trigger ID",
+    )
+    name: Mapped[str] = mapped_column(
+        sa.String(128),
+        nullable=False,
+        comment="Name of the trigger",
+    )
+    channel_id: Mapped[int] = mapped_column(
+        sa.Integer,
+        sa.ForeignKey(f"{Channel.__tablename__}.id"),
+        nullable=False,
+        comment="Foreign key to Channel",
+    )
+    post_type_id: Mapped[int] = mapped_column(
+        sa.Integer,
+        sa.ForeignKey(f"{PostType.__tablename__}.id"),
+        nullable=False,
+        comment="Foreign key to PostType",
+    )
+    post_pool_id: Mapped[int] = mapped_column(
+        sa.Integer,
+        sa.ForeignKey(f"{PostPool.__tablename__}.id"),
+        nullable=False,
+        comment="Foreign key to PostPool",
+    )
+    time: Mapped[datetime_time] = mapped_column(
+        sa.Time,
+        nullable=False,
+        comment="Time of day to run the trigger",
+    )
+    weekdays: Mapped[list[Weekday]] = mapped_column(
+        ARRAY(sa.Enum(Weekday, name="weekday_enum")),
+        nullable=False,
+        comment="Weekdays to run the job (array of weekdays)",
     )

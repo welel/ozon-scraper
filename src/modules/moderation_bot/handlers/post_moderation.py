@@ -32,6 +32,7 @@ from database.models import (
     PostTemplate,
     PostType,
 )
+from modules.moderation_bot.config import TELEGRAM_ADMIN_ID
 
 
 MAX_CAPTION_LEN = 1024
@@ -46,26 +47,32 @@ _storage = {}
 
 def _get_moderation_keyboard(moderation_id: str) -> InlineKeyboardMarkup:
     buttons = [
-        InlineKeyboardButton(
-            text="Tier 3", callback_data=f"tier_4_{moderation_id}"
-        ),
-        InlineKeyboardButton(
-            text="Tier 3", callback_data=f"tier_3_{moderation_id}"
-        ),
-        InlineKeyboardButton(
-            text="Tier 2", callback_data=f"tier_2_{moderation_id}"
-        ),
-        InlineKeyboardButton(
-            text="Tier 1", callback_data=f"tier_1_{moderation_id}"
-        ),
-        InlineKeyboardButton(
-            text="Add comment", callback_data=f"add_comment_{moderation_id}"
-        ),
-        InlineKeyboardButton(
-            text="Decline", callback_data=f"decline_{moderation_id}"
-        ),
+        [
+            InlineKeyboardButton(
+                text="Tier 4", callback_data=f"tier_4_{moderation_id}"
+            ),
+            InlineKeyboardButton(
+                text="Tier 3", callback_data=f"tier_3_{moderation_id}"
+            ),
+            InlineKeyboardButton(
+                text="Tier 2", callback_data=f"tier_2_{moderation_id}"
+            ),
+            InlineKeyboardButton(
+                text="Tier 1", callback_data=f"tier_1_{moderation_id}"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="Add comment",
+                callback_data=f"add_comment_{moderation_id}",
+            ),
+            InlineKeyboardButton(
+                text="Decline",
+                callback_data=f"decline_{moderation_id}",
+            )
+        ],
     ]
-    return InlineKeyboardMarkup(inline_keyboard=[buttons])
+    return InlineKeyboardMarkup(inline_keyboard=buttons)
 
 
 def decline_media(media_list: list[OzonReviewMedia]) -> None:
@@ -189,6 +196,8 @@ async def _send_post_on_review(chat_id: int, bot: Bot):
 
 @router.message(Command("p"))
 async def start_post_moderation(message: types.Message, bot: Bot):
+    if message.from_user.id != TELEGRAM_ADMIN_ID:
+        return
     await _send_post_on_review(message.chat.id, bot)
 
 
@@ -232,21 +241,26 @@ async def handle_approve(cb: types.CallbackQuery, bot: Bot):
     else:
         user_name = "Девушка"
 
+    comment = (
+        db_review.comment_text
+        or db_review.advantages_text
+        or db_review.disadvantages_text
+    )
+
     template_params = {
         "user_name": user_name,
-        "comment": (
-            db_review.comment_text
-            or db_review.advantages_text
-            or db_review.disadvantages_text
-        ),
+        "comment": comment,
         "product_id": db_review.product_sku_id,
     }
 
-    if admin_comment:
-        POST_TYPE = "review_post_ac"
+    if admin_comment and comment:
+        POST_TYPE = "review_post_with_admin_comment"
         template_params["admin_comment"] = admin_comment
-    else:
+    elif comment:
         POST_TYPE = "review_post"
+    else:
+        POST_TYPE = "review_post_without_comment"
+        template_params["admin_comment"] = admin_comment
     POOL_NAME = f"tier_{tier}"
 
     # 3. Create post

@@ -8,11 +8,14 @@ from .ozon import (  # noqa
 )
 from .parser import ParserOzonCategoryMeta  # noqa
 from .telegram import (  # noqa
+    Channel,
     Post,
     PostMedia,
     PostMediaType,
     PostPool,
     PostPoolPost,
+    PostSchedulerTrigger,
     PostTemplate,
     PostType,
+    Weekday,
 )
