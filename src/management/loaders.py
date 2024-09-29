@@ -4,7 +4,6 @@ from typing import Any
 from urllib.parse import urljoin
 
 import click
-
 from sqlalchemy.orm import Session
 
 from config import OzonParserConfig

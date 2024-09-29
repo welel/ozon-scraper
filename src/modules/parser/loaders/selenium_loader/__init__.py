@@ -1,10 +1,11 @@
 import time
 
+import undetected_chromedriver as uc
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
-import undetected_chromedriver as uc
 
 from config import SeleniumConfig
+
 from ..abstract import AbstractLoader
 
 

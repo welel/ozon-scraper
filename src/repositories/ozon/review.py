@@ -5,6 +5,7 @@ from dto.ozon.review import (
     OzonReviewCreateProperties,
     OzonReviewUpdatableProperties,
 )
+
 from ..sqlalchemy_base import SqlalchemyBaseRepo
 from .interfaces.review import OzonReviewInterface
 

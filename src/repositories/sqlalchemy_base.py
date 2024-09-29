@@ -1,10 +1,9 @@
 from typing import Any, Type
 
+from pydantic import BaseModel
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.ext.declarative import DeclarativeMeta
 from sqlalchemy.orm import Session
-
-from pydantic import BaseModel
 
 from .exc import ObjectExists, ObjectNotExists
 

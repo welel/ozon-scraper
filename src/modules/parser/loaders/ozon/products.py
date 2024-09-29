@@ -6,6 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 
 from dto.ozon.product import OzonProductCreateProperties
+
 from ..abstract import LoadedData, ValidatedData
 from .ozon import OzonLoader
 

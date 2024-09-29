@@ -1,5 +1,5 @@
-from datetime import datetime
 import hashlib
+from datetime import datetime
 from typing import Any, Optional
 
 from pydantic import BaseModel
@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from dto.ozon.product import OzonProduct
 from dto.ozon.review import OzonReviewCreateProperties
 from dto.ozon.review_media import OzonReviewMediaCreateProperties
+
 from ..abstract import LoadedData
 from .ozon import OzonLoader
 from .schemas import ReviewsDataState

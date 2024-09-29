@@ -11,5 +11,3 @@ RUN pip install --upgrade pip && \
     pip install -r requirements.txt
 
 COPY . .
-
-CMD ["python", "src/manage.py", "start_moderation_bot"]

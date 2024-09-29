@@ -3,7 +3,7 @@ import enum
 import sqlalchemy as sa
 from sqlalchemy.orm import Mapped, mapped_column
 
-from config import MD5_LEN, DBConfig, URL_MAX_LEN, UUID_LEN
+from config import MD5_LEN, URL_MAX_LEN, UUID_LEN, DBConfig
 from database.models.base import BaseModel
 from database.models.mixins import TimestampsMixin
 
