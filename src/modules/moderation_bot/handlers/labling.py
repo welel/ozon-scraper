@@ -20,13 +20,21 @@ logger = logging.getLogger(AppConfig.logger_prefix + __name__)
 
 def _get_label_keyboard(media_id: str) -> InlineKeyboardMarkup:
     callback_template = "button_{media_id}_{label}"
+
+    max_width = 5
+    rows = []
     buttons = []
     for i in range(1, NUM_LABELS + 1):
         callback_data = callback_template.format(media_id=media_id, label=i)
         buttons.append(
             InlineKeyboardButton(text=str(i), callback_data=callback_data)
         )
-    return InlineKeyboardMarkup(inline_keyboard=[buttons])
+        if i % max_width == 0:
+            rows.append(list(buttons))
+            buttons.clear()
+    if buttons:
+        rows.append(buttons)
+    return InlineKeyboardMarkup(inline_keyboard=rows)
 
 
 async def _send_review_media_on_label(chat_id: int, bot: Bot):
