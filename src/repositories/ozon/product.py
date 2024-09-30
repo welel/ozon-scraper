@@ -40,8 +40,10 @@ class OzonProductsRepo(SqlalchemyBaseRepo, OzonProductInterface):
     def get_list_on_parsing(self) -> list[OzonProduct]:
         with get_session() as session:
             query = session.query(OzonProductModel).filter(
-                OzonProductModel.review_count > 500,
+                OzonProductModel.review_count >= 500,
+                # OzonProductModel.category_id.in_((...)),
             ).order_by(
+                OzonProductModel.category_id,
                 OzonProductModel.review_count.desc(),
             )
             return [OzonProduct.model_validate(prod) for prod in query]

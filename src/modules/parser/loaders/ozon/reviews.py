@@ -42,12 +42,12 @@ class OzonReviewsLoader(OzonLoader):
         self.media_number = 0
 
         # Get to media review section if exists
-        section_url_els = self.driver.find_elements(By.CLASS_NAME, "e8014-a5")
+        section_url_els = self.driver.find_elements(By.CLASS_NAME, "e8016-a")
         last_url_el = section_url_els[-1]
         url = last_url_el.get_attribute("href") or ""
         if url.strip("/").endswith("videos"):
             self.media_number = int(
-                last_url_el.find_element(By.CLASS_NAME, "e8014-a9").text
+                last_url_el.find_element(By.CLASS_NAME, "e8016-a4").text
             )
             last_url_el.click()
             self._wait()
