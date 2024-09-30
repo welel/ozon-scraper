@@ -56,6 +56,15 @@ def download_file(filename: str, url: str, out_path_: str) -> None:
     help="Max files to download. Default: 1000."
 )
 @click.option(
+    "--dir-batch",
+    type=int,
+    default=None,
+    help=(
+        "Split files by directories, `dir-batch` files in each directory. "
+        "Default: None - all files."
+    ),
+)
+@click.option(
     "--skip-labeled",
     is_flag=True,
     default=False,
@@ -68,6 +77,7 @@ def export_media(
         like_count_ge: int,
         max_files: int,
         skip_labeled: bool,
+        dir_batch: int | None,
 ):
     if not os.path.exists(out_path):
         click.echo(f"Error: The specified path '{out_path}' does not exist.")
@@ -79,7 +89,7 @@ def export_media(
         return
 
     repo = OzonReviewMediaRepo()
-    media = repo.get_to_export(
+    media_list = repo.get_to_export(
         media_type,
         comment_count_ge,
         like_count_ge,
@@ -87,17 +97,29 @@ def export_media(
         skip_labeled,
     )
 
-    click.echo(f"Download {len(media)} medias")
+    click.echo(f"Download {len(media_list)} medias")
+
     with ThreadPoolExecutor(max_workers=25) as executor:
-        futures = [
-            executor.submit(
+        futures = []
+
+        current_dir = out_path
+
+        if dir_batch is not None:
+            current_dir = os.path.join(out_path, "1")
+            os.mkdir(current_dir)
+
+        for i, media in enumerate(media_list, start=1):
+            futures.append(executor.submit(
                 download_file,
                 f"{media.id}.{media.extension}",
                 media.url,
-                out_path,
-            )
-            for media in media
-        ]
+                current_dir,
+            ))
+
+            if i % dir_batch == 0:
+                current_dir_num = int(current_dir.split(os.sep)[-1])
+                current_dir = os.path.join(out_path, str(current_dir_num + 1))
+                os.mkdir(current_dir)
 
     [_ for _ in as_completed(futures)]
-    click.echo(f"All downloaded: {len(media)}")
+    click.echo(f"All downloaded: {len(media_list)}")
