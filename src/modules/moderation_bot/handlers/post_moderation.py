@@ -217,8 +217,12 @@ async def handle_add_comment(
 @router.message(StateFilter(fill_commnet))
 async def process_fill_comment(message: Message, bot: Bot, state: FSMContext):
     state_data = await state.get_data()
-    moderation_id = state_data["moderation_id"]
-    await state.clear()
+    try:
+        moderation_id = state_data["moderation_id"]
+    except KeyError:  # Unknown reason, why State is set on bot startup
+        return
+    finally:
+        await state.clear()
     _storage[moderation_id]["admin_comment"] = message.text
     await bot.send_message(message.chat.id, "Comment added")
 
