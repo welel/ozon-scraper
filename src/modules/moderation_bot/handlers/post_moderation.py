@@ -59,7 +59,10 @@ def _get_moderation_keyboard(moderation_id: str) -> InlineKeyboardMarkup:
             ),
             InlineKeyboardButton(
                 text="Tier 1", callback_data=f"tier_1_{moderation_id}"
-            )
+            ),
+            InlineKeyboardButton(
+                text="Tier 5", callback_data=f"tier_5_{moderation_id}"
+            ),
         ],
         [
             InlineKeyboardButton(
@@ -109,7 +112,7 @@ async def _send_post_on_review(chat_id: int, bot: Bot):
         ).group_by(
             OzonReview.uuid
         ).having(
-            sa.func.max(OzonReviewMediaLabel.label) >= 2
+            sa.func.max(OzonReviewMediaLabel.label) == 5
         ).order_by(
             sa.func.max(OzonReviewMediaLabel.label).desc()
         ).first()
@@ -194,9 +197,12 @@ async def _send_post_on_review(chat_id: int, bot: Bot):
             decline_media(db_media_list)
 
 
-@router.message(Command("p"))
+@router.message(Command("post"))
 async def start_post_moderation(message: types.Message, bot: Bot):
-    if message.from_user.id != TELEGRAM_ADMIN_ID:
+    if str(message.from_user.id) != TELEGRAM_ADMIN_ID:
+        logger.warning(
+            "User with ID %s trying to access moderation", message.from_user.id
+        )
         return
     await _send_post_on_review(message.chat.id, bot)
 
