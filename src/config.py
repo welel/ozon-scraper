@@ -76,7 +76,10 @@ class DBConfig:
 
 
 class SeleniumConfig:
-    chrome_driver_path = "/usr/bin/chromedriver-128"
+    chrome_driver_path = SettingField(
+        "CHROME_DRIVER_PATH",
+        default="/usr/bin/chromedriver-128",
+    )
     default_user_agent = (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like "
         "Gecko) Chrome/119.0.6045.123 YaBrowser/23.9.1.962 Yowser/2.5 "
