@@ -64,19 +64,12 @@ def download_file(filename: str, url: str, out_path_: str) -> None:
         "Default: None - all files."
     ),
 )
-@click.option(
-    "--skip-labeled",
-    is_flag=True,
-    default=False,
-    help="Skip media with labels. Default: False."
-)
 def export_media(
         out_path: str,
         media_type: str,
         comment_count_ge: int,
         like_count_ge: int,
         max_files: int,
-        skip_labeled: bool,
         dir_batch: int | None,
 ):
     if not os.path.exists(out_path):
@@ -94,7 +87,6 @@ def export_media(
         comment_count_ge,
         like_count_ge,
         max_files,
-        skip_labeled,
     )
 
     click.echo(f"Download {len(media_list)} medias")

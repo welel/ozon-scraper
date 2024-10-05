@@ -1,5 +1,3 @@
-from .content import PostOzonReviewMedia  # noqa
-from .labling import OzonReviewMediaLabel  # noqa
 from .ozon import (  # noqa
     OzonMediaType,
     OzonProduct,
@@ -7,15 +5,3 @@ from .ozon import (  # noqa
     OzonReviewMedia,
 )
 from .parser import ParserOzonCategoryMeta  # noqa
-from .telegram import (  # noqa
-    Channel,
-    Post,
-    PostMedia,
-    PostMediaType,
-    PostPool,
-    PostPoolPost,
-    PostSchedulerTrigger,
-    PostTemplate,
-    PostType,
-    Weekday,
-)

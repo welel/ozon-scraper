@@ -12,26 +12,6 @@ services:
     volumes:
       - parser_db:/var/lib/postgresql/data
 
-  moderation_bot:
-    image: moderation-bot
-    build:
-      context: ../../
-      dockerfile: contrib/docker/app/Dockerfile
-    environment: &app_envs
-      DATABASE_URL: ${DATABASE_URL}
-      TELEGRAM_API_TOKEN: ${TELEGRAM_API_TOKEN}
-      TELEGRAM_ADMIN_ID: ${TELEGRAM_ADMIN_ID}
-    command: ["python", "src/manage.py", "start_moderation_bot"]
-
-  poster:
-    image: poster
-    build:
-      context: ../../
-      dockerfile: contrib/docker/app/Dockerfile
-    environment:
-      <<: *app_envs
-    command: ["python", "src/manage.py", "start_poster"]
-
   cron:
     image: mp-cron
     build:
