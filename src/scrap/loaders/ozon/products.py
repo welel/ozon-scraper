@@ -6,9 +6,11 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 
 from scrap.dto.ozon.product import OzonProductCreateProperties
+from scrap.loaders.exc import ElementNotFound
 
-from ..abstract import LoadedData, ValidatedData
-from .ozon import OzonLoader
+from scrap.loaders.abstract import LoadedData, ValidatedData
+from scrap.loaders.ozon.ozon import OzonLoader
+from selenium.webdriver.common.action_chains import ActionChains
 
 
 class OzonProductList(RootModel):
@@ -26,10 +28,16 @@ class OzonProductsLoader(OzonLoader):
         self.cat_id = cat_id
         self.depth = 1
         self.max_depth = max_depth
-
-    def _load(self) -> Optional[LoadedData]:
         self.bypass_captcha()
         self.bypass_age_banner()
+        self._scroll_down_until_bottom(
+            step_px=700,
+            step_in_row=5,
+            max_step=10,
+        )
+        self.accept_cookie()
+
+    def _load(self) -> Optional[LoadedData]:
 
         product_cards = self.driver.find_elements(By.CLASS_NAME, "tile-root")
         self.logger.info("Fetched %s product cards", len(product_cards))
@@ -50,8 +58,10 @@ class OzonProductsLoader(OzonLoader):
                 name = url_el.text
 
                 # PRIECES
-                price_els = card.find_elements(By.CLASS_NAME, "c3015-a1")
-                if len(price_els) == 1:
+                price_els = card.find_elements(By.CLASS_NAME, "c3017-a1")
+                if not price_els:
+                    raise ElementNotFound("Price element isn't found")
+                elif len(price_els) == 1:
                     price = original_price = price_els[0].text
                 else:
                     price = price_els[0].text
@@ -63,7 +73,7 @@ class OzonProductsLoader(OzonLoader):
 
                 # STOCK
                 try:
-                    stock = card.find_element(By.CLASS_NAME, "e6012-a4").text
+                    stock = card.find_element(By.CLASS_NAME, "e6014-a4").text
                     stock = int(re.search(r'\d+', stock).group())
                 except NoSuchElementException:
                     stock = None
@@ -73,7 +83,7 @@ class OzonProductsLoader(OzonLoader):
                     rating_els = card.find_element(
                         By.CLASS_NAME, "tsBodyMBold"
                     )
-                    rating_els = rating_els.find_elements(By.CLASS_NAME, "q2")
+                    rating_els = rating_els.find_elements(By.CLASS_NAME, "q1")
                     rating = float(rating_els[0].text)
                     review_count = rating_els[1].text
                     review_count = review_count.replace("\u2009", "")
@@ -109,13 +119,19 @@ class OzonProductsLoader(OzonLoader):
             return True
         try:
             # Check next page button
-            self.driver.find_element(By.CLASS_NAME, value="qe2")
+            self.driver.find_element(By.CLASS_NAME, value="er8")
         except NoSuchElementException:
             return True
         return False
 
     def _init_next_page(self, data: LoadedData):
         self.logger.info("Loading next page...")
-        next_page_btn_el = self.driver.find_element(By.CLASS_NAME, value="qe2")
+        next_page_btn_el = self.driver.find_element(By.CLASS_NAME, value="er8")
+        ActionChains(self.driver).move_to_element(next_page_btn_el).perform()
         next_page_btn_el.click()
         self._wait()
+        self._scroll_down_until_bottom(
+            step_px=700,
+            step_in_row=5,
+            max_step=10,
+        )

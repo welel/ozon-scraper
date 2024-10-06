@@ -19,13 +19,13 @@ class SeleniumLoader(Loader):
         options = uc.ChromeOptions()
         options.add_argument(f"user-agent={SeleniumConfig.default_user_agent}")
         options.add_argument('--no-sandbox')
-        options.add_argument('--window-size=1440,900')
         # options.add_argument('--headless')
         options.add_argument('--disable-gpu')
         self.driver = uc.Chrome(
             options=options,
             driver_executable_path=SeleniumConfig.chrome_driver_path,
         )
+        self.driver.set_window_size(1440, 900)
         self.driver.get(self.url)
         self._wait()
 
@@ -70,7 +70,7 @@ class SeleniumLoader(Loader):
                     0, step_px
                 ).perform()
                 max_step -= 1
-                time.sleep(wait_time)
+            time.sleep(wait_time)
 
             new_y = get_last_element_y_coordinate()
             if current_y == new_y:

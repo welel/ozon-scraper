@@ -47,7 +47,7 @@ class OzonLoader(SeleniumLoader):
     def accept_cookie(self):
         try:
             accept_cookie_btn = self.driver.find_element(
-                By.CLASS_NAME, "ed4_9"
+                By.CLASS_NAME, "d6f_9"
             )
             ActionChains(self.driver).move_to_element(
                 accept_cookie_btn
