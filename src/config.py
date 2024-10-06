@@ -15,7 +15,7 @@ load_dotenv()
 def load_yaml_config(filepath: PosixPath | str) -> dict:
     """Loads yaml file by `filepath` and returns content as a dict."""
     if not os.path.isfile(filepath) or not os.access(filepath, os.R_OK):
-        print(f"ERROR: config file '{filepath}' not eixsts or not readable\n")
+        print(f"ERROR: config file '{filepath}' not eixsts or not readable")
         sys.exit(1)
     with open(filepath, "r") as config_file:
         return yaml.load(config_file, Loader=yaml.FullLoader)
@@ -42,11 +42,11 @@ class SettingField:
                 value = os.environ[self.var_name]
             except KeyError:
                 raise ValueError(
-                    f"'{self.var_name}' environment variable should be setted!"
+                    f"'{self.var_name}' environment variable should be set!"
                 )
 
         if self.type == bool:
-            return value.lower() == 'true'
+            return value.lower() == "true"
 
         try:
             return self.type(value)

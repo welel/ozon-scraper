@@ -6,7 +6,7 @@ from dto.ozon.review_media import (
     OzonReviewMediaUpdatableProperties,
 )
 
-from ..sqlalchemy_base import SqlalchemyBaseRepo
+from ..sqlalchemy_repo import SqlalchemyBaseRepo
 from .interfaces.review_media import OzonReviewMediaInterface
 
 
