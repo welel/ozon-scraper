@@ -22,6 +22,15 @@ def load_yaml_config(filepath: PosixPath | str) -> dict:
 
 
 class SettingField:
+    """Descriptor class for accessing environment variables.
+
+    Attributes:
+        var_name (str): The name of the environment variable to fetch.
+        cast_to (type): The type to cast the environment variable to.
+            Defaults to `str`.
+        default (Any): The default value to return if the environment
+            variable is not set.
+    """
 
     def __init__(
             self,
@@ -66,7 +75,7 @@ logging.config.dictConfig(load_yaml_config(logging_config_path))
 
 
 class AppConfig:
-    app_name = "mp"  # Marketplace Parser
+    app_name = "mc"  # Marketplace Scraper
     logger_prefix = f"{app_name}."
 
 
@@ -87,6 +96,6 @@ class SeleniumConfig:
     )
 
 
-class OzonParserConfig:
+class OzonScraperConfig:
     domain = "https://www.ozon.ru/"
     short_category_url = domain + "category/{cat_id}"

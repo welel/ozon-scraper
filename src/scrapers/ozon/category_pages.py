@@ -6,13 +6,13 @@ from repositories.ozon.category import OzonCategoriesRepo
 from repositories.ozon.product import OzonProductsRepo
 
 from ...loaders.ozon.products import OzonProductsLoader
-from ..abstract import AbstractParser
+from ..abstract import Scraper
 
 
-class OzonCategoriesParser(AbstractParser):
+class OzonCategoriesScraper(Scraper):
     logger = logging.getLogger(AppConfig.logger_prefix + __name__)
 
-    def run(self):
+    def run(self) -> None:
         cat_repo = OzonCategoriesRepo()
         cats = cat_repo.get_list_on_parsing()
         self.logger.info("Fetch %s categories on parsing", len(cats))

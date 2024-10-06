@@ -1,6 +1,6 @@
 from database import get_session
 from database.models.ozon import OzonCategory as OzonCategoryModel
-from database.models.parser import ParserOzonCategoryMeta
+from database.models.scraper import ScraperOzonCategoryMeta
 from dto.ozon.category import (
     OzonCategory,
     OzonCategoryCreateProperties,
@@ -41,11 +41,11 @@ class OzonCategoriesRepo(SqlalchemyBaseRepo, OzonCategoryInterface):
     def get_list_on_parsing(self) -> list[OzonCategory]:
         with get_session() as session:
             query = session.query(OzonCategoryModel).join(
-                ParserOzonCategoryMeta,
-                OzonCategoryModel.id == ParserOzonCategoryMeta.category_id,
+                ScraperOzonCategoryMeta,
+                OzonCategoryModel.id == ScraperOzonCategoryMeta.category_id,
             ).filter(
-                ParserOzonCategoryMeta.is_parsing_enabled.is_(True),
+                ScraperOzonCategoryMeta.is_parsing_enabled.is_(True),
             ).order_by(
-                ParserOzonCategoryMeta.parsing_priority
+                ScraperOzonCategoryMeta.parsing_priority
             )
             return [OzonCategory.model_validate(cat) for cat in query]

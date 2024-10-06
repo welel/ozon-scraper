@@ -6,9 +6,9 @@ from urllib.parse import urljoin
 import click
 from sqlalchemy.orm import Session
 
-from config import OzonParserConfig
+from config import OzonScraperConfig
 from database import get_session
-from database.models.parser import ParserOzonCategoryMeta
+from database.models.scraper import ScraperOzonCategoryMeta
 from dto.ozon.category import OzonCategoryCreateProperties
 from repositories.ozon.category import OzonCategoriesRepo
 
@@ -82,8 +82,8 @@ def process_category_data(
                     id=cat_id,
                     parent_id=parent_id,
                     level=level,
-                    url=urljoin(OzonParserConfig.domain, cat["url"]),
-                    short_url=OzonParserConfig.short_category_url.format(
+                    url=urljoin(OzonScraperConfig.domain, cat["url"]),
+                    short_url=OzonScraperConfig.short_category_url.format(
                         cat_id=cat_id
                     ),
                     name=cat.get("title"),
@@ -91,7 +91,7 @@ def process_category_data(
                 )
                 repo.create_or_update(category_props)
                 session.add(
-                    ParserOzonCategoryMeta(category_id=category_props.id)
+                    ScraperOzonCategoryMeta(category_id=category_props.id)
                 )
                 click.echo(f"Processed category: {category_props.name}")
 
@@ -109,15 +109,15 @@ def process_category_data(
     root_category = OzonCategoryCreateProperties(
         id=data["id"],
         level=1,
-        url=urljoin(OzonParserConfig.domain, data["url"]),
-        short_url=OzonParserConfig.short_category_url.format(
+        url=urljoin(OzonScraperConfig.domain, data["url"]),
+        short_url=OzonScraperConfig.short_category_url.format(
             cat_id=data["id"]
         ),
         name=data["title"],
         image_url=data["image"],
     )
     repo.create_or_update(root_category)
-    session.add(ParserOzonCategoryMeta(category_id=root_category.id))
+    session.add(ScraperOzonCategoryMeta(category_id=root_category.id))
 
     if "columns" in data:
         for column in data["columns"]:

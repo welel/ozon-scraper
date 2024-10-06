@@ -12,7 +12,7 @@ LoadedData = Union[Data, list[Data]]
 ValidatedData = Union[LoadedData, BaseModel, list[BaseModel]]
 
 
-class AbstractLoader(abc.ABC):
+class Loader(abc.ABC):
     """Abstract class for data loading.
 
     This abstract class defines the interface for loading data.

@@ -1,2 +1,2 @@
 up_local:
-	docker compose -p ozon-parser -f contrib/docker/docker-compose.yml up -d
+	docker compose -p scraper -f contrib/docker/docker-compose.yml up -d

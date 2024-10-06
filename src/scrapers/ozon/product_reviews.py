@@ -7,13 +7,13 @@ from repositories.ozon.review import OzonReviewsRepo
 from repositories.ozon.review_media import OzonReviewMediaRepo
 
 from ...loaders.ozon.reviews import OzonReviewsLoader
-from ..abstract import AbstractParser
+from ..abstract import Scraper
 
 
-class OzonReviewsStateParser(AbstractParser):
+class OzonReviewsStateScraper(Scraper):
     logger = logging.getLogger(AppConfig.logger_prefix + __name__)
 
-    def run(self):
+    def run(self) -> None:
         products_repo = OzonProductsRepo()
         products = products_repo.get_list_on_parsing()
         self.logger.info("Fetch %s products on parsing", len(products))

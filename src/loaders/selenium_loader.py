@@ -6,10 +6,10 @@ from selenium.webdriver.common.by import By
 
 from config import SeleniumConfig
 
-from ..abstract import AbstractLoader
+from .abstract import Loader
 
 
-class SeleniumLoader(AbstractLoader):
+class SeleniumLoader(Loader):
     url: str
     wait_time: float = 1.0
 

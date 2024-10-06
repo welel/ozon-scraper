@@ -4,4 +4,4 @@ from .ozon import (  # noqa
     OzonReview,
     OzonReviewMedia,
 )
-from .parser import ParserOzonCategoryMeta  # noqa
+from .scraper import ScraperOzonCategoryMeta  # noqa

@@ -8,7 +8,7 @@ from modules.parser.parsers.ozon.product_reviews import OzonReviewsStateParser
     "parse_ozon_category_pages",
     help="Parses products from category pages.",
 )
-def parse_ozon_category_pages():
+def scrape_ozon_category_pages():
     parser = OzonCategoriesParser()
     click.echo(f"Parser created: {parser}. Starting parsing...")
     try:
@@ -25,7 +25,7 @@ def parse_ozon_category_pages():
         "(only first 15 reviews and media)."
     ),
 )
-def parse_ozon_product_reviews():
+def scrape_ozon_product_reviews():
     parser = OzonReviewsStateParser()
     click.echo(f"Parser created: {parser}. Starting parsing...")
     try:
