@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import click
 import requests
 
-from scrap.repositories.ozon.review_media import OzonReviewMediaRepo
+from scrap.repositories.ozon.review_media import OzonReviewMediaRepository
 
 
 def download_file(filename: str, url: str, out_path_: str) -> None:
@@ -81,7 +81,7 @@ def export_media(
         )
         return
 
-    repo = OzonReviewMediaRepo()
+    repo = OzonReviewMediaRepository()
     media_list = repo.get_to_export(
         media_type,
         comment_count_ge,

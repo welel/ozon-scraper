@@ -51,6 +51,10 @@ class OzonProductCreateProperties(BaseOzonProduct):
         description="Stock Keeping Unit ID",
     )
 
+    @property
+    def id(self) -> int:
+        return self.sku_id
+
 
 class OzonProductUpdatableProperties(BaseOzonProduct):
     pass

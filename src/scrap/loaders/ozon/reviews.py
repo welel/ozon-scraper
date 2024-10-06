@@ -5,9 +5,9 @@ from typing import Any, Optional
 from pydantic import BaseModel
 from selenium.webdriver.common.by import By
 
-from scrap.dto.ozon.product import OzonProduct
 from scrap.dto.ozon.review import OzonReviewCreateProperties
 from scrap.dto.ozon.review_media import OzonReviewMediaCreateProperties
+from scrap.entities.ozon import OzonProductEntity
 
 from ..abstract import LoadedData
 from .ozon import OzonLoader
@@ -36,7 +36,7 @@ class OzonReviewsLoader(OzonLoader):
     schema = OzonReviewsData
     wait_time = 5
 
-    def __init__(self, *args, product: OzonProduct, **kwargs):
+    def __init__(self, *args, product: OzonProductEntity, **kwargs):
         super().__init__(*args, **kwargs)
         self.product = product
         self.media_number = 0

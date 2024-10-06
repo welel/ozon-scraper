@@ -1,37 +1,39 @@
 from abc import ABC, abstractmethod
 
 from scrap.dto.ozon.category import (
-    OzonCategory,
     OzonCategoryCreateProperties,
     OzonCategoryUpdatableProperties,
 )
+from scrap.entities.ozon import OzonCategoryEntity
 
 
 class OzonCategoryInterface(ABC):
 
     @abstractmethod
-    def create(self, category: OzonCategoryCreateProperties) -> OzonCategory:
+    def create(
+            self, create_data: OzonCategoryCreateProperties
+    ) -> OzonCategoryEntity:
         pass
 
     @abstractmethod
     def update(
             self,
-            id_: int,
-            category: OzonCategoryUpdatableProperties,
-    ) -> OzonCategory:
+            pk: int,
+            update_data: OzonCategoryUpdatableProperties,
+    ) -> OzonCategoryEntity:
         pass
 
     @abstractmethod
     def create_or_update(
             self,
-            category: OzonCategoryCreateProperties,
-    ) -> OzonCategory:
+            create_data: OzonCategoryCreateProperties,
+    ) -> OzonCategoryEntity:
         pass
 
     @abstractmethod
-    def get(self, id_: int) -> OzonCategory | None:
+    def get(self, pk: int) -> OzonCategoryEntity | None:
         pass
 
     @abstractmethod
-    def get_list_on_parsing(self) -> list[OzonCategory]:
+    def get_list_on_parsing(self) -> list[OzonCategoryEntity]:
         pass

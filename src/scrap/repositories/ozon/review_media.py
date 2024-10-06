@@ -1,78 +1,43 @@
 from scrap.database import get_session
-from scrap.database.models.ozon import OzonReviewMedia as OzonReviewMediaModel
+from scrap.database.models.ozon import OzonReview, OzonReviewMedia
 from scrap.dto.ozon.review_media import (
-    OzonReviewMedia,
     OzonReviewMediaCreateProperties,
     OzonReviewMediaUpdatableProperties,
 )
+from scrap.entities.ozon import OzonReviewMediaEntity
+from scrap.repositories.ozon.interfaces.review_media import (
+    OzonReviewMediaInterface,
+)
+from scrap.repositories.sqlalchemy_repo import SqlalchemyRepository
 
-from ..sqlalchemy_repo import SqlalchemyBaseRepo
-from .interfaces.review_media import OzonReviewMediaInterface
 
-
-class OzonReviewMediaRepo(SqlalchemyBaseRepo, OzonReviewMediaInterface):
-    sa_model = OzonReviewMediaModel
-    py_model = OzonReviewMedia
-
-    def create(
-            self,
-            review_media: OzonReviewMediaCreateProperties,
-    ) -> OzonReviewMedia:
-        with get_session() as session:
-            self._create(review_media, session)
-
-    def update(
-            self,
-            id_: str,
-            review_media: OzonReviewMediaUpdatableProperties,
-    ) -> OzonReviewMedia:
-        with get_session() as session:
-            return self._update(id_, review_media, session)
-
-    def create_or_update(
-            self,
-            review_media: OzonReviewMediaCreateProperties,
-    ) -> OzonReviewMedia:
-        with get_session() as session:
-            return self._create_or_update(
-                review_media.id, review_media, session
-            )
-
-    def get(self, id_: str) -> OzonReviewMedia | None:
-        with get_session() as session:
-            return self._get(id_, session)
+class OzonReviewMediaRepository(
+        SqlalchemyRepository[
+            str,
+            OzonReviewMediaEntity,
+            OzonReviewMediaCreateProperties,
+            OzonReviewMediaUpdatableProperties,
+        ],
+        OzonReviewMediaInterface,
+):
+    sa_model = OzonReviewMedia
+    entity_py_model = OzonReviewMediaEntity
 
     def get_to_export(
             self,
-            media_type: OzonReviewMediaModel.Type,
+            media_type: OzonReviewMedia.Type,
             comment_count_ge: int = 0,
             like_count_ge: int = 0,
             limit: int | None = None,
-    ) -> list[OzonReviewMedia]:
-        from database.models.ozon import OzonReview
-
+    ) -> list[OzonReviewMediaEntity]:
         with get_session() as session:
-            query = session.query(OzonReviewMediaModel).join(
-                OzonReview, OzonReview.uuid == OzonReviewMediaModel.review_uuid
+            query = session.query(OzonReviewMedia).join(
+                OzonReview, OzonReview.uuid == OzonReviewMedia.review_uuid
             ).filter(
-                OzonReviewMediaModel.type == media_type,
+                OzonReviewMedia.type == media_type,
                 OzonReview.comment_count >= comment_count_ge,
                 OzonReview.like_count >= like_count_ge,
             )
             if limit is not None:
                 query = query.limit(limit)
-            return [OzonReviewMedia.model_validate(rm) for rm in query]
-
-    def get_next_on_label(self) -> OzonReviewMedia | None:
-        """Returns first media review without the label."""
-        from database.models.ozon import OzonReview
-
-        with get_session() as session:
-            query = session.query(OzonReviewMediaModel).join(
-                OzonReview, OzonReview.uuid == OzonReviewMediaModel.review_uuid
-            ).order_by(
-                OzonReview.like_count.desc(),
-            )
-            if found := query.first():
-                return OzonReviewMedia.model_validate(found)
-            return None
+            return [self.entity_py_model.model_validate(rm) for rm in query]

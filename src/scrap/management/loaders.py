@@ -10,7 +10,7 @@ from scrap.config import OzonScraperConfig
 from scrap.database import get_session
 from scrap.database.models.scraper import ScraperOzonCategoryMeta
 from scrap.dto.ozon.category import OzonCategoryCreateProperties
-from scrap.repositories.ozon.category import OzonCategoriesRepo
+from scrap.repositories.ozon.category import OzonCategoriesRepository
 
 
 @click.command(
@@ -37,7 +37,7 @@ def load_ozon_categories_from_api_results(path: str):
         )
         return
 
-    repo = OzonCategoriesRepo()
+    repo = OzonCategoriesRepository()
     with get_session() as session:
         for filename in os.listdir(path):
 
@@ -61,9 +61,17 @@ def load_ozon_categories_from_api_results(path: str):
                     session.rollback()
 
 
+def create_meta(cat_id: int, session: Session) -> None:
+    meta = session.query(ScraperOzonCategoryMeta).filter(
+        ScraperOzonCategoryMeta.category_id == cat_id
+    ).first()
+    if meta is None:
+        session.add(ScraperOzonCategoryMeta(category_id=cat_id))
+
+
 def process_category_data(
         data: dict[str, Any],
-        repo: OzonCategoriesRepo,
+        repo: OzonCategoriesRepository,
         session: Session,
 ) -> None:
     if not data:
@@ -90,9 +98,7 @@ def process_category_data(
                     image_url=cat.get("image"),
                 )
                 repo.create_or_update(category_props)
-                session.add(
-                    ScraperOzonCategoryMeta(category_id=category_props.id)
-                )
+                create_meta(category_props.id, session)
                 click.echo(f"Processed category: {category_props.name}")
 
                 if "categories" in cat:
@@ -117,7 +123,7 @@ def process_category_data(
         image_url=data["image"],
     )
     repo.create_or_update(root_category)
-    session.add(ScraperOzonCategoryMeta(category_id=root_category.id))
+    create_meta(root_category.id, session)
 
     if "columns" in data:
         for column in data["columns"]:

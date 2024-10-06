@@ -2,9 +2,9 @@
 import logging
 
 from scrap.config import AppConfig
-from scrap.repositories.ozon.product import OzonProductsRepo
-from scrap.repositories.ozon.review import OzonReviewsRepo
-from scrap.repositories.ozon.review_media import OzonReviewMediaRepo
+from scrap.repositories.ozon.product import OzonProductsRepository
+from scrap.repositories.ozon.review import OzonReviewsRepository
+from scrap.repositories.ozon.review_media import OzonReviewMediaRepository
 
 from ...loaders.ozon.reviews import OzonReviewsLoader
 from ..abstract import Scraper
@@ -14,12 +14,12 @@ class OzonReviewsStateScraper(Scraper):
     logger = logging.getLogger(AppConfig.logger_prefix + __name__)
 
     def run(self) -> None:
-        products_repo = OzonProductsRepo()
+        products_repo = OzonProductsRepository()
         products = products_repo.get_list_on_parsing()
         self.logger.info("Fetch %s products on parsing", len(products))
 
-        reviews_repo = OzonReviewsRepo()
-        reviews_media_repo = OzonReviewMediaRepo()
+        reviews_repo = OzonReviewsRepository()
+        reviews_media_repo = OzonReviewMediaRepository()
         for product in products:
             try:
                 self.logger.info("Scrape product: %s", product.url)

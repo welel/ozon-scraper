@@ -61,6 +61,10 @@ class OzonReviewCreateProperties(BaseOzonReview):
         description="Unique identifier for the review",
     )
 
+    @property
+    def id(self) -> str:
+        return self.uuid
+
 
 class OzonReviewUpdatableProperties(BaseOzonReview):
     pass
