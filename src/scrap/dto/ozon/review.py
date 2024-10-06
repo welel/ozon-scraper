@@ -1,13 +1,12 @@
 from typing import Optional
 
-from pydantic import BaseModel, ConfigDict, Field, HttpUrl
+from pydantic import Field, HttpUrl
 
 from scrap.config import UUID_LEN
+from scrap.dto.dto import DTO
 
 
-class BaseOzonReview(BaseModel):
-    model_config = ConfigDict(from_attributes=True)
-
+class BaseOzonReview(DTO):
     product_sku_id: int = Field(
         ...,
         description="Product Stock Keeping Unit ID",
@@ -55,16 +54,12 @@ class BaseOzonReview(BaseModel):
     )
 
 
-class OzonReview(BaseOzonReview):
+class OzonReviewCreateProperties(BaseOzonReview):
     uuid: str = Field(
         ...,
         max_length=UUID_LEN,
         description="Unique identifier for the review",
     )
-
-
-class OzonReviewCreateProperties(OzonReview):
-    pass
 
 
 class OzonReviewUpdatableProperties(BaseOzonReview):

@@ -1,7 +1,9 @@
 from enum import Enum
 from typing import Optional
 
-from pydantic import BaseModel, ConfigDict, Field, HttpUrl
+from pydantic import Field, HttpUrl
+
+from scrap.dto.dto import DTO
 
 
 class OzonMediaType(str, Enum):
@@ -9,9 +11,7 @@ class OzonMediaType(str, Enum):
     image = "image"
 
 
-class BaseOzonReviewMedia(BaseModel):
-    model_config = ConfigDict(from_attributes=True)
-
+class BaseOzonReviewMedia(DTO):
     review_uuid: str = Field(
         ...,
         description="Foreign Key to OzonReview",
@@ -43,15 +43,11 @@ class BaseOzonReviewMedia(BaseModel):
     )
 
 
-class OzonReviewMedia(BaseOzonReviewMedia):
+class OzonReviewMediaCreateProperties(BaseOzonReviewMedia):
     id: str = Field(
         ...,
         description="PK - review media ID - PK (md5 from id from media URL)",
     )
-
-
-class OzonReviewMediaCreateProperties(OzonReviewMedia):
-    pass
 
 
 class OzonReviewMediaUpdatableProperties(BaseOzonReviewMedia):

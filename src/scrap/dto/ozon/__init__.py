@@ -1,16 +1,16 @@
-from .category import OzonCategory  # noqa
+from .category import (  # noqa
+    OzonCategoryCreateProperties,
+    OzonCategoryUpdatableProperties,
+)
 from .product import (  # noqa
-    OzonProduct,
     OzonProductCreateProperties,
     OzonProductUpdatableProperties,
 )
 from .review import (  # noqa
-    OzonReview,
     OzonReviewCreateProperties,
     OzonReviewUpdatableProperties,
 )
 from .review_media import (  # noqa
-    OzonReviewMedia,
     OzonReviewMediaCreateProperties,
     OzonReviewMediaUpdatableProperties,
 )

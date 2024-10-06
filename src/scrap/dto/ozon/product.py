@@ -1,11 +1,11 @@
 from typing import Optional
 
-from pydantic import BaseModel, ConfigDict, Field, HttpUrl
+from pydantic import Field, HttpUrl
+
+from scrap.dto.dto import DTO
 
 
-class BaseOzonProduct(BaseModel):
-    model_config = ConfigDict(from_attributes=True)
-
+class BaseOzonProduct(DTO):
     name: Optional[str] = Field(
         None,
         max_length=1024,
@@ -45,15 +45,11 @@ class BaseOzonProduct(BaseModel):
     )
 
 
-class OzonProduct(BaseOzonProduct):
+class OzonProductCreateProperties(BaseOzonProduct):
     sku_id: int = Field(
         ...,
         description="Stock Keeping Unit ID",
     )
-
-
-class OzonProductCreateProperties(OzonProduct):
-    pass
 
 
 class OzonProductUpdatableProperties(BaseOzonProduct):

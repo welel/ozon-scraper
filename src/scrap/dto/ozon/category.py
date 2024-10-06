@@ -1,11 +1,11 @@
 from typing import Optional
 
-from pydantic import BaseModel, ConfigDict, Field, HttpUrl
+from pydantic import Field, HttpUrl
+
+from scrap.dto.dto import DTO
 
 
-class BaseOzonCategory(BaseModel):
-    model_config = ConfigDict(from_attributes=True)
-
+class BaseOzonCategory(DTO):
     parent_id: Optional[int] = Field(
         None,
         description="Parent category ID from Ozon",
@@ -33,15 +33,11 @@ class BaseOzonCategory(BaseModel):
     )
 
 
-class OzonCategory(BaseOzonCategory):
+class OzonCategoryCreateProperties(BaseOzonCategory):
     id: int = Field(
         ...,
-        description="Category ID from Ozon - PK",
+        description="Ozon category ID",
     )
-
-
-class OzonCategoryCreateProperties(OzonCategory):
-    pass
 
 
 class OzonCategoryUpdatableProperties(BaseOzonCategory):
