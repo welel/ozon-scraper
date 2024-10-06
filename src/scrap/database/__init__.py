@@ -16,4 +16,8 @@ _session = sessionmaker(engine)
 @contextmanager
 def get_session() -> Generator[Session, None, None]:
     with _session() as session:
-        yield session
+        try:
+            yield session
+        except Exception:
+            session.rollback()
+            raise
