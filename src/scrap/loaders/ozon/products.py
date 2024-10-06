@@ -3,14 +3,13 @@ from typing import Optional
 
 from pydantic import RootModel
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 
 from scrap.dto.ozon.product import OzonProductCreateProperties
-from scrap.loaders.exc import ElementNotFound
-
 from scrap.loaders.abstract import LoadedData, ValidatedData
+from scrap.loaders.exc import ElementNotFound
 from scrap.loaders.ozon.ozon import OzonLoader
-from selenium.webdriver.common.action_chains import ActionChains
 
 
 class OzonProductList(RootModel):
