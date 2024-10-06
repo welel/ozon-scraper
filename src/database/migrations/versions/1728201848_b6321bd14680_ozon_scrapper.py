@@ -1,8 +1,8 @@
-"""ozon, scraper
+"""ozon, scrapper
 
-Revision ID: 5cadcea5aec6
+Revision ID: b6321bd14680
 Revises: 
-Create Date: 2024-10-06 00:15:02.541506
+Create Date: 2024-10-06 11:04:08.023057
 
 """
 from typing import Sequence, Union
@@ -12,7 +12,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision: str = '5cadcea5aec6'
+revision: str = 'b6321bd14680'
 down_revision: Union[str, None] = None
 branch_labels: Union[str, Sequence[str], None] = None
 depends_on: Union[str, Sequence[str], None] = None

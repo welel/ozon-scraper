@@ -1,2 +1,5 @@
-up_local:
-	docker compose -p scraper -f contrib/docker/docker-compose.yml up -d
+up:
+	docker compose -f contrib/docker/docker-compose.yml up -d
+
+down:
+	docker compose -f contrib/docker/docker-compose.yml down

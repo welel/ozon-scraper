@@ -2,7 +2,10 @@ import click
 
 from .export import export_media
 from .loaders import load_ozon_categories_from_api_results
-from .ozon_scrapers import scrape_ozon_category_pages, scrape_ozon_product_reviews
+from .ozon_scrapers import (
+    scrape_ozon_category_pages,
+    scrape_ozon_product_reviews,
+)
 
 
 @click.group()
