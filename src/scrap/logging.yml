@@ -21,8 +21,10 @@ loggers:
   asyncio:
     level: INFO
     propagate: false
+    handlers: [console_handler]
   mp:
     level: DEBUG
+    handlers: [console_handler]
 
 root:
   level: INFO
