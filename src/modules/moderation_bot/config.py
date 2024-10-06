@@ -1,6 +1,0 @@
-import os
-
-
-TELEGRAM_API_TOKEN = os.getenv("TELEGRAM_API_TOKEN")
-TELEGRAM_ADMIN_ID = os.getenv("TELEGRAM_ADMIN_ID")
-NUM_LABELS = 10

@@ -1,27 +1,19 @@
-# Ozon Reviews
+# Ozon Scraper
 
-## Review Media Labling
+## Scraping Steps
 
-### Label Studio
+1. Load categories
 
-Label exported review media using [label-studio](https://labelstud.io/). Supports only images.
+To start scrapping ...
 
-1. Export media files.
+```
+python -m scrap.manage load_ozon_categories_from_api_results --path ../.vscode/categories_data
+```
 
-    ```bash
-    cd src/
-    python manage.py export_media --out-path <path> --media-type image --comment-count-ge 2 --skip-labeled
-    ```
-2. Install and start Label Studio.
+2. Set categories config or choose cats using cli args
 
-    ```bash
-    pip install label-studio
-    label-studio start
-    ```
-3. Open [http://localhost:8080](http://localhost:8080), create a project with image classification label form. Use integer labels. Import data, label and export as JSON-MINI.
+## TODO
 
-4. Load exported JSON-MINI labels.
-
-    ```bash
-    python manage.py import_label_studio_labels --file-path --path <path_to_json>
-    ```
+- [ ] Interface via generic
+- [ ] create_or_update returns bool is_created
+- [ ] Bulk insert

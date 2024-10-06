@@ -1,0 +1,31 @@
+version: 1
+
+formatters:
+  info:
+    format: '%(asctime)s - %(process)d (%(processName)s) - %(thread)d (%(threadName)s) - %(name)s - %(levelname)s - %(message)s'
+
+handlers:
+  console_handler:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: info
+    stream: ext://sys.stdout
+  file_handler:
+    class: logging.FileHandler
+    level: DEBUG
+    formatter: info
+    filename: app.log
+    mode: a  # 'a' for append mode, 'w' for write/overwrite mode
+
+loggers:
+  asyncio:
+    level: INFO
+    propagate: false
+    handlers: [console_handler]
+  mp:
+    level: DEBUG
+    handlers: [console_handler]
+
+root:
+  level: INFO
+  handlers: [console_handler]

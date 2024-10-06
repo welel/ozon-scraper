@@ -1,6 +1,6 @@
 services:
 
-  parser_db:
+  scraper_db:
     image: postgres:14
     environment:
       POSTGRES_DB: ${POSTGRES_DB}
@@ -8,39 +8,17 @@ services:
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     restart: unless-stopped
     ports:
-      - 5530:5432
+      - 5432:5432
     volumes:
-      - parser_db:/var/lib/postgresql/data
-
-  moderation_bot:
-    image: moderation-bot
-    build:
-      context: ../../
-      dockerfile: contrib/docker/app/Dockerfile
-    environment: &app_envs
-      DATABASE_URL: ${DATABASE_URL}
-      TELEGRAM_API_TOKEN: ${TELEGRAM_API_TOKEN}
-      TELEGRAM_ADMIN_ID: ${TELEGRAM_ADMIN_ID}
-    command: ["python", "src/manage.py", "start_moderation_bot"]
-
-  poster:
-    image: poster
-    build:
-      context: ../../
-      dockerfile: contrib/docker/app/Dockerfile
-    environment:
-      <<: *app_envs
-    command: ["python", "src/manage.py", "start_poster"]
+      - scraper_db:/var/lib/postgresql/data
 
   cron:
     image: mp-cron
     build:
       context: ../../
       dockerfile: contrib/docker/cron/Dockerfile
-    environment:
-      <<: *app_envs
     profiles:
       - depricated
 
 volumes:
-  parser_db:
+  scraper_db:
