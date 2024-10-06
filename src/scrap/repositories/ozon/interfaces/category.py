@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from dto.ozon.category import (
+from scrap.dto.ozon.category import (
     OzonCategory,
     OzonCategoryCreateProperties,
     OzonCategoryUpdatableProperties,

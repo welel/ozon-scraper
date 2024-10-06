@@ -4,7 +4,7 @@ import undetected_chromedriver as uc
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 
-from config import SeleniumConfig
+from scrap.config import SeleniumConfig
 
 from .abstract import Loader
 

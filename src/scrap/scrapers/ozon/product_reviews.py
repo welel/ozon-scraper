@@ -1,10 +1,10 @@
 
 import logging
 
-from config import AppConfig
-from repositories.ozon.product import OzonProductsRepo
-from repositories.ozon.review import OzonReviewsRepo
-from repositories.ozon.review_media import OzonReviewMediaRepo
+from scrap.config import AppConfig
+from scrap.repositories.ozon.product import OzonProductsRepo
+from scrap.repositories.ozon.review import OzonReviewsRepo
+from scrap.repositories.ozon.review_media import OzonReviewMediaRepo
 
 from ...loaders.ozon.reviews import OzonReviewsLoader
 from ..abstract import Scraper

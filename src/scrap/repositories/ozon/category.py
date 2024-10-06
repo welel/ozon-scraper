@@ -1,7 +1,7 @@
-from database import get_session
-from database.models.ozon import OzonCategory as OzonCategoryModel
-from database.models.scraper import ScraperOzonCategoryMeta
-from dto.ozon.category import (
+from scrap.database import get_session
+from scrap.database.models.ozon import OzonCategory as OzonCategoryModel
+from scrap.database.models.scraper import ScraperOzonCategoryMeta
+from scrap.dto.ozon.category import (
     OzonCategory,
     OzonCategoryCreateProperties,
     OzonCategoryUpdatableProperties,

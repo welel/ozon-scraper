@@ -1,6 +1,9 @@
 [tool.isort]
-skip = [".gitignore", "env", "src/database/migrations"]
+skip = [".gitignore", "env", "src/scrap/database/migrations"]
 line_length = 79
 lines_after_imports = 2
 multi_line_output = 3
 include_trailing_comma = true
+
+[tool.flake8]
+exclude = ["src/scrap/database/migrations"]

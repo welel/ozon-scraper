@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from dto.ozon.review import (
+from scrap.dto.ozon.review import (
     OzonReview,
     OzonReviewCreateProperties,
     OzonReviewUpdatableProperties,

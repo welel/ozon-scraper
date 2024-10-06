@@ -1,7 +1,7 @@
 import click
 
-from modules.parser.parsers.ozon.category_pages import OzonCategoriesParser
-from modules.parser.parsers.ozon.product_reviews import OzonReviewsStateParser
+from scrap.scrapers.ozon.category_pages import OzonCategoriesScraper
+from scrap.scrapers.ozon.product_reviews import OzonReviewsStateScraper
 
 
 @click.command(
@@ -9,7 +9,7 @@ from modules.parser.parsers.ozon.product_reviews import OzonReviewsStateParser
     help="Parses products from category pages.",
 )
 def scrape_ozon_category_pages():
-    parser = OzonCategoriesParser()
+    parser = OzonCategoriesScraper()
     click.echo(f"Parser created: {parser}. Starting parsing...")
     try:
         parser.run()
@@ -26,7 +26,7 @@ def scrape_ozon_category_pages():
     ),
 )
 def scrape_ozon_product_reviews():
-    parser = OzonReviewsStateParser()
+    parser = OzonReviewsStateScraper()
     click.echo(f"Parser created: {parser}. Starting parsing...")
     try:
         parser.run()

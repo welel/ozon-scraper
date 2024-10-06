@@ -5,7 +5,7 @@ from sqlalchemy.engine import create_engine
 # from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import Session, sessionmaker
 
-from config import DBConfig
+from scrap.config import DBConfig
 
 
 # BaseModel = declarative_base()

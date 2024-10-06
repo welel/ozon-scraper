@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from dto.ozon.review_media import (
+from scrap.dto.ozon.review_media import (
     OzonReviewMedia,
     OzonReviewMediaCreateProperties,
     OzonReviewMediaUpdatableProperties,

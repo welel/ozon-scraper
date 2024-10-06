@@ -3,9 +3,9 @@ import enum
 import sqlalchemy as sa
 from sqlalchemy.orm import Mapped, mapped_column
 
-from config import MD5_LEN, URL_MAX_LEN, UUID_LEN, DBConfig
-from database.models.base import BaseModel
-from database.models.mixins import TimestampsMixin
+from scrap.config import MD5_LEN, URL_MAX_LEN, UUID_LEN, DBConfig
+from scrap.database.models.base import BaseModel
+from scrap.database.models.mixins import TimestampsMixin
 
 
 class OzonCategory(BaseModel):

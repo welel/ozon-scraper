@@ -5,9 +5,9 @@ from typing import Any, Optional
 from pydantic import BaseModel
 from selenium.webdriver.common.by import By
 
-from dto.ozon.product import OzonProduct
-from dto.ozon.review import OzonReviewCreateProperties
-from dto.ozon.review_media import OzonReviewMediaCreateProperties
+from scrap.dto.ozon.product import OzonProduct
+from scrap.dto.ozon.review import OzonReviewCreateProperties
+from scrap.dto.ozon.review_media import OzonReviewMediaCreateProperties
 
 from ..abstract import LoadedData
 from .ozon import OzonLoader

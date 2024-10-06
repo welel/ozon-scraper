@@ -2,7 +2,7 @@ from typing import Optional
 
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
 
-from config import UUID_LEN
+from scrap.config import UUID_LEN
 
 
 class BaseOzonReview(BaseModel):

@@ -1,9 +1,9 @@
 
 import logging
 
-from config import AppConfig
-from repositories.ozon.category import OzonCategoriesRepo
-from repositories.ozon.product import OzonProductsRepo
+from scrap.config import AppConfig
+from scrap.repositories.ozon.category import OzonCategoriesRepo
+from scrap.repositories.ozon.product import OzonProductsRepo
 
 from ...loaders.ozon.products import OzonProductsLoader
 from ..abstract import Scraper

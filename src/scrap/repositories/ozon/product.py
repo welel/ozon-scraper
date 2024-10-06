@@ -1,6 +1,6 @@
-from database import get_session
-from database.models.ozon import OzonProduct as OzonProductModel
-from dto.ozon.product import (
+from scrap.database import get_session
+from scrap.database.models.ozon import OzonProduct as OzonProductModel
+from scrap.dto.ozon.product import (
     OzonProduct,
     OzonProductCreateProperties,
     OzonProductUpdatableProperties,

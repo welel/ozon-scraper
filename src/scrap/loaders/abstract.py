@@ -4,7 +4,7 @@ from typing import Any, Iterator, Optional, Union
 
 from pydantic import BaseModel
 
-from config import AppConfig
+from scrap.config import AppConfig
 
 
 Data = dict[str, Any]

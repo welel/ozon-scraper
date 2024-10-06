@@ -1,6 +1,6 @@
-from database import get_session
-from database.models.ozon import OzonReview as OzonReviewModel
-from dto.ozon.review import (
+from scrap.database import get_session
+from scrap.database.models.ozon import OzonReview as OzonReviewModel
+from scrap.dto.ozon.review import (
     OzonReview,
     OzonReviewCreateProperties,
     OzonReviewUpdatableProperties,

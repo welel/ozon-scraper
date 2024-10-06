@@ -1,6 +1,6 @@
-from database import get_session
-from database.models.ozon import OzonReviewMedia as OzonReviewMediaModel
-from dto.ozon.review_media import (
+from scrap.database import get_session
+from scrap.database.models.ozon import OzonReviewMedia as OzonReviewMediaModel
+from scrap.dto.ozon.review_media import (
     OzonReviewMedia,
     OzonReviewMediaCreateProperties,
     OzonReviewMediaUpdatableProperties,

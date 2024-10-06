@@ -6,11 +6,11 @@ from urllib.parse import urljoin
 import click
 from sqlalchemy.orm import Session
 
-from config import OzonScraperConfig
-from database import get_session
-from database.models.scraper import ScraperOzonCategoryMeta
-from dto.ozon.category import OzonCategoryCreateProperties
-from repositories.ozon.category import OzonCategoriesRepo
+from scrap.config import OzonScraperConfig
+from scrap.database import get_session
+from scrap.database.models.scraper import ScraperOzonCategoryMeta
+from scrap.dto.ozon.category import OzonCategoryCreateProperties
+from scrap.repositories.ozon.category import OzonCategoriesRepo
 
 
 @click.command(
