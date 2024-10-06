@@ -22,7 +22,7 @@ class OzonReviewsStateScraper(Scraper):
         reviews_media_repo = OzonReviewMediaRepo()
         for product in products:
             try:
-                self.logger.info("Parse product: %s", product.url)
+                self.logger.info("Scrape product: %s", product.url)
                 reviews_url = (
                     f"https://www.ozon.ru/product/{product.sku_id}/reviews"
                 )
@@ -30,7 +30,7 @@ class OzonReviewsStateScraper(Scraper):
                 if data is None:
                     continue
                 self.logger.info(
-                    "Parsed %d reviews and %d media",
+                    "Scraped %d reviews and %d media",
                     len(data.reviews), len(data.media)
                 )
                 for review in data.reviews:
@@ -39,6 +39,6 @@ class OzonReviewsStateScraper(Scraper):
                     reviews_media_repo.create_or_update(media)
             except Exception as e:
                 self.logger.exception(
-                    "Failed to parse product %s: %s", product, e
+                    "Failed to scrape product %s: %s", product, e
                 )
         self.logger.info("Finished parsing.")

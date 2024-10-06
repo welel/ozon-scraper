@@ -24,5 +24,5 @@ class ScraperOzonCategoryMeta(BaseModel):
         sa.Boolean,
         nullable=False,
         default=False,
-        comment="Wheather to parse category",
+        comment="Wheather to scrape category",
     )

@@ -5,31 +5,31 @@ from scrap.scrapers.ozon.product_reviews import OzonReviewsStateScraper
 
 
 @click.command(
-    "parse_ozon_category_pages",
-    help="Parses products from category pages.",
+    "scrape_ozon_category_pages",
+    help="Scrapes products from category pages.",
 )
 def scrape_ozon_category_pages():
-    parser = OzonCategoriesScraper()
-    click.echo(f"Parser created: {parser}. Starting parsing...")
+    scraper = OzonCategoriesScraper()
+    click.echo(f"Scraper created: {scraper}. Starting parsing...")
     try:
-        parser.run()
+        scraper.run()
     except Exception as e:
         click.echo(f"Error while parsing: {e}")
         raise
 
 
 @click.command(
-    "parse_ozon_product_reviews_from_state",
+    "scrape_ozon_product_reviews_from_state",
     help=(
-        "Parses products reviews from data-state html object "
+        "Scrapes products reviews from data-state html object "
         "(only first 15 reviews and media)."
     ),
 )
 def scrape_ozon_product_reviews():
-    parser = OzonReviewsStateScraper()
-    click.echo(f"Parser created: {parser}. Starting parsing...")
+    scraper = OzonReviewsStateScraper()
+    click.echo(f"Scraper created: {scraper}. Starting parsing...")
     try:
-        parser.run()
+        scraper.run()
     except Exception as e:
         click.echo(f"Error while parsing: {e}")
         raise

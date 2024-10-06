@@ -19,11 +19,11 @@ class OzonCategoriesScraper(Scraper):
 
         prod_repo = OzonProductsRepo()
         for cat in cats:
-            self.logger.info("Parse category: %s", cat.short_url)
+            self.logger.info("Scrape category: %s", cat.short_url)
             for product_batch in OzonProductsLoader(
                     str(cat.short_url), cat_id=cat.id
             ).iload():
-                self.logger.info("Parsed %d products", len(product_batch))
+                self.logger.info("Scraped %d products", len(product_batch))
                 for product in product_batch:
                     prod_repo.create_or_update(product)
         self.logger.info("Finished parsing.")

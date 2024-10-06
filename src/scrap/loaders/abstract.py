@@ -36,7 +36,7 @@ class Loader(abc.ABC):
         Subclasses can override this method to handle pagination.
 
         Args:
-            data: The parsed data from the current page.
+            data: The loaded data from the current page.
         """
         pass
 
@@ -81,7 +81,7 @@ class Loader(abc.ABC):
         """Checks an expression to determine whether to stop loading.
 
         Args:
-            data: The parsed data.
+            data: The loaded data.
 
         Returns:
             True if loading should stop, False otherwise.
