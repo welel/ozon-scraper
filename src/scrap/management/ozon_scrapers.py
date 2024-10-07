@@ -1,6 +1,6 @@
 import click
 
-from scrap.scrapers.ozon.category_pages import OzonCategoriesScraper
+from scrap.scrapers.ozon.category_pages import OzonCategoryPageScraper
 from scrap.scrapers.ozon.product_reviews import OzonReviewsStateScraper
 
 
@@ -9,7 +9,7 @@ from scrap.scrapers.ozon.product_reviews import OzonReviewsStateScraper
     help="Scrapes products from category pages.",
 )
 def scrape_ozon_category_pages():
-    scraper = OzonCategoriesScraper()
+    scraper = OzonCategoryPageScraper()
     click.echo(f"Scraper created: {scraper}. Starting parsing...")
     try:
         scraper.run()
