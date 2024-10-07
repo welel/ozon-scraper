@@ -20,5 +20,5 @@ class OzonProductInterface(
     @abc.abstractmethod
     def create_or_update(
             self, create_data: OzonProductCreateProperties
-    ) -> OzonProductEntity:
+    ) -> tuple[OzonProductEntity, bool]:
         pass

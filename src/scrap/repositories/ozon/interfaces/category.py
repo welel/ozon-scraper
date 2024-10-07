@@ -21,7 +21,7 @@ class OzonCategoryInterface(
     def create_or_update(
             self,
             create_data: OzonCategoryCreateProperties,
-    ) -> OzonCategoryEntity:
+    ) -> tuple[OzonCategoryEntity, bool]:
         pass
 
     @abc.abstractmethod

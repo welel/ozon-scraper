@@ -72,11 +72,21 @@ class SqlalchemyRepository[
             pk: PK,
             schema: BaseModel,
             session: Session,
-    ) -> BaseModel:
+    ) -> tuple[BaseModel, bool]:
+        """Creates or updates an object.
+
+        Args:
+            pk: Primary key of the object.
+            schema: Create or update DTO schema.
+            session: SQLAlchemy session.
+
+            Returns:
+                Entity and `is_created` flag.
+        """
         db_object = self._get(pk, session)
         if db_object is None:
-            return self._create(schema, session)
-        return self._update(pk, schema, session)
+            return self._create(schema, session), True
+        return self._update(pk, schema, session), False
 
     def get(self, pk: PK) -> Entity_ | None:
         with get_session() as session:
@@ -90,7 +100,15 @@ class SqlalchemyRepository[
         with get_session() as session:
             return self._update(pk, update_data, session)
 
-    def create_or_update(self, create_data: CreateDTO) -> Entity_:
+    def create_or_update(self, create_data: CreateDTO) -> tuple[Entity_, bool]:
+        """Creates or updates an object.
+
+        Args:
+            create_data: Create DTO.
+
+            Returns:
+                Entity and `is_created` flag.
+        """
         with get_session() as session:
             return self._create_or_update(
                 create_data.id, create_data, session
