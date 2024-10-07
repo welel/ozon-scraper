@@ -2,12 +2,11 @@
 import logging
 
 from scrap.config import AppConfig
+from scrap.loaders.ozon.reviews import OzonReviewsLoader
 from scrap.repositories.ozon.product import OzonProductsRepository
 from scrap.repositories.ozon.review import OzonReviewsRepository
 from scrap.repositories.ozon.review_media import OzonReviewMediaRepository
-
-from ...loaders.ozon.reviews import OzonReviewsLoader
-from ..abstract import Scraper
+from scrap.scrapers.abstract import Scraper
 
 
 class OzonReviewsStateScraper(Scraper):

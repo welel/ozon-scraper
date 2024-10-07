@@ -1,34 +1,24 @@
-from abc import ABC, abstractmethod
+import abc
 
 from scrap.dto.ozon.review import (
     OzonReviewCreateProperties,
     OzonReviewUpdatableProperties,
 )
 from scrap.entities.ozon import OzonReviewEntity
+from scrap.repositories.repository import Repository
 
 
-class OzonReviewInterface(ABC):
+class OzonReviewInterface(
+    Repository[
+        str,
+        OzonReviewEntity,
+        OzonReviewCreateProperties,
+        OzonReviewUpdatableProperties,
+    ],
+):
 
-    @abstractmethod
-    def get(self, pk: str) -> OzonReviewEntity | None:
-        pass
-
-    @abstractmethod
-    def create(
-            self, create_data: OzonReviewCreateProperties
-    ) -> OzonReviewEntity:
-        pass
-
-    @abstractmethod
-    def update(
-            self,
-            pk: str,
-            update_data: OzonReviewUpdatableProperties,
-    ) -> OzonReviewEntity:
-        pass
-
-    @abstractmethod
+    @abc.abstractmethod
     def create_or_update(
             self, create_data: OzonReviewCreateProperties
-    ) -> OzonReviewEntity:
+    ) -> tuple[OzonReviewEntity, bool]:
         pass

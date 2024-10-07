@@ -2,8 +2,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 
-from ..exc import LoaderError
-from ..selenium_loader import SeleniumLoader
+from scrap.loaders.exc import LoaderError
+from scrap.loaders.selenium_loader import SeleniumLoader
 
 
 class OzonLoader(SeleniumLoader):

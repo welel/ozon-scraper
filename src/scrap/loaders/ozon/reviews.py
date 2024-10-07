@@ -8,10 +8,9 @@ from selenium.webdriver.common.by import By
 from scrap.dto.ozon.review import OzonReviewCreateProperties
 from scrap.dto.ozon.review_media import OzonReviewMediaCreateProperties
 from scrap.entities.ozon import OzonProductEntity
-
-from ..abstract import LoadedData
-from .ozon import OzonLoader
-from .schemas import ReviewsDataState
+from scrap.loaders.abstract import LoadedData
+from scrap.loaders.ozon.ozon import OzonLoader
+from scrap.loaders.ozon.schemas import ReviewsDataState
 
 
 class OzonReviewsData(BaseModel):

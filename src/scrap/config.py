@@ -75,7 +75,7 @@ logging.config.dictConfig(load_yaml_config(logging_config_path))
 
 
 class AppConfig:
-    app_name = "mc"  # Marketplace Scraper
+    app_name = "ms"  # Marketplace Scraper
     logger_prefix = f"{app_name}."
 
 

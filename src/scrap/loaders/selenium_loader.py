@@ -5,8 +5,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 
 from scrap.config import SeleniumConfig
-
-from .abstract import Loader
+from scrap.loaders.abstract import Loader
 
 
 class SeleniumLoader(Loader):

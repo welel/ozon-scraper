@@ -1,34 +1,24 @@
-from abc import ABC, abstractmethod
+import abc
 
 from scrap.dto.ozon.product import (
     OzonProductCreateProperties,
     OzonProductUpdatableProperties,
 )
 from scrap.entities.ozon import OzonProductEntity
+from scrap.repositories.repository import Repository
 
 
-class OzonProductInterface(ABC):
+class OzonProductInterface(
+    Repository[
+        int,
+        OzonProductEntity,
+        OzonProductCreateProperties,
+        OzonProductUpdatableProperties,
+    ],
+):
 
-    @abstractmethod
-    def get(self, pk: int) -> OzonProductEntity | None:
-        pass
-
-    @abstractmethod
-    def create(
-            self, create_data: OzonProductCreateProperties
-    ) -> OzonProductEntity:
-        pass
-
-    @abstractmethod
-    def update(
-            self,
-            pk: int,
-            update_data: OzonProductUpdatableProperties,
-    ) -> OzonProductEntity:
-        pass
-
-    @abstractmethod
+    @abc.abstractmethod
     def create_or_update(
             self, create_data: OzonProductCreateProperties
-    ) -> OzonProductEntity:
+    ) -> tuple[OzonProductEntity, bool]:
         pass

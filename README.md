@@ -14,6 +14,12 @@ python -m scrap.manage load_ozon_categories_from_api_results --path ../.vscode/c
 
 ## TODO
 
-- [ ] Interface via generic
-- [ ] create_or_update returns bool is_created
-- [ ] Bulk insert
+- [x] Interface via generic
+- [x] create_or_update returns bool is_created
+- [x] Bulk insert
+- [x] Add migration service
+- [x] Change logging prefix in yml
+- [x] Remove relative imports
+- [x] Add naming convention
+- [ ] Add Cats parsing from API
+- [ ] Add README.md
