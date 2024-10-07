@@ -19,6 +19,6 @@ python -m scrap.manage load_ozon_categories_from_api_results --path ../.vscode/c
 - [x] Bulk insert
 - [x] Add migration service
 - [x] Change logging prefix in yml
-- [ ] Remove relative imports
-- [ ] Add naming convention
+- [x] Remove relative imports
+- [x] Add naming convention
 - [ ] Add README.md
