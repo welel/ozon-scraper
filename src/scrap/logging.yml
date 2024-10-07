@@ -10,19 +10,22 @@ handlers:
     level: DEBUG
     formatter: info
     stream: ext://sys.stdout
-  file_handler:
-    class: logging.FileHandler
-    level: DEBUG
-    formatter: info
-    filename: app.log
-    mode: a  # 'a' for append mode, 'w' for write/overwrite mode
+  # file_handler:
+  #   class: logging.FileHandler
+  #   level: DEBUG
+  #   formatter: info
+  #   filename: app.log
+  #   mode: a  # 'a' for append mode, 'w' for write/overwrite mode
 
 loggers:
   asyncio:
     level: INFO
     propagate: false
     handlers: [console_handler]
-  mp:
+  alembic:
+    level: DEBUG
+    handlers: [console_handler]
+  ms:
     level: DEBUG
     handlers: [console_handler]
 

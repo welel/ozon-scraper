@@ -7,10 +7,26 @@ services:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      retries: 5
+      start_period: 10s
+      timeout: 10s
     ports:
       - 5432:5432
     volumes:
       - scraper_db:/var/lib/postgresql/data
+
+  scraper_migrations:
+    image: scraper-base
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+    command: ["alembic", "-c", "scrap/database/migrations/alembic.ini", "upgrade", "head"]
+    depends_on:
+      scraper_db:
+        condition: service_healthy
+        restart: true
 
   cron:
     image: mp-cron
