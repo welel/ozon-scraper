@@ -1,39 +1,29 @@
-from abc import ABC, abstractmethod
+import abc
 
 from scrap.dto.ozon.category import (
     OzonCategoryCreateProperties,
     OzonCategoryUpdatableProperties,
 )
 from scrap.entities.ozon import OzonCategoryEntity
+from scrap.repositories.repository import Repository
 
 
-class OzonCategoryInterface(ABC):
+class OzonCategoryInterface(
+    Repository[
+        int,
+        OzonCategoryEntity,
+        OzonCategoryCreateProperties,
+        OzonCategoryUpdatableProperties,
+    ],
+):
 
-    @abstractmethod
-    def create(
-            self, create_data: OzonCategoryCreateProperties
-    ) -> OzonCategoryEntity:
-        pass
-
-    @abstractmethod
-    def update(
-            self,
-            pk: int,
-            update_data: OzonCategoryUpdatableProperties,
-    ) -> OzonCategoryEntity:
-        pass
-
-    @abstractmethod
+    @abc.abstractmethod
     def create_or_update(
             self,
             create_data: OzonCategoryCreateProperties,
     ) -> OzonCategoryEntity:
         pass
 
-    @abstractmethod
-    def get(self, pk: int) -> OzonCategoryEntity | None:
-        pass
-
-    @abstractmethod
+    @abc.abstractmethod
     def get_list_on_parsing(self) -> list[OzonCategoryEntity]:
         pass
