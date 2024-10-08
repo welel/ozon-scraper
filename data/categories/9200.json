@@ -1,0 +1,1792 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "9200",
+        "title": "Продукты питания",
+        "url": "/category/produkty-pitaniya-9200/",
+        "image": "https://cdn1.ozone.ru/s3/cms/e4/t8c/image3x.jpg",
+        "icon": "ic_m_product_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Чай, кофе и какао",
+                        "url": "/category/chay-kofe-kakao-9370/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9370.png",
+                        "categories": [
+                            {
+                                "title": "Кофе",
+                                "url": "/category/kofe-9372/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9372.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZqYjLHokVw8-6QwJagx6hSSvgR3",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чай",
+                                "url": "/category/chay-9373/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/a5/t31/img_2.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SrfWIFeBHUF_AesUZsQdXlDcKZK",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Какао и горячий шоколад",
+                                "url": "/category/kakao-goryachiy-shokolad-9371/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/04/t5a/img_3.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y5UpqLRyikSqkgQNnMgmcwgM7le",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Цикорий и кэроб",
+                                "url": "/category/tsikoriy-kerob-9374/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/2e/t6c/img_4.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V-h7ysNEHpG4KPLl6V2GBp472iq",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кофейные напитки",
+                                "url": "/category/kofeynye-napitki-9493/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9493.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_XtTSoXQH16xb-f7yCIoCEQ7NQk",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фильтры для заваривания чая",
+                                "url": "/category/filtry-dlya-zavarivaniya-chaya-1588/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/e2/t0f/img_5.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q4LYE13ipDvcGzal5O8aqvhr7H-",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1U7F9YG7HkKgrmnIPenU8ubaydml",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Выпечка и сладости",
+                        "url": "/category/konditerskie-izdeliya-9378/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9378.png",
+                        "categories": [
+                            {
+                                "title": "Конфеты",
+                                "url": "/category/konfety-30695/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/92/tb9/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PEdxwj27wRB4iK_0Q_Ez9oZ49m4",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мармелад",
+                                "url": "/category/marmelad-9390/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/52/t53/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UNDYn5vgv14MH-Gac2qg1suoz2W",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шоколад и шоколадные батончики",
+                                "url": "/category/shokolad-i-shokoladnye-batonchiki-9393/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/30/td7/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vmb468TruX89hoqFUt4HtheyCkF",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шоколадная и ореховая пасты",
+                                "url": "/category/shokoladnaya-i-orehovaya-pasty-9397/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/8f/t5b/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MiJNA3SoAFi3kTsxSjzuS2t8j0H",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Печенье, пряники и вафли",
+                                "url": "/category/pechene-pryaniki-i-vafli-9381/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/a8/tfc/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ToLhJclhQpyKAnsGoRhAbrDQTJq",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Выпечка и сдоба",
+                                "url": "/category/vypechka-i-sdoba-9376/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/fc/tc8/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NXMk3sumu1nFUwT7JZQ0dc2B8-N",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зефир и пастила",
+                                "url": "/category/zefir-pastila-9388/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/81/t07/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QvnXtx_G5yNsMkoLVT-YKABB1T0",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Восточные сладости",
+                                "url": "/category/vostochnye-sladosti-nuga-9379/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/5b/ta5/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Pyp3KAEWASbIJu4EjeJKOdeH317",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Жевательная резинка",
+                                "url": "/category/zhevatelnaya-rezinka-9380/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/93/t5c/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WGtSMbyO9u2AngEmLMqw5cRqatn",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Торты и пирожные",
+                                "url": "/category/torty-i-pirozhnye-39097/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-o/6477475908.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NTUFd07jipaXlezkbRd0tI5DoWD",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Подарочные наборы",
+                                "url": "/category/podarochnye-nabory-konfet-9394/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9394.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1USMVe0EjHb2KN3RkbA3omeItZLI",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MMbPne1mt61k2uHOoNpLLO2SLGL",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Хлеб, лаваши и лепешки",
+                        "url": "/category/hleb-lavashi-lepeshki-9377/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9377.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Uk52g1dapBd1Jx4vv3Mbt1Mr8nu",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Соки, воды и напитки",
+                        "url": "/category/soki-vody-napitki-9467/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9467.png",
+                        "categories": [
+                            {
+                                "title": "Вода",
+                                "url": "/category/voda-pitevaya-i-mineralnaya-9468/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/d4/t4d/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PmutwP8O8I9CpJI8PjLQ9HaBPVM",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лимонады и газированные напитки",
+                                "url": "/category/limonady-i-gazirovannye-napitki-9470/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/27/t9c/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XyZOkqhV3O_YN9tH_Zq5JLyrG8S",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Соки и нектары",
+                                "url": "/category/soki-nektary-morsy-9471/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/23/t0d/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_1UzlYRVGuQkTcNRQaYi_11FJiR",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Энергетические напитки",
+                                "url": "/category/energeticheskie-napitki-9473/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/5a/t2b/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OoSDcgE8tlNgv__cEPh9sgR1wvt",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Квас",
+                                "url": "/category/kvas-9469/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9469.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-tDAhnl6Ctj03Maq1YE48IjeoQz",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Холодный чай и кофе",
+                                "url": "/category/holodnyy-chay-9472/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/71/t21/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ncv-M884JW5vD-usS244fj3QVuu",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Компоты, морсы и кисели",
+                                "url": "/category/kiseli-39264/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-i/6142192350.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TFlC2X8FLcojTJVKAFtfrUinhtl",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Безалкогольное пиво, вино и шампанское",
+                                "url": "/category/bezalkogolnoe-pivo-vina-i-shampanskoe-1687/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/88/t0b/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SRY_Rr9cH774QTxPrsfZZzso0qK",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Растворимые напитки",
+                                "url": "/category/rastvorimye-napitki-31644/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/3b/t5f/image3x.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xw-K1GFSBYDiv3Fx-Obg1yy6tR_",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QhPtDDCZoyEdrG70dvDTHATbKl0",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Орехи и снэки",
+                        "url": "/category/sneki-suhariki-chipsy-9355/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9355.png",
+                        "categories": [
+                            {
+                                "title": "Орехи",
+                                "url": "/category/orehi-31485/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-l/6817772793.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N2_NhyHE-5AGI8SghDkOD6p_QZ1",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сухофрукты и цукаты",
+                                "url": "/category/suhofrukty-31486/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-7/7032034447.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PV1WvRSb-bNZ7Rm6HyGz-fpetIf",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Смеси сухофруктов и орехов",
+                                "url": "/category/smesi-suhofruktov-i-orehov-32041/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-f/6449192787.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sn3nyFEi6TBbeoH5uej_Z6t9Nn9",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Снэки и закуски",
+                                "url": "/category/sneki-zakuski-9358/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9358.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SdYUUT5-OtJ-NMmKmWDXUZL31y5",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Батончики",
+                                "url": "/category/batonchiki-i-myusli-9356/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9356.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tgo2A87vMmSxLWzqqxlbcyvmXPY",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Батончики спортивные",
+                                "url": "/category/batonchiki-sportivnye-38920/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O15DoeSj79fUr8FdWGzGV2rWF0o",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сушеная и вяленая рыба",
+                                "url": "/category/sushenaya-i-vyalenaya-ryba-9322/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-l/6123786381.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TG1yHH9irFx6lRu-qJmfMJOesKI",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Хлебцы и соломка",
+                                "url": "/category/hlebtsy-9359/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9359.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PFbRYbwMpfWgN5yyywGAsuYwcvK",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Семечки",
+                                "url": "/category/semechki-30157/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/56/t16/image_58.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Nr-Pzc_WZHMIhT_Wvdlc19A6A_r",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Суперфудс",
+                                "url": "/category/superfuds-1617/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-d/6840066541.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_0wkzB3vCFAXWRnDRHxvACzQAXH",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1O0_m_9-Tp8x5UZ2_exDtXyCFVKJ",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Молочные продукты, сыры и яйца",
+                        "url": "/category/moloko-syr-yaytsa-9276/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9276.png",
+                        "categories": [
+                            {
+                                "title": "Сыр и сырные продукты",
+                                "url": "/category/syr-i-syrnye-produkty-9289/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-t/6945575057.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VyFNq31kn8NUmaNHOqKvoFlVv9m",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Молоко",
+                                "url": "/category/moloko-9283/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9283.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QsB2wIvcDsA1ih7ziWvWP1OwEzK",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сливки",
+                                "url": "/category/slivki-9284/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-d/7055198905.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XNdOSxkYM-eFgB7M1uCsQpVaze5",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Растительные продукты",
+                                "url": "/category/rastitelnoe-moloko-30844/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/5f/tca/image_67.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NX-pJ-ubBW2nBVCGq7KUPOxKwFS",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Яйца",
+                                "url": "/category/yaytsa-9290/",
+                                "image": "https://ir-2.ozone.ru/s3/multimedia-j/6381861271.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WaEqA8zUvtqcbMISJkR8dFuCTbs",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Закваски",
+                                "url": "/category/zakvaski-9292/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023587879.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YJsghW2NioVn6316CKp494boPlZ",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Творог",
+                                "url": "/category/tvorog-i-tvorozhnye-produkty-9278/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-f/6851899047.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TOUWHPHgOZOrFmp_abxQV4wL1HH",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Масло, маргарин и спред",
+                                "url": "/category/maslo-margarin-spred-9287/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022574921.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YhPaDtQjbVIfFaKa7CWziPwpv3x",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сгущённое молоко",
+                                "url": "/category/molochnye-konservy-9291/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1029760142.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W62SJnjKcXFkId5NPbKIWDAz2ck",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Йогурты, творожки и пудинги",
+                                "url": "/category/yogurty-9277/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-e/6428038142.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OKNTubCXhLAfFkDWDqyijjgPyGz",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Питьевые йогурты и молочные напитки",
+                                "url": "/category/molochnye-napitki-9285/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-j/6997462675.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WzP6Q_Ch__sUpswQ1KrJbJ2NjOR",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бисквиты, десерты и сырки",
+                                "url": "/category/deserty-pudingi-kremy-zhele-9435/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9435.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yut0X5u6C0e3_qcQRmQpQHMPW_u",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сметана",
+                                "url": "/category/smetana-9288/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022150960.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OQzY_HVjxPSIy10A2iCobJ_-RpW",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Майонез",
+                                "url": "/category/mayonez-9286/",
+                                "image": "https://ir-1.ozone.ru/s3/multimedia-k/6398471564.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VIre5sKJbzT92x_QRUF6N9vr_bK",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кефир, биолакт и ацидофилин",
+                                "url": "/category/kefir-bifidok-atsidofilin-9280/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022574995.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VkImZurlrJzytdOqcKvMPKlRmLg",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ряженка, варенец и простокваша",
+                                "url": "/category/ryazhenka-varenets-prostokvasha-9282/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-f/7026336939.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YjBdkSZJE9uRPwQ9zerSF5tIeYG",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тан и айран",
+                                "url": "/category/tan-ayran-9476/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023403365.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MYxv_43kQrC2wcHS2BgIlnvgmeG",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кумыс, катык и мацони",
+                                "url": "/category/kumys-katyk-matsoni-9281/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023403378.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QWM1ucA9a2HobgnmM05Ax3jp3nd",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Молочная каша и запеканки",
+                                "url": "/category/molochnaya-kasha-zapekanki-32051/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1032763467.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TCsVtU-NJqTNqixDuh2oJWWe1jf",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MClyZ2ybqtOTziEkSDPun6wd-Tu",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Масла, соусы и специи",
+                        "url": "/category/masla-sousy-spetsii-30701/",
+                        "image": "https://ir-1.ozone.ru/s3/multimedia-1-i/7042433346.jpg",
+                        "categories": [
+                            {
+                                "title": "Специи, семена и сушеные овощи",
+                                "url": "/category/spetsii-pripravy-i-pryanosti-9411/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-c/6355108080.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ump6muE_9p1Xwco6zNO4hjnyZYl",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Добавки для приготовления блюд",
+                                "url": "/category/spetsii-i-dobavki-9399/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021923175.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-8QTHKEFa7ejvJCrpdAegoeef03",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сиропы и топпинги",
+                                "url": "/category/siropy-i-toppingi-9412/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9412.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PY2wIhQKe7D8ndsiokJfUrS5QqQ",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Соусы",
+                                "url": "/category/sousy-9368/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9368.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_YhAjTWtFczA5z9RxXR0ZQQNZUp",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Масла",
+                                "url": "/category/masla-9354/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-d/6881459449.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UuyEAtZlnfXhkRk--ht1_l5YBEY",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сахар",
+                                "url": "/category/sahar-9401/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9401.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ROW8fZIWVtPSvsErbSHN1nZUW01",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Соль",
+                                "url": "/category/sol-9403/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9403.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZUKjvwtyUd6og7KiAp1DhJmAIEW",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VifexGTQWInCvt13gGdJWmo3qQa",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Макароны, крупы и мука",
+                        "url": "/category/makarony-krupy-muka-30699/",
+                        "image": "https://ir-1.ozone.ru/s3/multimedia-o/6826681788.jpg",
+                        "categories": [
+                            {
+                                "title": "Макаронные изделия",
+                                "url": "/category/makaronnye-izdeliya-9353/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1/6129706201.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Plhn4zOpKR1xB--v97HOGsm1efu",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мука",
+                                "url": "/category/muka-9351/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9351.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QlBVI_u5Dx6NhyANLZitptXfA2w",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Блюда быстрого приготовления",
+                                "url": "/category/blyuda-bystrogo-prigotovleniya-9327/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9327.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UARV9XwRQgu3_VlD6cDWhzohGcD",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Крупы",
+                                "url": "/category/krupy-35647/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-0/6920779068.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T8ASQeUzGFvlCSNlCrHjc4QUZPy",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бобовые",
+                                "url": "/category/bobovye-35648/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-j/6018554347.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XWHmz6B3-lb2pnoQDJFR2ATtFwX",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Хлопья",
+                                "url": "/category/hlopya-35652/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35652.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ns7c_tfvjmeFAAFfl5BScOtHUoH",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Смеси для супов и гарниров",
+                                "url": "/category/smesi-dlya-supov-i-garnirov-9349/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9349.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WngDtepijvbHNvdHHwd_jbrtZr3",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зерна для проращивания",
+                                "url": "/category/zerna-dlya-prorashchivaniya-9338/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016981179.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1McnDScj6i1Ptaz89gh220zdQ_LD",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1M6Tb2zr9AIiDSfwChCanH52-5Un",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Консервация",
+                        "url": "/category/konservatsiya-9413/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9413.png",
+                        "categories": [
+                            {
+                                "title": "Мед и варенья",
+                                "url": "/category/med-i-varenya-9432/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9432.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_nC--sxTitzNhLM2kdOGjO1DIp2",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Овощи консервированные",
+                                "url": "/category/ovoshchi-konservirovannye-9423/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9423.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W4sYVfedBzH4s3iCSYvHtccMrvq",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мясные консервы",
+                                "url": "/category/myasnye-konservy-9414/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9414.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MfPC337oafjwZb-jkFks84D1qKU",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рыбные консервы",
+                                "url": "/category/rybnye-konservy-9418/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9418.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SZqH_9B8mzsYtn-6TRAy5jSbdNk",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Грибы консервированные",
+                                "url": "/category/griby-konservirovannye-9424/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9424.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MK4qrrv4faSOa2Uih1USDt_54Lz",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Паштеты и холодцы",
+                                "url": "/category/pashtety-holodtsy-zeltsy-9315/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1/6653359573.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mu19RTQkoqu_E2mWxH0n_lFY7Th",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фруктовые консервы",
+                                "url": "/category/fruktovye-konservy-9430/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9430.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PaeB8vGcbqQ28I_Cy3QVnJs2t0H",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сухие пайки",
+                                "url": "/category/suhie-payki-30516/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022087968.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ObEJOdIw-_h6u6Y6o8PhDpgg5hy",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Готовые блюда",
+                                "url": "/category/blyuda-gotovye-konservirovannye-9415/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9415.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V-YYTH0EpZuYu5qNRA8G8UhbA0w",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Соленья и квашения",
+                                "url": "/category/solenya-kvasheniya-9436/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9436.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_EhluvSkzwMtZVyRS0xzGU04lmR",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TAopg2zEjgc0TlH2zTeHpZLV11K",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Замороженные продукты",
+                        "url": "/category/zamorozhennye-produkty-9437/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9437.png",
+                        "categories": [
+                            {
+                                "title": "Мороженое и десерты",
+                                "url": "/category/morozhenoe-deserty-9464/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9464.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SRhJ49qHgEZFbYwJqzRAtqGr7_K",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Овощи, фрукты, ягоды",
+                                "url": "/category/ovoshchi-frukty-yagody-9438/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9438.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VI01L78Kq1dViCQTlNvMc0mTVEL",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Полуфабрикаты",
+                                "url": "/category/zamorozhennye-polufabrikaty-9443/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9443.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-zz2a3QGLD2wcLzJ5XBojW9vbsN",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Готовые блюда",
+                                "url": "/category/zamorozhennye-gotovye-blyuda-30133/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/5a/ta0/image_56.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Njo7YJ0XrhAQ6pf5WD_G7mbhkGZ",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Морепродукты",
+                                "url": "/category/zamorozhennye-moreprodukty-9442/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9442.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZhHLQqHlNIszpja5IPaMsBCHYao",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рыба",
+                                "url": "/category/zamorozhennaya-ryba-32037/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022717343.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UWEPQrGgmNyYgNpdlzGPcj9zIIX",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мясо",
+                                "url": "/category/zamorozhennoe-myaso-32038/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-w/6479427368.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PqS26drZxM4M5lMhyGldxu2uPwo",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Птица",
+                                "url": "/category/zamorozhennaya-ptitsa-32039/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6186569755.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZxqnJJDAxosBx9I5SDiPAva9LBZ",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Субпродукты",
+                                "url": "/category/zamorozhennye-subprodukty-32040/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-d/6495340501.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zoy-pONo62jD85rN3jdyUlnp4oW",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тесто, хлеб, выпечка",
+                                "url": "/category/testo-osnova-dlya-pitstsy-9462/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9462.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q3O8PbkJYWlF9CkZo30m9aBN3db",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лёд",
+                                "url": "/category/led-pishchevoy-36909/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-n/6068619263.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZhrqO-iR1Tq_Rp0TotgkguXoiU_",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SS3TsNak7yc5FjRltMe7PQHDwXo",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мясо и птица",
+                        "url": "/category/myaso-i-ptitsa-9293/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-8/6847329092.jpg",
+                        "categories": [
+                            {
+                                "title": "Курица",
+                                "url": "/category/kuritsa-9297/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024154592.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zwe8qPZKQU_EXrkZTCDpVte7IkB",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Индейка",
+                                "url": "/category/indeyka-9298/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-r/6053884755.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZOWyMnnbTBCxsIz8dYt4KJ5teYH",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Говядина",
+                                "url": "/category/govyadina-9294/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-s/6000030592.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WkWpVj4JAUQkS-pIJ8QY646tyxB",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Свинина",
+                                "url": "/category/svinina-9295/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-a/6847328878.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T6tprc3-WYr4FgGOpEA-2gD_Wxw",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Баранина",
+                                "url": "/category/baranina-9296/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-8/6008948636.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UvYW0lm9AsZ5c0yr0xr2pdeE-2d",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Телятина, ягнятина и кролик",
+                                "url": "/category/telyatina-yagnyatina-krolik-9299/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-d/6411721933.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ux3wGMAdqfqiuGEit2TUWvL6zYe",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Субпродукты",
+                                "url": "/category/subprodukty-9300/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021397369.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SR5u-_avk5TmbXXT5SYjHBkk20p",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фарш и полуфабрикаты",
+                                "url": "/category/farsh-polufabrikaty-9302/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-7/6847328911.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-vvKh6wrawj5mzLISQQpCsopDpW",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Соевое и растительное мясо",
+                                "url": "/category/soevoe-myaso-31936/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1032961731.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XrnTIrdlMTtpovWqYfG7IaRwrQe",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RYDEzO70YuUsVMSVTpfq32cn0l4",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Рыба и морепродукты",
+                        "url": "/category/ryba-moreprodukty-9317/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9317.png",
+                        "categories": [
+                            {
+                                "title": "Соленая и копченая рыба",
+                                "url": "/category/solenaya-i-kopchenaya-ryba-9321/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-r/6723500667.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OECZ0XYF-icm7yrJRFcKxB1XBQd",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рыба",
+                                "url": "/category/ryba-9318/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-m/6706943902.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_lAXKQ3gw3g5_b02xo64nmsbAbM",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пресервы рыбные",
+                                "url": "/category/preservy-32042/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-a/6501865210.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MWUSHaaonEtnghzo_QsFH6NRnsE",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Икра",
+                                "url": "/category/ikra-9320/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-j/6896034835.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XkfDaDbclSZiadRhHnji3R0oipR",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Крабовое мясо и палочки",
+                                "url": "/category/krabovoe-myaso-i-palochki-9323/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-6/6958785450.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X7ibe9Fnh8yp6OPlURBa8y4z8SG",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Морепродукты",
+                                "url": "/category/moreprodukty-9325/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-n/7052737343.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RvOGJO7peEDW_H-FjrgrgnepHN1",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Морские водоросли",
+                                "url": "/category/morskie-vodorosli-9499/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9499.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QZFAW0WNDhhQotmWIoUbd5B0VyT",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Tkc1gHVO_R7Jc5j9jEZNlhOmSZz",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Колбасы, сосиски и деликатесы",
+                        "url": "/category/kolbasy-sosiski-delikatesy-9312/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-1-w/6916745468.jpg",
+                        "categories": [
+                            {
+                                "title": "Колбасы",
+                                "url": "/category/kolbasy-9314/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-y/6743302366.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vb40_JmFC6G_NMcstECk3vCwND2",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сосиски, сардельки и колбаски для гриля",
+                                "url": "/category/sosiski-sardelki-kolbaski-dlya-grilya-9316/",
+                                "image": "https://ir-1.ozone.ru/s3/multimedia-1-6/6943948374.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TelLsSf2FroNNNmvB4QIhPGuRPH",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Деликатесы мясные и копчености",
+                                "url": "/category/delikatesy-kopchenosti-9313/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-m/6916752046.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_w5DVOVxnAx8t1VpOcsK_lx6F_A",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ветчина",
+                                "url": "/category/vetchina-i-rulety-9512/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9512.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZRKk658KX9z3TEbMFHdU0Uns0qx",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бекон и сало",
+                                "url": "/category/shpik-i-bekon-9513/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9513.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WLIpcIHgcx1PdqbgqNtyNk0N3g1",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QF8GFZdiwU13GsiBQxyl5EysdnO",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Овощи, фрукты и зелень",
+                        "url": "/category/ovoshchi-frukty-zelen-9201/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9201.png",
+                        "categories": [
+                            {
+                                "title": "Овощи",
+                                "url": "/category/ovoshchi-9202/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026181108.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-z7NUgZlo-MggM6_XGmv42Zyuiv",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зелень, салатные смеси",
+                                "url": "/category/zelen-salatnye-smesi-9247/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021379127.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PcwBf4DgOwOSLuNgpdyaUI2o80A",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Грибы",
+                                "url": "/category/griby-9253/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022579380.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZzHCh7yeutw3s9Cw80O22BsuICs",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фрукты",
+                                "url": "/category/frukty-9230/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026068441.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P1Wxq1pnPA01gZsk_xHk5-fZ6Sa",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ягоды",
+                                "url": "/category/yagody-9254/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033184170.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QO6QRt2QmB5SwYs_RDfy0gX50NG",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фруктово-овощные наборы",
+                                "url": "/category/fruktovo-ovoshchnye-nabory-34104/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-d/6058889965.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MpwXdvkGSNQIml3x6N0cx63g6ZQ",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZRj9uidFie8X2iP-QnOVqItj1c6",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Готовые блюда",
+                        "url": "/category/gotovye-blyuda-9521/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9521.png",
+                        "categories": [
+                            {
+                                "title": "Завтраки",
+                                "url": "/category/zavtraki-34428/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-g/6548283580.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ygo8LjcDfUdMFj3plXPAblBvBfF",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Вторые блюда",
+                                "url": "/category/vtorye-blyuda-34431/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-3/6014199879.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TWTl1wa91cgNL4oOT9JO8Qb89JX",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Супы",
+                                "url": "/category/supy-34430/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-g/6993807772.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U71jImPPQLei5eN_1Gq8z1qBdsx",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Салаты",
+                                "url": "/category/salaty-39077/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6222471083.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PEEaunD9McX5DRtyfV-zoSeUS2T",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Закуски",
+                                "url": "/category/salaty-i-zakuski-34429/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-p/6933415237.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QIZ8M3CE30kxBQPO8sycdqWecVR",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бургеры, сэндвичи",
+                                "url": "/category/burgery-sendvichi-ohlazhdennye-34498/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6155866613.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_ht7BS_qnK0NGbXntuqHrNZP_7w",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тесто и полуфабрикаты",
+                                "url": "/category/testo-9459/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9459.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PwvI8vUN5g4AQvTIJjHGGWDKAWD",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VNd54c5HvIP6AfVtrzXnn95V6Vx",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Сухие завтраки, мюсли и каши",
+                        "url": "/category/gotovye-zavtraki-i-kashi-9328/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-9/6826758345.jpg",
+                        "categories": [
+                            {
+                                "title": "Каши",
+                                "url": "/category/kashi-9330/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9330.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WPd7KOtdYe4bxK3_vYfEGisJZWk",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сухие завтраки",
+                                "url": "/category/gotovye-zavtraki-9329/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/9329.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Oo5q9BNaEkHHvsNGt9cAFqsSO6z",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мюсли и гранола",
+                                "url": "/category/myusli-i-granola-9331/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-r/6826735935.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y5I5lGpBhWs033xPBXb2fhhSE9U",
+                                        "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1XDaF14fd37NrAQR4U007VbLdtwp",
+                                "sliceKey": "1CZj1YfyWg37JyyTT0zlQjPZdcVy4m6_"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1Vau8LbCDCxH8uWWv1NWJct_nmJB"
+            }
+        },
+        "countGoods": "67494",
+        "countGoodsTitle": "товара"
+    }
+}

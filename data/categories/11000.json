@@ -1,0 +1,2142 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "11000",
+        "title": "Спорт и отдых",
+        "url": "/category/sport-i-otdyh-11000/",
+        "image": "https://cdn1.ozone.ru/graphics/cms/sport1.png",
+        "icon": "ic_m_sport_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Спортивное питание",
+                        "url": "/category/sportivnoe-pitanie-11650/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11650.PNG",
+                        "categories": [
+                            {
+                                "title": "Протеины, гейнеры, углеводы",
+                                "url": "/category/proteiny-11675/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015578273.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_0slMKzfdjdunqjAvEYnTbDPfKo",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Витамины и минералы",
+                                "url": "/category/vitaminno-mineralnye-kompleksy-11656/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024269085.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1--oJtiRy5exCdBo6Z7_M_omtHLF",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аминокислоты",
+                                "url": "/category/aminokisloty-11661/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014351531.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vpm3YDqrhdmJchR3pCSG-PN0Eg2",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для снижения веса",
+                                "url": "/category/sredstva-dlya-snizheniya-vesa-31101/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-0/7065969804.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PVftuWnba6QCvXWYvLzHgcjlc8M",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Креатины",
+                                "url": "/category/kreatiny-11667/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014789364.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X3Gt_THwiTsm0sZv0FlCQByC3jk",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фитнес-питание",
+                                "url": "/category/fitnes-pitanie-11676/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11676.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rz1UQH0QWvokOigmrrL2c1RE4Cs",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Энергетики и изотоники",
+                                "url": "/category/sportivnye-energetiki-i-izotoniki-31103/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/5a/t17/image_74.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_icfNrKcnQAEjlveifLYH1pS3iH",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Анаболики и тестостероны",
+                                "url": "/category/testosteronovye-bustery-11681/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014354058.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YRxrd_TJ6cRPkaXa-x_y9UQyBkd",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шейкеры",
+                                "url": "/category/sheykery-sportivnye-i-butylki-11689/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-7/7036555795.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YmJioKuPrrvaJi1gAyzIu2f4Xx4",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тренировочные комплексы и релаксанты",
+                                "url": "/category/trenirovochnye-kompleksy-31102/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/6b/t07/image_73.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WeqqvHkurKSjDeH8iW1kz_Ghmul",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Батончики",
+                                "url": "/category/batonchiki-sportivnye-1693/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-q/6968987918.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T_e7CsV2o3WMwcjPf5c7KTDIaPy",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Препараты для связок и суставов",
+                                "url": "/category/preparaty-dlya-svyazok-i-sustavov-11674/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021759178.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_NGKaX3xw3em7UGXvTKxiq8r4BI",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ферменты и антиоксиданты",
+                                "url": "/category/antioksidanty-11653/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11653.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VY7vhLxNQ3vXWhBW1DcspysJlex",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Жирные кислоты",
+                                "url": "/category/omega-3-i-kompleksy-zhirov-11687/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021759199.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yo4GOOhIH1pfGmENi2rQZn53pDN",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RrEUojZ-nrePT0Jc7VGYqF1ZSdy",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Велоспорт",
+                        "url": "/category/velosipedy-ekipirovka-i-zapchasti-11001/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11001.png",
+                        "categories": [
+                            {
+                                "title": "Велосипеды",
+                                "url": "/category/velosipedy-11002/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023121955.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VGvv3Zgc-fP09PKIg3wXv0k7IJ6",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Велозапчасти",
+                                "url": "/category/zapchasti-dlya-velosipedov-11012/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019900826.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mh89UcxTreB6xUO0BRMgYCl0n2w",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Колеса",
+                                "url": "/category/kolesa-velosipednye-1734/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024149526.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qgw1fap5FR9RUla3qSM69qhC_YT",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Покрышки и камеры",
+                                "url": "/category/pokryshki-i-kamery-dlya-velosipedov-11048/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023495234.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UZLRRnpg0m8zJbqPGHxJEvEits6",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Седла",
+                                "url": "/category/sedlo-velosipednoe-8508/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023495179.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PS2L2vLvVYd76p3yOi09jCbG1mu",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Крылья и брызговики",
+                                "url": "/category/krylya-dlya-velosipedov-11037/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017409070.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rv2bq_FFV_y_ORpBjekdu-mXAlG",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Грипсы и ручки",
+                                "url": "/category/gripsy-i-ruchki-11025/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014418127.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MoiKlPFTTMSbztqtCsbbgaCCOe-",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тормоза",
+                                "url": "/category/tormoza-dlya-velosipedov-11058/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023436803.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QuYu-V121Ui2Tuc83U6-mZVVZGL",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Велокосметика и средства для ухода",
+                                "url": "/category/velokosmetika-i-sredstva-dlya-uhoda-11017/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023555193.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-qqDOXG7YFo1gou6J-DjmdZSo6-",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Цепи",
+                                "url": "/category/tsepi-dlya-velosipedov-11063/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017408578.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q4mhDBD2oXJDY_ajvzgmrVPwdv5",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Велосумки и велоочки",
+                                "url": "/category/velosumki-11020/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015795970.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZO73VwzoJIgmKsaSEF-Z6i8oWJl",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Велоодежда и велотуфли",
+                                "url": "/category/ekipirovka-dlya-velosipedistov-11003/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025514227.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XxNNzlmhRCpWSQuTC9TbrNMutOY",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/akssesuary-dlya-velosipedov-31111/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016514348.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mlo-x-LaOIS5MfF4P_EYvjEgvBE",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Велокресла",
+                                "url": "/category/velosipednye-kresla-7069/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015539867.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QrI5_tng_IXgL7elMAZfzj2RMHc",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для велокресел",
+                                "url": "/category/aksessuary-dlya-velokresel-34449/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018342438.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-d5222SpDf1IidSJwo4j2my44SP",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1V6Ftw7naMKLeYV8VnUsw6CJa37q",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Водный спорт и отдых на воде",
+                        "url": "/category/vodnyy-sport-i-otdyh-na-vode-34408/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34408.png",
+                        "categories": [
+                            {
+                                "title": "SUP-доски и аксессуары",
+                                "url": "/category/sup-serfing-34409/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6016735054.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y7DwiycZfmS4YeKUpN6655shI_m",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Плавание",
+                                "url": "/category/plavanie-11181/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027507806.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xf1nl9EVntmvvoDOtTUhdFD_1p4",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гидрокостюмы",
+                                "url": "/category/gidrokostyumy-11215/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1007022217.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PjRysV2OhzXNXR3cMX9EDpt6B6f",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оружие для охоты",
+                                "url": "/category/oruzhie-dlya-podvodnoy-ohoty-31878/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037724724.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X98lhx_hiriOwGUAt1TjSX9J1On",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дайвинг",
+                                "url": "/category/dayving-11214/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-v/7022999587.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_643rpU6Nijm_NNJZrFOGl2T-oD",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Каякинг",
+                                "url": "/category/kayaking-34413/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-a/6017067538.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OvvyFoy_Yv8bzCJnF95py1pVJ2N",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аквафитнес и водное поло",
+                                "url": "/category/akvafitnes-33767/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021344663.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R97uNo-48jZewBv7d3Jw8_SNQBQ",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ватрушки и баллоны",
+                                "url": "/category/vatrushki-i-ballony-38353/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6055786355.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SE_67WWUEHV0r0kR1EQVzKDEgev",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Серфинг, виндсерфинг и водные лыжи",
+                                "url": "/category/serfing-i-vodnyy-sport-38772/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6145957993.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QIjPIcykSQhrVYe1qXAUECajVJW",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти для гидроциклов",
+                                "url": "/category/zapchasti-dlya-gidrotsiklov-37031/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6416318195.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T--sleorDqfzUuhP5cuLPB8uLaD",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бассейны",
+                                "url": "/category/basseyny-35372/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U7I6gukXJ4BwEudYQnCdArZVml9",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для водных видов спорта",
+                                "url": "/category/prochie-aksessuary-dlya-plavaniya-11189/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024401574.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W46mWXBgGMggDQtX5SPAyhTIZz9",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1OuRPUMH09jkGDpFIgx8JdgoAaMZ",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Самокаты и аксессуары",
+                        "url": "/category/samokaty-giroskutery-i-monokolesa-11069/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11069.png",
+                        "categories": [
+                            {
+                                "title": "Самокаты",
+                                "url": "/category/samokaty-11068/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017667211.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VSHC-5Fd5mGRThfeRxxkQp4U1Hh",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электросамокаты",
+                                "url": "/category/elektrosamokaty-38264/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RgNlxLv5iS6sne4ULKoe6e9148t",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти для самокатов",
+                                "url": "/category/zapchasti-dlya-samokatov-37362/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-d/6055495777.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UoQ2MBXm44CfW2O6IoJcEFaBhUK",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти для электросамокатов",
+                                "url": "/category/zapchasti-dlya-elektrosamokatov-37434/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-q/6062007686.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QH0IOMG9kg-L4x2NT77mN8hwkB9",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-samokatov-37361/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-i/6119325078.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PmAoamQa3OviD27I-fHiX_RBzbU",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1M8z85YlduMQGvEYZosAmDRULEiD",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Электротранспорт",
+                        "url": "/category/elektrotransport-38259/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/38259.png",
+                        "categories": [
+                            {
+                                "title": "Электроскутеры",
+                                "url": "/category/elektroskutery-34036/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6030444012.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NnGxmVDLxJtWPx1BBQdflMOPjvC",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Моноколеса и сигвеи",
+                                "url": "/category/monokolesa-11072/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012297807.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tcwbr-ob4lgA4AMuFheGYyyBKr7",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гироскутеры и гироролики",
+                                "url": "/category/giroskutery-11070/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022200893.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U8IT36OLiZaVyI3VC4YwsPoKAYK",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электровелосипеды",
+                                "url": "/category/elektrovelosipedy-38260/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P4NI_hYBlJlW6jF-s9UcDJxXB4T",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электросамокаты",
+                                "url": "/category/elektrosamokaty-11071/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023533428.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OLQI_qMCv-VeDTN9gi3glWZtusf",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для электротранспорта",
+                                "url": "/category/aksessuary-dlya-giroskuterov-11074/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6026530878.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M7ZHIzRdC5KpztXZxNfZK9gjuxb",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_teq75wq3uuuhHuU8Y5-m9qoING",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Роликовые коньки",
+                        "url": "/category/rolikovye-konki-ekipirovka-i-zapchasti-11086/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11086.png",
+                        "categories": [
+                            {
+                                "title": "Роликовые коньки",
+                                "url": "/category/rolikovye-konki-11088/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018188941.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UAo-j6T-bdUkPN5ZKWtrInmbiWF",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лыжероллеры",
+                                "url": "/category/lyzherollery-38243/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-1/6271547677.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_ekux41LLc2wqtu9bLxOJumedCM",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Защита",
+                                "url": "/category/zashchita-dlya-rolikov-34662/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6015994076.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xxw1c3FhnNXYeJlz-WahdDHdsmk",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и запчасти для роликовых коньков",
+                                "url": "/category/aksessuary-i-zapchasti-dlya-rolikovyh-konkov-11092/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-g/6011251312.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S8WzcygnpSSRPp89KzWjTGr3RBf",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для лыжероллеров",
+                                "url": "/category/lyzherollery-11104/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023079617.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YtkpWUYut3yYdfV7pQjgY9eV7IC",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_p12mY-yQhJh79WJvrTDrFgaL-5",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Скейтбординг",
+                        "url": "/category/skeytbording-11075/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11075.png",
+                        "categories": [
+                            {
+                                "title": "Круизеры, пенни борды и роллерсерфы",
+                                "url": "/category/kruizery-11080/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015354762.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mr40EVINRo1s3vZ3oS2a4xJroT5",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Скейтборды",
+                                "url": "/category/skeytbordy-11077/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022537882.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MoW6423kLR4TG1SpJ9pd_9QsBcB",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лонгборды",
+                                "url": "/category/longbordy-11078/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023156522.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1--PplxXb1vLn9U8lY3A4G1QO07e",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электроскейты",
+                                "url": "/category/elektroskeyty-11081/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024316368.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V8UxQrdwnbsxlC8GEcpEQLVCHzH",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти",
+                                "url": "/category/deki-dlya-skeytborda-11084/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-d/6013253125.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XcPuD1ERkev1HenRSZdm4kIAiK3",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы и сумки",
+                                "url": "/category/chehly-i-sumki-dlya-skeytbordov-31953/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023152853.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZjEUb_Nhg8EjQ4aXlqwyFwysHsK",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MIsOXYpQvKJ78d2cGgfCjLHs2VP",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Теннис и бадминтон",
+                        "url": "/category/tennis-i-badminton-11276/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11276.png",
+                        "categories": [
+                            {
+                                "title": "Большой теннис",
+                                "url": "/category/bolshoy-tennis-11277/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6003723939.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PILZ5f0pZvQxO6zgg6Y6HytHqp5",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Настольный теннис",
+                                "url": "/category/nastolnyy-tennis-11286/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020175148.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WIBaYAeYm01azfGnswdo9L90lKz",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бадминтон",
+                                "url": "/category/badminton-11293/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6002879402.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MS9JS-VTDuYoavZkpYUMQQUU_Jn",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сквош",
+                                "url": "/category/skvosh-32652/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6031116041.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SHwuZzd6V8YibLd6Nt6mp0tzVhV",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RzWCK0r6HmW-QwU7G1oqbNBgnqm",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Бег",
+                        "url": "/category/beg-11847/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11847.png",
+                        "categories": [
+                            {
+                                "title": "Костюмы, гольфы, перчатки",
+                                "url": "/category/odezhda-dlya-bega-30235/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-4/6010755760.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_zMNOa--OjcK6L1as7zS8-GCFHR",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обувь и аксессуары для легкой атлетики",
+                                "url": "/category/obuv-dlya-bega-i-aksessuary-33692/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-s/6008793496.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XtV31QZIwaZM9UOi6RTrtwKO_Zj",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Поясные сумки и рюкзаки-гидраторы для бега",
+                                "url": "/category/sumki-dlya-bega-33698/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027333062.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_lsvdF9I5wx6RfhM4fsYDPzCSj1",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивные бутылки",
+                                "url": "/category/sportivnye-butylki-1718/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-3/7035512403.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X0fYaWihbpxjiG6wZeJNXMlYxZG",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для бега",
+                                "url": "/category/aksessuary-dlya-bega-33696/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6007743290.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-A0AklU_FsZrSaToGqcYIFoYth-",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_mxR_ZRpmDnGEWhEmXhOuapkzEr",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Виды спорта",
+                        "url": "/category/vidy-sporta-8811/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8811.png",
+                        "categories": [
+                            {
+                                "title": "Футбол",
+                                "url": "/category/futbol-11227/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-2/7004944766.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YFv9jGdCk5y8eE42miFpJs6YTQh",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Баскетбол",
+                                "url": "/category/basketbol-11252/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020854521.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wb6qnqpa6ZCy-t-vMmPYlSpvjWk",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Волейбол",
+                                "url": "/category/voleybol-11257/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025797717.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NKt3cTLX_H1rHjWlAbMQxdx0ynL",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Художественная гимнастика",
+                                "url": "/category/hudozhestvennaya-gimnastika-i-tantsy-11764/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021641902.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V7UmCIKYV1iRMLQ4JHVIS1F_8pr",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивная гимнастика",
+                                "url": "/category/sportivnaya-gimnastika-32950/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-g/6031264900.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NIXkCLMFGm1nLtyzOGUWpahFsQ1",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кёрлинг",
+                                "url": "/category/kerling-39222/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-z/6796149479.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YHAZTJELAGDeJArCZHBAIvtciKd",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Конный спорт",
+                                "url": "/category/konnyy-sport-33980/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6014578929.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XVoBcqY4URrTi13GCz00TGp0Pqr",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тяжелая атлетика",
+                                "url": "/category/ekipirovka-dlya-tyazheloy-atletiki-11848/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018621707.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UJNn81a2JlQguIAHnmQT6v_x3RV",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бейсбол",
+                                "url": "/category/beysbol-11260/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017371747.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VYdXOWxPZTw8TYtGPYmBR_9D2lL",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Регби, гандбол и американский футбол",
+                                "url": "/category/regbi-i-amerikanskiy-futbol-11264/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023818649.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QkKJz6ZJT9LU7VoljKvdxVidXkO",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пейнтбол",
+                                "url": "/category/peyntbol-32834/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-t/6008103053.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Oe0Ep8ojFi3gLGgqb1mUFZ_Df66",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гольф",
+                                "url": "/category/golf-38247/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6065921767.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YTBRpRUyQvNuVzvKtD7Su5E6Oxp",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фехтование",
+                                "url": "/category/fehtovanie-37571/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6360010908.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OWyHkrd9_c1DHIZQ0hK4Lk0joIK",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Атрибутика и аксессуары",
+                                "url": "/category/sportivnaya-atributika-11887/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023220416.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ROVVLC-UbiV75m49cuQhF5XdAkU",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Wmkcv6rzwhmdIllN8_IjAQaoKx7",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Активные виды отдыха",
+                        "url": "/category/aktivnye-vidy-otdyha-8787/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8787.png",
+                        "categories": [
+                            {
+                                "title": "Батуты",
+                                "url": "/category/batuty-11748/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015547862.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MbYq7fvsAyt66_WCK9wdm9X6pvS",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Палки для спортивной ходьбы и аксессуары",
+                                "url": "/category/palki-dlya-skandinavskoy-hodby-11633/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021833225.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qp4bvS402aNEsVcFB-VPfYYqsNB",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дартс",
+                                "url": "/category/darts-11318/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019885732.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SlnjqDoa6HBAZY7jA3OWNj3LbPj",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бильярд",
+                                "url": "/category/bilyard-11302/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012006240.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_QvR10bGlu42z0di3bmAyNWGT5t",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игровые столы",
+                                "url": "/category/nastolnye-sportivnye-igry-11325/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1035922618.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_TFSvayGpuy4Ar4DaFBSeFGYein",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инвентарь для активного отдыха",
+                                "url": "/category/florbol-34927/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6022960836.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O_pjcYyFK9l_77Hb0Nlr1vv7SUs",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Джамперы и погостики",
+                                "url": "/category/dzhampery-i-pogostiki-11105/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019838937.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WGhcP9mDZJHog40kRdGZJ9nuC3r",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инвентарь для награждения",
+                                "url": "/category/inventar-dlya-nagrazhdeniya-38372/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-v/6399430507.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U8b0PWKrcJvyLutVuH1L5NCLbtN",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для батутов",
+                                "url": "/category/aksessuary-dlya-batutov-11749/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6002646413.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NTfZ70sy1PU5FlA1GUlQG_204qx",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SP66NfCTKzquzjqNl7-O4D65K-1",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Фитнес и йога",
+                        "url": "/category/fitnes-i-yoga-38647/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/38647.png",
+                        "categories": [
+                            {
+                                "title": "Фитнес",
+                                "url": "/category/fitnes-11716/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015576614.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zeno4zaREc2le5RvlJIBDpoMpeF",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Йога и пилатес",
+                                "url": "/category/yoga-i-pilates-11734/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015576660.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VCpJvPrFpMG5Sgw2WkLp4dYtkY9",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивные комплексы и шведские стенки",
+                                "url": "/category/gimnasticheskie-snaryady-shvedskie-stenki-i-sportivnye-kompleksy-11750/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-8/6000303884.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sdzq7LobOtUc-HkPHu0mNKKlEl9",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивные массажеры",
+                                "url": "/category/sportivnye-massazhery-34245/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6005767382.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V_K75-ISUQszP05bdTZXvDudqBa",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Утяжелители",
+                                "url": "/category/utyazheliteli-11722/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014617802.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PQPuJ7kAVoakBAaE2-62FiPTYSK",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда, пояса и пластыри для похудения",
+                                "url": "/category/odezhda-i-poyasa-dlya-pohudeniya-6293/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012999822.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SffmBzhORXKVeIiqwaI-IO2JRv1",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивные часы",
+                                "url": "/category/sportivnye-chasy-1699/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019325397.JPG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UqGktbgGbxV1O7H5vqOitv1dQYU",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ремешки для смарт-часов и фитнес-браслетов",
+                                "url": "/category/remeshki-dlya-smart-chasov-i-fitnes-brasletov-39671/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OvQgTJi49Y_dLmuG7A5k4bq2CMS",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гаджеты для фитнеса",
+                                "url": "/category/gadzhety-dlya-fitnesa-11728/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016514245.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XnJ-yQOaeW4MeHDKLFcgoRBHAoo",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Петли, лестницы и барьеры",
+                                "url": "/category/krossfit-35324/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6027186710.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mmo_DbgFzquJA8JHLOxouq4Mlw4",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PYrd851kogSrlW-HUPR8cYLckvS",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Тренажеры",
+                        "url": "/category/trenazhery-i-fitnes-11638/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11638.png",
+                        "categories": [
+                            {
+                                "title": "Скамьи и стойки",
+                                "url": "/category/atleticheskie-skami-32530/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-q/6005272370.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VrxL4Xzk9iYzHliv1Y6yuJvmvnR",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мини-тренажеры",
+                                "url": "/category/mini-trenazhery-11709/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027107957.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PuK3GwhT0FD7c_JrjDLMrAqBepO",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Степперы",
+                                "url": "/category/steppery-11694/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025226556.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZPJG-Kn0F0uMBt0zAO1J6c_a7R2",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-trenazherov-38646/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6270997668.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QYpX5rgGaYb-rnrq8U5tsi55QVV",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1UHR6MUdGTghOR9sbNYeN4D2RbG0",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Кардиотренажеры",
+                        "url": "/category/kardiotrenazhery-32524/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/32524.png",
+                        "categories": [
+                            {
+                                "title": "Беговые дорожки",
+                                "url": "/category/begovye-dorozhki-11691/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024659117.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QFJGvT-cT3OpBy0rYWTRYqHm3Ab",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Велотренажеры",
+                                "url": "/category/velotrenazhery-11692/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016984051.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_aPmWB7QT0zstwbeYf1E1XZdRhU",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Эллиптические тренажеры",
+                                "url": "/category/ellipticheskie-trenazhery-11695/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024972527.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V619qhG848pNI2oe1YqWnNBJbKs",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гребные тренажеры",
+                                "url": "/category/grebnye-trenazhery-11697/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015191749.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QxzGlWX6wItbuqj6Aqgh_JIfB8J",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ThR79RnSmPAMjSzPAaz5yW_DBCW",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Бокс и единоборства",
+                        "url": "/category/boks-i-edinoborstva-11778/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11778.png",
+                        "categories": [
+                            {
+                                "title": "Перчатки",
+                                "url": "/category/bokserskie-perchatki-11780/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018103412.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Opdd22cleCNO47YaL9bvZxu0jcR",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Груши и мешки",
+                                "url": "/category/bokserskie-grushi-11784/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1030081633.jpeg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XAg_YupBJkeOMqQnPkn9Vph8m7m",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Защита тела",
+                                "url": "/category/zashchita-dlya-boksa-i-edinoborstv-32759/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025669045.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UvvPiwvfOkYICDBLe64aC0sueRO",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда",
+                                "url": "/category/odezhda-dlya-boksa-37414/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-g/6146705668.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1So1wmkwSxBZwwVX0UNx-CXoKO1c",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кимоно",
+                                "url": "/category/kimono-dlya-karate-30165/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018844920.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_Sgj4BEGo0C3XVg5JHdxc_CWoQj",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обувь",
+                                "url": "/category/obuv-dlya-boksa-37415/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-c/6003684036.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UqyhhTF84AkqZc2vVpg1VNhTYRy",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Капы",
+                                "url": "/category/bokserskie-kapy-11781/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1011048019.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TCF3QWf72G20LIpVMH-dhQSfwa9",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оружие",
+                                "url": "/category/oruzhie-dlya-edinoborstv-34852/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6007449825.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QI9SzGWxJ9MA6034KfejP1iSyTe",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инвентарь",
+                                "url": "/category/inventar-dlya-borby-34871/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6017933895.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-fdW01RG8-NA_f2FTU4VIMG2i-I",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1S1FvROcf1L63RzrWJ65g_OiUiAj",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Зимний спорт",
+                        "url": "/category/zimniy-sport-11108/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11108.png",
+                        "categories": [
+                            {
+                                "title": "Хоккей",
+                                "url": "/category/hokkey-11232/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-2/6989853566.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RxDor6jLlXdZKG60VPfm_mGFJud",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Беговые лыжи",
+                                "url": "/category/begovye-lyzhi-11136/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024429999.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tsa4SD3y9njDdjJ3t-n1D2NS3Ef",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Горные лыжи",
+                                "url": "/category/gornye-lyzhi-11113/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024429879.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NcssHVCCCWEtD_5vvVui6I9gGSY",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сноуборды",
+                                "url": "/category/snoubordy-11159/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024429755.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QiaFf21bctg76a6thVIoua3uGC2",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда для лыж и сноубординга",
+                                "url": "/category/odezhda-dlya-begovyh-lyzh-30300/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-k/6011007740.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZRbWefAetgjyVViQAu7C4PHUV6H",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ботинки и крепления для лыж и сноубордов",
+                                "url": "/category/lyzhnye-botinki-11141/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024437026.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_w-pUGow9Yyv_QsD-fmINJx0Ebi",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Маски и очки",
+                                "url": "/category/maski-i-ochki-dlya-gornyh-lyzh-11118/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024459585.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S8pddNLWCC6T8D2x_VdoFEWOZx0",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обработка лыж и сноубордов",
+                                "url": "/category/stanki-profili-dlya-lyzh-11155/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025923164.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NHK2H4xgcqXrDtLDMyT1slw2xBH",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лыжные палки",
+                                "url": "/category/lyzhnye-palki-11140/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024267913.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZJyOAuNqHhqZMweDA_IQmeOcM4z",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Коньки прогулочные",
+                                "url": "/category/konki-11110/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021678810.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QuzqIMrGhltsvovF-GwAmrgfljL",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда для фигурного катания",
+                                "url": "/category/odezhda-dlya-figurnogo-kataniya-33923/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6038557483.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wl7-9nVHq1GfvkYPmKyLAiphMVg",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фигурные коньки",
+                                "url": "/category/konki-dlya-figurnogo-kataniya-33924/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6009528749.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WcoWCBL1KP0KrFMD7fIiRWrcOzk",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Конькобежный спорт",
+                                "url": "/category/konkobezhnyy-sport-36024/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6047119558.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XHP37qsAz4PUZYrQLiOv9iTj1sf",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Снегоходы и мотобуксировщики",
+                                "url": "/category/snegohody-i-motobuksirovshchiki-38121/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-c/6416195256.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TPSvH4TPL9RMl1IvbNZEGahekH5",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тюбинги",
+                                "url": "/category/tyubingi-39545/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QjofjQ5dWEnEVvjZ4b76mydkIRY",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и чехлы для лыж, сноубордов и ботинок",
+                                "url": "/category/chehly-dlya-begovyh-lyzh-11144/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024317167.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NpDRIN93aRREzAPYpXSYcfU3MhU",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы, сумки, аксессуары для коньков",
+                                "url": "/category/chehly-dlya-konkov-11111/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021096046.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OZpOz1R3TapmQ6o6Ki_goPWbQEC",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZY9p1AtQNHSiitCmi1jUqWXsabI",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Спортивная защита и экипировка",
+                        "url": "/category/sportivnaya-zashchita-i-ekipirovka-11836/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11836.png",
+                        "categories": [
+                            {
+                                "title": "Защита тела",
+                                "url": "/category/sportivnaya-zashchita-11837/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019902377.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TrOsr4JrqFUyAN48K9m3nkd_Awc",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шлемы и маски",
+                                "url": "/category/zashchitnye-shlemy-11840/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1032695858.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZHiygwEDFxPs1C_CwznFq_KB7k7",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тейпы",
+                                "url": "/category/kinezioteypy-11843/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022592409.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P2XW8KR3djHkVOMo0I-N4hQa0MJ",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Суппорты",
+                                "url": "/category/supporty-32575/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024940160.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_a8pcj7gSiW267AH4Qt99VMCOyy",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Компрессионные повязки и рукава",
+                                "url": "/category/kompressionnye-povyazki-i-rukava-6289/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025715075.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_LFqGm-UZlsJ4cCl8iZAeR94FYI",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Очки",
+                                "url": "/category/ochki-sportivnye-11841/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022853708.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XsEmAwTcS6ol9DWSblAYWFiiue9",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сумки",
+                                "url": "/category/sportivnye-sumki-11856/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021412757.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PfXFKkfq8g1D3_z0pyFncSU2gDQ",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Учебные газовые баллончики",
+                                "url": "/category/gazovye-ballonchiki-dlya-samooborony-33691/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6001269861.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UWBkmOzhHN2VLmmVBBbm7tgHXYA",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Товары для самообороны",
+                                "url": "/category/tovary-dlya-samooborony-32022/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015984860.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZlZnO29zpNW_oeIb-DsYKCzmuLO",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Жезлы ДПС",
+                                "url": "/category/zhezly-dps-38623/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6020941188.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X6Ymixnq5MuPSecyy4uI2ncr9WX",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1R4f8voTkuZ7Xq33v6La8jcr7Dhe",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Свободные веса",
+                        "url": "/category/svobodnye-vesa-38639/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/38639.png",
+                        "categories": [
+                            {
+                                "title": "Гантели",
+                                "url": "/category/ganteli-11641/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019411644.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WYZRi-IBZj4crAJ5Rp9cxFlznrf",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гири",
+                                "url": "/category/giri-11643/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015576542.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZL-itg8Ac_rlIMM7uoe5BscIUJq",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Штанги",
+                                "url": "/category/shtangi-11642/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016752672.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TqjTJ1kL7cEJgCseNpu7MGUzxII",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Турники и брусья",
+                                "url": "/category/turniki-i-brusya-11698/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026335401.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-nKTICqa3PG-wm8z3Xn-mN_KM0V",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Диски и блины",
+                                "url": "/category/diski-dlya-shtang-11644/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025383135.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qyu8NfFDc4BSXLPFrLVZrCieIgU",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Грифы",
+                                "url": "/category/grify-dlya-shtang-11645/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015809279.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QFs_n8DmQOBuwMu37WxWEnjT1wg",
+                                        "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QGqtG7kQKE2b_9pJPprZMrfRqec",
+                                "sliceKey": "1CZj1SB1NcVcZ30jAGGyVEMJLuE8qNrU"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1SU6B8bLmC8HCskOKMsMgCvciqYr"
+            }
+        },
+        "countGoods": "53973",
+        "countGoodsTitle": "товара"
+    }
+}

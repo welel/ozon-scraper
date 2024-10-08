@@ -1,0 +1,2055 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "8500",
+        "title": "Автотовары",
+        "url": "/category/avtotovary-8500/",
+        "image": "https://cdn1.ozone.ru/graphics/main-category-logos/autogoods.png",
+        "icon": "ic_m_auto_parts_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Автозапчасти",
+                        "url": "/category/avtozapchasti-8678/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8678.png",
+                        "categories": [
+                            {
+                                "title": "Запчасти для ТО",
+                                "url": "/category/katalog-to-8603/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-7/7026908083.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YjnkHYxJ_LAVh9R7Vu7aV2tQbMM",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автосвет",
+                                "url": "/category/avtosvet-8679/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026504552.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XoOi82CQk6FKVTnG7HBxTK_EPit",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Двигатель",
+                                "url": "/category/dvigatel-8814/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020961404.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-7ph5GJ7eBqITVP_n_uZW6zcAs9",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Подвеска",
+                                "url": "/category/podveska-34348/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-n/6028371803.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MNMi-8aLuRFwDcluKDj99V0ueto",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Трансмиссия",
+                                "url": "/category/transmissiya-8704/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015323622.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-R7XMuiZJ2vGUFj5MbnpI7t5rfa",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тормозная система",
+                                "url": "/category/tormoznaya-sistema-8703/",
+                                "image": "https://cdn1.ozone.ru/multimedia/autopart/c1200/1022163897.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RHFoect5apPj9TGxCik4w2hoYYF",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система очистки стекол и фар",
+                                "url": "/category/sistemy-ochistki-stekol-i-far-34196/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6014889373.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q0-f75cSKuKe0uNpaV1IRFoP5wp",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Топливная система",
+                                "url": "/category/toplivnaya-sistema-8702/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014525024.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WnG0L--gCd8CJwOniz9qDwrC1KD",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система выпуска",
+                                "url": "/category/sistemy-vypuska-otrabotavshih-gazov-1683/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1029211020.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WjkguiVOlEZrTDZ1fUYneemm2v6",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система питания",
+                                "url": "/category/sistema-pitaniya-34376/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-i/6023255838.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N_nf_ZPQuKZ3TNYfhgiXgi4Z3Pc",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система зажигания",
+                                "url": "/category/sistema-zazhiganiya-8700/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-s/6877119376.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SMlnrwW56vfMbGXz6AA17tp7C-r",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рулевое управление",
+                                "url": "/category/rulevoe-upravlenie-8696/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023477947.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MZFfw4TqF_dmT8jblZUKIPKck_5",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электрооборудование",
+                                "url": "/category/elektrooborudovanie-avtomobilya-33899/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-v/6009659515.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ykpg-RYwr_bL4J0NfIwl0oO9pXT",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кузовные запчасти",
+                                "url": "/category/kuzovnye-zapchasti-32469/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1031619596.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VGqQyD1Xny9dpZ0MG6GCMP1IYKS",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Отопители и кондиционирование",
+                                "url": "/category/otopitel-i-konditsionirovanie-34340/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6023538401.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W7kSHTGkp4YL5SBB0UlT1urnADJ",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Подшипники",
+                                "url": "/category/podshipniki-avtomobilnye-38999/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6088389745.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QhC9Fbfb_qPcx6HJRXs9bUl889j",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детали салона",
+                                "url": "/category/detali-salona-39587/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-c/6733666344.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SY3kmHqRxdLb0wphlAPP8mtKjYj",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Прочие запчасти",
+                                "url": "/category/avtozpchastii-avtomobilnye-34605/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-n/6021455483.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PKAVepNP7E6ljEsKNnRKy2qwesl",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1N07QFWv87Uaha--AH19Oyknjgku",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Автоаксессуары и принадлежности",
+                        "url": "/category/avtoaksessuary-i-oborudovanie-8608/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8608.png",
+                        "categories": [
+                            {
+                                "title": "Интерьер автомобиля",
+                                "url": "/category/obustroystvo-salona-8633/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015322810.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P_rO7LG7dRjzrsutfz915xYcOBv",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы и накидки на сиденья",
+                                "url": "/category/chehly-i-nakidki-na-sidenya-8640/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019081967.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-iI1TLFtBRwkPmQ-IGT9JnaHZYS",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ковры автомобильные",
+                                "url": "/category/kovry-avtomobilnye-34455/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6049293395.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_S93mam52wIJiZDSFVwjXbnFCKd",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Экстерьер автомобиля",
+                                "url": "/category/tyuning-i-vneshniy-dekor-8815/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026324682.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1POsmZotaIlZWcXsDMgQVYIc6ZLy",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Изоляционные материалы",
+                                "url": "/category/izolyatsionnye-materialy-dlya-avtomobiley-31771/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026338429.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RWToKg83YxRDPQuH80JlhMJMSDV",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Защита кузова",
+                                "url": "/category/zashchita-i-vneshniy-tyuning-8615/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025341158.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WfC0s6yzg-2tPDIYMCVQ143I6lN",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Перевозка багажа",
+                                "url": "/category/bagazhnye-sistemy-8610/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-v/6973269943.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X5t_K60lJeIF-zVhy-QdyUPddyu",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Органайзеры и сумки в багажник",
+                                "url": "/category/organayzery-i-sumki-8804/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022096975.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T6Sz_SMCVux0OtGCr99LY9WJu5Q",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автохолодильники",
+                                "url": "/category/avtoholodilniki-8609/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014754501.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NdRzeJPDThoLv7ZwjqC9Nq_5Qpa",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сувениры для автомобилистов",
+                                "url": "/category/podarochnye-nabory-dlya-avtomobilistov-30896/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026310357.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XC38BGPS26kHvGefyA4QLLzSVaC",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аварийные принадлежности",
+                                "url": "/category/avariynye-prinadlezhnosti-30291/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-i/6272858598.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YfNUje0WoYzjbNwUZX5lSMlnxwu",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Противоугонные устройства и блокираторы",
+                                "url": "/category/mehanicheskie-blokiratory-8734/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027141167.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M1cb58AZpIWMZ1mTQ27SJGTwxr2",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Термокружки и подстаканники",
+                                "url": "/category/termokruzhki-i-podstakanniki-avtomobilnye-31508/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026347858.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XMH0CFQi2CaykOzJFUtEJ3f8tec",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_6lZSOGQsMoIL-tSzIJVHhUv3k_",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Масла и автохимия",
+                        "url": "/category/masla-i-avtohimiya-8514/",
+                        "image": "https://cdn1.ozone.ru/s3/cms/55/t80/image_9.png",
+                        "categories": [
+                            {
+                                "title": "Моторные масла",
+                                "url": "/category/motornye-masla-8517/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033116127.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PDXSGy7-Jn5Vht4TMFVxhahCRtx",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Трансмиссионные масла",
+                                "url": "/category/transmissionnye-masla-8516/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-j/6949951327.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OJjuqlmQ9_TfjIcdJr2WHrLT2bi",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Специальные масла",
+                                "url": "/category/spetsialnye-masla-8520/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-s/6937158340.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SXNQcDn5xq5ozDQZo2ByPCm_zil",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Смазки",
+                                "url": "/category/smazki-8519/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018499106.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ONC59gO-XllT0CjxgTiHgu355aw",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антикоры",
+                                "url": "/category/antikory-8559/",
+                                "image": "https://ir-2.ozone.ru/s3/multimedia-m/6308739622.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W2mC-sbY8ID-p1pr1onKVhLKNlN",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Присадки и добавки",
+                                "url": "/category/prisadki-i-dobavki-31089/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-y/7036914742.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y2gFMKzDeFP5bjRiY7MUKjxkXgM",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антифризы",
+                                "url": "/category/antifriz-8515/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-c/6931062912.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OoXzh2ZM7L7IErpG5CEOiVKZJcq",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Промывки и очистители",
+                                "url": "/category/promyvki-i-ochistiteli-8530/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/89/t57/image_10.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_bxsvzcldHxoAOxaYLfdBSMy9Zz",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Клей и герметики",
+                                "url": "/category/kley-i-germetiki-8533/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-7/6963613891.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VF87F2dd7C-RNFJWyVO-aWss43m",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Жидкости омывателя",
+                                "url": "/category/zhidkosti-omyvatelya-8569/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-b/6924222335.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TY9KGHr5CcOMJdzvyZELgul-DAh",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тормозные жидкости",
+                                "url": "/category/tormoznye-zhidkosti-8521/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-5/7031489045.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZB-p84941szDoLJhuvaT4_oQM0x",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дистиллированная вода и электролиты",
+                                "url": "/category/distillirovannaya-voda-30599/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020231009.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_miuqXJqKRcLh5Jr4qwQw9jmRzm",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Жидкости для гидроусилителя",
+                                "url": "/category/gidravlicheskie-masla-34151/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-9/6342570465.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QMOj6K7TsX9XlG2ef0WxSAhsHO9",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Моторное топливо",
+                                "url": "/category/motornye-topliva-39797/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-c/6889234944.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UwyB6rl1nGBpGhQZdYbOiuJSEO3",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для очистки рук",
+                                "url": "/category/sredstva-dlya-ochistki-ruk-8553/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-m/6042416158.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y92tZ4nVnn-J3fOezbXgVySvfED",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы автохимии",
+                                "url": "/category/nabory-avtohimii-30628/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-6/7061088282.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XO_xGLw_aKULqKduJLdejy9oKUV",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Защита от грызунов",
+                                "url": "/category/zashchita-ot-gryzunov-dlya-avtomobiley-34942/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-0/7022695464.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VGfTB8hKnzXP-W7bhxcKK1Ens0g",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YKf5PcQpx9d2f13aomBguJ_Djn4",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Шины и диски",
+                        "url": "/category/shiny-i-diski-8501/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8501.png",
+                        "categories": [
+                            {
+                                "title": "Шины",
+                                "url": "/category/shiny-8502/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019035479.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WJtRRK1sbu0aDnEspuHQf9azpJr",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мотошины",
+                                "url": "/category/motoshiny-39926/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zf2xm6ICIX_kj2w8r4YWgdemqqB",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Диски",
+                                "url": "/category/kolesnye-diski-8504/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022859628.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OUGKpyagco2rNOeXuycvopzW4fw",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Камеры",
+                                "url": "/category/kamery-avtomobilnye-30247/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019384325.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wt0jr1rrq3Tc8XM61S-cB7c-MDl",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Колпаки на диски",
+                                "url": "/category/kolpaki-na-diski-8621/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026504495.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-t6mbE4b4dXGxYZJFse0JvpaRex",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ниппели, вентили и секретки",
+                                "url": "/category/kolpachki-na-nipel-8712/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021638638.JPG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TqUXnA0NCqoMnFqdOqvuMrc7zln",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Заглушки для дисков",
+                                "url": "/category/emblemy-na-kolesnye-diski-8667/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6015886033.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XWyTEdF-YTm3rWZjcg3Ts23-kgN",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Центровочные кольца и проставки",
+                                "url": "/category/prostavki-dlya-kolesnyh-diskov-35338/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-v/6032845819.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NWS4CKTxdVol4NQOXl4J-qSFPJn",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Уход за шинами и дисками",
+                                "url": "/category/uhod-za-shinami-i-diskami-8572/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-q/6377388674.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q3Gs8Sa8ij_YmVEgGYrBcvjcbXz",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы для колес",
+                                "url": "/category/chehly-dlya-avtomobilnyh-koles-31961/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015356316.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NQbmoeH9RVzOJG1RpLA0JnKdR-7",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Цепи и ленты антипробуксовочные",
+                                "url": "/category/tsepi-i-lenty-antiprobuksovochnye-8642/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021618852.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OaxbD51mFHKhkWWAKk9LgQ5Kw1Q",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1V_s5ix42EB3uNM8IO7yCC7xiyv7",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Автозвук",
+                        "url": "/category/avtozvuk-8733/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8733.png",
+                        "categories": [
+                            {
+                                "title": "Автомагнитолы",
+                                "url": "/category/avtomagnitoly-8742/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-t/6498415961.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MjMNKLEmK7KEtIdBDU_R_Y_QfQn",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Головные устройства",
+                                "url": "/category/golovnye-ustroystva-8740/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-8/6032964380.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T7XmHcKgpzXaier8sMnrpl4jUDg",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Колонки",
+                                "url": "/category/kolonki-dlya-avto-8738/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-7/6416290435.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-GmCamq_910p-zVTNv3eX_HKKm7",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сабвуферы для автомобиля",
+                                "url": "/category/sabvufery-dlya-avto-8739/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-f/6774609939.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mu-xAYagoSlWwKEVHzdQ5pWGA9K",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Усилители",
+                                "url": "/category/usiliteli-dlya-avto-8747/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-d/6778116013.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V0fdNx9Az2klGtgMzeSCuiofbvs",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "FM-трансмиттеры",
+                                "url": "/category/fm-transmittery-8737/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-a/6286193818.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UpoBi-QjN71NFXxjy7GEmYOlUAW",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антенны",
+                                "url": "/category/avtomobilnye-antenny-8745/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017442932.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Pv7s69fJlFIRRklL8GuzvAhARMW",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Установка автозвука",
+                                "url": "/category/komplekty-ustanovki-avtozvuka-8750/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022139251.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q87S6B0Nr2y465pcaCDZcd-zsng",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MwwtRlV1p_DM3VuE-kcJHMbUlau",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Транспортные средства",
+                        "url": "/category/transportnye-sredstva-39798/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39798.png",
+                        "categories": [
+                            {
+                                "title": "Автомобили",
+                                "url": "/category/avtomobili-39810/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wn3ofpdZREjs-abXllkS48SwFLs",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Водная техника",
+                                "url": "/category/vodnaya-tehnika-39800/",
+                                "image": "https://ir.ozone.ru/multimedia/1037561506.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TpJSmET8qfjd-sc3Nhk4w5Lf85o",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мототехника",
+                                "url": "/category/mototehnika-38600/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6402146505.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U97L5yuuf2MewqAO5A-vBB5WM7V",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Прицепы",
+                                "url": "/category/pritsepy-37235/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6118192593.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qup8irATAn_gs_SwDtLJYAPM0_A",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QH-6AMoT9CBLnPTZqg6kEEXFiRD",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Уход за автомобилем",
+                        "url": "/category/uhod-za-avtomobilem-8523/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-8/6420473204.jpg",
+                        "categories": [
+                            {
+                                "title": "Ароматизаторы автомобильные",
+                                "url": "/category/aromatizatory-i-neytralizatory-zapaha-8524/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1011485844.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MaaxBXnMs9q6OpRQOQfUs_ogvAQ",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Воски и полироли",
+                                "url": "/category/voski-i-poliroli-8562/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/f8/tfe/image_18.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VFn5rjgJh_n4kDmufENchZ0w4ek",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Краски и грунтовки",
+                                "url": "/category/kraski-i-gruntovki-8525/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1/6709421809.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Thj17-ZlkxwL8ehT1KvopZ7o2r9",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для ремонта царапин",
+                                "url": "/category/sredstva-dlya-remonta-tsarapin-30458/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025128819.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XCwFsKD4Im-AD367G9IXWjdLj7s",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чистящие средства для автомобиля",
+                                "url": "/category/chistyashchie-sredstva-dlya-avtomobilya-8534/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1011338679.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XKREw02JWfahOuf6SU0jYpnsqOF",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Щетки, губки и салфетки",
+                                "url": "/category/shchetki-gubki-salfetki-31092/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016702701.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_ITVHrAgJtG4CnmRojDM35EGSbb",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пылесосы автомобильные",
+                                "url": "/category/avtomobilnye-pylesosy-10652/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014038247.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NCPXic2fMfNxOWFECUnTULgH5W0",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мойки высокого давления и аксессуары",
+                                "url": "/category/moyki-vysokogo-davleniya-i-aksessuary-39531/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_5_oanydxlHpYQvWe4hQzgy3l1K",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы и утеплители",
+                                "url": "/category/chehly-i-utepliteli-8555/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013722445.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N4nVv1dZh_TmUsmZe-fS_iGtx-0",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Уход за стеклами и фарами",
+                                "url": "/category/uhod-za-steklami-i-farami-8566/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/c4/t7e/image_19.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XWgiJBAu1u7AVnWClVedJg7-iXG",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антигравий",
+                                "url": "/category/antigraviy-8558/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016043457.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-swqP_hbS3qWT4feNmxBqPUAQv-",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Размораживатели замков и стекол",
+                                "url": "/category/razmorazhivateli-zamkov-i-stekol-8773/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014446364.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VQd4UWEjIr1PwiVErNwCQx8gPLO",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VfwtpotFjVzdWUETHbWqqhWoIH7",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Электроника для автомобиля",
+                        "url": "/category/elektronika-dlya-avto-8751/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-1/6363378529.jpg",
+                        "categories": [
+                            {
+                                "title": "Видеорегистраторы",
+                                "url": "/category/videoregistratory-8755/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016585226.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W20D-AUdxz9c_u-bJg5TUkl3whT",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для видеорегистраторов",
+                                "url": "/category/aksessuary-dlya-videoregistratorov-34604/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023822324.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TOK-7GHa6K-rcNcsAVWQ4NmwfSu",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Камеры обзора",
+                                "url": "/category/kamery-zadnego-vida-8756/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025788503.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UpUowr-gATsa_UNHH_qIoMLpnEi",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автосигнализации и брелоки",
+                                "url": "/category/avtosignalizatsii-8731/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-w/6729820160.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zuo4i49FSIHSozmhNX9BwIHfAU7",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Радар-детекторы",
+                                "url": "/category/radar-detektory-8758/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016841871.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R7id0aCRCwQ-kMn5d7MZOPv8Ufw",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Розетки и разветвители прикуривателя",
+                                "url": "/category/rozetki-i-razvetviteli-prikurivatelya-8759/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015717764.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-0ukt_7EERH9lbsS3-_bKNsbYMb",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Выключатели зажигания",
+                                "url": "/category/vyklyuchateli-zazhiganiya-30828/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023442255.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ROcckbKohLado3zjXzDMVnteEzn",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Алкотестеры",
+                                "url": "/category/alkotestery-6256/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014293833.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_VG33VkOfK4SuPh_g9BjUgTzsIX",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Парктроники и комплектующие",
+                                "url": "/category/parktroniki-8757/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-4/6065444116.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YUt8wGzTTXb4K2FzXvIOeHzUjno",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Транспондеры",
+                                "url": "/category/transpondery-8672/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-a/6918498514.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mlu4E94Quvn5lWGTevO9HXY9EgA",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Вентиляторы и увлажнители воздуха",
+                                "url": "/category/ventilyatory-i-uvlazhniteli-vozduha-8736/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015717616.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Oja3hfeiZqPIeuBClmCYc9sVtF-",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бытовая техника для автомобиля",
+                                "url": "/category/kipyatilniki-v-prikurivatel-32046/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6000400757.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QuVq0BBYBA5FJr5heeM29280mUm",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бортовые компьютеры",
+                                "url": "/category/bortovye-kompyutery-30993/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6006261008.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ng7HHjIood6IHS1R9qJjg3jvRRr",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мониторы для салона автомобиля",
+                                "url": "/category/avtomobilnye-monitory-8743/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014294588.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XO6NqzbHVnnGeEGOirqLaoc2A8b",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автомобильная громкая связь",
+                                "url": "/category/avtomobilnaya-gromkaya-svyaz-8760/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1007307369.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R1JQ952QEPdjWMWiIr-m6UKtkdS",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тахографы и аксессуары",
+                                "url": "/category/bumaga-dlya-tahografov-8677/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025493248.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qv-0ij7ui3L01tGsXrvq7Yp1Yyb",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Устройства ограничения скорости",
+                                "url": "/category/ustroystva-ogranicheniya-skorosti-36347/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6055006330.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N38KfpgGRU8GKJM7sJ8PbbsvesJ",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Нагревательные элементы",
+                                "url": "/category/nagrevatelnye-elementy-8715/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025190482.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YlEh2qMyGBKCuPxKFGGEs-o3ZFX",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SqfEwXeBF4KmMJO4fSwitiJueDP",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Инструменты и оборудование",
+                        "url": "/category/avtomobilnye-instrumenty-8576/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8576.png",
+                        "categories": [
+                            {
+                                "title": "Домкраты",
+                                "url": "/category/domkraty-8587/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019342693.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RSu6fCJq-Tpeuk1kTXjwhYj1h5G",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лебедки",
+                                "url": "/category/lebedki-avtomobilnye-8632/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022163008.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YSM-k6yejP6bXc_024CD2ggkdr0",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ручные инструменты",
+                                "url": "/category/ruchnye-instrumenty-dlya-avto-30298/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014524728.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V39eAouVn9urf2hcVgrXG4SahYC",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Компрессоры и комплектующие",
+                                "url": "/category/avtomobilnye-kompressory-i-komplektuyushchie-38783/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6388915524.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-JT7q0Zv6xr3_w7tHKbxduyN70q",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Манометры",
+                                "url": "/category/manometry-avtomobilnye-8584/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018944808.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VM231lTbNsir_6yuynYwlcyrKqp",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пневмоинструменты",
+                                "url": "/category/pnevmoinstrumenty-dlya-avto-30299/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018947330.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QBRj7hzZ4ivJzXwZFLNgeIQ9R8O",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Крепеж",
+                                "url": "/category/krepezh-i-osnastka-8579/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018945089.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ViaBPe0kxW4R629lceuOu6znySq",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для автоинструмента",
+                                "url": "/category/instrumenty-dlya-hodovoy-chasti-i-tormozov-8597/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-l/6790411497.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MsnpU7VXq4dQ2apDjDeghrWPY6e",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фаркопы",
+                                "url": "/category/farkopy-8614/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014768014.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PFNZ7ylvPqWLJ1QixIEt3o2BgeX",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1T_dUy5kIowIHiunY6mkfOrfXT9Z",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Гараж и автосервис",
+                        "url": "/category/garazh-i-avtoservis-34163/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34163.png",
+                        "categories": [
+                            {
+                                "title": "Специнструменты для слесарных работ",
+                                "url": "/category/spetsinstrumenty-dlya-slesarnyh-rabot-8600/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018944137.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RabJ8DoQq5iTmMvn2soyHeesvXg",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструменты для кузовных работ",
+                                "url": "/category/instrumenty-dlya-kuzovnyh-rabot-8586/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018944391.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZJJC5klkyxgbRBdy8fCYTmr_GHJ",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Диагностическое оборудование",
+                                "url": "/category/diagnosticheskoe-i-izmeritelnoe-oborudovanie-8581/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018277752.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QJ6UcOLJV7tzotCJ72mCqIprnWv",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для авторемонта",
+                                "url": "/category/vspomogatelnye-instrumenty-8578/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-k/6126085448.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UHwxJHL_Desi3uqFhoprL8-bRDA",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Замена жидкостей автомобиля",
+                                "url": "/category/zamena-zhidkostey-avtomobilya-34164/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6019954049.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QBU6on2qlcwiKUSgbihZHX059Cp",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для парковки",
+                                "url": "/category/oborudovanie-dlya-parkovki-34242/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6017324795.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VZuQYYoahPMmLpHqv4snDQI9RGV",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для автомойки",
+                                "url": "/category/oborudovanie-dlya-avtomoek-35658/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-q/6175460030.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TPy0MuLJrnV1gssyAnTQXAH_dk7",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для отвода выхлопных газов",
+                                "url": "/category/oborudovanie-dlya-otvoda-vyhlopnyh-gazov-39276/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-9/6535362381.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YK3ZrpncEgzhe5wv-fZg4fjBcxO",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Подъемники для моторемонта",
+                                "url": "/category/podemniki-dlya-motoremonta-34770/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6017361863.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_pgyc5HBVe4S9EJS7pyauBzPTs3",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Торнадоры",
+                                "url": "/category/tornadory-31303/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027961295.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YSB5VRHMHklD7Sro3HKUNsGimNa",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ремонтные лежаки и сиденья",
+                                "url": "/category/remontnye-lezhaki-8670/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016704904.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YV_hYvQQEq7h92pjXd_mGUWIoT5",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Хранение колес",
+                                "url": "/category/hranenie-avtomobilnyh-koles-34199/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6031230267.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VOpzFEjGe3EkLUEX8yUZ0psV4bv",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Укрывные материалы",
+                                "url": "/category/ukryvnye-materialy-dlya-avtoservisa-35883/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-c/6048843588.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UDSLbkFxzHhKApC8mtR10ZrZI-Y",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YWeoDa3uMifmm4VsCMttDs9PPZ-",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аккумуляторы и аксессуары",
+                        "url": "/category/akkumulyatory-i-aksessuary-8685/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8685.png",
+                        "categories": [
+                            {
+                                "title": "Аккумуляторные батареи",
+                                "url": "/category/akkumulyatornye-batarei-8686/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025139257.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WrSEHwsG9VE4hau1FCqYjRXFbaF",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зарядные устройства для АКБ",
+                                "url": "/category/zaryadnye-ustroystva-dlya-akkumulyatorov-8687/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023862862.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NrGZE-bVL11MOrQjFmA1m0lD-8M",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Принадлежности для АКБ",
+                                "url": "/category/kronshteyny-dlya-akb-30381/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-g/6006555652.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q7ZqIRz2eCsCwJHUyChSIXRogY_",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аккумуляторные клеммы",
+                                "url": "/category/klemmy-akkumulyatornye-30317/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021674660.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YsnicHCIA_rVIXCJTXwhERX4UoS",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Провода прикуривания",
+                                "url": "/category/provoda-prikurivaniya-8688/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-c/6732278220.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_5o8I9nHyGgXJjo-jbRjjp1WS7p",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зарядные станции для электромобилей",
+                                "url": "/category/zaryadnye-stantsii-dlya-elektromobiley-34689/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6020322295.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NxI50fNBTwxtpDmSTRI_HxzLGCS",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RH10FsXuoahj9SqTzr8wjZbmFY3",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мототовары",
+                        "url": "/category/mototehnika-i-ekipirovka-8719/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-v/6786209371.jpg",
+                        "categories": [
+                            {
+                                "title": "Мотозапчасти",
+                                "url": "/category/motozapchasti-38599/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-t/6268068917.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MfzjHvTvQOHZSLeqmWkkJUYqXIT",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мотошины",
+                                "url": "/category/motoshiny-8505/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027673420.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MomaahiqGoy6QqLOtdKKyx86_ft",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мотоэкипировка",
+                                "url": "/category/ekipirovka-dlya-mototsiklistov-1692/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021027146.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZQPkN9n_rrmtgy2Z-tb7klPCSzk",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Экипировка для картинга",
+                                "url": "/category/ekipirovka-dlya-kartinga-38567/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6399803277.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_b8FCIeGc9J-gkFkmJ0WU0tj1RQ",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Экипировка для снегоходов",
+                                "url": "/category/ekipirovka-dlya-snegohodov-33162/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6008644247.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YtXFCQwqkdSqAJF64ppWwca-9jg",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мотоаксессуары",
+                                "url": "/category/moto-aksessuary-8720/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-g/6043216828.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PfiAbaDswgn2ioaNAE-Zj9DVMD5",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мотохимия",
+                                "url": "/category/motohimiya-38601/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-x/6869166081.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VjojJ-nA9I_SDxhYUG61VJq_ZCE",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_uijQqh2MZL08dbf0zqnJd1JILC",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Запчасти для грузовиков и спецтехники",
+                        "url": "/category/zapchasti-dlya-spetstehniki-37159/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/37159.png",
+                        "categories": [
+                            {
+                                "title": "Оптика для грузовиков",
+                                "url": "/category/optika-dlya-gruzovyh-avtomobiley-39946/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-7/7116841123.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OYxzsdusbA4MjLUh7HUMBL_Lu8k",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Двигатели для грузовиков",
+                                "url": "/category/dvigateli-gruzovyh-avtomobiley-39947/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RJJy-5Ahy9ErEoGcw9LLODg_WMQ",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Крепежные детали для грузовиков",
+                                "url": "/category/krepezhnye-detali-gruzovyh-avtomobiley-39948/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_FitBZ-zduxVveuvTU4wISMGRUS",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кузовные детали для грузовиков",
+                                "url": "/category/kuzovnye-detali-gruzovyh-avtomobiley-39949/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-g/6811448956.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_0fwFKhTS4IrlmdGx5r_uQ_7V6K",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пневматическая система для грузовиков",
+                                "url": "/category/pnevmaticheskaya-sistema-gruzovyh-avtomobiley-39950/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VvqHQmWuFoU5XwGCsMygzNihtUT",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Подвеска для грузовиков",
+                                "url": "/category/podveska-gruzovyh-avtomobiley-39951/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-x/6713820681.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mb5W6k5O4OV413JskZiON95n445",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рулевое управление для грузовиков",
+                                "url": "/category/rulevoe-upravlenie-gruzovyh-avtomobiley-39952/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-g/6740277784.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R7En3tUJMZyYBAIsEoj-kEBER5z",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система выпуска для грузовиков",
+                                "url": "/category/sistema-vypuska-gruzovyh-avtomobiley-39953/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-n/7069334891.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MWB8FiFTJDK0cJ0fpIdaRSIPa4P",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система зажигания для грузовиков",
+                                "url": "/category/sistema-zazhiganiya-gruzovyh-avtomobiley-39954/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PXaDEBAExb9DqexlxqiKteLdSDz",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система отопления, охлаждения для грузовиков",
+                                "url": "/category/sistema-otopleniya-ohlazhdeniya-gruzovyh-avtomobiley-39955/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-z/6741800279.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SA-aS1g0i-7cZGpDySLkGIFO9Zc",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система очистки стекол и фар для грузовиков",
+                                "url": "/category/sistema-ochistki-stekol-i-far-gruzovyh-avtomobiley-39956/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X4-WhDHnS9yn9g606OUwnry9twc",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Система питания для грузовиков",
+                                "url": "/category/sistema-pitaniya-gruzovyh-avtomobiley-39957/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VNC0OFhq7J3sl82N07N6MK8VpC-",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тормозная система для грузовиков",
+                                "url": "/category/tormoznaya-sistema-gruzovyh-avtomobiley-39958/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-y/7069983046.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XwGjxLfSVD_VGoA3X94IppQZ3Ek",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Трансмиссия для грузовиков",
+                                "url": "/category/transmissiya-gruzovyh-avtomobiley-39959/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sb9XURbWBmq7Ywho4KkohzQhZVR",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Универсальные детали для грузовиков",
+                                "url": "/category/universalnye-detali-gruzovyh-avtomobiley-39960/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-m/7129475446.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WPRioIavMWjP8s5A5mmJqUDkh6k",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фильтры для грузовиков",
+                                "url": "/category/filtry-gruzovyh-avtomobiley-39961/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-q/7094214278.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TDeT3WaEhkhTLMBXF_2MFjg0Hu3",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электрооборудование для грузовиков",
+                                "url": "/category/elektrooborudovanie-gruzovyh-avtomobiley-39962/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-x/7096123077.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MKyVIXeJmFkStwZ4nGy7H5a89UO",
+                                        "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-1xCAw8syRo2IXoKqx-5cAAlK_q",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Автолитература",
+                        "url": "/category/avtoliteratura-37492/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/37492.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_20wwCXPFA8VgTk2nE64Y7CI-4L",
+                                "sliceKey": "1CZj1Rh0wuuuxyLOI8PDyyeK3VHzg4f1"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1Xs1934yf82tiBQ_d4a_ZZ_R4vTG"
+            }
+        },
+        "countGoods": "67808",
+        "countGoodsTitle": "товаров"
+    }
+}

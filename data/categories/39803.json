@@ -1,0 +1,26 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "39803",
+        "title": "Автомобили",
+        "url": "/category/avtomobili-39803/",
+        "image": "https://ir.ozone.ru/s3/multimedia-l/6765310749.jpg",
+        "icon": "ic_m_auto_filled",
+        "columns": [
+            {},
+            {},
+            {}
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1NiSNfKT39XN3J4lDwi1iw01yb7Y"
+            }
+        },
+        "countGoods": "401",
+        "countGoodsTitle": "товар"
+    }
+}

@@ -1,0 +1,1049 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "12300",
+        "title": "Товары для животных",
+        "url": "/category/tovary-dlya-zhivotnyh-12300/",
+        "image": "https://cdn1.ozone.ru/s3/cms/e9/tcd/image3x.png",
+        "icon": "ic_m_pet_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Для кошек",
+                        "url": "/category/dlya-koshek-12347/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12347.png",
+                        "categories": [
+                            {
+                                "title": "Корма и лакомства",
+                                "url": "/category/korm-dlya-koshek-12348/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12348.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y_eYOpXVNpYXS5m3LPXFBQMstu_",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туалеты и наполнители",
+                                "url": "/category/tualety-12365/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-c/6702154356.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M2Vr8vITOCXrV7IdsqaKsBdK-er",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Когтеточки и игровые комплексы",
+                                "url": "/category/kogtetochki-i-igrovye-kompleksy-30230/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015933865.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WnJphwGh1CaKtY2Hpxi7XYfDf5A",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домики",
+                                "url": "/category/domiki-dlya-koshek-12361/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025856719.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_GzeLpK66Fkv02ZSKhXv9NDiYy4",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лежанки",
+                                "url": "/category/lezhaki-i-krovati-dlya-koshek-12379/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017275984.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PVfqWEUKRzaXAND2ZsmoN0mStdS",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Переноски",
+                                "url": "/category/perenoski-dlya-koshek-34579/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036389715.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yz1yMpQB5ayMGHBm6qlnf_7FDXA",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Клетки и ограждения",
+                                "url": "/category/kletki-dlya-sobak-i-koshek-32012/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017559199.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R5ZQC5P_nhj2NkIaIWpdpfJ8GXF",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игрушки",
+                                "url": "/category/igrushki-dlya-koshek-12359/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016681360.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XTeavQguvwh1ZpFyaS8I5Bqw5Ve",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ошейники и поводки",
+                                "url": "/category/osheyniki-i-povodki-dlya-koshek-12355/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-1/6027161533.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y_nO7ecpWu7Bt0ZXHZ3xaTK6N7r",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Посуда для кошек",
+                                "url": "/category/posuda-dlya-koshek-38324/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6060240561.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XTA56uVAb5zrvahRgKTzbVfTTwO",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Груминг",
+                                "url": "/category/gruming-12372/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021370127.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NDkyd-8_CyhmfylzjlLTQrLprat",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для ухода",
+                                "url": "/category/preparaty-dlya-koshek-12405/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12405.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZOH65QS1e652Ox2jTIXDyCD9J4e",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда",
+                                "url": "/category/odezhda-dlya-koshek-34930/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-c/6017083128.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MJfLtYa3un9lKY5j3GsIbvLJfUq",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Коррекция поведения",
+                                "url": "/category/sredstva-dlya-korrektsii-povedeniya-koshek-38952/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-l/6146860365.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QRR_d8v8l6icGTEiw82Us0pfuhy",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ритуальные товары",
+                                "url": "/category/ritualnye-tovary-dlya-koshek-36564/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6060256475.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sd340LMqA2WJ2xnMWdlVYYUJhMk",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PdzDHzMgYWtaekXnTd_CkeisMi2",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Для собак",
+                        "url": "/category/dlya-sobak-12301/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12301.png",
+                        "categories": [
+                            {
+                                "title": "Корма и лакомства",
+                                "url": "/category/korm-dlya-sobak-12302/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12302.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T2Zj3q54sGPt6Oi8BZmxaybIttY",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игрушки",
+                                "url": "/category/igrushki-dlya-sobak-12308/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033183204.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W_kSLg_4w8-tYl-lje-EOiIZ1sr",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Амуниция",
+                                "url": "/category/amunitsiya-12309/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010843952.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RNFo-MbkVO-LJP6sfy4h0YOAJ23",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лежаки и домики",
+                                "url": "/category/matrasy-i-lezhaki-dlya-sobak-12337/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6006931359.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XItVcnfi9m3qNXqjqnV9_RX7mbA",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Посуда",
+                                "url": "/category/posuda-dlya-sobak-38325/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6276975741.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xn_HMGMU4MQ2G40M801RGiSYmZO",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Груминг",
+                                "url": "/category/gruming-12315/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-r/6426797919.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MeWsgl5Y0syt4_jbsF1mTEd8zYZ",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для ухода",
+                                "url": "/category/preparaty-dlya-sobak-12393/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-q/6602648822.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N4V2JGCmszmJfdHTETvO4I_OmEd",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда",
+                                "url": "/category/odezhda-dlya-sobak-12325/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021657809.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XRKcHR4DZDUnuCwvJ3vttbWIYEY",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обувь",
+                                "url": "/category/obuv-dlya-sobak-12332/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015860839.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ulrp3PAxJwvOT5G-gypiXH6Rcd1",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Переноски",
+                                "url": "/category/perenoski-i-sumki-12362/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010306201.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SLwwe5BaMcn3kVUi0XHx6KqSRBX",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для перевозки",
+                                "url": "/category/aksessuary-dlya-perevozki-sobak-12340/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005521674.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MetO-zL321sTuMA7h6_pojLBEkE",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туалеты и пеленки",
+                                "url": "/category/tualety-12341/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-w/6659844368.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y2aKe3ba2aqncKsdLIYGlWFyeAC",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Вольеры и будки",
+                                "url": "/category/volery-i-budki-dlya-sobak-12333/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025054891.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q7t2-RRYrRDMHBzK_pQey1Ba3SG",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дрессировка собак",
+                                "url": "/category/dressirovka-sobak-12346/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027130044.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-coaQ3LYMFeDayAQFPDCegy4srM",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для коррекции поведения",
+                                "url": "/category/sredstva-dlya-korrektsii-povedeniya-sobak-39234/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6067542875.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NGVO88Ct2NPhB4oSeH4KCVrsYaY",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ритуальные товары",
+                                "url": "/category/ritualnye-tovary-dlya-sobak-36663/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-c/6133023720.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OCzOgrjIkzWY8sEnTj2eLDDE1ES",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_PMawEwxLyl-giaI03h63zW-PnI",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Для грызунов и хорьков",
+                        "url": "/category/dlya-gryzunov-12429/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12429.png",
+                        "categories": [
+                            {
+                                "title": "Корма и лакомства",
+                                "url": "/category/korma-dlya-gryzunov-12442/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12442.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zgd-eU76l584WfTFRrvZkimC6h8",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Клетки",
+                                "url": "/category/kletki-dlya-gryzunov-12435/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016993238.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_3YIIXxcX3TSJFoc_vdZuESC7NA",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Переноски",
+                                "url": "/category/perenoski-dlya-gryzunov-12432/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015371386.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MM5reWSoe8gDkIan0uJq20j64wr",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игрушки",
+                                "url": "/category/igrushki-dlya-gryzunov-12434/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010903259.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MwreYTG4QdzViEhMtW0QSmhZxxA",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домики и лежаки",
+                                "url": "/category/domiki-dlya-gryzunov-12431/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019369159.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PxjG65Up2bUMGLrWdgc4Cv_uFzZ",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туалеты и наполнители",
+                                "url": "/category/tualety-i-napolniteli-dlya-gryzunov-12444/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021512374.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XEtUafSVji5g3cQVkj6CDiRPx3I",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Миски, поилки",
+                                "url": "/category/miski-poilki-dlya-gryzunov-12441/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020744334.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UFIhoc4vcLnCZsZE8dFibn-r8zd",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для ухода",
+                                "url": "/category/preparaty-dlya-gryzunov-12390/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12390.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XaJeeQAhHS1BUHUe-OHKneRpzY9",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструменты для ухода",
+                                "url": "/category/instrumenty-dlya-uhoda-za-gryzunami-12433/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017683716.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T8QGlH_Pnxy_3TV6WHT0G9cLTPZ",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шлейки и амуниция",
+                                "url": "/category/shleyki-dlya-gryzunov-12430/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021625615.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-xgGF4QwRPUYxMe6-B9EEM6kEY8",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VosoVVzIeaK3klaoLGXsxFxD9Eu",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Для птиц",
+                        "url": "/category/dlya-ptits-12416/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12416.png",
+                        "categories": [
+                            {
+                                "title": "Корма и лакомства",
+                                "url": "/category/korma-dlya-ptits-12427/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12427.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MfWmgP0-FHAFBno04HDcVkQXjcH",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Клетки",
+                                "url": "/category/kletki-dlya-ptits-12422/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024458575.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YzynyBYOwHcu-fPAoA6fRdTwxMJ",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игрушки",
+                                "url": "/category/igrushki-dlya-ptits-12421/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014466747.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O3ouIpYRbHMy_H7oItGXfqhtP21",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Поилки, кормушки",
+                                "url": "/category/poilki-kormushki-dlya-ptits-12426/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021512395.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-3hM8AlpU8H5-Cfdj8E2q1bRcPZ",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы и колеса для клеток",
+                                "url": "/category/chehly-na-kletki-dlya-ptits-31979/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037057661.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UTU2EH6pFw9-TWz4UQQ9KiM2mHN",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Купалки и песок",
+                                "url": "/category/kupalki-i-pesok-dlya-ptits-12428/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019164608.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QoTmUiHdX0S35_pHC4cR6pdrtH6",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Светильники и лампы",
+                                "url": "/category/svetilniki-i-lampy-dlya-ptits-37712/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6178217174.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PPKL2AexC-nH-hKRgLyfMYPDwQn",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Переноски",
+                                "url": "/category/perevozki-12418/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037432817.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QPzNf-f-QDOfI6FeY0lD3xkgnDP",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда",
+                                "url": "/category/odezhda-dlya-ptits-38356/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-t/6286574249.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qt1No4o1rNksWogj3mIbd6KlhXE",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дрессировка и воспитание",
+                                "url": "/category/sredstva-dlya-dressirovki-i-vospitaniya-ptits-38953/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-k/6170856272.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QgIpyqg7UU8Fh328yssMKdSR4WS",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Скворечники и гнезда",
+                                "url": "/category/skvorechniki-12419/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022752225.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M3Zsvadp6nf4Zvpv-5wksO8B9De",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1XHwGH_CEuSUK9ESD6fhKnY_TFnZ",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Для рыб и рептилий",
+                        "url": "/category/akvariumistika-12446/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12446.png",
+                        "categories": [
+                            {
+                                "title": "Аквариумы и аксессуары",
+                                "url": "/category/akvariumy-i-aksessuary-34214/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028080369.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_w2GQvppQqG-dzGT5ykp2bGK_SZ",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Террариумы и аксессуары",
+                                "url": "/category/terrariumy-i-aksessuary-34651/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-k/6038242928.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xvskvfb7bLfLI-DgiLiY_dDlG6K",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Корма для рыб",
+                                "url": "/category/korma-dlya-ryb-32260/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-6/6668865546.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O4-TwUrzsX6ykVYxDIaUjKICXDj",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Корма для рептилий и других насекомоядных",
+                                "url": "/category/korma-dlya-ryb-i-reptiliy-12449/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12449.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_2vrzrh6pFNCThf4n-GLv69Uq1w",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Муравьиные фермы",
+                                "url": "/category/muravinye-fermy-38936/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6254618325.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZJiFV5H54mc2KJTMN71cX4N6Fa6",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1XkgT5Pr0QAHHxlDcLHpBhKPLMZu",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Для лошадей",
+                        "url": "/category/dlya-loshadey-12454/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12454.png",
+                        "categories": [
+                            {
+                                "title": "Корм для лошадей",
+                                "url": "/category/korm-dlya-loshadey-32447/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1/6813570133.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VlJC8yIagnUuDZq2sZRKiNNk3Gy",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Амуниция для лошадей",
+                                "url": "/category/amunitsiya-dlya-loshadey-33823/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6011467033.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NWxPWiRKj0_3Y18ei9dwu8KAJws",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для ухода",
+                                "url": "/category/preparaty-dlya-loshadey-12415/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12415.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NkqBtQG25MqrFUiBa5JrHWcoXE2",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для конюшни",
+                                "url": "/category/oborudovanie-dlya-konyushni-35094/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6027474059.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZiVjj7_wYat-MjbWsnf_HBaSpsv",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Подковы и инструменты для ковки",
+                                "url": "/category/podkovy-12455/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6030341023.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VPBBYjGxmS3N_rQeBhkEjV_kv8Y",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1W_4JYKHu431tBlu86EYAsMTcSYc",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Ветаптека",
+                        "url": "/category/veterinarnaya-apteka-12387/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/12387.png",
+                        "categories": [
+                            {
+                                "title": "Лекарственные препараты",
+                                "url": "/category/lekarstvennye-sredstva-dlya-zhivotnyh-31674/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-c/6000376968.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NnEDHQrBFu9gVWOg7SFUcWB22W4",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Парафармацевтика",
+                                "url": "/category/parafarmatsevtika-39414/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-q/6149964902.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XGoFJlPIuxG5qqglRy-J69eP4TA",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Медицинские инструменты и оборудование",
+                                "url": "/category/meditsinskie-instrumenty-dlya-zhivotnyh-35078/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-4/6012434188.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZBWsbfVAVOPPLjrb4kkBk9rvqlE",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Расходные материалы",
+                                "url": "/category/rashodnye-materialy-dlya-lecheniya-zhivotnyh-39431/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-y/6335582098.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MQM7Li038tyuZc_7VTpBYI_reEc",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Товары для животных-инвалидов",
+                                "url": "/category/tovary-dlya-zhivotnyh-invalidov-39433/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-j/6094973311.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RlsZAWnRqE4jmeubX_x1r3NK-yh",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1N2NpKbA7lpQr5vEkh17SgCCL4M6",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Фермерское хозяйство",
+                        "url": "/category/tovary-dlya-fermerskogo-hozyaystva-34997/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34997.png",
+                        "categories": [
+                            {
+                                "title": "Оборудование",
+                                "url": "/category/oborudovanie-dlya-ptitsevodstva-i-zhivotnovodstva-34998/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-6/6009252654.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XFa1tm7FFI36wwSgelAZ-b706YL",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Содержание с/х животных и птиц",
+                                "url": "/category/soderzhanie-uhod-ptitsy-i-selskohozyaystvennyh-zhivotnyh-34999/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6016968110.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NvZO-dhNYIAcdTgZWE0UXjFs89u",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Корма и добавки",
+                                "url": "/category/korma-i-dobavki-dlya-ptitsevodstva-i-zhivotnovodstva-35000/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6026380478.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QlnI0jcaOGrxFvq_WFuX290hdBh",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Товары для пчеловодства",
+                                "url": "/category/tovary-dlya-pchelovodstva-14766/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-4/6537637108.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OPphLYTIpVb_TYpdPHS2q4WmhkO",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YN-GfjpmkGMPMvGCFEZ4DY8USO5",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Знакомство с питомцем",
+                        "url": "/category/priyuti-pitomtsa-36944/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36944.png",
+                        "categories": [
+                            {
+                                "title": "Собаки",
+                                "url": "/category/vzyat-sobaku-iz-priyuta-36946/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-k/6162179876.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MMygCaOG7DRWrPG6Rpa4iHR3Baq",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кошки",
+                                "url": "/category/vzyat-koshku-iz-priyuta-36945/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6245417026.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ViCzELpam6gwMumUoGylfYbkTdc",
+                                        "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QmHro4ulTrt9R3oKhgKJp5wwH7v",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Ветеринарное оборудование",
+                        "url": "/category/professionalnoe-veterinarnoe-oborudovanie-37990/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/37990.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VcOm8ovQTohQB0ao3GloR0es8e8",
+                                "sliceKey": "1CZj1VKvguu9_rNzI_c8s-e9bbwKiQpL"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1Sqe82dALK2FR5t70hVHXWIGI6jn"
+            }
+        },
+        "countGoods": "64609",
+        "countGoodsTitle": "товаров"
+    }
+}

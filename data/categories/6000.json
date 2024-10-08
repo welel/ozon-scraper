@@ -1,0 +1,1659 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "6000",
+        "title": "Аптека",
+        "url": "/category/apteka-6000/",
+        "image": "https://cdn1.ozone.ru/s3/cms/c0/tfc/pharmacy1.png",
+        "icon": "ic_m_pharmacy_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Лекарственные средства",
+                        "url": "/category/lekarstvennye-sredstva-30000/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30000.png",
+                        "categories": [
+                            {
+                                "title": "При простуде и гриппе",
+                                "url": "/category/prostuda-gripp-30006/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6006836353.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vt9edMKRYayloPhF7Fkrz1wpLmB",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Иммуностимуляторы",
+                                "url": "/category/immunitet-30015/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6014642145.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S-Q2XYPi2gqpm85e2KHA6ZNSp5p",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Желудок, кишечник, печень",
+                                "url": "/category/zheludok-kishechnik-pechen-30032/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-q/6874647710.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OMFTS9JgxyBmI9IkU_mkxbaTKAT",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Препараты при дерматологических нарушениях",
+                                "url": "/category/kozha-volosy-nogti-32097/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024135671.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sk_yF6GTZ9xp0YLC5jzW6ik0TxQ",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При нарушениях опорно-двигательного аппарата",
+                                "url": "/category/lekarstva-ot-bolezni-sustavov-30103/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1034226918.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-H0DR_VRTuPo6fCKsNo99_iGHC3",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сердечно-сосудистые",
+                                "url": "/category/serdechno-sosudistye-zabolevaniya-30007/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-n/6028042835.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OtO1z4e6F2xLceW6F3t7hQ6Y2cq",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При неврологических нарушениях",
+                                "url": "/category/nevrologiya-30081/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-n/6014046107.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W-fc-1A7G5K85qYg6c2oDFQgpGi",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Препараты при аллергии",
+                                "url": "/category/lekarstva-ot-allergii-30014/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1034227907.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TcX3Y0zLmj-eDXRBU0Nc6-Cguyz",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При нарушении обмена веществ",
+                                "url": "/category/narushenie-obmena-veshchestv-6118/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028492123.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NktAXiOTIEa-YmaUUBUnAv5TdaD",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Витаминные препараты",
+                                "url": "/category/vitaminnye-preparaty-35301/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-1/6033009553.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xu_2x_EGd_DDmTsPJ_SgI__7iAb",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При воспалениях и инфекциях",
+                                "url": "/category/vospalenie-i-infektsii-30435/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6011860425.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mvl1Pnixr4r7SS69MSDIIIJyiNZ",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При курении и алкоголизме",
+                                "url": "/category/vrednye-privychki-6134/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-q/6011860550.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OEF95ZypLHA745_mohv9tJwqwKe",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При гинекологических нарушениях",
+                                "url": "/category/akusherstvo-i-ginekologiya-30048/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-6/6902342778.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MMOScz5LHOP-Bhiez63Hgh-mquf",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Болеутоляющие",
+                                "url": "/category/boleutolyayushchie-preparaty-30002/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-q/6012316130.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XYZR5FBaCElQISA9MpiiIcOgk5e",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При нарушениях мочеполовой системы",
+                                "url": "/category/mochepolovaya-sistema-30044/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026527207.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M7JcTvru9RBkfOoPzL4NcRyL_bY",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При нарушениях работы зрения",
+                                "url": "/category/lekarstva-dlya-glaz-30063/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024481136.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TwmDZyH038rYc9MayxrPLDZXXYX",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "При гормональных нарушениях",
+                                "url": "/category/endokrinologiya-30096/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024136028.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WLdkrQs6yL86eMOJ0fy90aGuXlm",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для зубов и десен",
+                                "url": "/category/stomatologiya-30062/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024815978.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RYqv1fQBBfO_ulbprfLpwIDFHxo",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Препараты при бронхиальной астме",
+                                "url": "/category/bronhialnaya-astma-30025/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025845041.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ru_2YQMC8dhuEi9fPaN6TI52WXP",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Препараты при онкологии",
+                                "url": "/category/lekarstvennye-sredstva-pri-onkologii-39585/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-8/6480002588.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NrOWs_e4wEzOK1U9htUE1c0bZ9k",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_wSOxoI7UzR6j2NuGbrywiUYahn",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Витамины и БАДы",
+                        "url": "/category/vitaminy-bady-i-pishchevye-dobavki-6164/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6164.png",
+                        "categories": [
+                            {
+                                "title": "БАД",
+                                "url": "/category/bady-6183/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6005741973.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XrIbIL6kEV6McmKQUO1SL7t5WvA",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Витамины и витаминно-минеральные комплексы",
+                                "url": "/category/vitaminy-i-vitaminnye-kompleksy-6166/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021896492.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U6UCNQwsZip7oqzaq2GPPBCC3Gw",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1WH2jbaMFDveZb30plt31rR6K4Fv",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Парафармацевтика",
+                        "url": "/category/parafarmatsevticheskie-sredstva-39537/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39537.png",
+                        "categories": [
+                            {
+                                "title": "Лечебные средства",
+                                "url": "/category/gomeopatiya-6162/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024135431.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-akf7EK_2jzT1M_jAPyuBa85pKC",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства профилактики",
+                                "url": "/category/uho-gorlo-nos-30021/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/bb/tea/image_55.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XiAwx5qvUbOEryTjHBJJOinwTi9",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Диабетические товары",
+                                "url": "/category/diabet-30069/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-y/6700805782.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XgBMaZ9eMERI0sYSA5hdLFf89u4",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплексные пищевые добавки",
+                                "url": "/category/kompleksnye-pishchevye-dobavki-38313/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6142741110.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RjbhnJapLdFVT_5HDzKnLaUb3_z",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Специализированное питание",
+                                "url": "/category/spetsializirovannoe-pitanie-30938/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/f0/t7d/image_70.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TrtGtSskp6Wdu5zFlGBhOaCrirj",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дыхательные смеси",
+                                "url": "/category/dyhatelnye-smesi-6198/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018275165.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W7hPIV1gmjO5pYBi6ERRbI4HyHs",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PDKj9-GTSOTCv9ulcwfCfC3A7t_",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Оптика",
+                        "url": "/category/linzy-ochki-aksessuary-6295/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6295.png",
+                        "categories": [
+                            {
+                                "title": "Контактные линзы",
+                                "url": "/category/kontaktnye-linzy-i-aksessuary-6296/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-s/6653551348.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NGrXuwpsCvz1uNbB8EUkTyJcyUT",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Растворы для линз",
+                                "url": "/category/rastvory-dlya-linz-6300/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-t/7047490781.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YI80r0-kzmFLe_Guel3pPmUjZmL",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Линзы для очков",
+                                "url": "/category/komplektuyushchie-dlya-ochkov-38607/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6362806548.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MhZ7mtDnwypNCVexcf7UK9yRcmm",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оправы для очков",
+                                "url": "/category/opravy-dlya-ochkov-39942/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-y/6746849458.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VnsDD3aLKPNkvikX9-BwLRxJbGQ",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Очки для зрения",
+                                "url": "/category/ochki-dlya-zreniya-6303/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013064686.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R7a3O5MTFA842Iyqbkbwvz6aZi4",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и комплектующие для линз и очков",
+                                "url": "/category/aksessuary-dlya-linz-6302/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021613145.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xub4b0CIXSgbUCWQ2vvNrX2AQh2",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Капли для глаз",
+                                "url": "/category/uvlazhnyayushchie-kapli-6301/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/77/tee/image_52.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sur3Re7boZhMcnspzoAW7BqwziT",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Tjc0pPMS7H2LAhUR7OKhGOGOQWI",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Медицинские приборы",
+                        "url": "/category/meditsinskie-pribory-6254/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6254.png",
+                        "categories": [
+                            {
+                                "title": "Тонометры, пульсоксиметры и термометры",
+                                "url": "/category/tonometry-6261/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020864368.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mo4BsgzbdO5ffi4tjwnvzyRDgER",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стетоскопы",
+                                "url": "/category/stetoskopy-6241/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018265715.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PxXi56gCQp4Xgb84Sj-ZW9ECcCL",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Глюкометры и анализаторы",
+                                "url": "/category/glyukometry-i-analizatory-krovi-6257/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021788209.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Uu4ZFSoP_pkfgOU-9cn33sw-OB6",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инфузионные и инсулиновые помпы",
+                                "url": "/category/insulinovye-pompy-i-aksessuary-31457/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6022950953.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VXbw3TBDw5RFg0IkMvj53K6kAAO",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ингаляторы, устройства от насморка и аллергии",
+                                "url": "/category/ingalyatory-i-aksessuary-35039/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6008818675.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_j9bjlxg_OM9WJHyXVbWUUkevae",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Слуховые аппараты и усилители звука",
+                                "url": "/category/sluhovye-apparaty-30987/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027172924.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Must4PUKo0gXIVdYpAFP5QMSJQB",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кварцевые лампы, рециркуляторы и облучатели",
+                                "url": "/category/kvartsevye-lampy-6268/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023575469.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XIyNFfPJrwwVN85r3F920WUmubH",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Концентраторы кислорода",
+                                "url": "/category/kontsentratory-kisloroda-34271/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6034543779.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-Gj-XxMj_OtjQEdTWqTpaxGQb00",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дерматологические приборы",
+                                "url": "/category/dermatologicheskie-pribory-31433/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033661553.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UNOeUhQ4fPyITNF7aDAcHsXw6Z9",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Активатор воды и генераторы водорода",
+                                "url": "/category/aktivatory-vody-6262/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013421243.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UYA5WwCO_U1a_4HcCcnjhOvdWQG",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стерилизаторы и дезинфекторы",
+                                "url": "/category/sterilizatory-6279/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037189522.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U6Vs9lZGGXp503RpnDg6a9cSrfS",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Весы медицинские",
+                                "url": "/category/vesy-meditsinskie-37397/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6194455331.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YoNYzdJRIPOFJcTsI63LV4qfnJL",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Очки, осветители, рефлекторы и видеоувеличители",
+                                "url": "/category/osvetiteli-i-reflektory-meditsinskie-31329/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1029793708.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U-Eu_40MQv4_MTlaJq21H0zHudx",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Приборы для контроля сна, антихрап",
+                                "url": "/category/pribory-dlya-kontrolya-sna-38583/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-v/6363537643.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-ovYvmBRcn_w6SAJv13yTU1xc4u",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Нейростимуляторы",
+                                "url": "/category/neyrostimulyatory-30976/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027248047.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-f-u1PwS_6yYdCUWe_RK1MJaL-_",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Свинг-машины",
+                                "url": "/category/sving-mashiny-6274/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036079654.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SkW1_OMAn3JGpY-hkz5UkLZefKM",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1P5dGA_2t8l6T0yGQO4qhxyrl9OB",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Медицинское оборудование",
+                        "url": "/category/professionalnoe-meditsinskoe-oborudovanie-37654/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/37654.png",
+                        "categories": [
+                            {
+                                "title": "Для анестезии и реанимации",
+                                "url": "/category/anesteziologicheskoe-reanimatsionnoe-oborudovanie-37655/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-a/6631664950.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zh7ZxCSwledXwlsWroVKrw8sa3O",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аппараты ЭКГ, МРТ, рентген",
+                                "url": "/category/apparat-ekg-37669/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-i/6212754186.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OqiM2W_R2ckmMHz0gV5MFUNdSJY",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Медицинский осмотр",
+                                "url": "/category/apparaty-dlya-provedeniya-meditsinskogo-osmotra-39185/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-g/6655412716.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y2q4nqmZ3sNaPMwc-Gl4T6Iisf3",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лабораторное оборудование и материалы",
+                                "url": "/category/laboratornoe-oborudovanie-i-materialy-37238/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6061267630.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MCQxi4CvS0VYupl3lvN2U4rY7Yl",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для ортодонтии и стоматологии",
+                                "url": "/category/ortodonticheskie-pribory-39603/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-d/6659437189.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-saCauB5ziZZX1H1Mr_6CWLmCoi",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Офтальмологическое оборудование",
+                                "url": "/category/oftalmologicheskoe-oborudovanie-39600/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-I3hrH20To5WZE4fDCtX9TdIf9J",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для УЗИ и эндоскопии",
+                                "url": "/category/endoskopicheskie-instrumenty-33974/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-i/6020683386.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QVRv5v4Qk6e8sfa4QzwrVdusw7V",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для физиотерапии",
+                                "url": "/category/fizioterapevticheskie-apparaty-6278/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-u/6730588974.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VpSjSPK_R3_Tj77owxeynlgcy5y",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Учебное медицинское оборудование",
+                                "url": "/category/uchebnoe-meditsinskoe-oborudovanie-38948/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/38948.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q3fvEYilA-zNPoVKIntAsDp4rtS",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1V57tYFwajZKD7ibPCgYdA36P5J0",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аксессуары и комплектующие",
+                        "url": "/category/aksessuary-dlya-meditsinskoy-tehniki-i-priborov-39853/",
+                        "image": "https://ir-3.ozone.ru/s3/multimedia-1-w/6919242404.jpg",
+                        "categories": [
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-meditsinskoy-tehniki-6280/",
+                                "image": "https://ir-4.ozone.ru/s3/multimedia-1-m/7035089710.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1--llevKuAb3Tiw1U5v271uuB7nq",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплектующие",
+                                "url": "/category/komplektuyushchie-dlya-meditsinskoy-tehniki-39918/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-o/6604551456.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_WI0bkXpM5x5TxzMnxYXPCcrZQ2",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1NaZ6igVnDXrCAudqM4sN5Mul4YV",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Медицинские изделия и расходные материалы",
+                        "url": "/category/meditsinskie-izdeliya-6209/",
+                        "image": "https://ir-3.ozone.ru/s3/multimedia-3/6422085675.jpg",
+                        "categories": [
+                            {
+                                "title": "Контейнеры для анализов и пакеты для стерилизации",
+                                "url": "/category/konteynery-dlya-analizov-30511/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019568696.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UVPx1BivBTa9kjZige4QJsfo8w7",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кровоостанавливающие средства",
+                                "url": "/category/krovoostanavlivayushchie-gubki-30670/",
+                                "image": "https://ir-1.ozone.ru/s3/multimedia-u/6493898286.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TaMR-K4xzgB4IvOOSU7eRIvzk-i",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Перчатки, маски, бахилы и шапочки",
+                                "url": "/category/perchatki-meditsinskie-6212/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037027458.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vcgyqi_M9VOW5D2Nh3i-S8AdC1K",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Перевязочные материалы",
+                                "url": "/category/perevyazochnye-materialy-35152/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-6/7052234478.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XHMG6ykQcmjmG12N3Jt2lKryxUm",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пипетки, дозаторы, спринцовки и клизмы",
+                                "url": "/category/sprintsovki-6242/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-5/6007031561.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NZHV0bKcArhakhJSOiU5vzPX-GG",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пессарии и уринаторы",
+                                "url": "/category/pessarii-30912/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027651235.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SFpKY3AI2m9mhSWcb_sFG38Ssji",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шприцы, иглы и инъекторы",
+                                "url": "/category/shpritsy-6214/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021790258.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_9arHE90SMtC_PPJm_KoRn-cRWr",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Таблетницы",
+                                "url": "/category/konteynery-dlya-tabletok-6362/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018900393.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Nb2WIA7dzDgYnCzb6k62wUr6IoN",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аптечки",
+                                "url": "/category/aptechki-6215/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023214095.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-Z1EDmeyzae7fNrsK9lLxdyPdRx",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Диагностические тесты",
+                                "url": "/category/diagnosticheskie-testy-6239/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-i/6091026882.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y_zHXosZTXckNUh8btRkvVPebqd",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для процедур и дезинфекции",
+                                "url": "/category/dezinfitsiruyushchie-meditsinskie-sredstva-33249/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6010693462.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SaH191j-hCWf7fLhS9tWQXVSTjh",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Грелки",
+                                "url": "/category/grelki-32170/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-1/6010942057.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-2_hgTLH1UyTYQ96iSVzfyPfAyO",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-kd3nMxjCgfCMaj5QAAqFurvmV3",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Одежда и текстиль медицинские",
+                        "url": "/category/odezhda-i-tekstil-meditsinskie-39939/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-1-o/6916154460.jpg",
+                        "categories": [
+                            {
+                                "title": "Текстиль",
+                                "url": "/category/tekstil-meditsinskiy-39940/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-q/6016557146.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rs2K6p6JvRYexm0eybmDdEMR6Kj",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда медицинская и послеоперационная",
+                                "url": "/category/odezhda-meditsinskaya-odnorazovaya-39941/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-i/6836579478.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_bxKMBypDs4ELme_Nm01jJN6wRQ",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда и аксессуары адаптивные",
+                                "url": "/category/adaptivnaya-odezhda-37439/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1030758035.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RrC51NCh6jVvfIidTMStbU9INvw",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SABbcsKCslBqonAaDoRf8i6W62T",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Медицинские инструменты",
+                        "url": "/category/meditsinskie-instrumenty-31231/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1015317092.jpg",
+                        "categories": [
+                            {
+                                "title": "Инструмент для биопсии",
+                                "url": "/category/hirurgicheskie-instrumenty-32173/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1032130652.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZFDLse9sKhdhhWpE0fI9ijdk242",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструмент гинекологический",
+                                "url": "/category/ginekologicheskie-instrumenty-32172/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6011452145.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TRzAARYqPdgeVw-LSYesiAzKAOt",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструмент для оториноларингологии",
+                                "url": "/category/lor-instrumenty-32175/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-n/6032856503.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RPmqOhDFGu3yS82EkS8lF4Xue2C",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструмент для неврологии",
+                                "url": "/category/nevrologicheskie-instrumenty-32174/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033571448.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RZGjHnpV1pwxmHUNq2o4bp-6maf",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструмент для хирургии",
+                                "url": "/category/instrument-dlya-hirurgii-39850/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-r/6794633403.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YxsOnppoP-ATncYuxI03gLSxRvQ",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструмент стоматологический",
+                                "url": "/category/instrumenty-stomatologicheskie-37019/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6063803148.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SAboejyiJIfEcFq8OMgvRCP6Vbt",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZG3IHm57wHGqqBEZ8GBEYRmeGTG",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Материалы и средства стоматологические",
+                        "url": "/category/instrumenty-i-materialy-stomatologicheskie-31441/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1027945504.jpg",
+                        "categories": [
+                            {
+                                "title": "Материалы и средства",
+                                "url": "/category/materialy-stomatologicheskie-37020/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6018131193.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RJ-hzLY-DD0EckFt7QK2qAzdRzR",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Имплантаты и компоненты",
+                                "url": "/category/implantaty-i-komponenty-39851/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-i/6888575178.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Pi9brZmxy3Bl8L36YFfiOiiMnPh",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Капа, трейнер",
+                                "url": "/category/kapy-stomatologicheskie-31246/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-p/6951238729.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P73ja2gD50DSOEwY12PUGazaCn0",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YG55gNOPwNMq5OZ836rixlXfixX",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Товары для гигиены",
+                        "url": "/category/lichnaya-gigiena-30397/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30397.png",
+                        "categories": [
+                            {
+                                "title": "Презервативы и лубриканты",
+                                "url": "/category/prezervativy-i-lubrikanty-1751/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-p/6871708309.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YELaOeZUl6nQJ9josy7Msc5N3NW",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антисептические средства",
+                                "url": "/category/antibakterialnye-sredstva-6199/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-x/6249928809.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ti_ni57Nq8zqDC7aG226bYIbmd-",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ирригаторы и аксессуары",
+                                "url": "/category/irrigatory-i-aksessuary-35159/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/28/t9c/image_102.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ob2Y6TdYW2i0lHj8TAcSiEU4m-c",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Уход за полостью рта и отбеливание зубов",
+                                "url": "/category/tovary-dlya-otbelivaniya-zubov-36974/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1011850695.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SpH6IcWdaLMmVCS-e86Iorj7h7P",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Прокладки урологические",
+                                "url": "/category/prokladki-urologicheskie-30404/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-l/6192113013.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xtf6rv-UQcS2qmJOQJL9q1BZzuo",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Менструальные чаши",
+                                "url": "/category/menstrualnye-chashi-30941/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-7/6592928191.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XIEOUhki2GhRMpx0VjEwY1V58zw",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Вкладыши для одежды и пластыри для груди",
+                                "url": "/category/prokladki-dlya-podmyshek-30503/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/d6/t2d/image_60.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YIZd_PqaaTrokmdNuA4QTPBStHK",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Товары для зубных протезов",
+                                "url": "/category/uhod-za-zubnymi-protezami-6344/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-o/6682973964.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YJn4gvrs-XRJVGtd9PFHcCm40Tq",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Товары для чистки ушей, носа",
+                                "url": "/category/pribory-dlya-chistki-ushey-7015/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-j/6695524891.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T2JWyZvAXIv8M2tMtsi7brZYSjY",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Здоровье и гигиена малыша",
+                                "url": "/category/zdorove-i-gigiena-malysha-39553/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TfVJ5UWtVeFzbQ3K2Cn28DmXxIy",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Nf0alPDmvfazHKIFd8JE-7akzV5",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Товары для реабилитации",
+                        "url": "/category/sredstva-dlya-reabilitatsii-6249/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6249.png",
+                        "categories": [
+                            {
+                                "title": "Товары по уходу за больными",
+                                "url": "/category/credstva-po-uhodu-za-bolnymi-6243/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-d/6978984709.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rn8u_z89WeZRsV6UKIKnC3ecTnx",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Костыли, трости и ходунки",
+                                "url": "/category/kostyli-trosti-kolyaski-35153/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-4/6015450880.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UK5w-vMud62BN_f3TI8PsWIWope",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бытовые приспособления",
+                                "url": "/category/prisposobleniya-dlya-lyudey-s-ogranichennymi-vozmozhnostyami-37860/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-y/6075436342.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y5rh5zqhn2hPATGiFYrrnTjPjbO",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Коляски инвалидные, пандусы",
+                                "url": "/category/kolyaski-invalidnye-pandusy-37674/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6117210162.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1St7hGfr6oFLnVlmjnB4HrcR_X6S",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Параподиумы, вертикализаторы и подъемники",
+                                "url": "/category/parapodiumy-vertikalizatory-i-podemniki-37861/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6078136179.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SE7ue6fB2iUajfdH2CtekcaQDJY",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Товары для ухода за стомой",
+                                "url": "/category/tovary-dlya-uhoda-za-stomoy-39576/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-b/6351451631.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RsB0MHwtntgTNt1STg-oYC79SXJ",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Протезы и аксессуары",
+                                "url": "/category/protezy-34808/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6148075463.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QU7M9Uk0rBX8n1LOJxT-N-ISXuB",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Реабилитационные тренажеры и оборудование",
+                                "url": "/category/reabilitatsionnye-trenazhery-i-oborudovanie-37857/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6199129643.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PacAgjJ2S6DNDaYYfavQyGjkAw7",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Товары для детей с ДЦП",
+                                "url": "/category/tovary-dlya-detey-s-dtsp-37852/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033765370.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_SMGJn0WpjKbZ7cO-ANDHnSfDft",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PJI62sYcnNYSB13BADq7Pf7cwp9",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Ортопедия",
+                        "url": "/category/ortopediya-6285/",
+                        "image": "https://ir-3.ozone.ru/s3/multimedia-x/6399591933.jpg",
+                        "categories": [
+                            {
+                                "title": "Бандажи и ортезы",
+                                "url": "/category/bandazhi-i-ortezy-6286/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015753703.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XiujRWXES-71uhLh_lnchT26onN",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Корсеты, корректоры осанки и пояса",
+                                "url": "/category/korsety-i-korrektory-osanki-6290/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021320693.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tbbx01vxOoVjAaSrVSIorChjFPw",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Компрессионное белье",
+                                "url": "/category/kompressionnoe-bele-zhenskoe-7527/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1031784206.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UaNlJO4QdKW8bH8hxnF7SSF-XvI",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ортопедические стельки",
+                                "url": "/category/ortopedicheskie-stelki-6294/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1/6600048445.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vd0UX7hc1zEhEsT6i9Ymw0Z6AcN",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Корректоры ног и стопы",
+                                "url": "/category/korrektory-stopy-6288/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015428660.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_ChtOwbEVqeiqz5WiSyL12PQcOJ",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бинты эластичные и шины",
+                                "url": "/category/binty-elastichnye-6287/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021359312.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VkTvd5c9z7rUifbr5UrxjPDeTVo",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ортопедическая обувь",
+                                "url": "/category/ortopedicheskaya-obuv-6292/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6005045784.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OUDa_rEaYYtcrcQHPhZm2ciDnNg",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TB6wbtSF6O-8-uSnxjyv2-i1cCK",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Ручные массажеры и аппликаторы",
+                        "url": "/category/ruchnye-massazhery-i-ipplikatory-30529/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30529.png",
+                        "categories": [
+                            {
+                                "title": "Массажеры и банки",
+                                "url": "/category/ruchnye-massazhery-10789/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022255476.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MyI65ju8ZW69shpryMKqW937Xes",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Массажные и ортопедические коврики",
+                                "url": "/category/massazhnye-kovriki-31872/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1031634569.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QxklVLbjdblsGfW9yzeNOdR-oC4",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рефлекторные тапочки",
+                                "url": "/category/reflektornye-tapochki-10790/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019106451.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Pqkd3dF1T6w0285BuA500D7pBXp",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Акупунктурные иглы и браслеты",
+                                "url": "/category/tibetskie-ipplikatory-10791/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021743179.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NSBP_0EHdtyJYgQ_4geAc7Hk7nJ",
+                                        "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RcYsFbV0ETqHyeOaUgBKudtQZMn",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мебель медицинская",
+                        "url": "/category/mebel-meditsinskaya-35290/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35290.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QBkE9IgfhwVCzC2_LJ44cB5SPyG",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Эстетическая косметология",
+                        "url": "/category/esteticheskaya-kosmetologiya-39783/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39783.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1XJF-bgmtL0XBm9Zw10k2-3UyAFE",
+                                "sliceKey": "1CZj1Yq1GZATgScMHszFF9XpXfp9QnWt"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1W5cJmNwQ5e_V6eV3sCClb_qK1nu"
+            }
+        },
+        "countGoods": "32601",
+        "countGoodsTitle": "товар"
+    }
+}

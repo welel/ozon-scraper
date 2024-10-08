@@ -8,7 +8,7 @@ from scrap.repositories.ozon.product import OzonProductsRepository
 from scrap.scrapers.abstract import Scraper
 
 
-class OzonCategoriesScraper(Scraper):
+class OzonCategoryPageScraper(Scraper):
     logger = logging.getLogger(AppConfig.logger_prefix + __name__)
 
     def run(self) -> None:

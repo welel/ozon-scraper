@@ -27,7 +27,6 @@ loggers:
     handlers: [console_handler]
   ms:
     level: DEBUG
-    handlers: [console_handler]
 
 root:
   level: INFO

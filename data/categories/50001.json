@@ -1,0 +1,453 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "50001",
+        "title": "Ювелирные украшения",
+        "url": "/category/yuvelirnye-ukrasheniya-50001/",
+        "image": "https://cdn1.ozone.ru/s3/cms/e7/t66/jewelry1.png",
+        "icon": "ic_m_jewelry_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Кольца",
+                        "url": "/category/koltsa-yuvelirnye-50002/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50002.png",
+                        "categories": [
+                            {
+                                "title": "Золотые",
+                                "url": "/category/zolotye-koltsa-39610/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-m/6156110674.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_0GEXyn7KdsA5IY-YVfURO2yK3l",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Серебряные",
+                                "url": "/category/serebryanye-koltsa-39611/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-u/6434297766.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T5LHOxZBGB8BH4SNbwjaNkwaBif",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Платиновые",
+                                "url": "/category/platinovye-koltsa-39612/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-r/6410562459.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tb07D9LDOKSwfwzlYl169csMyt0",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "С бриллиантами",
+                                "url": "/category/koltsa-s-brilliantami-39613/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-t/6395992937.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RubnCdLw7Wfe3wOGz5NHaFzDAJi",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обручальные",
+                                "url": "/category/obruchalnye-koltsa-39614/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-6/6671357394.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MYUacj9fvXGWDei56bVt-DG-64W",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Помолвочные",
+                                "url": "/category/pomolvochnye-koltsa-39615/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-e/6572847386.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VGZlNj3Goa9RMgHHBjFULlWdZor",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PMuG75SyMLsjfkywLsrHAAJdT6q",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Серьги",
+                        "url": "/category/sergi-yuvelirnye-50003/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50003.png",
+                        "categories": [
+                            {
+                                "title": "Золотые",
+                                "url": "/category/zolotye-sergi-39616/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-c/6272697600.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mmsif6lM_-ibv8hxmp5kphu4T3K",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Серебряные",
+                                "url": "/category/serebryanye-sergi-39617/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-t/6431348897.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NBcMIB4S6GAQ9NxM_Xn4Rehg-ON",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Платиновые",
+                                "url": "/category/platinovye-sergi-39618/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-l/6643116849.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SWEiDQnllIufv2kZa9CGP0u5o22",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "С бриллиантами",
+                                "url": "/category/sergi-s-brilliantami-39619/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-w/6237826400.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZqvQCQtSrcqzM04kK4mBSgazX_b",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Tl6RKRM78ggtN7X9WoQEKFCl0yX",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Браслеты",
+                        "url": "/category/braslety-yuvelirnye-50011/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50011.png",
+                        "categories": [
+                            {
+                                "title": "Золотые",
+                                "url": "/category/zolotye-braslety-39620/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-s/6194301892.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q238xmLSOtQPg9oU3BWU7FJ3xHU",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Серебряные",
+                                "url": "/category/serebryanye-braslety-39621/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-i/6498969486.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SbdZT8_X4qILUEJNVBxEojzPSm9",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Платиновые",
+                                "url": "/category/platinovye-braslety-39622/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-l/6396074433.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qq6_xNdQP_8_-t2gCMYno2Ror1Y",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1O55WSvGjxLWMASqwknv3IOnr3pg",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Украшения на шею",
+                        "url": "/category/ukrasheniya-na-sheyu-50004/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50004.png",
+                        "categories": [
+                            {
+                                "title": "Золотые",
+                                "url": "/category/zolotye-ukrasheniya-na-sheyu-39626/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-2/6546208202.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZHa9fXttImRhhYuvjsHPcsWAQ0p",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Серебряные",
+                                "url": "/category/serebryanye-ukrasheniya-na-sheyu-39631/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-j/6663279727.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XumLp17nsOEhN-GOzyFKzbB3Mvf",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Платиновые",
+                                "url": "/category/platinovye-ukrasheniya-na-sheyu-39636/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-v/6338307583.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-6p8A5UAmZYG8dTVjYPa0Sc2gZc",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1W0RYnFb1htngMf28qXPASqzwTyG",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Комплекты украшений",
+                        "url": "/category/komplekty-yuvelirnyh-ukrasheniy-50013/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50013.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_1n2y6dPKSTMfNqQfbEnD2pYaYu",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Шармы",
+                        "url": "/category/sharmy-yuvelirnye-50015/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50015.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Oy_MWMVy3zoxBlf1xVtbwvbRq7V",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Броши и значки",
+                        "url": "/category/broshi-yuvelirnye-50014/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50014.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1U7AjmezueUDnvHLIBU5m9OTsYN9",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Пирсинг",
+                        "url": "/category/pirsing-yuvelirnyy-50018/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50018.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Qc-S5Qb1wrCsBkbAjNUu64sVIxE",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Часы",
+                        "url": "/category/chasy-yuvelirnye-50012/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-t/6006854645.jpg",
+                        "categories": [
+                            {
+                                "title": "Золотые",
+                                "url": "/category/zolotye-chasy-39623/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39623.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V5NIT0zKr-PAQw9ZphVGJW5RUXI",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Серебряные",
+                                "url": "/category/serebryanye-chasy-39624/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-8/6283921640.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WYgj7Np_9aH4MryGRFbyVjQg6Pg",
+                                        "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_md9NUiWeNokSs0lr7PVU7ZKHck",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Детские украшения",
+                        "url": "/category/detskie-yuvelirnye-izdeliya-50024/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50024.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MaT1We9du7vTEgOswyOvUvdkvlx",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Запонки и зажимы",
+                        "url": "/category/zaponki-yuvelirnye-50016/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50016.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VtBwmT3QIJF4Vg0vfktPrKCQc7U",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Сувениры",
+                        "url": "/category/suveniry-yuvelirnye-31652/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-o/6010761576.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Ydrjt28gyZDGbz7oKkzHrMHGIPo",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Шнурки",
+                        "url": "/category/shnurki-yuvelirnye-50022/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50022.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RBqwP_X1UQqn4ZrpS1fsE9EYOcf",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аксессуары для волос",
+                        "url": "/category/zakolki-dlya-volos-yuvelirnye-50030/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50030.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_ndiLY8Zql9Us8zRPJhZMvcFf4X",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аксессуары для очков",
+                        "url": "/category/aksessuary-dlya-ochkov-yuvelirnye-39796/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39796.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TY0PN_3qXIlqqz7N5DKTrmshQLC",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Религиозные украшения",
+                        "url": "/category/religioznye-yuvelirnye-izdeliya-50025/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/50025.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Ncbptl2-x-9sIW_qh_4Q-z21P2L",
+                                "sliceKey": "1CZj1UBzFYKNRhr3P9y9oOzuhHQESr5R"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1TQ6d-xTnhXt0k4XBxCBFIwLWPRm"
+            }
+        },
+        "countGoods": "50637",
+        "countGoodsTitle": "товаров"
+    }
+}

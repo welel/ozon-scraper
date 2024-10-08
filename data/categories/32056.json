@@ -1,0 +1,369 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "32056",
+        "title": "Цифровые товары",
+        "url": "/category/tsifrovye-tovary-32056/",
+        "image": "https://cdn1.ozone.ru/graphics/ozon/digital/digital_v2.png",
+        "icon": "ic_m_digital_product_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Электронные сертификаты",
+                        "url": "/category/podarochnye-sertifikaty-32060/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-o/6007402344.jpg",
+                        "categories": [
+                            {
+                                "title": "Подарочные сертификаты",
+                                "url": "/category/podarochnye-sertifikaty-37234/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/40/tbd/castom.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_arUzqbJ0zj_ZHzJkWmUxgNRNGA",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Благотворительные электронные сертификаты",
+                                "url": "/category/blagotvoritelnye-elektronnye-sertifikaty-39219/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6327451471.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V1nzfJAFvW1BfBxAgicd38DG9_M",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_qWJmOXwp4GNEaMd4xHUMRbVt8Z",
+                                "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Онлайн-подписки",
+                        "url": "/category/podpiski-na-filmy-i-muzyku-35607/",
+                        "image": "https://cdn1.ozone.ru/s3/cms/e7/t45/540_1.png",
+                        "categories": [
+                            {
+                                "title": "Онлайн-кинотеатры",
+                                "url": "/category/podpiski-na-onlayn-kinoteatry-32061/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037896041.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MoEdHEiBGI3DmN4TE6k-amh9H11",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Музыка",
+                                "url": "/category/muzykalnye-podpiski-34045/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037931502.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OVRxOgpkdA_uW7wfWNfzIg3txIW",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электронные и аудиокниги",
+                                "url": "/category/podpiski-na-knigi-i-audioknigi-34453/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34457.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yr1pyuGLO_vu2LensI_zd6lG7bi",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Онлайн курсы",
+                                "url": "/category/podpiski-na-onlayn-kursy-37300/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-s/6099179704.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VusURa8l-BmpGIGg3rn_1fTsDNw",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сертификаты на книги",
+                                "url": "/category/sertifikaty-na-knigi-39608/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39609.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TH-U5ax56fpGvOwRR6UQLu8dUAT",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мобильные тарифы eSIM",
+                                "url": "/category/mobilnye-tarify-esim-37457/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6132861447.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X0QKt2iKCH4Kl8iXYrP9opysr2_",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1OKA0nCvEyXbJU8oJCLUBHY4VYNO",
+                                "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Игры и игровые подписки",
+                        "url": "/category/tsifrovye-igry-i-igrovye-podpiski-35606/",
+                        "image": "https://cdn1.ozone.ru/s3/cms/f3/t98/540_1_copy.png",
+                        "categories": [
+                            {
+                                "title": "Игровая валюта",
+                                "url": "/category/igrovaya-valyuta-34048/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037931141.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-nzDf3XnCPGX8z-ll8JlKE5Eovv",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Xbox",
+                                "url": "/category/tsifrovye-igry-i-podpiski-xbox-37303/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6010498136.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XePMprnuCQzvZqk-YampuIrnatX",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "PC",
+                                "url": "/category/tsifrovye-igry-i-podpiski-dlya-pc-37305/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6089905524.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S7ZHqEibnz6gnMKDSZCu4eYziAf",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "PlayStation",
+                                "url": "/category/dopolneniya-dlya-igr-i-podpiski-na-playstation-37304/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-6/6057199146.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q7HxCL3jeXlcjuCjaV2zWryupfi",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Nintendo",
+                                "url": "/category/dopolneniya-dlya-igr-i-podpiski-na-nintendo-37306/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-s/6036187912.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TbJlPPirkBFirGaAmrpQ2taq644",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Цифровые игры для мобильных платформ",
+                                "url": "/category/tsifrovye-igry-dlya-mobilnyh-platform-39596/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1/6684841213.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rb_gQZrNxFTaKOpEdoRJ4zvNezv",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZcarJzNnqNjt1qXDSwYQabnsPj7",
+                                "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Программное обеспечение",
+                        "url": "/category/antivirusy-i-programmnoe-obespechenie-32086/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-v/6014138815.jpg",
+                        "categories": [
+                            {
+                                "title": "Антивирусы и безопасность",
+                                "url": "/category/antivirusy-32647/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-j/6006556807.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TF-HZec7ehh_UwV0S1Ly6QB_ZhS",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Операционные системы и приложения",
+                                "url": "/category/prikladnye-i-sistemnye-programmy-32656/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6006557237.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Pn_yiyCRsWwdBseR4p0Kx0rZUxA",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RSaRjJCkv5mB3zvIjukNMMaAneI",
+                                "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Облачные хранилища",
+                        "url": "/category/oblachnye-hranilishcha-34872/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-i/6022740066.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZDhqsxLMN6ytcqNI5rLmYO-U-sD",
+                                "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Услуги",
+                        "url": "/category/meditsinskie-uslugi-38022/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-j/6377988247.jpg",
+                        "categories": [
+                            {
+                                "title": "Сервисные услуги",
+                                "url": "/category/servisnye-uslugi-38310/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-6/6128021154.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-gRcEMwoFWOG7yLmI1qm0lS9oj8",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Медицинские услуги",
+                                "url": "/category/meditsinskie-uslugi-38075/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-d/6018340213.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YwuXJmit_7WnZCsaF7rn_0so5zS",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ветеринарные услуги",
+                                "url": "/category/veterinarnye-uslugi-38076/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6351648251.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UxM6Rag6mJV8hMDv5Md5ig35827",
+                                        "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MHRNkk5ZfT6YvwvcID3UUfxudtS",
+                                "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Ozon Premium",
+                        "url": "/category/ozon-premium-30977/",
+                        "image": "https://cdn1.ozone.ru/s3/cms/85/te1/30-3x.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RwjnbaZ2p85lBOwXv5tIoMVf9PV",
+                                "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Электронные лотерейные билеты",
+                        "url": "/category/elektronnye-lotereynye-bilety-39391/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-1-v/6932618419.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1NI88dYM2cdyEz3M26AEnl35fUyG",
+                                "sliceKey": "1CZj1XEHnlqk-viGsuzZ05ynNvlAsC0K"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1XlBBOVI6GT5zD8-Cd9-rJC4csCs"
+            }
+        },
+        "countGoods": "4855",
+        "countGoodsTitle": "товаров"
+    }
+}

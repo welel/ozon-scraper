@@ -1,0 +1,1413 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "16500",
+        "title": "Книги",
+        "url": "/category/knigi-16500/",
+        "image": "https://cdn1.ozone.ru/graphics/main-category-logos/books.png",
+        "icon": "ic_m_book_printed_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Нехудожественная литература",
+                        "url": "/category/nehudozhestvennaya-literatura-16511/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/16511.png",
+                        "categories": [
+                            {
+                                "title": "Саморазвитие",
+                                "url": "/category/samorazvitie-32618/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021927496.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SXRTgz9u6gAP_zMe4wWnMF0k_kw",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Психология",
+                                "url": "/category/populyarnaya-psihologiya-samorazvitie-40011/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6008516982.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XsUTnP4-Y2EYBc2FbnbQa4uoZq5",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Научная литература",
+                                "url": "/category/nauchnaya-literatura-40021/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017638414.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ov6fOnTVtE-3slKdeLA2VGm9Ajq",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Медицина",
+                                "url": "/category/meditsina-16551/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026941770.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TGrKS6Ip3coJZtQ_krPzAD5j0DZ",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Юридическая литература",
+                                "url": "/category/pravo-40022/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022589941.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q4RTPX2HERGq485QslAV0fowoo8",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Искусство и культура",
+                                "url": "/category/iskusstvo-i-fotografiya-40013/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037899310.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XvaAA_mu3toaZzK6w3jvkRTe5Na",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "История",
+                                "url": "/category/istoriya-16552/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023857444.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZfNYuZnIt5c9qESj9I1DGTMwYJC",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Публицистика",
+                                "url": "/category/publitsistika-16518/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6008222222.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O42EG0fRXdZayHGEqQtjLf2U7Ir",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Эзотерика и спиритизм",
+                                "url": "/category/ezoterika-i-spiritizm-40016/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017998619.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_64FLvGzxJP-HP3_EDR3WudrK1G",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кулинарные книги",
+                                "url": "/category/kulinarnye-knigi-40018/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013707270.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Pt-f1zbHo5MQWkFmkOkbWlRyYum",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домоводство и хобби",
+                                "url": "/category/dom-i-hobbi-40019/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015824663.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XQSBtfvMRSOe8R2CcRjXc_D6NZ-",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Красота, здоровье и спорт",
+                                "url": "/category/krasota-zdorove-i-sport-40012/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024367844.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_0pwHVoDrbuWCaINTHVxSOMN-0J",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Религиозные книги",
+                                "url": "/category/religiya-40015/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010722224.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZGdTb8nhwpf6dujnIYB5MLWOrUU",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Компьютерные технологии",
+                                "url": "/category/kompyuternye-tehnologii-40020/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-q/6001176722.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WNwgIBzfJnYj-Ze5tjRynIbih3j",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Энциклопедии и справочники",
+                                "url": "/category/entsiklopedii-spravochniki-40017/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012360726.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XFmoBj_6odOREY-e4_72fE-ayaG",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Научно-популярная литература",
+                                "url": "/category/nauchno-populyarnaya-literatura-34065/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-j/6008332039.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XuJAuOR17aM4d5CmpFcBACq5GU-",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Путешествия. Путеводители",
+                                "url": "/category/puteshestviya-putevoditeli-40028/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012331904.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V_FPJmBhZbm7XkGitAHmaGi5K_c",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1T3nEmIsMm25z_GJl_MXzuZyzb66",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Бизнес-литература",
+                        "url": "/category/biznes-literatura-40024/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/40024.png",
+                        "categories": [
+                            {
+                                "title": "Менеджмент и управление",
+                                "url": "/category/menedzhment-i-upravlenie-40055/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018859949.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_1hpZh5M0LyKRD4HTtH7yGue24I",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Маркетинг и продажи",
+                                "url": "/category/marketing-i-prodazhi-40054/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025461232.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XXOH0S7vknNhLNxrhmU6XNNYdmR",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Экономика",
+                                "url": "/category/ekonomika-40063/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019780890.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XV_Yh6lrOFfH3vhbiQHyCjWTq2P",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инвестиции и недвижимость",
+                                "url": "/category/investitsii-40050/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027946581.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PjMz2ALs9Uaf6deOqG6h4AjstOB",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Финансы",
+                                "url": "/category/finansy-40062/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021623486.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OobIqrZRmCCuGlMRR4Bi3XSLX7Q",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бизнес-образование и развитие карьеры",
+                                "url": "/category/biznes-obrazovanie-40047/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028451360.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NAHQsqtYqODK4zuCtg9T_4_qN_t",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Биографии и истории успеха",
+                                "url": "/category/biografii-i-istorii-uspeha-40048/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019322538.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VbcAx0pUyY7qWfTzAos6Et4F5zq",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бухгалтерский учет и делопроизводство",
+                                "url": "/category/buhgalterskiy-uchet-40049/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025043818.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mj8_YWIsstwKEj4ARqmjmQRGmf0",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_Itk-2C2xbZnfJUycyleeyLpBzT",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Художественная литература",
+                        "url": "/category/hudozhestvennaya-literatura-16501/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/16501.png",
+                        "categories": [
+                            {
+                                "title": "Проза",
+                                "url": "/category/proza-35410/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6008637408.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QWICt7c7mTD-Z8oCMhJZUV5rbbC",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детективы",
+                                "url": "/category/detektivy-trillery-40003/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026570248.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PlQXJEXS2jDzPLrZaQLDnQWWWVX",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фэнтези",
+                                "url": "/category/fentezi-33046/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025127558.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SyARD5VvN0_ODCANHhrUCgDQIUu",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фантастика",
+                                "url": "/category/fantastika-i-fentezi-40002/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025445004.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Uv3XaKlCQElGOWxHCMfYU5MmNH-",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Молодежная и подростковая литература",
+                                "url": "/category/literatura-dlya-podrostkov-33015/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1029486662.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UKPOR48XbDFG3pUfhhyqqFAz6-l",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ужасы и триллеры",
+                                "url": "/category/uzhasy-trillery-32998/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024330536.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UFAn20KG4Jy7TeItjTL6Sqnts4O",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сентиментальная проза",
+                                "url": "/category/romany-40005/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013705716.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SU_U5x2u1OuPV30Q1qaYLrgN7lw",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фольклор",
+                                "url": "/category/folklor-35412/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-8/6019167956.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-2iEShZ9-cN4ypqQ5L4Gv9taZ1-",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Поэзия",
+                                "url": "/category/poeziya-40007/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1032807984.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vay0FL8rYMmKceBdmnee77wULRe",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Приключения",
+                                "url": "/category/priklyucheniya-33098/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6009081227.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MZyRp0RIk1jUvq4yZbw6-KmHy0C",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Боевики",
+                                "url": "/category/knigi-boeviki-35414/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005430776.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WIhGgHRfMWWqNRhrwVaPDedNneY",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пьесы и драматургия",
+                                "url": "/category/pesy-i-dramaturgiya-35413/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6016920437.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V3y58q7PWtmDFh9ET9UGGFDVFhG",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Античная литература",
+                                "url": "/category/antichnaya-literatura-37687/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-n/6030825347.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X6DPzbL3aMPIPnhu-7jZCBQv8na",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Юмор",
+                                "url": "/category/yumor-40008/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023815504.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XOXY-gL1h3OdLHR4SH5umIyIH4u",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1NL91bcw3iDsON6Xn1GkER7eNaMv",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Детям и родителям",
+                        "url": "/category/detyam-i-roditelyam-40025/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/40025.png",
+                        "categories": [
+                            {
+                                "title": "Художественная литература",
+                                "url": "/category/hudozhestvennaya-literatura-40046/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025175690.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T824KBj0q9TRgWTRjR4hnUAJR6V",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Развитие детей",
+                                "url": "/category/razvitie-rebenka-40044/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6001737843.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M_d8HjumXRRpPSUwiIkOaq9uP_j",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Познавательная литература",
+                                "url": "/category/poznavatelnaya-literatura-40041/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024007517.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N27-HxlJOYRfMuFUjTqn5LyCCu9",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Досуг и творчество",
+                                "url": "/category/dosug-i-tvorchestvo-detey-40035/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012379574.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VeqZQXWvDEntZUIl03WhUIjShb5",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комиксы",
+                                "url": "/category/komiksy-40038/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022642683.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-CLeGg49QPRhBmx0479LhCFsqNa",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VM3BxqrpFJm8neS3qXDvNWmxnfy",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Учебная литература",
+                        "url": "/category/uchebnaya-literatura-40026/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/40026.png",
+                        "categories": [
+                            {
+                                "title": "Изучение иностранных языков",
+                                "url": "/category/izuchenie-inostrannyh-yazykov-40029/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013258056.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZmqZSyrsFgJuOi8L6irIsEVQ8aG",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "1 класс",
+                                "url": "/category/uchebniki-dlya-1-klassa-40080/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020636854.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M8XBV_JIHwmxqBKn1UJlp0zIM7s",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "2 класс",
+                                "url": "/category/uchebniki-dlya-2-klassa-40081/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015612507.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U7scgK_1n1ADgqMycXTCvly5vMc",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "3 класс",
+                                "url": "/category/uchebniki-dlya-3-klassa-40082/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6005608121.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_lVputidn_8afS8xOROsNu26UEL",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "4 класс",
+                                "url": "/category/uchebniki-dlya-4-klassa-40083/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6000210165.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V4LVP7Za-NOyIAzmkGA0MhCIrML",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "5 класс",
+                                "url": "/category/uchebniki-dlya-5-klassa-40084/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6007185348.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VDVPfsF_8dVh21s6mqmy98kKEMY",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "6 класс",
+                                "url": "/category/uchebniki-dlya-6-klassa-40085/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6007084608.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-rQp6DjHWbFeg_dXbYTScNrX8s9",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "7 класс",
+                                "url": "/category/uchebniki-dlya-7-klassa-40086/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-a/6005562478.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TZjKw56NaGtKZuxB7z5Ib5G2ZMp",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "8 класс",
+                                "url": "/category/uchebniki-dlya-8-klassa-40087/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6005562564.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T5hrhj_YZ7v0z2zCikh_0VQ8tov",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "9 класс",
+                                "url": "/category/uchebniki-dlya-9-klassa-40088/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023745116.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PM2PphdRrNWFxNFAA_XjrlXDQZV",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "10 класс",
+                                "url": "/category/uchebniki-dlya-10-klassa-40089/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024970403.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XdsOjHRbinae7FHbvUEuS3VHzc2",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "11 класс",
+                                "url": "/category/uchebniki-dlya-11-klassa-40090/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005808974.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vs1hIGaCpbXCkk9etdTZ_zuX4nh",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Образовательные программы",
+                                "url": "/category/uchebnye-programmy-32228/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6000209088.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-vRwAkcgqjKd17ZGwT5zA7KTEIR",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Итоговая комплексная работа и ВПР",
+                                "url": "/category/posobiya-po-itogovomu-testirovaniyu-i-vpr-40093/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6007981634.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UjXc5VmJMbkZJtZE2B2XPgijfur",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "ОГЭ",
+                                "url": "/category/posobiya-dlya-podgotovki-k-oge-gia-40091/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023807664.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NlHMTS-QVOyNicrI8GbDfebz-Vt",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "ЕГЭ",
+                                "url": "/category/posobiya-dlya-podgotovki-k-ege-40092/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6008228484.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OyM5IolyqjLCz_JCUYdW7N0qIPz",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Абитуриентам, студентам и аспирантам",
+                                "url": "/category/uchebniik-dlya-abiturientov-i-studentov-40094/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019576289.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SdDATMZe4FdiCYK_fOtZpOYrvOG",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Up2IY9ZhLH-z3TW4eJHo6AoavjF",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Электронные книги",
+                        "url": "/category/tsifrovye-knigi-16549/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/16549.png",
+                        "categories": [
+                            {
+                                "title": "Нехудожественная литература",
+                                "url": "/category/tsifrovye-knigi-nehudozhestvennaya-literatura-39483/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-x/6605837961.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YnQgkrW4rt_wTsliW7p2KHb7RMn",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Художественная литература",
+                                "url": "/category/tsifrovye-knigi-hudozhestvennaya-literatura-39482/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-5/6664432181.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R3xJS5vjToVZlxy7iEfPdI8HFy6",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Учебная литература",
+                                "url": "/category/tsifrovye-knigi-uchebnaya-literatura-39481/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-4/6621828304.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-KSp_UvKlc8oIj342_GhXAuV2RH",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детям и родителям",
+                                "url": "/category/tsifrovye-knigi-detyam-i-roditelyam-39480/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-4/6621604384.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_OzByzu1O4yjeqU5zce5ch_QuEg",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Журналы и газеты",
+                                "url": "/category/tsifrovye-knigi-zhurnaly-gazety-39485/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-i/6629181390.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YbCHUqZc-eeINqmmRsGyX4UdUWn",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TNJlSTTMFjg23kJzLFr0YQbkVHv",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Букинистика",
+                        "url": "/category/bukinistika-16546/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/16546.png",
+                        "categories": [
+                            {
+                                "title": "Художественная литература",
+                                "url": "/category/bukinistika-hudozhestvennaya-literatura-33074/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013765260.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NCmBKWZhl16M-zbbF6HtTxp3cd-",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Нехудожественная литература",
+                                "url": "/category/bukinistika-nehudozhestvennaya-literatura-33075/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005540493.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TuUpuNA_fNU5fv7pIfDLZNyCuf_",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детям и родителям",
+                                "url": "/category/bukinistika-detyam-i-roditelyam-33073/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1001052783.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NKiEgyyEgPUsh0A-ZrjjP_YTDev",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Учебная литература",
+                                "url": "/category/bukinistika-uchebnaya-literatura-33104/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1001721857.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QfSkxlko6UMqLJUi-blfTcYVsZU",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комиксы",
+                                "url": "/category/bukinistika-komiksy-manga-33105/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036824062.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y3sKgsooC3ky1fY_8e9m89tvDJK",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Манга",
+                                "url": "/category/bukinistika-manga-34828/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015209353.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TmYgtXaAFI0KMProvBrI4jNwx21",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Журналы и газеты",
+                                "url": "/category/bukinistika-zhurnaly-i-gazety-39813/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-f/6819002187.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZYi9VGXU_MKwC_NoAUPkqwa5N-3",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TKpq3IuLFPI9DvMNQMwuwbabeZi",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Комиксы",
+                        "url": "/category/komiksy-manga-40027/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/40027.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-R-eK18_e-uGK82_-TAG5SNFxGn",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Манга",
+                        "url": "/category/manga-32576/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/32576.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SD5RXf1mKICoUkN2b-5JDsycof2",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Печать по требованию",
+                        "url": "/category/pechat-po-trebovaniyu-16550/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/16550.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MvMfbUxYDpTBQCfLXVOF_agxOUx",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Подарочные издания книг",
+                        "url": "/category/podarochnye-izdaniya-16547/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/16547.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1XtixnG4WngZSD3dgq8cB68vqdNC",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Журналы и газеты",
+                        "url": "/category/zhurnaly-gazety-34105/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34105.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RQir0DDgUq4N57favzKjRpLD8Jp",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Литература на иностранных языках",
+                        "url": "/category/literatura-na-inostrannyh-yazykah-40102/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/40102.png",
+                        "categories": [
+                            {
+                                "title": "Английский язык",
+                                "url": "/category/knigi-na-angliyskom-yazyke-33038/",
+                                "image": "https://cdn1.ozone.ru/graphics/book_language_flags/united-kingdom2.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YZ9ftByFDiZr86WQEKzrP1MGmw8",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Испанский язык",
+                                "url": "/category/knigi-na-ispanskom-yazyke-33043/",
+                                "image": "https://cdn1.ozone.ru/graphics/book_language_flags/spain2.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YXuiId6DcPMeRd5wWi7TswRGIoh",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Немецкий язык",
+                                "url": "/category/knigi-na-nemetskom-yazyke-33039/",
+                                "image": "https://cdn1.ozone.ru/graphics/book_language_flags/germany2.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WCwy0U_UaCP5HNlS8vqOQ2LCuXJ",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Французский язык",
+                                "url": "/category/knigi-na-frantsuzskom-yazyke-33040/",
+                                "image": "https://cdn1.ozone.ru/graphics/book_language_flags/france2.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U6Jh_q2QgIrFuRdPiLt0guj6X0V",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Итальянский язык",
+                                "url": "/category/knigi-na-italyanskom-yazyke-33042/",
+                                "image": "https://cdn1.ozone.ru/graphics/book_language_flags/italy2.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NrYY4zIjtzJTu0jYA0vG_PF96Nh",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Другие языки",
+                                "url": "/category/knigi-na-drugih-yazykah-39602/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-p/6813834145.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X-wyfGtjzUfxwb0DIp1yHPqEeCP",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1N2Bf3SgF9IcuuRkMwrPJCGQci1n",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Электронные аудиокниги",
+                        "url": "/category/tsifrovye-audioknigi-39501/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39501.png",
+                        "categories": [
+                            {
+                                "title": "Нехудожественная литература",
+                                "url": "/category/tsifrovye-audioknigi-nehudozhestvennaya-literatura-39505/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-0/6606637776.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QPv8h-NS9B-VjktYeL_ZBjxs22V",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Художественная литература",
+                                "url": "/category/tsifrovye-audioknigi-hudozhestvennaya-literatura-39504/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-4/6605485888.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SlieFjiFGOVeKzZx6oZ8BUR1CvB",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детям и родителям",
+                                "url": "/category/tsifrovye-audioknigi-detyam-i-roditelyam-39502/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-h/6606564605.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RPMEdjXyhQLpfqiOmZRO-CFIkCW",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Учебная литература",
+                                "url": "/category/tsifrovye-audioknigi-uchebnaya-literatura-39503/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-k/6606618500.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_ECebiBbUEQDhW27iRp8h1y0rn9",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_xss9im4lt6F_NH3sag00gau8Kd",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аудиокниги на носителях",
+                        "url": "/category/audioknigi-16548/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/16548.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SBql1ozqU-F3n2IWEPFXqBjuLRJ",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Подписки на электронные книги и аудиокниги",
+                        "url": "/category/podpiski-na-elektronnye-knigi-i-audioknigi-34457/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-f/6018232899.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Z1ZZbUVlwwQLeuuerJ5XrNF66Cf",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Антикварные книги",
+                        "url": "/category/antikvarnye-knigi-30963/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30963.png",
+                        "categories": [
+                            {
+                                "title": "Нехудожественная литература",
+                                "url": "/category/antikvarnye-knigi-nehudozhestvennaya-literatura-36572/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014213555.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y9Lh6FFn5I3HcYB7jJiPHxc-SdR",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Художественная литература",
+                                "url": "/category/antikvarnye-knigi-hudozhestvennaya-literatura-36570/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6056645449.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XI0VUygybFLj4xYg3EXZ0gSg7L9",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детям и родителям",
+                                "url": "/category/antikvarnye-knigi-detyam-i-roditelyam-36573/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6060515958.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QZsJQkmdHszcZXh-REM7D9MDbzt",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антикварные газеты и журналы",
+                                "url": "/category/antikvarnye-gazety-i-zhurnaly-36656/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015380263.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RyOSD4yxVEswsl2QUCimg2p-ZBm",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-OJ3P0Dzy-jHFW2gFqS2rhpMkGh",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Книги б/у",
+                        "url": "/category/knigi-b-u-34823/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34823.png",
+                        "categories": [
+                            {
+                                "title": "Художественная литература",
+                                "url": "/category/knigi-b-u-hudozhestvennaya-literatura-35529/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-t/6010882001.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-RV6lIBqKESxOr61hqY-ziJLsVh",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Нехудожественная литература",
+                                "url": "/category/knigi-b-u-nehudozhestvennaya-literatura-35537/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1003851887.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U2FjUKNjgTiDk9r-OxG5vSQbtw7",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Учебная литература",
+                                "url": "/category/knigi-b-u-uchebnaya-literatura-35548/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010991081.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MlKYj9UMDB92QBTQqdy3_CiaDhP",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детям и родителям",
+                                "url": "/category/knigi-b-u-detyam-i-roditelyam-35547/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-8/6016982324.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MZAiRh86DPkTn5VjhpUWUDLpKvH",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комиксы",
+                                "url": "/category/knigi-b-u-komiksy-35549/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-a/6025360354.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OtQHD0-8nh1SQy40-ALniUN9j70",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Манга",
+                                "url": "/category/knigi-b-u-manga-36659/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1002066526.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OqDz08P8aW4pMSbG0JE4pOesR_H",
+                                        "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Pbtsh80L6Gt5pciDu--GJQLOB1V",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Блокноты и ежедневники",
+                        "url": "/category/bloknoty-ezhednevniki-ot-izdatelstv-34965/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34965.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TjNKSu7aZVfZMfibQoVPBa3zNNr",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Буклеты, листовки и брошюры",
+                        "url": "/category/buklety-listovki-broshyury-39597/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39597.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1WMxFwkkttQW4yy5dCClJx1nroMK",
+                                "sliceKey": "1CZj1XB6f3ffkHFRnPSoYAS3ZdufRKQm"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1SxG3_USJ2O_Eqx3pSEx4w9bF6ES"
+            }
+        },
+        "countGoods": "68316",
+        "countGoodsTitle": "товаров"
+    }
+}

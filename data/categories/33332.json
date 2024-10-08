@@ -1,0 +1,958 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "33332",
+        "title": "Туризм, рыбалка, охота",
+        "url": "/category/ohota-rybalka-turizm-33332/",
+        "image": "https://cdn1.ozone.ru/graphics/cms/tourism1.png",
+        "icon": "ic_m_tourism_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Туризм и отдых на природе",
+                        "url": "/category/turizm-i-otdyh-na-prirode-11424/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11424.png",
+                        "categories": [
+                            {
+                                "title": "Палатки, тенты и шатры",
+                                "url": "/category/palatki-tenty-i-shatry-11425/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023232445.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tu-VFKO7SGJKjw7PJm4ocDjka33",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ножи, лопаты и пилы",
+                                "url": "/category/nozhi-i-aksessuary-11463/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11463.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U_ss7p8o6l7w-voC0u3nC2xSAEH",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Складная мебель",
+                                "url": "/category/skladnaya-pohodnaya-mebel-32938/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-i/6006553242.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PueYlyFhxMjgbKJ3SDgW828XRAI",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фонари и аксессуары",
+                                "url": "/category/fonari-i-laytstiki-11448/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6009245511.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RgpdxPC8_QCYrbHIlbXFcAuhGuS",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Надувная мебель",
+                                "url": "/category/naduvnaya-mebel-32939/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037779845.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N1eMIii8PDXzxHlEJzYKn64wrT6",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Насосы",
+                                "url": "/category/nasosy-dlya-naduvnyh-matrasov-1716/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010332837.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RqyD7gPpQ1w_b2bU7_vm4wcooPx",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спальные мешки",
+                                "url": "/category/spalnye-meshki-11434/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023245586.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VM_jG7v1ctvGqfvJuivgV_24eZI",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Коврики",
+                                "url": "/category/kovriki-turisticheskie-11520/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014620036.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tli6Ml2K5KbWF3AiXcA3MFzipCF",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Горелки, походные печи и газовые обогреватели",
+                                "url": "/category/gorelki-zazhigalki-i-prinadlezhnosti-11545/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023616023.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Z5_Ddawz3gD0sBFM5XlvhyNdWvH",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Термосы, фляги и питьевые системы",
+                                "url": "/category/termosy-i-termokruzhki-33774/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021690521.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TpXuym9NgHe_YJqfaP6kGVKML4d",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Металлоискатели и аксессуары",
+                                "url": "/category/metalloiskateli-i-aksessuary-11497/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1/6120311173.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XacmuU_C1eNqMQ8dqVe1wgeyrUa",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рюкзаки и сумки",
+                                "url": "/category/turisticheskie-ryukzaki-i-sumki-11435/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022901731.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PXL03noAgm-a_HqzyExI3rDxdAw",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Термосумки и аксессуары",
+                                "url": "/category/sumki-holodilniki-11521/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012160430.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QMv1LOvfjdVYGhRoIQO1ISR0ZuL",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Походная посуда",
+                                "url": "/category/turisticheskaya-posuda-11526/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-v/6934428715.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_vD67ENO_1ArHUbJlNFbE6gG4U6",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Костюмы",
+                                "url": "/category/takticheskie-kostyumy-38981/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PTgpYPSbgnThflVC_rGm8EJ44O9",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дождевики",
+                                "url": "/category/dozhdeviki-7793/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023591349.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PkyztYxaD5BdyI7qCQGVv2jpL7N",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Альпинизм и скалолазание",
+                                "url": "/category/alpinizm-32415/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022649471.JPG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_FySHKz3E143HBWbHO3mam2iufR",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Компасы и курвиметры",
+                                "url": "/category/kompasy-11461/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023434379.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-3sz8bM5COF6_AomlGcGG5hdDlV",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тросы",
+                                "url": "/category/trosy-dlya-turizma-11598/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014087868.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SWcIK9H2GvBxV29FG-vyS2ugglj",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гамаки",
+                                "url": "/category/gamaki-33791/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023238736.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UAob1iBDnJOEdw1HRqrmtb983uu",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мангалы и грили",
+                                "url": "/category/mangaly-grili-pechi-33785/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-h/6800847281.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YF2SKdJUuO7WZtrlEW58n-_9R2w",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для туризма",
+                                "url": "/category/aksessuary-dlya-turizma-11576/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021554844.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-2c_rinwY7bHwpMp0P96nfrLYRA",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Yh5tY7Lrx8VRKYFrLsxb4vAKZeI",
+                                "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Рыбалка",
+                        "url": "/category/rybalka-33152/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/33152.png",
+                        "categories": [
+                            {
+                                "title": "Удочки, удилища и спиннинги",
+                                "url": "/category/udochki-udilishcha-i-spinningi-11327/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023616845.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QBskjrkXbVrFVY_mDXFCqyGuZFI",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Катушки",
+                                "url": "/category/katushki-rybolovnye-11376/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022633195.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_idV9MaruY3uohMvjY3zLDszYUJ",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Приманки и снасти",
+                                "url": "/category/primanki-11362/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025371715.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ONmP8x3RxcXNIjMMHStPHpR1oyT",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лески и плетеные шнуры",
+                                "url": "/category/leski-i-pletenye-shnury-11383/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016089200.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Skv7ORqAXfiVA8OFROQbkVX5JJm",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Эхолоты, подводные камеры и аксессуары",
+                                "url": "/category/eholoty-i-aksessuary-11336/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036794746.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TZHxKSq8Je2P4vZnbuJod6ZTvJE",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Хранение и переноски",
+                                "url": "/category/hranenie-i-perenoski-31455/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-p/6472473781.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-hBN-mdg-Q2Hf6kwZbKN7OwAF0r",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Прикормки, насадки и ароматизаторы",
+                                "url": "/category/prikormki-i-aromatizatory-31453/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-4/6376805668.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NkCDow95HFs21ZTUqSojTxbTP8C",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Грузила",
+                                "url": "/category/gruzila-i-kryuchki-11370/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028464690.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O89lVfszunNWDQV8B5UokttabEe",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ледобуры и аксессуары",
+                                "url": "/category/ledobury-i-aksessuary-30568/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021370769.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YV9xBXV6V_7I1ez6KXJQWN5WyNe",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ящики и органайзеры",
+                                "url": "/category/yashchiki-i-organayzery-dlya-zimney-rybalki-32461/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020893795.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QoJ5HjiDMPGx7b7exyquofXKwWd",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Снаряжение",
+                                "url": "/category/snaryazhenie-dlya-zimney-rybalki-32445/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020893191.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TtuYuE4lnwxXIwCLB9z0jvyxuAN",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары рыболовные",
+                                "url": "/category/aksessuary-i-prinadlezhnosti-dlya-rybalki-11340/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027386663.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y3OmpC48Xl88M36kteTtIENssU0",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-MjiQWZ-n_kZiY9y1OA40oAI8PB",
+                                "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Охота и стрельба",
+                        "url": "/category/aksessuary-i-prinadlezhnosti-dlya-ohoty-11408/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11408.png",
+                        "categories": [
+                            {
+                                "title": "Пневматическое оружие",
+                                "url": "/category/pnevmaticheskoe-oruzhie-11804/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014387394.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_4KHkKFpW5Oi_urb-KEeIr1l02Y",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оптика",
+                                "url": "/category/optika-dlya-ohoty-i-sporta-33134/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-q/6008910134.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TCpYlLBObWGAFQsXQSt7uIS3Vy_",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Снаряжение для охоты",
+                                "url": "/category/snaryazhenie-dlya-ohoty-33149/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022292573.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WvWWXcCXNogUWS0kZib5gGr9dKQ",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Страйкбольное оружие",
+                                "url": "/category/straykbolnoe-oruzhie-11816/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016579489.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OCUo2RennrGxx5HX4OfV7IyJlk-",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Луки и арбалеты",
+                                "url": "/category/sportivnye-luki-i-arbalety-11825/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-y/6887614894.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NcDMYtRTow7qNwRaZ-Y4yyOjTXt",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивная стрельба",
+                                "url": "/category/sportivnaya-strelba-11803/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023820179.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XIRjT__xdE0EIXB_D2jKPzEIki9",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рогатки",
+                                "url": "/category/rogatki-11596/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019823415.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_QSF4VIKyDIH3ZrUMNexUA_iaR6",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства связи для охоты",
+                                "url": "/category/sredstva-svyazi-dlya-ohoty-34938/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026857425.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N8HjHja3pZNdF3e3GMzXflGAo_w",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оформления трофеев",
+                                "url": "/category/obrabotka-ohotnichih-trofeev-35386/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6386169531.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ni9Nz1tdQLsnKAMKwjYNW9Pk7tX",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и хранение оружия",
+                                "url": "/category/aksessuary-i-hranenie-oruzhiya-33147/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022292208.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sg_G5VGoSgCWPbfuSlA9PPDp9GI",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Pr6hZIvJ8akmt1Gual1eXwG4mPV",
+                                "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Лодки и лодочные моторы",
+                        "url": "/category/lodki-i-lodochnye-motory-11190/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11190.png",
+                        "categories": [
+                            {
+                                "title": "Моторные лодки ПВХ и RIB",
+                                "url": "/category/motornye-lodki-pvh-i-rib-32917/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6000840129.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M9HsSUMc4MMzCjN72OdsBnvKaS0",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Моторы",
+                                "url": "/category/lodochnye-motory-11192/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023585409.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zs6Og169b3AiNpTCRCgg4NG1Vj9",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти и аксессуары для моторов",
+                                "url": "/category/zapchasti-dlya-lodochnyh-motorov-11200/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11200.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UV01vtQEOhwnBZ0fBNGxqAMZ9IJ",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Надувные гребные лодки",
+                                "url": "/category/naduvnye-lodki-11191/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022853821.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_Iivz24qZTkxCGwnCgllvHMPhKM",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Байдарки и каяки",
+                                "url": "/category/baydarki-katamarany-i-kayaki-11193/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-1/6002925001.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_qtskIfjKfIN5PihQUgLB5vb7LL",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Катера и катамараны",
+                                "url": "/category/katamarany-38982/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-u/6615787782.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WQVuZY7MzFaD9v41zwNXSjh9GGm",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для лодок",
+                                "url": "/category/aksessuary-dlya-lodok-11196/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11196.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MQtPFbkC-QW4NHrnr1uDhBM-u_B",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спасательные жилеты",
+                                "url": "/category/spasatelnye-zhilety-11206/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6005270358.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MLVwu8ApmW-ass7HOBCh6Zqn8Wb",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства спасения",
+                                "url": "/category/sredstva-spaseniya-32919/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6006748895.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MWU_nLasxQcVH7OoO1XxqOQD7Ke",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-yaht-38820/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-s/6400515040.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-EUxYyDK7xnmlWfuhKHuLXyHTa2",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1XYTUaUOmE9gZGIzm0zBu134bcER",
+                                "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Одежда для рыбалки и охоты",
+                        "url": "/category/odezhda-dlya-rybalki-11334/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11334.png",
+                        "categories": [
+                            {
+                                "title": "Костюмы",
+                                "url": "/category/kostyumy-dlya-rybalki-32132/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013756218.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-x0jAu_rD3U3iEa13RaReiKx8R2",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Полукомбинезоны",
+                                "url": "/category/polukombinezony-dlya-rybalki-32133/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027625567.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VZJPv9KKhHZS_ToPoDM2VRi276M",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Верхняя одежда",
+                                "url": "/category/verhnyaya-odezhda-dlya-rybalki-32134/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023223346.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SwEOKohUIoTagBnrZOTgz4u5V0a",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Брюки",
+                                "url": "/category/shtany-rybolovnye-32135/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028497725.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YEU3-8eVShVfuRFRKkXBASoIASp",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Перчатки, варежки и носки",
+                                "url": "/category/perchatki-i-varezhki-rybolovnye-32136/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024627455.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_V_oON4dnA2a_-Jhs0XrVjtJbof",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Головные уборы и очки",
+                                "url": "/category/golovnye-ubory-dlya-ohoty-i-rybalki-35121/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6031170686.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NNucQlMXlw5IlCE7JPZ1M6n5OqW",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рубашки, футболки и худи",
+                                "url": "/category/rubashki-dlya-rybalki-37865/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-n/6022683443.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PoFcphSXgWIUIkuIXMK-JuglIwO",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда для зимней рыбалки",
+                                "url": "/category/odezhda-dlya-zimney-rybalki-32157/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024628154.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_6POp9cj7oXoaAzWtfZLEvJgeAa",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1U0gYhvOiOv-Xe3rcFSvQ-ZLaY8D",
+                                "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Обувь для рыбалки и охоты",
+                        "url": "/category/obuv-dlya-rybalki-11335/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11335.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1P2SCUQdZEmUDkMjr85sl0UKe0dr",
+                                "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Тактическая одежда и аксессуары",
+                        "url": "/category/takticheskaya-odezhda-i-aksessuary-38392/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/38392.png",
+                        "categories": [
+                            {
+                                "title": "Бронежилеты и бронешлемы",
+                                "url": "/category/bronezhilety-33900/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6019403621.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ML3rYq9xLFq_bBih0Jip_y0mhqW",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ремни и разгрузочные системы",
+                                "url": "/category/takticheskie-remni-11886/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022292597.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-AjoRNvLRJrT6YHxXCaWINbU8Pd",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Костюмы",
+                                "url": "/category/kamuflyazhnye-kostyumy-7822/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021198533.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_ulkno5EMj5LffDhqVxrtgP_l2H",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Брюки",
+                                "url": "/category/takticheskie-bryuki-38393/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6316189905.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YZZVcrmh0m_crXKt0ehK7hZwQhc",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Перчатки",
+                                "url": "/category/takticheskie-perchatki-38394/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6097463345.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XhFp-JT_ysDokDeP2TbZ8bWrsgG",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сумки и рюкзаки",
+                                "url": "/category/turisticheskie-bauly-11875/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021148133.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NjerqZl3_LzkPQsMvbZDwN4PR2O",
+                                        "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_wzszdZr8tcQo_XpZ1CsZc0C44E",
+                                "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Наборы для выживания",
+                        "url": "/category/nabory-dlya-vyzhivaniya-11583/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11583.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1NoqWAQK1_pbLEK32_y-f7tbmljC",
+                                "sliceKey": "1CZj1PlHkjtBnrqoKJ2h4Je0OUBDsx_A"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1NXQThV45YckVt20CbR6bThgjIzS"
+            }
+        },
+        "countGoods": "64738",
+        "countGoodsTitle": "товаров"
+    }
+}

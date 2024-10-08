@@ -1,0 +1,1337 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "6500",
+        "title": "Красота и здоровье",
+        "url": "/category/krasota-i-zdorove-6500/",
+        "image": "https://ir-3.ozone.ru/s3/multimedia-n/6677996063.jpg",
+        "icon": "ic_m_beauty_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Уход за волосами",
+                        "url": "/category/uhod-za-volosami-6584/",
+                        "image": "https://ir-3.ozone.ru/s3/cms/61/t08/image_2.png",
+                        "categories": [
+                            {
+                                "title": "Шампуни и кондиционеры",
+                                "url": "/category/shampuni-i-konditsionery-35438/",
+                                "image": "https://ir-2.ozone.ru/s3/multimedia-v/6734984827.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_W7fzSJudKVpaMFa67EhXlMz1Ol",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Маски и сыворотки",
+                                "url": "/category/maski-i-syvorotki-6587/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-c/6683171304.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VTd8Xy3RuFPfuQNBYOBnfd0klLc",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для укладки",
+                                "url": "/category/sredstva-dlya-ukladki-volos-6601/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/7d/t59/image_20.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_1M8N2q7AG-WtHTYz_aKv_JhNPf",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Расчески и щетки",
+                                "url": "/category/rascheski-i-shchetki-6629/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023292730.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W-HqyO77jPOTjtsN8hG9SqsEFib",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Окрашивание и химическая завивка",
+                                "url": "/category/okrashivanie-i-himicheskaya-zavivka-6616/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-f/6024489123.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XGPriJVsA2Bn9wCo3TkU3GjwLgF",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Косметические наборы",
+                                "url": "/category/kosmeticheskie-nabory-dlya-volos-6682/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/0a/td9/image_46.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZRQK5sMN_HhMt5XV_JiYdXU95lw",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наращивание волос",
+                                "url": "/category/snyatie-narashchennyh-volos-32123/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026194368.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N5S-e0BsangSOp7yZTHL54AY7c0",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Флаконы и шапочки для душа",
+                                "url": "/category/flakony-dorozhnye-6691/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6006116278.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XfjQPQg7Uer4yvzQaO_oFahHbIV",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бигуди",
+                                "url": "/category/bigudi-6635/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020780329.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RtIP_31-hekay2nj2M_4y12OhHM",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Парики и шиньоны",
+                                "url": "/category/pariki-i-shinony-6636/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018989231.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZIxOyIpfsDr-saOF0RlnzG3hMes",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Профессиональные инструменты парикмахера",
+                                "url": "/category/professionalnye-instrumenty-parikmahera-30674/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1011665436.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QUdiaAWUUBwUf0t6biSKecVB8Zh",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1X3gbPoPYWyI3PqurYCMxMuZl33F",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Уход за лицом",
+                        "url": "/category/uhod-za-litsom-6559/",
+                        "image": "https://ir-3.ozone.ru/s3/multimedia-1-2/7018602482.jpg",
+                        "categories": [
+                            {
+                                "title": "Очищение и умывание",
+                                "url": "/category/ochishchenie-6560/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-y/7036043974.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ra-d6yIQ9vYst9lBV5bF3Fbq3Ns",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Скрабы и пилинги",
+                                "url": "/category/skraby-dlya-litsa-6583/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-7/6949517011.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QPhrrizUFZwZ0iurZRKR9iD9GjG",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Увлажнение и питание",
+                                "url": "/category/uvlazhnenie-i-pitanie-6561/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-4/6452371216.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wb6SvdCD6Mw5jYV-olcOAPWSrox",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Маски",
+                                "url": "/category/maski-dlya-litsa-30937/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/43/t6b/image_69.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XY8DuUVFVCT1QZLAWKaZhEhe00u",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Патчи",
+                                "url": "/category/patchi-kosmeticheskie-6577/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-x/6684856665.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YLu_B6sCzIN8sp_SPHFmGlL_LHX",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для проблемной кожи",
+                                "url": "/category/sredstva-dlya-problemnoy-kozhi-6581/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/3f/td2/image_38.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PY_ETMdH2fvt9U4Z-INz0LxwkYW",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антивозрастной уход",
+                                "url": "/category/antivozrastnoy-uhod-38000/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6040185069.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O_DL_wsTlYzUkQq82kteLXA_if7",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы средств для лица",
+                                "url": "/category/nabory-sredstv-dlya-litsa-30521/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/2e/t94/image_62.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WCkLMawNLapv5_iKgRDc-A34YLN",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструменты косметологические",
+                                "url": "/category/instrumenty-kosmetologicheskie-31614/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-j/6001850131.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VVwukdXVhXmtti5DlhCLuw9C0Dw",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YR99iEj83kBCXigqcRj5sYJnhzY",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Уход за телом",
+                        "url": "/category/uhod-za-telom-6637/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-7/6832758103.jpg",
+                        "categories": [
+                            {
+                                "title": "Кремы",
+                                "url": "/category/kremy-dlya-tela-6648/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/c8/t07/image_34.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y84x0tpwxy8Ph6FRG57zE5R5gbw",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Увлажнение и питание",
+                                "url": "/category/uvlazhnenie-i-pitanie-dlya-tela-31294/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-v/7029622975.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OxhtOlgGXlKarv43eqcSbadxKPg",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для душа",
+                                "url": "/category/geli-dlya-dusha-6638/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-b/6820794839.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S8SO1rIibBZnX5_0J9taf0tp1LB",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мыло",
+                                "url": "/category/mylo-6639/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/ee/te9/image_30.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y1kVy6N4avIAf0lUNRXm7C3GvhG",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мочалки",
+                                "url": "/category/mochalki-6661/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033023170.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q9-XOIyUlz76vNIEq7EHF8uoS7m",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Скрабы и пилинги",
+                                "url": "/category/skraby-i-pilingi-6574/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-v/6988579267.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UKXSZnWk2O8l8Zsdqz6ABvkNkan",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для принятия ванны",
+                                "url": "/category/sredstva-dlya-prinyatiya-vanny-37954/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-t/6136759385.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QFzJhl9YzBTVwQPZPeSPxc-b2-x",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дезодоранты",
+                                "url": "/category/dezodoranty-6647/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/15/tb5/image_33.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MZO5Q_nGihbiY0IvpXxfG9sJIOS",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства против целлюлита и растяжек",
+                                "url": "/category/antitsellyulitnye-sredstva-31976/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1031706238.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qd5QCSR-3I_EaSWS0IKBZxrhODY",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Щетки для сухого массажа",
+                                "url": "/category/shchetki-dlya-suhogo-massazha-30638/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036791815.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZDgPBoZObDZ0qjq0k6k1IiS4H5q",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Депиляция и эпиляция",
+                                "url": "/category/depilyatsiya-i-epilyatsiya-6640/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6003849923.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MLnBoIu15fgybuJtDayAfQbZOnn",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы косметики",
+                                "url": "/category/nabory-kosmetiki-dlya-uhoda-za-kozhey-6582/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025164475.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XYlReIlG4JvZjmV8u4XvD4hjrpM",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стики для тела",
+                                "url": "/category/stiki-dlya-tela-6704/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021772360.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UpYCL069ZTVZlUFn6SBCcr0rvU1",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1M_xFdZaz4db6NcyEBSzrsoJLQMn",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Макияж",
+                        "url": "/category/makiyazh-6501/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6501.png",
+                        "categories": [
+                            {
+                                "title": "Лицо",
+                                "url": "/category/litso-6502/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-o/6263067468.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-6my35H-VJDRk4hPpTsZVmqYtug",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Глаза",
+                                "url": "/category/kosmetika-dlya-glaz-6516/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-6/6060860526.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W3pr7hpz449OCYCKO-9rvQZJ9hF",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Губы",
+                                "url": "/category/guby-6512/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019799883.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NJDPtE_VPCsqKEZlnI-JySAz2Iw",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Брови",
+                                "url": "/category/brovi-6521/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027130463.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VaAGleoP-0al4IEmKz1cd7zthxn",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для макияжа",
+                                "url": "/category/aksessuary-dlya-makiyazha-6551/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-a/6969349558.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_WdGDTqHCa-2IuZybF0mLIAhP7f",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для макияжа",
+                                "url": "/category/nabory-dlya-makiyazha-6550/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-q/6177108470.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q3XA_loJ_wjWuwlu1KIJaPqzNss",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Перманентный макияж",
+                                "url": "/category/permanentnyy-makiyazh-34911/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-6/6020456394.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wqbs-cXodX6oKwfuYVckFzNvbAZ",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Временные татуировки и стразы",
+                                "url": "/category/perevodnye-tatu-6723/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-4/6466498660.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NJLT2bf_0kMdvozojDvS2INl2Y2",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VQS0z3IN2o5fmZEDzokb7NsjElS",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Маникюр и педикюр",
+                        "url": "/category/nogti-6526/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6526.png",
+                        "categories": [
+                            {
+                                "title": "Гель-лаки и гелевые системы",
+                                "url": "/category/gel-laki-i-gelevye-sistemy-38765/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-f/6953012151.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YDEdSqukhtnQw_3u9skUTYlMhCD",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дизайн ногтей",
+                                "url": "/category/dizayn-nogtey-6530/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-a/6627173662.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qffc3nuznjNJ5mYRcrLT7dYPFNu",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструменты и аксессуары",
+                                "url": "/category/aksessuary-dlya-manikyura-i-pedikyura-6534/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-4/6537688948.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-DYt_hBmskp95iYhF2hyFyGaXpz",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для маникюра и педикюра",
+                                "url": "/category/apparaty-dlya-manikyura-i-pedikyura-6337/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-h/7038084473.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UidDWYwshq6_9FKKJY3GpfVTLHJ",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Типсы и формы для наращивания",
+                                "url": "/category/nakladnye-nogti-tipsy-6546/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-i/6383633082.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W2kQ7agiDg1mEKo4h7MPeiriT9L",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Уход за кожей и ногтями",
+                                "url": "/category/uhod-za-nogtyami-35492/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-w/7071815876.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QPBvO1QGwQ7_gQPmD99S6w5xHAV",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антисептические средства",
+                                "url": "/category/antibakterialnye-sredstva-33252/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021545361.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_unDp4Y0YGHd6ltO8CcM4WaInDf",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ванночки и парафинотерапия",
+                                "url": "/category/aksessuary-dlya-manikyura-i-pedikyura-35464/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-6/6022047738.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZN0vI7N5Z7Fup0fvlfW1UfcCtEj",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_rOCFSBByKRSDKajih2ascfF972",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Парфюмерия",
+                        "url": "/category/parfyumeriya-6662/",
+                        "image": "https://cdn1.ozone.ru/s3/cms/17/t77/image_44.png",
+                        "categories": [
+                            {
+                                "title": "Парфюмерная вода",
+                                "url": "/category/parfyumernaya-voda-6663/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-f/7013904783.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UmfUs-GilrkoEGz5vuMA7vUXKiJ",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туалетная вода",
+                                "url": "/category/tualetnaya-voda-6664/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-z/6993838331.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-GL7Gk7DKCwYsi9SXxp6pMNPYVL",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Духи",
+                                "url": "/category/duhi-6666/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1/6227891557.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T8F_LnFaQ6lmyuVozA6Gd88dBY9",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Духи сухие и масляные",
+                                "url": "/category/duhi-suhie-i-maslyanye-33245/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-t/6007396409.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NAV2jfY3h2PmHya1foPygpXAYAG",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Нишевая парфюмерия",
+                                "url": "/category/nishevaya-parfyumeriya-1587/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-b/6119241767.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZFk0YYFXAxe0VB8AeCPu30f9AQq",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дымки и вуали",
+                                "url": "/category/dymki-i-vuali-dlya-volos-38055/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-a/6861540178.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OD77OyrIBrAEfHLg28btY2blo4P",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наливная парфюмерия",
+                                "url": "/category/nalivnaya-parfyumeriya-33037/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-l/6601538397.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Uuy52sJYqXPuAgSYfNJFksft7Qp",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одеколоны",
+                                "url": "/category/odekolony-6665/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-4/6721608820.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_o0YAJIkegdq39JrUyg6TMgghBz",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Парфюмированный набор",
+                                "url": "/category/parfyumirovannyy-nabor-6668/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-1-i/6919538382.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OtztMUnjjXgrms9FpBeDcOT8cfZ",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Атомайзеры и флаконы для духов",
+                                "url": "/category/atomayzery-6700/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017572795.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-KQjPXuhfkAyOrV6LEgsKHXQ_I0",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_bdmmiC-2E8ZBVoD-_LltTQvejT",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Загар и защита от солнца",
+                        "url": "/category/zagar-i-zashchita-ot-solntsa-6651/",
+                        "image": "https://cdn1.ozone.ru/s3/cms/73/t29/image_39.png",
+                        "categories": [
+                            {
+                                "title": "Солнцезащитные средства",
+                                "url": "/category/solntsezashchitnye-sredstva-6656/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/e6/t69/image_41.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S3jITjUupWuZppJaM6izDAzzL6d",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Косметика для ухода с SPF",
+                                "url": "/category/solntsezashchitnye-sredstva-dlya-litsa-38024/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022323227.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OgrsJXMYXnwLuar9SyewBxqTbZJ",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для загара",
+                                "url": "/category/sredstva-dlya-zagara-36201/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6043269728.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MF9KV2biqFIPJcHpfd4n_0wAlFU",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства после загара",
+                                "url": "/category/sredstva-posle-zagara-6655/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1/6330065137.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V8-pY_NF8OsG4I3d9joI5oYpWIw",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для солярия",
+                                "url": "/category/sredstva-dlya-solyariya-6653/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-a/7017972562.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U8-9r9Lo3iLT2W-6v66K91KJPca",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автозагар",
+                                "url": "/category/avtozagar-6652/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-l/6970993905.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_hvg6tF1Evq9swHj6cFNGttIZNH",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-139TKrXvJ1b-Qy96uX0SfPf_hA",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мужская косметика",
+                        "url": "/category/muzhskaya-kosmetika-35504/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35504.png",
+                        "categories": [
+                            {
+                                "title": "Бритье и уход за бородой",
+                                "url": "/category/britvy-i-sredstva-dlya-britya-6685/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/20/t90/image_48.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UPPGtiK1rCZFannNjYu69Ylb6jx",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Парфюмерия",
+                                "url": "/category/muzhskaya-parfyumeriya-35513/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-4/6919812220.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NjD4-B4o_6uOtxuyu0338T9BJzi",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для волос",
+                                "url": "/category/muzhskaya-kosmetika-dlya-volos-35506/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6020708665.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yz7OIRdJYqlBD4FAc8C8DBd83jl",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гели для душа",
+                                "url": "/category/geli-dlya-dusha-muzhskie-39216/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-p/6370706821.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M_AlVdH7AhOBGjZNku76Cj3SJ7z",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дезодоранты",
+                                "url": "/category/dezodoranty-muzhskie-35505/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-d/7019954221.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_1KET_qbaYhLot57Ml9D_66sxlY",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для гигиены",
+                                "url": "/category/nabory-dlya-gigieny-muzhskie-39217/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-o/6876254256.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T9QMeLSXGsuvOPrlsE6eT0FGPyG",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TuvrEC48-QoepTK0BswbFKxDmEJ",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Детская косметика и парфюмерия",
+                        "url": "/category/detskaya-kosmetika-35584/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35584.png",
+                        "categories": [
+                            {
+                                "title": "Декоративная косметика",
+                                "url": "/category/makiyazh-detskiy-35587/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6030510750.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OlBE-zP8YyJIkILFPenCMjLjwc5",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Парфюмерия",
+                                "url": "/category/detskiy-parfyum-35590/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028380445.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R4u7uAlRNa074lR8tvVKfu75IOR",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для купания",
+                                "url": "/category/sredstva-dlya-kupaniya-39495/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UNORDn4h91f4VA2m5NHWS6CcBk3",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для укладки волос",
+                                "url": "/category/detskie-sredstva-dlya-ukladki-volos-33257/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-i/6009140742.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TiH94kFZQY1t7JfAWv2s1mGIu_j",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Маникюр",
+                                "url": "/category/detskiy-manikyur-35585/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-k/6022280852.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TMf21PzfUv1IkCcHV8Kxt8S2UJF",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лаки для ногтей",
+                                "url": "/category/laki-dlya-nogtey-detskie-35588/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6027420144.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_QAy9VhNsb2H0Mx5HtfhCuNA_zG",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Xjs_l6JkurpghI7VehK0HiCodLz",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Беременным и кормящим",
+                        "url": "/category/kosmetika-dlya-beremennyh-i-kormyashchih-33251/",
+                        "image": "https://cdn1.ozone.ru/s3/cms/ad/tad/image_93.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TnGHfm9-m9m1TJgWQIVb0zQZ9Za",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аппаратная косметология и массаж",
+                        "url": "/category/apparatnaya-kosmetologiya-6325/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6325.png",
+                        "categories": [
+                            {
+                                "title": "Массажеры",
+                                "url": "/category/massazhery-34220/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028004387.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_lN1G_jIAMxkVMl4h8HDgdTPk2G",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Косметологические аппараты",
+                                "url": "/category/kosmetologicheskie-apparaty-6326/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025090442.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YcM1D6N0tbmyNg8le5GM6Eh8R4a",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Эпиляторы",
+                                "url": "/category/epilyatory-32708/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026106762.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PXIpCVCO8NpSn5R_17Cje0dCuJv",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Контактные гели",
+                                "url": "/category/kontaktnye-geli-33153/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6011015592.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YNVYi4S61ffxFwZY2_-isifKh8f",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YSGzogTDz8izp_XJo-_pdB_U4HI",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Ароматерапия",
+                        "url": "/category/aromaterapiya-6671/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6671.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Rt3nnSeD9M6uCJiYA8KtVJyADku",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Оборудование и материалы для тату-салона",
+                        "url": "/category/oborudovanie-i-materialy-dlya-tatu-31987/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31987.png",
+                        "categories": [
+                            {
+                                "title": "Тату-машинки и аксессуары",
+                                "url": "/category/tatu-mashinki-i-aksessuary-31989/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6005407515.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_PgrFCQM2R6OQjyK59HUEFmapj8",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Краски и расходники",
+                                "url": "/category/kraski-dlya-tatuirovok-31991/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6043332756.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WYX9BqyMNq-UX9hfyYenx2uhR1p",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Уход за татуировками",
+                                "url": "/category/uhod-za-tatuirovkami-31990/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6016391351.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YfAANz3ynhLJHGzY4mPUPsnWbtI",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тату-наборы",
+                                "url": "/category/tatu-nabory-31994/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6013345610.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Pnqsq0oBUb8U3Kj1mdTEYWqDKMH",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Удаления татуировок",
+                                "url": "/category/tovary-dlya-udaleniya-tatuirovok-34774/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6031807533.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q2oi9s9XXVzVTdu3sX-B6E8ppDt",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструменты для пирсинга",
+                                "url": "/category/instrumenty-dlya-pirsinga-31992/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-6/6009293622.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NnnymvJAWj8s_fAM0UGaHQKmpSh",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QJI3CYk-GT3lACh_cbdInwElZft",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мебель и оборудование для салонов красоты",
+                        "url": "/category/oborudovanie-dlya-salonov-krasoty-34940/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34940.png",
+                        "categories": [
+                            {
+                                "title": "Массажное оборудование",
+                                "url": "/category/massazhnoe-oborudovanie-34221/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6006247987.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XFyXLvwfW22Y4HQw5obgAydKlmf",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для кабинетов маникюра и педикюра",
+                                "url": "/category/mebel-i-oborudovanie-dlya-kabinetov-manikyura-i-pedikyura-39014/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SAUhCVLNFHz4VWU02x_A69ywVKX",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для парикмахеров",
+                                "url": "/category/mebel-i-oborudovanie-dlya-parikmaherov-39544/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YM8Ct_peinuVB019D0Uj77KMJvr",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для косметологов",
+                                "url": "/category/mebel-i-oborudovanie-dlya-kosmetologov-39015/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sdm20JWy8e1SGja3YT5BZphQyx0",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для визажистов",
+                                "url": "/category/mebel-i-oborudovanie-dlya-vizazhistov-39017/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SFAjtMUt7i5XytP6monwz-_kldh",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стулья мастеров для салонов красоты",
+                                "url": "/category/stulya-masterov-dlya-salonov-krasoty-39018/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MIVY0aLa3-CXvIXCDLTd9ahAxZ0",
+                                        "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MB2gJso6Uau1cvAM9ZV325llcwL",
+                                "sliceKey": "1CZj1TwEaL9w1ydBYZ4-q8n2HVCRpE8O"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1U2gV8YzzVROk34uled4VLi3JduY"
+            }
+        },
+        "countGoods": "68332",
+        "countGoodsTitle": "товара"
+    }
+}
