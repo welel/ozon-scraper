@@ -1,0 +1,1766 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "13500",
+        "title": "Хобби и творчество",
+        "url": "/category/hobbi-i-tvorchestvo-13500/",
+        "image": "https://cdn1.ozone.ru/s3/cms/4a/tcb/image3x.png",
+        "icon": "ic_m_hobby_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Рукоделие",
+                        "url": "/category/rukodelie-13586/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13586.png",
+                        "categories": [
+                            {
+                                "title": "Аксессуары и материалы",
+                                "url": "/category/aksessuary-i-materialy-dlya-rukodeliya-13646/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6013131349.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OBKxfjk4vgAe-5KrVnxGOLWhb4m",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструменты и инвентарь",
+                                "url": "/category/instrumenty-dlya-rukodeliya-13617/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-b/6468803063.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tqw6ai19BH3ZniYDui_fj8u0Zei",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Валяние",
+                                "url": "/category/valyanie-13607/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017407323.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-bkYYX6wiMLjIVhZ65KRsgNYBzD",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Выжигание и поделки из дерева",
+                                "url": "/category/vyzhiganie-podelki-iz-dereva-13722/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6001176086.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YJQFGI3XSKbo4aTh453WGdyV2gh",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Вышивание",
+                                "url": "/category/vyshivanie-13587/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014957100.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZGxBes5HGEqUp22kq47gEye2rXu",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Вязание",
+                                "url": "/category/vyazanie-13588/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13588.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VAGd_yZj6eTfkgU4hPSv4hNeXZv",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Декупаж",
+                                "url": "/category/dekupazh-13574/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-v/6332851351.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YJWirWf311iYOHssMk8U3gXTK4K",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Заготовки для декорирования",
+                                "url": "/category/zagotovki-dlya-dekorirovaniya-13576/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014462720.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T-LiYvdD_MD63BsrnaxmRs-dR90",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Изготовление игрушек",
+                                "url": "/category/nabory-dlya-izgotovleniya-igrushek-13834/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-k/6015957560.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VRwU9EsxuqGbuKrQQr2IQMeyLF1",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Изготовление ножей",
+                                "url": "/category/izgotovlenie-nozhey-39393/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-0/6650022384.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NuL87j4rGFYaRWEro8fU29MPLWo",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кожевенное дело",
+                                "url": "/category/kozhevennoe-delo-34023/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-i/6019200294.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UARDg52StU2gJBRNOX1SivqbIxA",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лэмпворк",
+                                "url": "/category/lempvork-37063/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-y/6148795882.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XfW_cxZDRXAcBzyRpTC2-r-OMli",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мыловарение",
+                                "url": "/category/mylovarenie-13822/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010835063.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rhv7W8rRt-FHPEH3ZfZLZJBtHwa",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Плетение",
+                                "url": "/category/pletenie-13721/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020858600.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MYzFKFI0IPYH0WKclNK9DWUUX-L",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пэчворк и квилтинг",
+                                "url": "/category/pechvork-i-kvilting-13614/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-v/6002054767.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RuXbtSRymbxckLRnxbPnKz-vctG",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Реставрация и золочение",
+                                "url": "/category/restavratsiya-i-zolochenie-34676/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6020214086.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SUuK1GYJD8lPUCuI3k6K0Oux0-_",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Скрапбукинг",
+                                "url": "/category/skrapbuking-13573/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-n/6015439811.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rcwclvc9iMqhqfYq5-BzGAp9nVI",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гобелены и стринг-арт",
+                                "url": "/category/sozdanie-gobelenov-13613/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023902022.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NFyqRLK1qrHeCULiSgISPM96Hiq",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Создание украшений",
+                                "url": "/category/nabory-dlya-sozdaniya-ukrasheniy-13837/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020560344.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TQi8ttt2iXHUqWeajGBcrQLgkB4",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ткачество и прядение",
+                                "url": "/category/tkachestvo-i-pryadeniye-38197/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6347978321.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VjgfLtdNX_KkVnAhygBfleP3Yqs",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Флористика",
+                                "url": "/category/floristicheskie-peny-13711/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-k/6026031728.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WOp3UIBQmTjWrBr5V1Vj1lFp_Dz",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шитье",
+                                "url": "/category/shite-13596/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-w/7024039304.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RGDLX50jV_V0w-Zn1Yzu2naQoHT",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Материалы и инструменты для ювелиров",
+                                "url": "/category/materialy-i-instrumenty-dlya-yuvelirov-39791/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-g/6728343064.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SYh-tDXLXkYJs-XDJ2bPM8g-AhG",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QTw8JEvs4PEQCu08ec7OG608Ufk",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Настольные и карточные игры",
+                        "url": "/category/nastolnye-i-kartochnye-igry-13506/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13506.png",
+                        "categories": [
+                            {
+                                "title": "Настольные игры",
+                                "url": "/category/nastolnye-igry-13507/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026252206.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NqVf4mFD_CaVv0odpxidj4YJAbG",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ходилки",
+                                "url": "/category/nastolnye-igry-hodilki-39336/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-c/6031405872.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QISFILuIaCu_P0JCIU4_7hdbot-",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Cпортивные игры",
+                                "url": "/category/nastolnyy-futbol-hokkey-bilyard-7173/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6021630945.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PTVmwAx07KWIavv_OtiaUAkPJ_h",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Трансформационные психологические игры",
+                                "url": "/category/transformatsionnye-igry-34939/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-d/6022453645.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sqg7D-8KZvSxBkptVczDmwzU5DF",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Карточные игры",
+                                "url": "/category/kartochnye-igry-39337/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-9/6492773445.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XpMp1XVCfZpTixXb_91ljshXaIE",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры в рулетку",
+                                "url": "/category/igry-v-ruletku-39335/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-w/6272250536.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OKN6X4Yoc6LFKBrkYL_rFgPvuVz",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для покера",
+                                "url": "/category/nabory-dlya-pokera-13518/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010263152.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_oYc8R202uWRuL5AdwZK6voUCde",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игральные карты",
+                                "url": "/category/igralnye-karty-13517/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023977777.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sx0xnUeZ0rLspbabqBkJ9YaVYFl",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шахматы",
+                                "url": "/category/shahmaty-13509/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020175679.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Nf6n3ahLvadzS-TbuXBnJXU5Z09",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Нарды",
+                                "url": "/category/nardy-13511/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021509325.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NRUldPFrvAN0Mn9ljYtUe06p6Iq",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шашки",
+                                "url": "/category/shashki-13510/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013982475.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZBvt5Rianji8GULSt-_QGYHofuU",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лото",
+                                "url": "/category/loto-13513/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023450305.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UGQXzT_bmfPEo9pmsFKWG8jbA2R",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домино и маджонг",
+                                "url": "/category/domino-13512/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014678750.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NAMUdit6QGmaJHEtRCyLHkE85r_",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-nastolnyh-igr-13523/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020195658.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YUmCCeKxZDYUT3Lc-bDWlfe8tGj",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дополнения к настольным играм",
+                                "url": "/category/dopolneniya-k-nastolnym-igram-39343/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-w/6221287208.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XrINgLk9nL2sVSBtpuBjrGJuHcE",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1OvNqA6MM3hXhy1yiIg5BVX0wzzr",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Пазлы и головоломки",
+                        "url": "/category/pazly-i-golovolomki-13501/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13501.png",
+                        "categories": [
+                            {
+                                "title": "Пазлы",
+                                "url": "/category/pazly-13502/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013918185.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1__REHlNM9AklxPmEcHOR9xIpGZw",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-pazlov-13504/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012311404.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MtTlVgZ4LM8iIokHFHSb7QrNIIs",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Головоломки",
+                                "url": "/category/golovolomki-7177/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019941430.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QyRh9FpOXOnQGrO48uuybygfltL",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Неокубы",
+                                "url": "/category/neokuby-39814/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-w/6732885308.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R19JqpEU5QETlzvqar4zUDyolwp",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VEHe-YjKbZBiJ0fkO6x1HbGBAR6",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Музыкальные инструменты",
+                        "url": "/category/muzykalnye-instrumenty-13917/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13917.png",
+                        "categories": [
+                            {
+                                "title": "Гитары и аксессуары",
+                                "url": "/category/gitary-i-aksessuary-13924/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-8/6009174860.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P0cz3Qm5AhEm5dFi8OFkjn1FNgL",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Струнные инструменты",
+                                "url": "/category/strunnye-instrumenty-13951/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024319783.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-HEjnS-Y1QojEpC8l6wM8Bn87xJ",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Клавишные инструменты",
+                                "url": "/category/klavishnye-instrumenty-13918/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015645303.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QTPcha2oXeCGwVO052VFBesclzd",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ударные и перкуссия",
+                                "url": "/category/udarnye-i-perkussiya-13959/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6000380509.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PboyxbDZ8iWPwqGMQb_mtmyhcc6",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Духовые инструменты",
+                                "url": "/category/duhovye-instrumenty-13932/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037372124.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1--h5CNthWyj5VGmPt5YVihyB3TY",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-k-muzykalnym-instrumentam-13968/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037831299.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VbbzHCKUcxiJ-Df5dpmlzvPmzE6",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Уход за музыкальными инструментами",
+                                "url": "/category/uhod-za-muzykalnymi-instrumentami-37518/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6070047509.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PDvYH13_y2k33I6DWv7peBug4bB",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Oe9vh7si-hu-KXgnyhins2-u94f",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Рисование",
+                        "url": "/category/risovanie-13528/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13528.png",
+                        "categories": [
+                            {
+                                "title": "Холсты, артборды и картон грунтованный",
+                                "url": "/category/holsty-36228/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013976852.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O-giLT1LTCVs2IJvGZtButLx6Lq",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бумага для черчения и рисования",
+                                "url": "/category/bumaga-dlya-chercheniya-i-risovaniya-39580/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TQ5f0bwe7egEDpns-Eynus3tLeb",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мольберты и этюдники",
+                                "url": "/category/molberty-13529/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013959569.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PyN0cY1SasJLww10hjI6a_CGhA0",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Скетчбуки",
+                                "url": "/category/sketchbuki-14017/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14017.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M_oOPDfJgC_bEv9VHIcsaUgbnEX",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Краски",
+                                "url": "/category/kraski-dlya-risovaniya-13530/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13530.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SEf3XrcAVCUu3JzqVtaTN9loLey",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для рисования",
+                                "url": "/category/nabory-dlya-risovaniya-13544/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027341310.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PSD1uTu4UGi6c-gfxslfjApocaX",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Карандаши",
+                                "url": "/category/karandashi-dlya-hudozhnikov-30187/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-e/6060615374.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rvmm_67vT_yrWM-xoToIX0zyaip",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Маркеры",
+                                "url": "/category/markery-30188/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-g/6717737752.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UnKxwooG4rUQgUOiSS1zODpbWe6",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пастель",
+                                "url": "/category/pastel-13547/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023202723.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XcOEaAr8-YexMFK6KZaJEai2y8H",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пигменты",
+                                "url": "/category/pigmenty-13539/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13539.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O2atMi9s7fUw-oA3Y8uWTxL_vio",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Глиттеры",
+                                "url": "/category/glittery-hudozhestvennye-13541/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021349335.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TD8Jwas-j_CPKLvSa9911oVqcw7",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Уголь, сангина, сепия и соус",
+                                "url": "/category/ugol-dlya-risovaniya-13550/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13550.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MHTDUVp8OwRxpp3A-hZPKoM-NUa",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для очищения кистей",
+                                "url": "/category/sredstva-dlya-ochishcheniya-kistey-38044/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-8/6276709976.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y9FPwTBZT3YuBqM-qWPNlBl6uSU",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-i-prinadlezhnosti-13551/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014885639.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TyEhO-ThYOcH-OfZ9_Vt9yequ9b",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Экраны и проекторы",
+                                "url": "/category/ekrany-dlya-risovaniya-13560/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027177370.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M2KWokorisX9BHCJPVKkm_jRN2a",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Штампы и трафареты",
+                                "url": "/category/shtampy-i-trafarety-13548/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1000387291.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NHMgylCVj7QrshzN4OzH3J9172q",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Разбавители, загустители и грунты",
+                                "url": "/category/razbaviteli-zagustiteli-i-grunty-dlya-risovaniya-35383/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1031431044.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TJ386qowZlsmJU9BH99dqO6paKi",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рисование на воде Эбру",
+                                "url": "/category/risovanie-na-vode-ebru-34967/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-a/6008614018.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V0CMaXil0umTR4gKrBvP4C5BCys",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рисование жидким акрилом (Флюид-арт)",
+                                "url": "/category/risovanie-zhidkim-akrilom-flyuid-art-37560/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6165159218.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XPXvx1WkHKeEJ8HXI-rIF0zVHjE",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1U5blVIVNeIIrKY2RhvBcZvQwuZr",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Раскрашивание и роспись",
+                        "url": "/category/raskrashivanie-i-rospis-13524/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13524.png",
+                        "categories": [
+                            {
+                                "title": "Раскраски",
+                                "url": "/category/raskraski-13525/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023172943.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yj1Cyb3Z93JSjkTbOpNsFMnEyB8",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аэрография",
+                                "url": "/category/aerografiya-dlya-tvorchestva-34907/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-4/6021803692.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OdVWZTCnNf2u0SeFdSLsKz46sqH",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для росписи",
+                                "url": "/category/nabory-dlya-rospisi-13527/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010846687.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sa0FrXi1Y06cQ6XYIq_MBEaNvMc",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шелкография",
+                                "url": "/category/shelkografiya-34904/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6148695023.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R3w6S5VDKDinZSAoGHUerjNlOQg",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Картины по номерам",
+                                "url": "/category/kartiny-po-nomeram-34021/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021721813.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ws6iAZwNb9Cho0Q3_nPAj9r6oNz",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QeKOt0gVD-_L688mj0_cdWMN6dz",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Создание картин и фоторамок",
+                        "url": "/category/sozdanie-kartin-fotoramok-otkrytok-13567/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13567.png",
+                        "categories": [
+                            {
+                                "title": "Картины по номерам",
+                                "url": "/category/kartiny-po-nomeram-13568/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021721813.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VJMh0RAKNJVlhtIJZ7S3fbDkmRP",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Картины из пайеток",
+                                "url": "/category/kartiny-iz-payetok-13569/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017887784.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V9WDD8KvI5Rc-FCwocCdmVcLlHm",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Картины из эпоксидной смолы",
+                                "url": "/category/nabory-dlya-kartin-iz-epoksidnoy-smoly-35045/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6017281737.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XxEJ7UC4RBIaUPqY0NK7vAUb3yP",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для создания фоторамок",
+                                "url": "/category/nabory-dlya-sozdaniya-fotoramok-13572/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016052780.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QEK87H8h4RRvpLIHUALeGqtVRJ0",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Папертоли",
+                                "url": "/category/papertoli-13570/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022749021.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WQfFUQPXyF7yfsxDRVBHtydv7tl",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MnbJDjD9fhDz22bPdQs3HSK1shH",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мозаики и фрески",
+                        "url": "/category/mozaika-i-freska-13561/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13561.png",
+                        "categories": [
+                            {
+                                "title": "Алмазные мозаики",
+                                "url": "/category/almaznye-mozaiki-13563/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024179172.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XurbPMzUV3wtSw_0vdy76S8RvpA",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для рисования песком",
+                                "url": "/category/freski-13564/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13564.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OuI1BUA2RiVgFvC0eEXCjb8ELVH",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RvJxhda3ZR71otPGdPW_W_WOfYQ",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Барельефы и витражи",
+                        "url": "/category/barelefy-i-vitrazhi-13566/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13566.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SeY3w9Dd3mtqJJvyq8KqfdInEpK",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Гравюры",
+                        "url": "/category/gravyury-13565/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13565.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ODUFpjPY6swU9JYH8cdA9j7GyvR",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Лепка и скульптура",
+                        "url": "/category/lepka-13723/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13723.png",
+                        "categories": [
+                            {
+                                "title": "Пластилин",
+                                "url": "/category/plastilin-13734/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019773434.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R46OVnWrl8gTSJK7HrL-96H7u4K",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Глина для лепки",
+                                "url": "/category/glina-polimernaya-13725/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13725.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YbnguH2ahC06zMqghMy6oIfJrYB",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Клеи и лак для полимерной глины",
+                                "url": "/category/klei-i-lak-dlya-polimernoy-gliny-36257/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6034078145.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RQ9B---Cq302d-lU5X8pYD7iK6L",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для создания слепков",
+                                "url": "/category/nabory-dlya-sozdaniya-slepkov-13729/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019469763.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qird9DgJ2mB9YXc4UUNRQKxKHn4",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для лепки",
+                                "url": "/category/nabory-dlya-lepki-13728/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13728.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Piv43iaiGCU4s-_n0bcMu5QGITn",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Слаймы",
+                                "url": "/category/sozdanie-slaymov-34884/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-k/6016555268.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wr_VYrT4HJF6dQF5iTBRAf8_Zz7",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Масса и тесто для лепки",
+                                "url": "/category/massa-dlya-lepki-36252/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6012985341.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WiJi4EZgOQ1sZwQRlcb_Qy8GuzZ",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Инструменты",
+                                "url": "/category/instrumenty-dlya-lepki-13730/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6000467769.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VpDslcj4BwwGD5ZkWaELm58iVNv",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гипс",
+                                "url": "/category/gips-13724/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13724.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T-VdbuOR1s1y1_AL48r_EqYLG8B",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кинетический песок",
+                                "url": "/category/kineticheskiy-pesok-13726/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017355634.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xcwys_-66Kct-a4NsZx7cXKr6K2",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Цветной песок",
+                                "url": "/category/tsvetnoy-pesok-13732/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13732.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MQLjO_ZDRVD_M0ttuGFCrs00AL6",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MthGds1JSRxJZfaQ0JknoFePss-",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Гончарное дело",
+                        "url": "/category/goncharnoe-delo-37760/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/37760.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Zt_mFroe08mlagp_2WMVq-45-Uw",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Моделизм",
+                        "url": "/category/modelirovanie-13738/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13738.png",
+                        "categories": [
+                            {
+                                "title": "Принадлежности",
+                                "url": "/category/prinadlezhnosti-dlya-modelirovaniya-13749/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6009146421.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NLxC-jFi29Fi9o0Jh5oAF3sMS0_",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Интерьерные миниатюры и сборка зданий",
+                                "url": "/category/interernye-miniatyury-13746/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021429577.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VFMUNdGvPH6kyaeuHUtjvXem0A7",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Военная техника и оружие",
+                                "url": "/category/modeli-voennoy-tehniki-13744/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028240772.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W5l9kYU-eGVwK_D-FfIzyn8-zWL",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автомобили и мотоциклы",
+                                "url": "/category/modeli-avtomobiley-13740/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6006495281.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QsCRzCCVmHVZLqjNlnasvOTi61Y",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Самолеты и космические корабли",
+                                "url": "/category/modeli-samoletov-13741/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025073558.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QzE0dq_RIgrWIhFxG4EdBGiWHpV",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Корабли и подводные лодки",
+                                "url": "/category/modeli-korabley-i-podvodnyh-lodok-13743/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1002730672.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SbNw39334DwkH0oP8eszRicQd52",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Модели из дерева",
+                                "url": "/category/modeli-iz-dereva-13742/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036213410.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ScrzW0w0UWBvf_GIxVFjHs1mmQW",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фигурки",
+                                "url": "/category/modeli-dlya-sborki-14016/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010835008.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YprMCgNOTDYYI9fwZ14mSZowHUI",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дополнения",
+                                "url": "/category/dopolneniya-dlya-sbornyh-modeley-32787/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6008066331.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-t7ySYKkZQ36RfS3_Hski_pew2M",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1OTb_mxNjx7C0mdNNbBCVRHpPmjZ",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "3D-ручки и аксессуары",
+                        "url": "/category/3d-ruchki-i-aksessuary-39200/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39200.png",
+                        "categories": [
+                            {
+                                "title": "3D ручки",
+                                "url": "/category/3d-ruchki-15775/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021593865.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R9jYNVh55ryQa4ZYVmiw9xw0zJC",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Картриджи для 3D ручек",
+                                "url": "/category/kartridzhi-dlya-3d-ruchek-1598/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019028373.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WQAi4NJD8iPZCpZ1-34xd-GjHVl",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-3d-ruchek-39201/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-u/6240699846.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XkV-3oyrZw1RtABYLCweGvGyzkv",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1U7m5nc5oBNfENtwY_kEgQVnWIp5",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Оригами и поделки из бумаги",
+                        "url": "/category/origami-i-podelki-iz-bumagi-36265/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-1-v/6987574219.jpg",
+                        "categories": [
+                            {
+                                "title": "Аппликации",
+                                "url": "/category/applikatsii-13719/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6010396614.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WBkZvWs6N9PKbI2CU_q8tD4m0O7",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оригами",
+                                "url": "/category/origami-13720/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6005759451.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PhGhhimqaMogdJAfKYdAqx1xm6S",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Поделки из бумаги",
+                                "url": "/category/sozdanie-podelok-iz-bumagi-36267/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6009489391.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vr-gy_l2Qeb5V6cjj_Br8UdfDfM",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для квиллинга",
+                                "url": "/category/nabory-dlya-kvillinga-14013/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14013.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_AX2O_OorPQxcqOS3BfmkIdbUow",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Папье-маше",
+                                "url": "/category/nabory-dlya-pape-mashe-36268/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-g/6315757132.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OuVDQzhd9cXBRDDlmcREnxka4kY",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YuBFxQwR-3bQxCBczKZ50c0Fq5k",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Изготовление косметики и духов",
+                        "url": "/category/izgotovlenie-kosmetiki-i-duhov-13830/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13830.png",
+                        "categories": [
+                            {
+                                "title": "Изготовление косметики",
+                                "url": "/category/izgotovlenie-kosmetiki-39316/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-k/6161932592.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U8Yz9WncLMyWrczT3z8yNgasevB",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для создания духов",
+                                "url": "/category/nabory-dlya-sozdaniya-duhov-13832/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13832.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XKXVLNtyim1x-OLSbtp5BPyrVhs",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы для создания причесок",
+                                "url": "/category/nabory-dlya-sozdaniya-prichesok-35010/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-x/6313382553.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XWZI1d7DhFVbCPaYlexzvOo_ZRy",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1WcRpBuVYttxwsYX5SeaI1VHHqY4",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Изготовление свечей и саше",
+                        "url": "/category/izgotovlenie-svechey-13829/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13829.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SyMasDwdcw1WDNQRLPI8HiEgAtq",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Наборы для мастер-классов",
+                        "url": "/category/nabory-dlya-master-klassa-34887/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34887.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_VU9r9yWwwdGi6X4xiDuOS-zup3",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Подарочные и новогодние наборы",
+                        "url": "/category/nabory-dlya-tvorchestva-13543/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13543.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1UTpCIn6a7JblREKmpdCSrd0Uni4",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Адвент-календари",
+                        "url": "/category/advent-kalendari-tvorcheskie-39048/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39048.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1V0zjWjl5LRWb9wriQ2I5so2sny8",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Фокусы",
+                        "url": "/category/fokusy-13840/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13840.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1WBi2XKgHTsa1dA38L-xkglrLMi1",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Гадания и эзотерика",
+                        "url": "/category/gadaniya-i-ezoterika-13841/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/13841.png",
+                        "categories": [
+                            {
+                                "title": "Карты Таро",
+                                "url": "/category/karty-taro-13843/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022723891.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OspGDsOkhX9AM5fGjrA8d4rpOLt",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Амулеты, талисманы и ловцы снов",
+                                "url": "/category/amulety-oberegi-i-talismany-13856/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020239599.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N9eTgqCSPFiAwA9xJmzYQntLG_Z",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и атрибутика для гаданий",
+                                "url": "/category/aksessuary-i-atributika-dlya-gadaniy-13846/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005465585.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XLmgrDiDFrTJ_3TQm8LPXDMTph1",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Руны",
+                                "url": "/category/runy-13844/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1007786802.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OGNpmyQiBO3S7HczTptQLcmj_qe",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Магические аксессуары и материалы",
+                                "url": "/category/magicheskie-aksessuary-i-materialy-13868/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022640789.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yny7dtg1w3FuM4iSaxJqKkz6mFh",
+                                        "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1TntQIveTY5f5rt3lARrvNZAnWCp",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Цветотипирование",
+                        "url": "/category/tovary-dlya-tsvetotipirovaniya-37209/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/37209.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-Ew9OKuqCWabla3V39MTgPn5Gxp",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Театральные бинокли",
+                        "url": "/category/teatralnye-binokli-33333/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/33333.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Py0id4WygdSKZllvORsv0J_6BUA",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Криминалистика",
+                        "url": "/category/kriminalistika-37756/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/37756.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZNaszLmgsHniAWB7UXsuHZ0YPUu",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Лотерейные билеты",
+                        "url": "/category/lotereynye-bilety-35036/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35036.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Q8CDI7vYbepecCsnDfam3l1C4y3",
+                                "sliceKey": "1CZj1OG721Lk-ba7Ke6WBI6oVBWU6D7w"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1UJTyLlJ2AiO7yqvKr5Zdo1vXuyO"
+            }
+        },
+        "countGoods": "67918",
+        "countGoodsTitle": "товаров"
+    }
+}

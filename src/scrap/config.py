@@ -63,15 +63,19 @@ class SettingField:
             raise TypeError(f"Cannot cast {value} to {self.type}!")
 
 
-BASE_DIR = Path(__file__).resolve().parent
-
 UUID_LEN = 36
 MD5_LEN = 32
 URL_MAX_LEN = 2083
 
 
-logging_config_path = os.path.join(BASE_DIR, "logging.yml")
-logging.config.dictConfig(load_yaml_config(logging_config_path))
+class ProjectConfig:
+    base_dir = Path(__file__).resolve().parent
+    project_dir = base_dir.parent.parent
+    categories_data_dir = os.path.join(project_dir, "data", "categories")
+    logging_config_path = os.path.join(base_dir, "logging.yml")
+
+
+logging.config.dictConfig(load_yaml_config(ProjectConfig.logging_config_path))
 
 
 class AppConfig:

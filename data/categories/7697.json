@@ -1,0 +1,547 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "7697",
+        "title": "Аксессуары",
+        "url": "/category/aksessuary-7697/",
+        "image": "https://cdn1.ozone.ru/graphics/cms/aksy_new.png",
+        "icon": "ic_m_accessories_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Женщинам",
+                        "url": "/category/zhenskie-aksessuary-17000/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17000.png",
+                        "categories": [
+                            {
+                                "title": "Аксессуары для волос",
+                                "url": "/category/aksessuary-dlya-volos-zhenskie-17047/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17047.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SF8L8wkyJ4a5Z9RVo6-DRiV1X19",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Бижутерия",
+                                "url": "/category/bizhuternye-ukrasheniya-zhenskie-17022/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17022.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Prj80Fypd1suiLiBAxPSWGTmGfs",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Галстуки и бабочки",
+                                "url": "/category/galstuki-i-babochki-zhenskie-35308/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35308.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-yPvNPhoRpm1Abxr8_gMjDGzcm0",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Головные уборы",
+                                "url": "/category/golovnye-ubory-zhenskie-17011/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17011.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-wAwC3VWHldDg-8eEthsVfjOTQe",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зонты",
+                                "url": "/category/zonty-i-chehly-zhenskie-39417/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39417.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TZtW2GEAZZ-Oovqs1FnRpxz-kCg",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кошельки, ключницы и визитницы",
+                                "url": "/category/koshelki-klyuchnitsy-i-vizitnitsy-zhenskie-17041/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17041.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MXfCzv7-kmzjxinqASTUCncci_o",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Носовые платки",
+                                "url": "/category/nosovye-platki-zhenskie-17059/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17059.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZtveBFvrVoSQ1OSBP0No4oOpORM",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обложки для документов",
+                                "url": "/category/oblozhki-dlya-dokumentov-zhenskie-17058/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17058.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QL5D5LvDMqohZZ6BwejTgYuCDu9",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Очки",
+                                "url": "/category/ochki-zhenskie-17018/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17018.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P4_BvnqQsDxMS1BmE5CaYbY4mwi",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Перчатки и варежки",
+                                "url": "/category/perchatki-i-varezhki-zhenskie-17060/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17060.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NTUNNpfqcai26ACouONNO85VZIm",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Платки и шарфы",
+                                "url": "/category/platki-i-sharfy-zhenskie-17054/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17054.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QfLZgKtHEbv1-FPs3owl6gTCk3D",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Повязки на лицо",
+                                "url": "/category/povyazki-na-litso-zhenskie-32990/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/32990.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TPUwQrz7ylAzm37n_VZS5qJSnmz",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ремни, пояса и портупеи",
+                                "url": "/category/remni-poyasa-i-portupei-zhenskie-31983/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31983.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TIpLd_9ZGyuZEs8aGOGq1KhS7bc",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сумки и рюкзаки",
+                                "url": "/category/sumki-zhenskie-17001/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17001.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M9D3IDjbVX-ehc2k1DGrT5k3L05",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Часы и аксессуары",
+                                "url": "/category/chasy-zhenskie-17037/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17037.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PUFcRHH5cAaEQ9ksEhee04_sFhb",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивные аксессуары",
+                                "url": "/category/sportivnye-aksessuary-zhenskie-33020/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/33020.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZNAdXZOVdOeSN3VMHFVw-rCeX4-",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Свадебные аксессуары",
+                                "url": "/category/svadebnye-aksessuary-32988/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/32988.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PSzlBMmwDv0ncnQjs9mAJbe9-fO",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для военной формы",
+                                "url": "/category/aksessuary-dlya-voennoy-formy-zhenskie-38006/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/38006.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ui-l2FKmrd4EhAivXohys-lh8k_",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MOs4UcrcpMQr01P_it-flUQhNo0",
+                                "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Мужчинам",
+                        "url": "/category/muzhskie-aksessuary-17063/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17063.png",
+                        "categories": [
+                            {
+                                "title": "Бижутерия",
+                                "url": "/category/bizhuternye-ukrasheniya-muzhskie-17083/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17083.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T7JMKqKGMbwXviYlzcGYFK2vssp",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Галстуки и бабочки",
+                                "url": "/category/galstuki-i-babochki-muzhskie-17102/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17102.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VlXZYrJ28t8vz90vXBcH_VQEhO9",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Головные уборы",
+                                "url": "/category/golovnye-ubory-muzhskie-17073/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17073.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WSj-BlrhrCX3TzDG6P7RyyTGPoN",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зонты",
+                                "url": "/category/zonty-i-chehly-muzhskie-39418/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39418.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VgODVsV8zjr1S2Q4cGAOlqQMtqG",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кошельки, ключницы и визитницы",
+                                "url": "/category/koshelki-klyuchnitsy-i-vizitnitsy-muzhskie-17093/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17093.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QD3VUqI-3Be_o1Ako41wAXjnTwm",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Носовые платки",
+                                "url": "/category/nosovye-platki-muzhskie-17103/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17103.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_WC_8jtPsobSqpMqLoEGRXZ_wgY",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обложки для документов",
+                                "url": "/category/oblozhki-dlya-dokumentov-muzhskie-17101/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17101.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_m-uufO2icfqVk3di7bQ5cFrt_g",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Очки",
+                                "url": "/category/ochki-muzhskie-17079/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17079.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UjajIEB83AfnnyMIt6OwiSG8pAf",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Перчатки и варежки",
+                                "url": "/category/perchatki-i-varezhki-muzhskie-17104/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17104.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U7sf19uJGCUcI5f2eMGYxxwxL8_",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Платки и шарфы",
+                                "url": "/category/platki-i-sharfy-muzhskie-17100/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17100.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V9rKVRf5ctrSXKr4RNnQOsY4Uh_",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Повязки на лицо",
+                                "url": "/category/povyazki-na-litso-muzhskie-33773/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/33773.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-0szGJKOx4N4Pr6DtdXLijpezFa",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ремни и подтяжки",
+                                "url": "/category/remni-i-podtyazhki-muzhskie-31984/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31984.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YHq2NiII8ZhHY4wbU52PCpvE5z7",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивные аксессуары",
+                                "url": "/category/sportivnye-aksessuary-33004/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/33004.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-FcCKhPMRjv08IIicqAcbt5aVmH",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сумки и рюкзаки",
+                                "url": "/category/sumki-muzhskie-17064/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17064.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WsGTrNzE7jejuUDQPtPkhM4w8ct",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Часы и аксессуары",
+                                "url": "/category/chasy-i-remeshki-muzhskie-17089/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17089.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YwC1oPsWyca5g_IRZlF5aSX0TUn",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для военной формы",
+                                "url": "/category/aksessuary-dlya-voennoy-formy-32933/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/32933.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q3QoCOFLJoRH9Mnkrq2Y00BuCqO",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QF1ithgWEnWnb_nTiKIH5o5JJI8",
+                                "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Детям",
+                        "url": "/category/detskie-aksessuary-17108/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17108.png",
+                        "categories": [
+                            {
+                                "title": "Девочкам",
+                                "url": "/category/aksessuary-dlya-devochek-17109/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17109.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_HhHUygQqOXyUzxP6HCwb_69IaA",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мальчикам",
+                                "url": "/category/aksessuary-dlya-malchikov-17139/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/17139.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SXBQXhj3UTkC0pzJyPKwtqn4X5l",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1UIy2_-UbBPJPvhHu1pTBXo-_6E3",
+                                "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Путешествия",
+                        "url": "/category/puteshestviya-8511/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8511.png",
+                        "categories": [
+                            {
+                                "title": "Аксессуары для путешествий",
+                                "url": "/category/aksessuary-dlya-puteshestviy-11600/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/11600.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N3SkbGtBrOxeiJBMSxinulRFypr",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Багаж",
+                                "url": "/category/bagazh-7707/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7707.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NlB-c-rzms38Wi76kbeeBo-FqhX",
+                                        "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZjbWMX8wD6tbhhlUOyggXPN0XAc",
+                                "sliceKey": "1CZj1X1niOF6suU5tsZasSESiK_8lMz-"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1_IYFr1CsK8_zGgtNlQikLK_FpJX"
+            }
+        },
+        "countGoods": "63034",
+        "countGoodsTitle": "товара"
+    }
+}

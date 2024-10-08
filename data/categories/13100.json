@@ -1,0 +1,300 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "13100",
+        "title": "Музыка и видео",
+        "url": "/category/muzyka-i-video-13100/",
+        "image": "https://cdn1.ozone.ru/graphics/ozon/digital/music_video_v2.png",
+        "icon": "ic_m_music_and_video_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Музыка",
+                        "url": "/category/muzyka-34944/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-t/6015242177.jpg",
+                        "categories": [
+                            {
+                                "title": "Поп-музыка",
+                                "url": "/category/pop-muzyka-13101/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1002309807.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VBWklEldgr4Yf43tmiZGgHcBwm5",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рок",
+                                "url": "/category/rok-13108/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1007542974.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TzpCVud3z2tVu6rcnM5uN_cZMzS",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Джаз и блюз",
+                                "url": "/category/dzhaz-i-blyuz-13160/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1002095962.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M_8F4ZtoJfBX7Z85aqYHoKLomco",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электронная музыка",
+                                "url": "/category/elektronnaya-muzyka-13138/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037855081.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_F5YW_SKOR31DFpcO5Nv5Q96Pvq",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Метал",
+                                "url": "/category/metal-38030/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-y/6129888502.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xs07TQEXD6b8042uazV3GlwHO4P",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рэп и R&B",
+                                "url": "/category/rep-i-r-b-13133/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015607515.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UeUE97cAfq9Q4QJYAmIA_9qNHc1",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кантри и регги",
+                                "url": "/category/reggi-13137/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005225648.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ShJiD9Tlb0eW1CsLStnT2AwE4ol",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Музыка мира",
+                                "url": "/category/muzyka-mira-13181/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018501379.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OVfCaDf4eQJ5SUdHVqvHY0NVISe",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Саундтреки",
+                                "url": "/category/saundtreki-13176/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005598711.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-LelT5xXGTF9rAkqaBswWx9Tzdz",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Классическая музыка",
+                                "url": "/category/klassicheskaya-muzyka-13148/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1000091720.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-14OlKN1jxjDU0SSHUxEhy2pHUn",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Авторская песня",
+                                "url": "/category/avtorskaya-pesnya-13174/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014821664.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZWb8rjIVQIYlr9EEPWMnXJDCQT6",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Романс и шансон",
+                                "url": "/category/shanson-13175/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010974353.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SznrUT0yQmggXKUpi4sqD6zxev7",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детская музыка",
+                                "url": "/category/detskaya-muzyka-13173/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023148788.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YMArsYuurOW4dH_9_LKD-XDrq75",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Z5ScvwPE3BkHNkdXtEwwlztHkNZ",
+                                "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Виниловые пластинки",
+                        "url": "/category/vinilovye-plastinki-31667/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1008849089.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Q2xsUlm9FrDgH7rqLVWr61XiI8j",
+                                "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Видео",
+                        "url": "/category/video-13000/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1017422003.jpg",
+                        "categories": [
+                            {
+                                "title": "Художественные фильмы",
+                                "url": "/category/hudozhestvennye-filmy-13001/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037925809.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PTChjMVJLQx58WoXI4CP2JsPqDN",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мультфильмы",
+                                "url": "/category/multfilmy-13033/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1003585925.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PbE0fIePrS7kWK5LSwLgZPO8aN1",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Концерты, клипы и театральные постановки",
+                                "url": "/category/kontserty-myuzikly-videoklipy-13064/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016585326.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PINhkf38rSqJ_g69R3mKcBJIBjI",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сериалы",
+                                "url": "/category/serialy-13021/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018737207.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZSHJ5Byyq8U_ii_bi4e5EFaVvgX",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Документальные фильмы",
+                                "url": "/category/dokumentalnye-filmy-13041/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013425260.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SN2-vlO_v-AuOqwmBYiRFdtUuDr",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Телевизионные программы и видеоуроки",
+                                "url": "/category/televizionnye-programmy-i-videouroki-13053/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005932304.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O3My_t46jDFUtPMEGj1CQfUDIQF",
+                                        "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-3ZeRD3PGejpnIQi191gHQY-Eim",
+                                "sliceKey": "1CZj1W1seVIhbIWeLbA1wWspBJSKmP-Y"
+                            }
+                        }
+                    }
+                ]
+            },
+            {}
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1OcNBEQmB_r7vM55sunukOE4MUAi"
+            }
+        },
+        "countGoods": "68284",
+        "countGoodsTitle": "товара"
+    }
+}

@@ -1,0 +1,643 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "17777",
+        "title": "Обувь",
+        "url": "/category/obuv-17777/",
+        "image": "https://cdn1.ozone.ru/graphics/cms/obuv_new.png",
+        "icon": "ic_m_shoes_fitting_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Женщинам",
+                        "url": "/category/zhenskaya-obuv-7640/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7640.png",
+                        "categories": [
+                            {
+                                "title": "Аквашузы",
+                                "url": "/category/akvaobuv-zhenskie-36499/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36499.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YQdeXHLVFf718v0eF7Kt-OWBbmj",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Босоножки и сандалии",
+                                "url": "/category/bosonozhki-zhenskie-7645/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7645.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PZIAIONjSmgD_Mtx6ibL8b3_AKl",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ботинки и полуботинки",
+                                "url": "/category/botinki-zhenskie-7651/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7651.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S1BH_pFpuhOSGaTwlMlc3c7LXYL",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домашняя обувь",
+                                "url": "/category/tapochki-zhenskie-7655/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7655.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rq11ogz3xdsdl7K_XilGel0cddu",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кроссовки и кеды",
+                                "url": "/category/krossovki-i-kedy-zhenskie-36484/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36484.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_KxisDhhgGbuR6KOs4ebyxyKmaQ",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мокасины и топсайдеры",
+                                "url": "/category/mokasiny-i-topsaydery-zhenskie-7648/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7648.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-ldSkgHXtl9caruqQnRXNJqDfjV",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Резиновая обувь",
+                                "url": "/category/rezinovaya-obuv-zhenskaya-36497/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36497.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OJCeveH02naLhoay8-uSx0mM--r",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сабо и мюли",
+                                "url": "/category/sabo-i-myuli-zhenskie-7646/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7646.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TbEhgLO0MXaeqHzofUdOnUsPwgB",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сапоги и полусапоги",
+                                "url": "/category/sapogi-i-polusapogi-zhenskie-7652/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7652.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qsj3xxHUhMNGwr6_rnu6fXHW1JW",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туфли и балетки",
+                                "url": "/category/tufli-zhenskie-7644/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7644.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Nv_NAnBHet6tEN6kbTuVq0_PDTT",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Угги, валенки и дутики",
+                                "url": "/category/uggi-i-valenki-zhenskie-7653/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7653.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PkR5Yzs01lIU28xthgtQM5PDVLb",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шлепанцы и сланцы",
+                                "url": "/category/shlepantsy-zhenskie-7657/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7657.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OA-SD6pr76eTx6AEtNdXr7x4LCN",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Эспадрильи",
+                                "url": "/category/espadrili-zhenskie-7649/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7649.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_Wop7YoQo1ONf0zsmbudwmu15o9",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Медицинская обувь",
+                                "url": "/category/obuv-meditsinskaya-zhenskaya-36942/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36942.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YZzDZGsWrlhhpQ6rP8Ytj0ajMsX",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рабочая обувь",
+                                "url": "/category/obuv-rabochaya-zhenskaya-36941/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36941.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SRBg4LkcG7rAYDW49E01lCTP4hK",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Wpi1JBToKMrR2u84KE6g7NoXHxT",
+                                "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Мужчинам",
+                        "url": "/category/muzhskaya-obuv-7658/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7658.png",
+                        "categories": [
+                            {
+                                "title": "Аквашузы",
+                                "url": "/category/akvaobuv-muzhskaya-36693/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36693.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TRYy6E_Dsr5nKsYr8qRkCRofhDN",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ботинки и полуботинки",
+                                "url": "/category/botinki-muzhskie-7665/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7665.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XyyxX8w1l_M_BApIga5DJ0pvP0b",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домашняя обувь",
+                                "url": "/category/tapochki-muzhskie-7671/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7671.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QwbI8hejqtJvsDQmuFtwkNUrQj9",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кеды, кроссовки и слипоны",
+                                "url": "/category/kedy-i-slipony-muzhskie-7660/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7660.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RfwQezbSxshVpfu3Mawf8bOJFMb",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мокасины и топсайдеры",
+                                "url": "/category/mokasiny-i-topsaydery-muzhskie-7662/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7662.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TCanaCmRZlfKMZbGB6hW-0s_rlB",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Резиновая обувь",
+                                "url": "/category/rezinovaya-obuv-muzhskaya-36692/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36692.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TTDyT_D99DgwGWzy2_TVOuc-ShF",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сандалии",
+                                "url": "/category/sandalii-muzhskie-7663/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7663.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UsW2fARIAYLel6XtC0QTPA9W6GJ",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сапоги и полусапоги",
+                                "url": "/category/sapogi-i-polusapogi-muzhskie-7667/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7667.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VWakyIq6YjrofgCvH6VQNwWwWx_",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туфли",
+                                "url": "/category/tufli-muzhskie-7664/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7664.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MqWTv3JSx8UcwpMPshQLK63VzoJ",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Угги, валенки и дутики",
+                                "url": "/category/uggi-i-valenki-muzhskie-7670/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7670.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O2fK5elRZ42INQfu97WTWXM7wo8",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шлепанцы и сланцы",
+                                "url": "/category/shlepantsy-muzhskie-7666/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7666.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TjYgk3slUlrW2FIe1x9iblM0vv6",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Эспадрильи",
+                                "url": "/category/espadrili-muzhskie-7661/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7661.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R6kuh-n4N2yoRJzCaI6EB6BJRX7",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Медицинская обувь",
+                                "url": "/category/obuv-meditsinskaya-35278/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35278.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xl6leyjlIiI097sYwBqQTrXHFiA",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рабочая обувь",
+                                "url": "/category/obuv-rabochaya-30835/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30835.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ThtC6OiJI4slRnmmxxZad6eOZlA",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1UcdIWyMAB9OzUaPSvR-cTO31oHQ",
+                                "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Детям",
+                        "url": "/category/detskaya-obuv-7639/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7639.png",
+                        "categories": [
+                            {
+                                "title": "Девочкам",
+                                "url": "/category/obuv-dlya-devochek-7672/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7672.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wk4zPX57OLEUq_-2VBvUho7RCGN",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мальчикам",
+                                "url": "/category/obuv-dlya-malchikov-7685/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7685.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OVYjjOT25_Uagb5fF7dDrI9VN-2",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Новорожденным",
+                                "url": "/category/obuv-dlya-novorozhdennyh-39920/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39920.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YMjVofWOMcC9AOSKgrCfdOnKuBe",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Школа",
+                                "url": "/category/shkolnaya-obuv-37051/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/37051.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TwNL7gLzXpskwOPQwLyRNBahBl5",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Ulb-wGQKT40qJiigIC_HVvMXqmK",
+                                "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Уход и аксессуары",
+                        "url": "/category/sredstva-dlya-uhoda-za-obuvyu-7763/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7763.png",
+                        "categories": [
+                            {
+                                "title": "Вкладыши для обуви",
+                                "url": "/category/podderzhivayushchie-vkladyshi-7781/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7781.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UL-ac5eRtvAfO114NBCYvtnkY3e",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Губки и щетки",
+                                "url": "/category/shchetki-dlya-obuvi-7771/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7771.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NK1a_npuUF7TfmYCSGEaIFmHPqW",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Измерители стопы",
+                                "url": "/category/izmeriteli-stopy-7768/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7768.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U7jYPZOLHe8_jwnyLzfSpfxcihU",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Колодки",
+                                "url": "/category/kolodki-7777/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7777.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VSiXi5-EbKBTBDoZBOW-neKXTed",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Косметика и чистящие средства",
+                                "url": "/category/kosmetika-i-chistyashchie-sredstva-dlya-obuvi-14629/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14629.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R5CLvTgG5x7oxSsgiEeuqKGhl_n",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ледоступы и противоскользящие наклейки",
+                                "url": "/category/ledostupy-dlya-obuvi-35910/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35910.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ORjATXT-NgEdKiG9udylmpsrNRa",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ложки и рожки",
+                                "url": "/category/lozhki-i-rozhki-dlya-obuvi-7779/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7779.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Nj5-ShawC_W5vLN1l1-Qrd07D0X",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Растяжители",
+                                "url": "/category/rastyazhiteli-dlya-obuvi-31892/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31892.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M7K34bM9EsUuwA5bsb6Tm3vuZLP",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стельки",
+                                "url": "/category/stelki-dlya-obuvi-7774/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7774.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_2_A2ixjl-2C6NmtNpEGmx1YVSK",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сушилки для обуви",
+                                "url": "/category/sushki-dlya-obuvi-14631/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14631.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tb5rHy9Yolpbp2NiUtRbbLIGXDb",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Украшения",
+                                "url": "/category/ukrasheniya-dlya-obuvi-7783/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7783.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NoIn-zAOmW4ZXGoBV9TE1UwSXOj",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы и защита для обуви",
+                                "url": "/category/bahily-mnogorazovye-31824/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31824.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NTgCQzIVBN-JqEF9vHa4VjmC3-z",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шнурки",
+                                "url": "/category/shnurki-7773/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7773.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TIQ122zsRSFxoyE5fqed5U9Jvw4",
+                                        "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YNNr30Bs_DnCChJQaqAt8_ha8Vo",
+                                "sliceKey": "1CZj1OzGhFaQyb4GBmHBDjd10UpCT7NM"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1UHnvrA3NRGKZgFix1RF2rVAUDQs"
+            }
+        },
+        "countGoods": "30567",
+        "countGoodsTitle": "товаров"
+    }
+}

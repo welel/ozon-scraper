@@ -1,0 +1,706 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "13300",
+        "title": "Игры и консоли",
+        "url": "/category/igry-i-soft-13300/",
+        "image": "https://cdn1.ozone.ru/graphics/cms/games1.png",
+        "icon": "ic_m_game_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Игровые жанры",
+                        "url": "/category/igrovye-zhanry-13316/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1020164062.jpg",
+                        "categories": [
+                            {
+                                "title": "Шутеры и экшн (Shooter & Action)",
+                                "url": "/category/ekshn-action-13335/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022823075.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WvKnFc9IcwPlh3MqBFLz_s7jncc",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ролевые игры (RPG & MMORPG)",
+                                "url": "/category/rpg-rpg-13327/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024821213.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P9TyJP_gEsh8gK9CwoWaN9Hmpsz",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Приключения (Adventure)",
+                                "url": "/category/priklyucheniya-adventure-13325/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020929449.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MHgCfaCMeXJkTsF3yV0i7MS2aiO",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Спортивные игры (Sports)",
+                                "url": "/category/sportivnye-igry-sports-13331/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024347443.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YKf-kLvHq4Qn9Z7vKsxdC3YJ5qL",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Драки (Fighting)",
+                                "url": "/category/draki-fighting-13320/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021216458.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-w8XL-Jg5PLFVdDeLzgMqIZC8WF",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гонки (Racing)",
+                                "url": "/category/gonki-racing-13319/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023658893.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XXNC7GHnb2gfa2h_yfHRO4NEGy4",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Симуляторы (Simulation)",
+                                "url": "/category/simulyatory-simulation-13329/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1000616509.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZRk4KWe-_SJySNjeGpzSrP-nm1w",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аркады (Arcade)",
+                                "url": "/category/arkady-arcade-13317/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019411079.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MJSaH9nunXTZ2VFuwrKrR04Pra4",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ужасы (Horror)",
+                                "url": "/category/uzhasy-horror-13333/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010376083.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XOXFRIV6TRLzinnYlyshSQv77Pn",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для всей семьи (Family)",
+                                "url": "/category/semeynye-i-detskie-igry-family-13328/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1000749522.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OfHNX5NpGmWxB0eHcP9RLcXGLk9",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стратегии (Strategy)",
+                                "url": "/category/strategii-strategy-13332/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024323405.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WSAH-RbSdWLIcpghUOwXmfizxaq",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Квесты и логика (Quest & Logic)",
+                                "url": "/category/kvesty-quest-13321/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018438840.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-LHHljT6LjabS1rSM9KHpwab3K8",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-PU5IuIfhgQ88hAFWgkQNtnqvKx",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "PlayStation",
+                        "url": "/category/playstation-31719/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1033180284.jpg",
+                        "categories": [
+                            {
+                                "title": "Игровые консоли",
+                                "url": "/category/konsoli-playstation-31751/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033180286.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V1p79MlsTFF_Yqj3ztoXa7Dbxr8",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для PlayStation 5",
+                                "url": "/category/igry-dlya-playstation-5-38457/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6382919676.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T9k4VUCKRvSBRjHa4x61SOSpe9h",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для PlayStation 4",
+                                "url": "/category/igry-dlya-playstation-4-38456/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6272072882.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UD5K0K7aLgguiqiNXyc9uY0Uft5",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для PlayStation 2/3",
+                                "url": "/category/igry-dlya-playstation-3-13303/",
+                                "image": "https://cdn1.ozone.ru/multimedia/audio_cd_covers/1015395922.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MpmPy0ci5xxCg-E6HFffXTSp0n3",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для PlayStation Portable/Vita",
+                                "url": "/category/igry-dlya-playstation-portable-13305/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1009914089.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OhYiL_2NpyRlYidA_Viedhb068x",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Карты оплаты",
+                                "url": "/category/karty-oplaty-dlya-playstation-network-37516/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6355822073.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P_sbbcCnMGPHIYxDANUZcXoJq1e",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-ps-31752/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-1/6005712841.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OUGJVQ-9hEiM2qx5ML3RXzfKnBO",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1X8EouogJnbOJLmWKYyS4CspPKJc",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Nintendo",
+                        "url": "/category/nintendo-switch-31721/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1021386685.jpg",
+                        "categories": [
+                            {
+                                "title": "Консоли",
+                                "url": "/category/konsoli-nintendo-switch-31761/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021386690.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MFffjtghElLfwSCHuhhiaf5Sypc",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для Nintendo Switch",
+                                "url": "/category/igry-dlya-nintendo-switch-13309/",
+                                "image": "https://cdn0.ozone.ru/s3/multimedia-f/6266937783.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XXuCA-6IOg2NQ_UTu8wQDXkt50l",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для Nintendo Wii/3DS",
+                                "url": "/category/igry-dlya-nintendo-wii-13310/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1004383847.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WCmF10zsD-iduzUE49x3YDMy7eL",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-nintendo-switch-31762/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026249922.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OXEUJ6JcALb1Ufw3k5xZsaThmEW",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YjQgOVBw__a0ePFZ8M5e54CB9NG",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Xbox",
+                        "url": "/category/xbox-31720/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1024429412.jpg",
+                        "categories": [
+                            {
+                                "title": "Консоли",
+                                "url": "/category/konsoli-xbox-series-x-34802/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-y/6022833682.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SHZuXzhIY1oAek1kfc8rpWJeY_6",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для Xbox One",
+                                "url": "/category/igry-dlya-xbox-one-13307/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020164069.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QNRaKNpyqiuXMPJgG38YgnwSoZc",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для Xbox 360",
+                                "url": "/category/igry-dlya-xbox-360-13308/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024347147.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_QedhM7ZhD0RDxDVJUJ9UmJSLUT",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры для Xbox Series",
+                                "url": "/category/igry-dlya-xbox-series-38520/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6388278825.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Mu1IHIfPLoH5GjJmCOVZTCeUPzt",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-xbox-one-31757/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1010889429.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NRMrNw3Ei1DfpWUnf-UKzzWk1wf",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Mh_fqsDWB9PO0QsLwdIazohfMKR",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Игровые приставки",
+                        "url": "/category/igrovye-pristavki-15801/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1025942280.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1UTDwuv84p_4nE5zP5y5QqeikMGr",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "PC",
+                        "url": "/category/pc-31718/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1028397532.jpg",
+                        "categories": [
+                            {
+                                "title": "Компьютерные комплектующие",
+                                "url": "/category/kompyuternye-komplektuyushchie-31735/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019445699.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M1jKiIMSCeADCIFQe72uWtIbtF_",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-pk-31726/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1001248923.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_e9wDKEQTJhW9tfdfkf16biAjO3",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игровые ноутбуки",
+                                "url": "/category/igrovye-noutbuki-31292/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022434094.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O5MpGcx-mMEpRKYcqBRbmU6Tmwh",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игры",
+                                "url": "/category/kompyuternye-igry-13313/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016107188.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SrUBTPC-nu-6H4YkT6YusbEQ540",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1USTPY3orwhavsqE6VXseiwJ4kV1",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Mobile gaming",
+                        "url": "/category/mobile-gaming-31932/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1027670305.jpg",
+                        "categories": [
+                            {
+                                "title": "Игровые планшеты",
+                                "url": "/category/igrovye-planshety-31928/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028395941.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YailYv5yIBl8AkYA7MLCcUFYRTc",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Геймпады и джойстики",
+                                "url": "/category/geympady-i-dzhoystiki-dlya-smartfonov-31933/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036171933.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ze7iUkszijzh598N-sPbVsAL1ny",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игровые адаптеры",
+                                "url": "/category/igrovye-adaptery-dlya-smartfona-35286/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6032553515.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_GURKQTgFYbvVD5URHtPZI7DQxZ",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Очки виртуальной реальноcти для смартфонов",
+                                "url": "/category/ochki-virtualnoy-realnocti-dlya-smartfonov-31929/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019131261.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xc3JzDEGS8azWcTpn-xY24VRJPf",
+                                        "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RmDDhd7Mk2Fkaz-wippnA2mn7or",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Ретро-консоли",
+                        "url": "/category/retro-konsoli-31722/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1024928305.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1O9ODqHLNo6KMZ5whwkq1AplKuas",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Игровые картриджи",
+                        "url": "/category/igrovye-kartridzhi-15814/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1023745254.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1NKJPpo59X7CVVlkT6qsK740TefB",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Игровая атрибутика",
+                        "url": "/category/igrovaya-atributika-1672/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1022746296.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1VjS7TsXC3j4kkdpnUpQHlPGSY-l",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Игровые наушники",
+                        "url": "/category/igrovye-naushniki-35137/",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1OYYy1xT2e5EcRJu1bZ3TSf-iWkL",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Геймпады",
+                        "url": "/category/geympady-15823/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1015981584.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YjB3DpxCZDH7kw91ZA32Ln2teI7",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Очки виртуальной реальности",
+                        "url": "/category/ochki-virtualnoy-realnosti-dlya-igr-15825/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1015797572.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MN-2KCTB2D_wh0i4al-uz44NsWQ",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Рули и педали",
+                        "url": "/category/igrovye-ruli-i-pedali-15829/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1015201487.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-5_H4JcHhRglkTg_vSnp07tQJ_R",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аксессуары для игровых приставок",
+                        "url": "/category/aksessuary-dlya-igrovyh-pristavok-15810/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-q/6009532862.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RPGuqWTx2y2zqZ3qjszxzK8GhOF",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аксессуары для киберспорта",
+                        "url": "/category/aksessuary-dlya-kibersporta-39237/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-4/6492629440.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YYc0ktzsYJCcavLDO44eP1QdH-g",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аккумуляторы и зарядки",
+                        "url": "/category/akkumulyatory-i-zaryadki-dlya-igrovoy-pristavki-15818/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1009011151.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PrCYp610GSkMtXdn9nMeRz4CuU0",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Сумки и чехлы",
+                        "url": "/category/chehly-dlya-igrovyh-pristavok-15905/",
+                        "image": "https://cdn1.ozone.ru/multimedia/1023860373.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QNXSlT17sp3gyQxa0vAzF9Gt8Tc",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Запчасти для игровых консолей",
+                        "url": "/category/zapchasti-dlya-igrovyh-konsoley-37161/",
+                        "image": "https://cdn1.ozone.ru/s3/multimedia-w/6148825868.jpg",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QS0g_VINZl6NpnwNCs0RDx3OcUp",
+                                "sliceKey": "1CZj1XMThfWE1dGuXY_mcGdp8NIv648E"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1YiUAzKrlVkdv4AeX3SwM5BiMSit"
+            }
+        },
+        "countGoods": "68431",
+        "countGoodsTitle": "товар"
+    }
+}

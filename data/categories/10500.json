@@ -1,0 +1,911 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "10500",
+        "title": "Бытовая техника",
+        "url": "/category/bytovaya-tehnika-10500/",
+        "image": "https://cdn1.ozone.ru/graphics/cms/bt1.png",
+        "icon": "ic_m_appliances_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Крупная бытовая техника",
+                        "url": "/category/krupnaya-bytovaya-tehnika-10501/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/10501.png",
+                        "categories": [
+                            {
+                                "title": "Холодильники",
+                                "url": "/category/holodilniki-10502/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025307083.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZLyCpMaP4zuv5y83_LwCUq8Vd4T",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Морозильные камеры",
+                                "url": "/category/morozilnye-kamery-10504/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022798924.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YuRihx9jC9O30ScuHlEHewohxlQ",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стиральные машины",
+                                "url": "/category/stiralnye-mashiny-10507/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026450330.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VdxL2PTSg5yEQSxlk2NHaikgTzz",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стиральные машины с сушкой",
+                                "url": "/category/stiralnye-mashiny-s-sushkoy-39815/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-p/6019101013.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Turrj4gWuWxR-qZcUCvvACDzf4a",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сушильные машины для белья",
+                                "url": "/category/sushilnye-mashiny-10508/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023220937.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-xIUC9uoHue5l2M-UeHYlOTMEI6",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Варочные панели",
+                                "url": "/category/varochnye-paneli-10511/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021897436.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qc7oxWjoF58OJMmkt3B8huBONOO",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Плиты",
+                                "url": "/category/plity-10509/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021144567.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WOMO7zM60N8zrUaYXz99wiD3myo",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Духовые шкафы",
+                                "url": "/category/duhovye-shkafy-10510/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025776976.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UTfkw-qFfKKHPncZCny7pAG-Y3w",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кухонные вытяжки и аксессуары",
+                                "url": "/category/kuhonnye-vytyazhki-10512/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-b/6391023479.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Uwt2URkjnepi2Qvx3v9tCvbydIX",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Посудомоечные машины",
+                                "url": "/category/posudomoechnye-mashiny-10515/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025480826.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YbrvM4xXYbRt0QFmAefwhH67zoU",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кулеры и диспенсеры для воды",
+                                "url": "/category/kulery-dlya-vody-i-aksessuary-10516/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022752078.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QyjYCupqfhzh9nLUeFW6Rk84nzF",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Винные и сигарные шкафы",
+                                "url": "/category/vinnye-shkafy-10506/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013533672.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Uv744zpfiu78x7ewuaE7gAnBs0_",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Подогреватели посуды",
+                                "url": "/category/vstraivaemye-podogrevateli-posudy-37173/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6005693777.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-q0CLkMJ-hFOUHR44h8Y2C52Y-f",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Измельчители отходов",
+                                "url": "/category/vstraivaemye-izmelchiteli-bytovyh-othodov-32683/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027669734.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MVNJS-w4sZOn5lJLIJLsr7nz4N7",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплекты встраиваемой техники",
+                                "url": "/category/duhovoy-shkaf-varochnaya-panel-35364/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6022486920.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SJ_j_D4n731Hi4Qtja9zCptcAu7",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и запчасти",
+                                "url": "/category/aksessuary-dlya-krupnoy-bytovoy-tehniki-10794/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1008759560.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OJSpuIrwX3BfyM6hUNfJTiyvfmh",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1X7iOgoRIZbP3s7dv2UYs--kQhyC",
+                                "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Техника для кухни",
+                        "url": "/category/tehnika-dlya-kuhni-10523/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/10523.png",
+                        "categories": [
+                            {
+                                "title": "Кофеварки и кофемашины",
+                                "url": "/category/kofevarki-i-kofemashiny-10530/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019814776.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QCIJvQQBWrXis9n-XOxphh9bi6_",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электрические чайники и термопоты",
+                                "url": "/category/elektricheskie-chayniki-i-termopoty-10524/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023611528.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PaPCjRZ2xYq9dQmXJYZWHl4910N",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Блендеры, измельчители и миксеры",
+                                "url": "/category/miksery-blendery-i-izmelchiteli-10580/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024266018.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XgnTA8QQa1kP4YX_MNDmUfoI84M",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Печи и грили",
+                                "url": "/category/pechi-i-grili-10545/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016536592.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-NMfqZOkLsas0kntdeg2Nzm82NN",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Настольные плиты",
+                                "url": "/category/nastolnye-plity-1610/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021850577.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-N5kpLhkMlU6uPJYvwSLORwKu-p",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Соковыжималки",
+                                "url": "/category/sokovyzhimalki-10592/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023179514.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R70ywMXcsWSOsVvZ0hc5AdkRhx9",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мультиварки и техника для варки",
+                                "url": "/category/multivarki-i-tehnika-dlya-varki-10562/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019181535.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PPEu7ds5thrmB8oAZ5A7NeT5Ytu",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кухонные комбайны и машины",
+                                "url": "/category/kuhonnye-mashiny-i-kombayny-33128/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6007595456.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yrvw2T5oOc7l7G6LT8KA9wqCCBS",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мясорубки и насадки",
+                                "url": "/category/myasorubki-i-kuhonnye-kombayny-10593/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014704341.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Va80BDwAJXl_oGvsq9C2bKX4Vri",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Техника для приготовления десертов",
+                                "url": "/category/tehnika-dlya-prigotovleniya-desertov-10600/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1005538388.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YjdK5B5gmXHP-9cc0V7_ReWAGqk",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Техника для приготовления блюд",
+                                "url": "/category/tehnika-dlya-prigotovleniya-blyud-10612/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012951787.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YZuxGUlsG6jY28WsNbEFwUgVu9G",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Прочая кухонная техника",
+                                "url": "/category/prochaya-kuhonnaya-tehnika-10620/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020969541.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V-AujJSBQhNqkXXbTjxASKK5ftq",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и запчасти",
+                                "url": "/category/aksessuary-dlya-kuhonnoy-tehniki-10640/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017340612.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TnfkOQcL-OJ8eZWjW31FKDqAY5a",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RccfKfVUwVjFH99A2F5Mdg3VUJL",
+                                "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Техника для дома",
+                        "url": "/category/tehnika-dlya-doma-10647/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/10647.png",
+                        "categories": [
+                            {
+                                "title": "Пылесосы",
+                                "url": "/category/pylesosy-i-aksessuary-10648/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021603895.JPG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VGl4inC9qSYWy-UNTRXynOrxKyc",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Утюги и отпариватели",
+                                "url": "/category/utyugi-i-otparivateli-10679/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024056511.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RSef8ae5yVezWBeOqMqrxrHk1Jl",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аппараты для мойки окон и полов",
+                                "url": "/category/stekloochistiteli-10678/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017277344.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UZ7wz6rPrmCUMlI8fQ4BUAWDGtk",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пароочистители и паровые швабры",
+                                "url": "/category/paroochistiteli-10685/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-v/6655091023.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qv8B-fWld7L9muPRyWRv-HD27Hn",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Швейные и вышивальные машины",
+                                "url": "/category/shveynye-mashiny-i-aksessuary-10687/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018384196.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QM59GMgtxqKyCY9XC2PJacLfNb8",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и запчасти",
+                                "url": "/category/aksessuary-i-zapchasti-k-tehnike-dlya-doma-39598/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-w/6463616744.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YrIPYNSBpJhKY1m4I9NjK3e6dua",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SpURdKbRB7UQOW9c-OmJXh0yMR8",
+                                "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Климатическая техника",
+                        "url": "/category/klimaticheskaya-tehnika-10711/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/10711.png",
+                        "categories": [
+                            {
+                                "title": "Водонагреватели",
+                                "url": "/category/vodonagrevateli-10719/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023356578.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UbwJ3pDFXYHYzCTRQF_DR3hkxDt",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обогреватели и тепловентиляторы",
+                                "url": "/category/obogrevateli-i-teploventilyatory-10712/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013319557.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UR-hlPTsHDGQk3ltlgsNArGNdaN",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кондиционеры и сплит-системы",
+                                "url": "/category/konditsionery-i-split-sistemy-10726/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1035967072.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xf4nl2Ot8GIZMk3DepH-bZfMld2",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Вентиляторы",
+                                "url": "/category/ventilyatory-10724/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023776920.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vxf4lH8885_A_-g0G3is_BIDpVf",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Увлажнители воздуха и аромадиффузоры",
+                                "url": "/category/uvlazhniteli-vozduha-i-aromadiffuzory-10723/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016866903.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UlKoo_XeV2KRocTp5ufdXOmWhH9",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Очистители и мойки воздуха",
+                                "url": "/category/ochistiteli-vozduha-10725/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016108776.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tc1-9UyGcsVGRSn-3pY2BX54jMV",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Охладители воздуха",
+                                "url": "/category/ohladiteli-vozduha-1648/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026016067.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SLM93yG3dni7VmcgIZPE6R0PPsr",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Осушители воздуха",
+                                "url": "/category/osushiteli-vozduha-10717/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023777002.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TZ3SKalxWKKtqZlepE7hC4tHi5V",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Погодные станции и датчики",
+                                "url": "/category/pogodnye-stantsii-i-datchiki-10730/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014780175.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OutIUZGU5g4x7-pqRQBDCyPj-_Y",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сушилки для рук и тела",
+                                "url": "/category/sushilki-dlya-ruk-10710/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015942246.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y70OXzd3bDTaUVeV4ecV6Wm8OLo",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и запчасти",
+                                "url": "/category/rashodnye-materialy-dlya-klimaticheskoy-tehniki-10734/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022878790.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UgNGeP3J8t8QZw28PxlJQUBHWqm",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_Tdzh4usHR-Pnn4qu8HxF1Y0MBU",
+                                "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Техника для красоты и здоровья",
+                        "url": "/category/tehnika-dlya-krasoty-i-zdorovya-10737/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/10737.png",
+                        "categories": [
+                            {
+                                "title": "Массажное оборудование и аксессуары",
+                                "url": "/category/massazhnoe-oborudovanie-i-aksessuary-10777/",
+                                "image": "https://cdn1.ozone.ru/multimedia/spare_covers/1021743110.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_urroWjKyFu0iage7UONvQkKJTC",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Весы напольные",
+                                "url": "/category/napolnye-vesy-10792/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024282648.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WbwOrRUsc78xERHOilZoCfdFFlg",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фены и аксессуары",
+                                "url": "/category/feny-i-termoshchetki-10738/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6004048006.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_0A4um7Xnt8e1Rm97hXe72WF_eN",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Приборы для завивки и аксессуары",
+                                "url": "/category/shchiptsy-dlya-zavivki-i-aksessuary-10744/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014136643.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y9UO7vs0_Oh4qtioWsYXQ_v9XuH",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Выпрямители для волос и термощетки",
+                                "url": "/category/vypryamiteli-10743/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025776206.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_aCocwtDhQZl0JT5-fQwHg3vjel",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Триммеры для волос",
+                                "url": "/category/trimmery-dlya-volos-10765/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017327704.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TVlvq2yu7UIyX39f3lKpRSuLFHT",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электробритвы и аксессуары",
+                                "url": "/category/elektrobritvy-i-aksessuary-10759/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015768700.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1My5iHTlZ41j2tLMPTpJty70ff6H",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Машинки для стрижки волос и аксессуары",
+                                "url": "/category/mashinki-dlya-strizhki-volos-i-aksessuary-10755/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021493347.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-yWdW5c6Acmn2_VIKp7LgXjLKZ2",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Эпиляторы и аксессуары",
+                                "url": "/category/epilyatory-i-aksessuary-10749/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025950099.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O_l6WDGlV6k6fGLJY1vStIFYbeM",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электрические зубные щетки и аксессуары",
+                                "url": "/category/elektricheskie-zubnye-shchetki-i-aksessuary-10771/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021974031.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O06coUs7V7uGNkcCRWBOx87rnct",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ирригаторы и аксессуары",
+                                "url": "/category/irrigatory-i-aksessuary-36933/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-1/6013541041.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VfJPNx_nedqPhK9ANxz3kUwj4Xy",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Солярии и мини-солярии",
+                                "url": "/category/mini-solyarii-32789/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-4/6016222756.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZDc5P4caP3M_pvy8vXS-7fCjpJB",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-qcU9CyNubsxUlURWKWUjnXyAAq",
+                                "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Техника для общепита",
+                        "url": "/category/tehnika-dlya-obshchepita-35374/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35374.png",
+                        "categories": [
+                            {
+                                "title": "Холодильное оборудование",
+                                "url": "/category/holodilnye-vitriny-10503/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019914181.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Upd63iXL5lDbX13bYUyyVOHDy4n",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Жарочное оборудование",
+                                "url": "/category/shkafy-i-pechi-pekarskie-35911/",
+                                "image": "https://cdn3.ozone.ru/s3/multimedia-0/6048815928.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Slgko6fP1R9Dhv2FyY6VBHYCLbt",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тепловое оборудование",
+                                "url": "/category/teplovye-vitriny-i-podogrevateli-35375/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6038518315.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-1rvShAliUrJcPNd5c_7dkuN9vB",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для приготовления напитков",
+                                "url": "/category/kipyatilniki-protochnye-38045/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6114841131.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M2YNcubk_mhEJnVxTo4jAExcAnW",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кондитерское и пекарское оборудование",
+                                "url": "/category/pekarskoe-oborudovanie-37986/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6177933471.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XEzkcHKmQ7JZs5Vs9J2wvR5G5Kn",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электромеханическое оборудование",
+                                "url": "/category/elektromehanicheskoe-oborudovanie-37186/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-9/6082866141.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R3g_p8oFRMYLadwRBrlKzqKIDWC",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Вендинговые аппараты",
+                                "url": "/category/torgovye-avtomaty-34996/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-s/6029383228.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VpcVEoouz45q1aXlJOTm2lGcdmK",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для оборудования общепита",
+                                "url": "/category/zapchasti-dlya-oborudovaniya-obshchepita-35115/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6031233733.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-q5-w69HR41k2Fl5QP76Suu8xsJ",
+                                        "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1QFleuiz4pGv8EQoR_BKu4jUjEF0",
+                                "sliceKey": "1CZj1SfzBBCU0xpnVrCtffFLpaZvM-Qm"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1P0XZz8mCzWJ-usf-s80c7DylMlc"
+            }
+        },
+        "countGoods": "68836",
+        "countGoodsTitle": "товаров"
+    }
+}

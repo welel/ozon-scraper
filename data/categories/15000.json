@@ -1,0 +1,1029 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "15000",
+        "title": "Мебель",
+        "url": "/category/mebel-15000/",
+        "image": "https://cdn1.ozone.ru/graphics/main-category-logos/furniture.png",
+        "icon": "ic_m_furniture_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Садовая мебель",
+                        "url": "/category/sadovaya-mebel-15155/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15155.png",
+                        "categories": [
+                            {
+                                "title": "Комплекты мебели",
+                                "url": "/category/komplekty-sadovoy-mebeli-33746/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033258122.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MIuqR14AxpdOsMcgTFMQZ2ADQ0d",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Столы",
+                                "url": "/category/stoly-dlya-sada-39532/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VmWbARira9OZ70pn1jjUVBgtHRB",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Диваны",
+                                "url": "/category/divany-sadovye-39533/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MCBp8j7CNLbYkB5mio1UmAkyRMn",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стулья и кресла",
+                                "url": "/category/stulya-i-kresla-sadovye-33341/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6008225834.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XzLcZI-Nbv-l_ByzlpuuA6qvlgo",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Скамейки",
+                                "url": "/category/skameyki-34063/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025236495.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VN1iBLuGhpTlN9zlpxmQLcyutQK",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тенты и шатры",
+                                "url": "/category/tenty-i-shatry-39565/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VsUvhJAYMJzpP5ry2z79Ccfl1cX",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Качели-гнезда и гамаки",
+                                "url": "/category/kacheli-i-gamaki-39518/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VCOxsGzOFWNEtqrikNIWY5TL26U",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кресла подвесные садовые",
+                                "url": "/category/podvesnye-kresla-33701/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027089514.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YpyGxrumA0SAx6KPLHskFmEkpYU",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Качели и аксессуары",
+                                "url": "/category/sadovye-kacheli-i-aksessuary-39515/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Owd00CrZVDxsIqmIoTPYLAKdj2Q",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лежаки и шезлонги",
+                                "url": "/category/lezhaki-i-shezlongi-39516/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SI1XmnSPcJCCC9JPmAs5IE2dqWz",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шкафы и тумбы",
+                                "url": "/category/shkafy-i-tumby-sadovye-39566/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NWUnBMfigD4JOJRLmO-jq79ZOu4",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фурнитура",
+                                "url": "/category/furnitura-dlya-sadovoy-mebeli-38565/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UPHBmhjI8JA9zKFigLMlye43Wyf",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы и сетки",
+                                "url": "/category/chehly-i-setki-dlya-sadovoy-mebeli-38566/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QyeeCLbC474aA1tgIumFdf8faJc",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1OL9uExw8zRo74wquHMxVDCx3rjX",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Компьютерная и офисная мебель",
+                        "url": "/category/kompyuternaya-i-ofisnaya-mebel-38449/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/38449.png",
+                        "categories": [
+                            {
+                                "title": "Столы письменные и компьютерные",
+                                "url": "/category/kompyuternye-i-pismennye-stoly-38454/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-s/6157061296.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YYHB5U7RV_TbQMZL1PRqlyVbyDZ",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кресла офисные и компьютерные",
+                                "url": "/category/kompyuternye-i-ofisnye-kresla-38450/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-1/6267848533.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q4CP1I2FqOIq0Fexrs5HZVYNMnm",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стулья офисные",
+                                "url": "/category/ofisnye-kresla-38451/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-k/6217047476.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OxyH7PFWjgSsWior7_w6pUxUp6x",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для рабочего места",
+                                "url": "/category/podstavki-pod-nogi-30491/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018843901.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QCRrQBnhvJNYz5lOausEWDB7toc",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Vzatz9ljSIGltUg4PnwFqtJaeW3",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мягкая мебель",
+                        "url": "/category/myagkaya-mebel-15017/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15017.png",
+                        "categories": [
+                            {
+                                "title": "Диваны",
+                                "url": "/category/divany-i-kushetki-15018/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-a/6002480410.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NFC0_DdXKUOVDuswFDFKYi92tuf",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кресла",
+                                "url": "/category/kresla-15019/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6011381601.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UaJoFpN0Hw7uXpBvaVLM8G6dNZg",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кресла-качалки",
+                                "url": "/category/kresla-kachalki-36812/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-2/6038529722.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q9LncRMssAUti3WrXqWkFxPfqnr",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пуфы и банкетки",
+                                "url": "/category/pufiki-15031/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6010956693.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PxIq4oi1du6TpKG6KGXuwRLNKe-",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплекты мягкой мебели",
+                                "url": "/category/komplekty-myagkoy-mebeli-15021/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1032676113.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XyHHXWwckKi0QVkkovTpEDypTEF",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1OwBSfrSqJA8ma-jQc5UgtOsEnkb",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Столы и стулья",
+                        "url": "/category/stoly-stulya-i-kresla-15027/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15027.png",
+                        "categories": [
+                            {
+                                "title": "Столы",
+                                "url": "/category/kuhonnye-stoly-i-barnye-stoyki-38439/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-d/6226566409.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VC6kBj-XKrGlZfnSDuUqvxi4Ux8",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стулья",
+                                "url": "/category/stulya-taburetki-15033/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026977192.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ObYKFuNk38twcLM0eQKCgreqVQA",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Табуреты",
+                                "url": "/category/taburetki-i-banketki-15034/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025769950.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-AZvLwUff7lKVClr1FvvA59yIWd",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туалетные столики и консоли",
+                                "url": "/category/tualetnye-stoliki-15133/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-3/6007119507.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NFPf_K6qRJLe5pxN9HXrsyGqpi0",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обеденные группы",
+                                "url": "/category/obedennye-gruppy-38464/",
+                                "image": "https://cdn0.ozone.ru/s3/multimedia-j/6122383243.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VJTmfM8D72gsAx1qC92aOAfxgF-",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплектующие для столов и стульев",
+                                "url": "/category/sidenya-stulev-34892/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6182694131.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ye7luErCziChjFHwaA4J0_6pPWT",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1V3v0mtR_zMsGOXtU6cISYzK53Rh",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Мебель для хранения",
+                        "url": "/category/shkafy-komody-polki-15036/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15036.png",
+                        "categories": [
+                            {
+                                "title": "Вешалки",
+                                "url": "/category/veshalki-v-prihozhuyu-32947/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036386756.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TLBhbelJROM4a7f2SKbWwxnMngU",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гардеробные системы",
+                                "url": "/category/garderobnye-sistemy-15126/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-v/6013042975.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XGD2M6bAReXpeQHeUS1N0T04PyW",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для гостиной",
+                                "url": "/category/komplekty-mebeli-dlya-gostinoy-38537/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6199672863.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UuNpLAcR-x0pC0nH3jPzbD_XsIM",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для прихожей",
+                                "url": "/category/komplekty-mebeli-dlya-prihozhey-38538/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6017468881.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MX_gRD5XjmjWMdmEDrcrDdfeUn1",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мебельные модули",
+                                "url": "/category/mebelnye-moduli-31437/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036795426.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XDyxztBmcE8S-pY0e5Lh7mwtqn4",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комоды и тумбы",
+                                "url": "/category/tumby-15041/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-f/6160722375.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VWf-nxH8b8PrANed_V2S6Jfryki",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Обувницы",
+                                "url": "/category/obuvnitsy-15038/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6008450132.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZDI1tEO46ofHyELgAhkulFtiH9O",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Полки",
+                                "url": "/category/polki-i-stelazhi-31649/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1033852380.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V6pkDG46ITxlawdX0BmiDDRATYg",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стеллажи",
+                                "url": "/category/stellazhi-15040/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023863979.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vu9RuRLXpqWwB6jgySVXwSeAmgv",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шкафы",
+                                "url": "/category/shkafy-38531/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6345837909.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ULuKZU7GiuZ18HiCEaiC9NleWt3",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Us-Hg6V9wAsev8Edx3R76cTxlbJ",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мебель для спальни и комплектующие",
+                        "url": "/category/mebel-dlya-spalni-15009/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15009.png",
+                        "categories": [
+                            {
+                                "title": "Кровати",
+                                "url": "/category/krovati-15010/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026914442.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Su2vBCPVhjLyl2fP5gGF4U7qwKM",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплектующие для кровати",
+                                "url": "/category/osnovaniya-dlya-matrasov-15012/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036797480.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SoeB_GwffapTHuHHyeHsvEAV241",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Матрасы",
+                                "url": "/category/matrasy-15011/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025039112.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RTrnaF-8QywvkcZdxzdANDdSzDI",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Раскладушки",
+                                "url": "/category/raskladushki-11514/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6004661171.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PVncG3YcMBF2iQtHI8CzEQm5YNz",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплекты мебели для спальни",
+                                "url": "/category/komplekty-mebeli-dlya-spalni-38235/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6332493620.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZdypeizMeOHtLDe-4Vd8wxWeQ94",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PyaWR551UA06v-JTQe9Wqx-z29b",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мебель для кухни",
+                        "url": "/category/mebel-dlya-kuhni-15008/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15008.png",
+                        "categories": [
+                            {
+                                "title": "Кухонные уголки",
+                                "url": "/category/kuhonnye-ugolki-15128/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-3/6363205047.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vz887H4O5v_PflHci56EVAyK2Zt",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кухонные гарнитуры",
+                                "url": "/category/obedennye-gruppy-15131/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-h/6295556237.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NtpCE5LGTLBY6Y_RTobaw0lUNTt",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кухонные модули",
+                                "url": "/category/kuhonnye-moduli-37569/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6077089306.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U3NiZYsJPQ0ujtfu4NwQVEbU9CU",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплектующие",
+                                "url": "/category/plintus-dlya-stoleshnitsy-37495/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-d/6058406845.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yfgj6UIZqwV9FuglISsR81cgwMh",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наполнения для кухонных модулей",
+                                "url": "/category/poddony-kuhonnye-37009/",
+                                "image": "https://nowatermark.ozone.ru/s3/multimedia-8/6072866204.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N4_CffeBKUqlZG-2Y2mmsl0AFdE",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Столешницы для кухни",
+                                "url": "/category/stoleshnitsy-34680/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-v/6027150727.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZZ-ht6wF_6fwkZ4Z-yLhxz6bl7k",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фартуки для кухни",
+                                "url": "/category/fartuki-dlya-kuhni-31926/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-3/6009167655.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UbXpT_sBo6JkW5YxdWpRvNPWnxG",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1U8b3tH_HxPsQbxCPA7V99ZlRFTg",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мебель для ванной",
+                        "url": "/category/mebel-dlya-vannoy-15013/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15013.png",
+                        "categories": [
+                            {
+                                "title": "Тумбы",
+                                "url": "/category/tumby-dlya-vannoy-34522/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6010799783.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q3vO1Dn9j9ddqBqBJuY-GpLvpXU",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шкафы и пеналы",
+                                "url": "/category/shkafy-i-penaly-dlya-vannoy-34523/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6018476042.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PIPAlOMnA8mwe3ms8MgtCcorm2D",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1UwpWLoODHGDE3B94nySJUG6-7GM",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Бескаркасная мебель",
+                        "url": "/category/beskarkasnaya-mebel-35621/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/35621.png",
+                        "categories": [
+                            {
+                                "title": "Диваны и пуфы бескаркасные",
+                                "url": "/category/beskarkasnye-divany-35623/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6046905260.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M3Tpl02xVkqDoLngMPO3tz4zu7Q",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кресла-мешки",
+                                "url": "/category/kresla-meshki-15020/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6009340574.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XkpjI7kHQiYXfaWzY3-eHt1eWkZ",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплектующие для бескаркасной мебели",
+                                "url": "/category/napolniteli-dlya-kresla-meshka-38041/",
+                                "image": "https://cdn0.ozone.ru/s3/multimedia-2/6190733150.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_Cgr3IlavPbT_FGBOHEVqFcJ7SB",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PxIFnAsf6jHMB5DN-30cAqLDZeC",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Детская мебель",
+                        "url": "/category/detskaya-mebel-15001/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15001.png",
+                        "categories": [
+                            {
+                                "title": "Диваны",
+                                "url": "/category/detskie-divany-39488/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1X0oJws6in49-8V9ME_3giZ_BxMP",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кресла",
+                                "url": "/category/detskie-kresla-39489/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W-lbT6AY0CAAF2Hco89fHjZj1CG",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кровати",
+                                "url": "/category/detskie-krovati-39487/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UUG1ihQrvJ-lPclU1rFj5q1ZChJ",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Колыбели",
+                                "url": "/category/kolybeli-detskie-31223/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023579237.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZWML1oGC9gZ1G89XcfpiKwZ3tYc",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Парты и столы",
+                                "url": "/category/party-i-stoly-30998/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016465865.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wl2AuKEeYQBI5TnOYT_AlMOqBt8",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Наборы детской мебели",
+                                "url": "/category/nabory-detskoy-mebeli-31002/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020001680.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QMtWThtR5YJPxBlojwMTTmVNDGD",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стулья и табуреты",
+                                "url": "/category/detskie-stulya-i-taburety-30999/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025277058.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MOQ3FnItepMvVG6THbt2nMCYgKI",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пеленальные комоды и столики",
+                                "url": "/category/pelenalnye-komody-i-stoliki-31017/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018090070.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SXSYIMzZYvY5JwRe-uNbq_DnM8P",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1U7kJgmP5d7xQobNBrQXP12d4Znt",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мебель для бизнеса",
+                        "url": "/category/mebel-dlya-biznesa-34225/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34225.png",
+                        "categories": [
+                            {
+                                "title": "Для торгового зала",
+                                "url": "/category/mebel-dlya-torgovogo-zala-34226/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-4/6016918960.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RScf0RPj3_fpByYbVMJ9Fof2gLP",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для салонов красоты",
+                                "url": "/category/mebel-dlya-salonov-krasoty-34227/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-b/6013998467.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PBEUOD5KMP6eRv3A_ylUa7cH_Uf",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для производства",
+                                "url": "/category/mebel-dlya-proizvodstva-36339/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6058240267.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_eQZJ9lWDXzwNdPuQFlZSmDDXsu",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для ПВЗ",
+                                "url": "/category/mebel-dlya-pvz-37535/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6161071377.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NT-UqsX4FIe2XVMu2OwG1yS1uJM",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мебель для мероприятий",
+                                "url": "/category/mebel-dlya-meropriyatiy-38365/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-3/6882868875.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TahBUoKvaAEnxLl7BLtBiyQeV9H",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мебель для швей",
+                                "url": "/category/mebel-dlya-shitya-37472/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6138541082.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YnpzBxdYrFiF35SaIc2j-uQ1aUj",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для офиса",
+                                "url": "/category/mebel-dlya-ofisa-38961/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6292436598.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rf9n3ag3EXbtBoml51tAqzmVIhB",
+                                        "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-s1jFW6v9AC2i145QNCf5IswexX",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Сейфы и архивные шкафы",
+                        "url": "/category/seyfy-15158/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15158.png",
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZTzEPIixt_7q-_yP0pMpUkLPRXS",
+                                "sliceKey": "1CZj1PI1J_bD-JX-O1hWTd_E2PAv9xdj"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1Szxe1_ayQTPpXiLIPN867wgvTBB"
+            }
+        },
+        "countGoods": "68499",
+        "countGoodsTitle": "товаров"
+    }
+}

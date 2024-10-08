@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 import click
 from sqlalchemy.orm import Session
 
-from scrap.config import OzonScraperConfig
+from scrap.config import OzonScraperConfig, ProjectConfig
 from scrap.database import get_session
 from scrap.database.models.scraper import ScraperOzonCategoryMeta
 from scrap.dto.ozon.category import OzonCategoryCreateProperties
@@ -20,14 +20,28 @@ from scrap.repositories.ozon.category import OzonCategoriesRepository
 @click.option(
     "--path",
     type=str,
-    required=True,
+    default=ProjectConfig.categories_data_dir,
     help=(
         "Path to a directory, that contains JSON files with results of "
         "https://www.ozon.ru/api/composer-api.bx/_action/v2/categoryChildV3 "
-        "Ozon API call, that contains information about categories."
+        "Ozon API call, that contains information about categories. "
+        f"Default: {ProjectConfig.categories_data_dir}."
     ),
 )
-def load_ozon_categories_from_api_results(path: str):
+@click.option(
+    "--category_id", "-c",
+    type=str,
+    multiple=True,
+    default=None,
+    help=(
+        "Root category ID (file name `<cat_id>.json`) to load "
+        "from the directory. All children loads as well. Default: "
+        "all files from the directory."
+    ),
+)
+def load_ozon_categories_from_api_results(
+        path: str, category_id: tuple[str] | None
+) -> None:
     if not os.path.exists(path):
         click.echo(f"Error: The specified path '{path}' does not exist.")
         return
@@ -37,28 +51,39 @@ def load_ozon_categories_from_api_results(path: str):
         )
         return
 
+    category_id = set(category_id)
+
     repo = OzonCategoriesRepository()
     with get_session() as session:
         for filename in os.listdir(path):
 
-            click.echo(f"Found file: {filename}")
-            if filename.endswith(".json"):
-                file_path = os.path.join(path, filename)
-                try:
-                    with open(file_path, "r", encoding="utf-8") as file:
-                        click.echo(f"Processing file: {file_path}")
-                        data = json.load(file)
-                        process_category_data(data.get("data"), repo, session)
-                        session.commit()
-                except json.JSONDecodeError as e:
-                    click.echo(
-                        f"Error decoding JSON in file '{file_path}': {e}"
-                    )
-                except Exception as e:
-                    click.echo(
-                        f"Unexpected error processing file '{file_path}': {e}"
-                    )
-                    session.rollback()
+            is_json_file = filename.endswith(".json")
+            if not category_id:
+                is_included = True
+            else:
+                cat_id = filename[:-len(".json")]
+                is_included = cat_id in category_id
+
+            if is_json_file and is_included:
+                click.echo(f"Process file: {filename}")
+            else:
+                continue
+
+            file_path = os.path.join(path, filename)
+            try:
+                with open(file_path, "r", encoding="utf-8") as file:
+                    data = json.load(file)
+                    process_category_data(data.get("data"), repo, session)
+                    session.commit()
+            except json.JSONDecodeError as e:
+                click.echo(
+                    f"Error decoding JSON in file '{file_path}': {e}"
+                )
+            except Exception as e:
+                click.echo(
+                    f"Unexpected error processing file '{file_path}': {e}"
+                )
+                session.rollback()
 
 
 def create_meta(cat_id: int, session: Session) -> None:
@@ -99,7 +124,6 @@ def process_category_data(
                 )
                 repo.create_or_update(category_props)
                 create_meta(category_props.id, session)
-                click.echo(f"Processed category: {category_props.name}")
 
                 if "categories" in cat:
                     recursive_parse(

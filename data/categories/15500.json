@@ -1,0 +1,2188 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "15500",
+        "title": "Электроника",
+        "url": "/category/elektronika-15500/",
+        "image": "https://cdn1.ozone.ru/graphics/ozon/digital/electronics_v3.png",
+        "icon": "ic_m_electronics_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Телефоны и смарт-часы",
+                        "url": "/category/telefony-i-smart-chasy-15501/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15501.png",
+                        "categories": [
+                            {
+                                "title": "Смартфоны",
+                                "url": "/category/smartfony-15502/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024351391.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MY2AsD_gXOw-83KCq8mA7A1naO8",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для смартфонов и телефонов",
+                                "url": "/category/aksessuary-dlya-telefonov-15511/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026082788.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WP5ysxVwViB8gDOW7sR-C4Z5w-y",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Смарт-часы",
+                                "url": "/category/umnye-chasy-15516/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027510071.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TgJUIDGSXZDxHmPjODC_Ca2x-S9",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фитнес-браслеты",
+                                "url": "/category/fitnes-braslety-15519/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023623110.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Z4HMDjjx3bZl3QqWCya-9oU8yjG",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ремешки для смарт-часов и фитнес-браслетов",
+                                "url": "/category/remeshki-dlya-smart-chasov-15517/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023595523.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_MRUNIRZikSUHp7KwVY4mm7yABp",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для смарт-часов и фитнес-браслетов",
+                                "url": "/category/aksessuary-dlya-umnyh-chasov-i-fitnes-brasletov-30739/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-o/6121144128.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VnvnklWxzOCidPd5-FeAk0hP2N_",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мобильные телефоны",
+                                "url": "/category/mobilnye-telefony-15503/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022115884.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NpRNMB7j7dHlpv_tig7h2YRvVYr",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "SIM-карты",
+                                "url": "/category/sim-karty-15514/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-z/6006561791.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WQsvhY_REJ814DQe97I4QoHJY6b",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти",
+                                "url": "/category/zapchasti-dlya-smartfonov-31566/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1029930838.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P_dmb5SI5Jnggb0gveg7w4l_Vd6",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Проводные и радиотелефоны",
+                                "url": "/category/dect-telefony-15504/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1001761143.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V2Nlz__w_QEnoQk-LJURn0mpe8I",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RvYPTUkEM4RXPSotlfxG_XNBcn8",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Ноутбуки, планшеты и электронные книги",
+                        "url": "/category/noutbuki-planshety-i-elektronnye-knigi-8730/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/8730.png",
+                        "categories": [
+                            {
+                                "title": "Ноутбуки",
+                                "url": "/category/noutbuki-15692/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/19/t85/notebook-ya-2.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-kF3ibBs0_NEM67IJ4a9znJkZSg",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игровые ноутбуки",
+                                "url": "/category/igrovye-noutbuki-30601/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ToIh4BfO8i_7KLxKYn6fcxuGPcg",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Планшеты",
+                                "url": "/category/planshety-15525/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025774870.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-N4wopq9XGTl2vnlzJGwoxDzj0l",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электронные книги",
+                                "url": "/category/elektronnye-knigi-15526/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019815127.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Wn-APuzvRbHzJ2bGQT54wWKXdx1",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Графические планшеты",
+                                "url": "/category/graficheskie-planshety-15745/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025274890.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-3ujfjBXNN0TLG5Cf7vC2ePxFnj",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы и подставки для планшетов",
+                                "url": "/category/chehly-dlya-planshetov-15893/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013617745.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_EPc2G_7fsueMrsVOjG3oVDGqLJ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Стилусы",
+                                "url": "/category/stilusy-dlya-planshetov-15932/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014497352.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VCS3koZup71yLL0Vi7wI2IcasLv",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для ноутбуков",
+                                "url": "/category/aksessuary-dlya-noutbukov-15693/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022640089.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WsjZYmJxO-QYAiUvRXYGN1X4zMt",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти",
+                                "url": "/category/zapchasti-dlya-noutbukov-31902/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1030339556.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OAGhwiMtkYqVrNfOBKUIHtSztxU",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аккумуляторы для ноутбуков",
+                                "url": "/category/akkumulyatory-dlya-noutbukov-15885/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023135435.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1StrmJOXI49X27MukA4uo2Yv3_Fh",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зарядные устройства",
+                                "url": "/category/zaryadnye-ustroystva-dlya-noutbukov-15924/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023133407.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_c-T5n6jANZmGShOQvSO2WdU6a-",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы для электронных книг",
+                                "url": "/category/aksessuary-dlya-elektronnyh-knig-15895/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022650029.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RxKgoquDT-F1BmyiSHZTjjRVQZE",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Переводчики и словари",
+                                "url": "/category/elektronnye-perevodchiki-i-slovari-1646/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6028322141.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-JYc0LXLamtpgC1qJuXHEGN4x2b",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-CVhip9rwfDE1H5_dNFQTOIsJqz",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Оптические приборы",
+                        "url": "/category/opticheskie-pribory-15984/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15984.png",
+                        "categories": [
+                            {
+                                "title": "Телескопы",
+                                "url": "/category/teleskopy-15985/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1007256268.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O0giVkaiORVgg5qWia15zumDxpW",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Микроскопы",
+                                "url": "/category/mikroskopy-15986/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014563805.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-0OcTS_aJt6AIG_Q_qMx5CcjekX",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Окуляры",
+                                "url": "/category/okulyary-dlya-teleskopov-15988/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021392075.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O4igyzbDkhICkK6j9QI1c1S-qw9",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для телескопов",
+                                "url": "/category/aksessuary-dlya-teleskopov-15987/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021378341.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XIW62y9_qHH522fqsWOuKP2hZOM",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для микроскопов",
+                                "url": "/category/aksessuary-dlya-mikroskopov-16010/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024542484.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WlMYbkcswWpLxvRFD_R78t8YbyM",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1N7AtRXST-bdGxCeUvYTix5H8bno",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Наушники и аудиотехника",
+                        "url": "/category/audiotehnika-15543/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15543.png",
+                        "categories": [
+                            {
+                                "title": "Наушники",
+                                "url": "/category/naushniki-15547/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025315827.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VyUvCUH26GORXk3a4hNbUHYksX6",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Беспроводные колонки",
+                                "url": "/category/portativnaya-akustika-15588/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027014193.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V5jdx6-AIp11o8e02TknJjCDAeU",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Умные колонки",
+                                "url": "/category/umnye-kolonki-31337/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028568792.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-gm0njTHnYiMXf0Dk3CJ6u71f1J",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Акустические системы",
+                                "url": "/category/akustika-i-kolonki-15584/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027014207.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RYlyS7KsaMkhO7Hefpd_e0Sx0qW",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Студийное и сценическое оборудование",
+                                "url": "/category/studiynoe-i-stsenicheskoe-oborudovanie-15937/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017530735.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-j8ZiObt6-00inefuHN-Y17gLvO",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Микрофоны",
+                                "url": "/category/mikrofony-15556/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022490292.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Z_fNr8YuUyKOx6Wg_HZUJRvZL2P",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рации и радиостанции",
+                                "url": "/category/ratsii-i-radiostantsii-8753/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026857425.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T4712idLA-Gk5EnJASfptwttj8e",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Радиоприемники",
+                                "url": "/category/radiopriemniki-15563/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016704791.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_6ABK_9gClmQ-CQ6JNPJuRE3YxT",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Виниловые проигрыватели и аксессуары",
+                                "url": "/category/vinilovye-proigryvateli-15572/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024892478.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SFBOS0qAJMqfGzuWtYCwbdrGwP6",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для наушников",
+                                "url": "/category/aksessuary-dlya-naushnikov-1740/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027497398.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N6SoorajNPabnWPpw8vQcQeJgRy",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для аудиотехники",
+                                "url": "/category/aksessuary-dlya-audiotehniki-15607/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019396768.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QePDxGtAcz5UBZIQsIvUbcBcHUs",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Усилители, ресиверы и ЦАПы",
+                                "url": "/category/usiliteli-resivery-i-tsapy-15593/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019847417.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ViC7T1j6_uQ95uxOaq5rCKMAMT7",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "MP3-плееры",
+                                "url": "/category/mp3-pleery-15544/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015740632.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O3MhTxWEB-obHXBwKfxf92tygcJ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Диктофоны",
+                                "url": "/category/diktofony-15561/",
+                                "image": "https://cdn1.ozone.ru/multimedia/spare_covers/1010094249.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W2-YkxxikFvuMB5kr2MzwrY_eJy",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1OLfO-zQr5rBrUh5PpbJZHqFrJdT",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Комплектующие для ПК",
+                        "url": "/category/kompyuternye-komplektuyushchie-15709/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15709.png",
+                        "categories": [
+                            {
+                                "title": "Видеокарты и графические ускорители",
+                                "url": "/category/videokarty-i-karty-videozahvata-15720/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021677360.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Prg3j0-HFcSk3sAIdNJTIiCiZvP",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Жесткие диски, SSD и сетевые накопители",
+                                "url": "/category/zhestkie-diski-ssd-i-setevye-nakopiteli-15710/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025203240.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VeVIwZ4wgHM_Vi5n9fe4qSuwHKW",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Процессоры",
+                                "url": "/category/protsessory-15726/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025935606.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RpVjuAiGhBKW1rb9HhfS-9kDQSJ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Материнские платы",
+                                "url": "/category/materinskie-platy-15725/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022250479.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M-tjqxi1FVig1ZrphQ_9t7HM-rN",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оперативная память",
+                                "url": "/category/operativnaya-pamyat-15724/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016579773.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RS9L8Q8j5p9g-cXISSo0UVWLGKA",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Системы охлаждения",
+                                "url": "/category/sistemy-ohlazhdeniya-dlya-kompyuterov-15729/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018382142.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZqDMdSgeWn6MDXBj0j9F8Wyk3W3",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Блоки питания",
+                                "url": "/category/bloki-pitaniya-15727/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020335525.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TBjs_iTcpWTz0rIPi4CpO05zF2j",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Корпуса",
+                                "url": "/category/korpusa-dlya-kompyuterov-15734/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017497049.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WBzcLgsm9y1rv8dPXbXKubTqkLA",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Звуковые карты",
+                                "url": "/category/zvukovye-karty-15728/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026104797.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TLTORTZ-HwV10sbmP85yVtg6YM5",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электронные модули",
+                                "url": "/category/elektronnye-moduli-31565/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1035621555.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XoP5ASblOWQm7ku43YrT-HbynX2",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Контроллеры интерфейсов",
+                                "url": "/category/kontrollery-interfeysov-31899/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1032017768.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-tkhGRN8wxP4TuPZa-JCSfh_qJu",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Микроконтроллеры",
+                                "url": "/category/mikrokontrollery-36162/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-r/6072024183.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_WQtjyj-DyLCCHWA9fG69hNswjW",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Тестеры для комплектующих",
+                                "url": "/category/testery-dlya-kompyuternyh-komplektuyushchih-35299/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6018348516.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_Ul4HeRi8jIccAI-xSsG3xYQGAp",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1PPuyJrnUCSQKboxlkyfLeg68Fey",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Компьютеры и периферия",
+                        "url": "/category/kompyutery-i-komplektuyushchie-15690/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15690.png",
+                        "categories": [
+                            {
+                                "title": "Мониторы",
+                                "url": "/category/monitory-15738/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013589132.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M53rf-7NJJklRuOO7JOzs2R0LVw",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Системные блоки",
+                                "url": "/category/sistemnye-bloki-15704/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025475191.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UMjMz1JlLo20lSFulnKGLJHSZbO",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Моноблоки",
+                                "url": "/category/monobloki-15703/",
+                                "image": "https://cdn1.ozone.ru/multimedia/c1200/1019710915.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VMbuROdWTUFfjrcuOa-d1QO9a13",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Периферия",
+                                "url": "/category/periferiya-dlya-kompyuterov-15736/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021013980.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Z1sdbsh8HbRJ10E8TU7Wx4b3i5C",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сетевое оборудование",
+                                "url": "/category/setevoe-oborudovanie-15854/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021357438.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-K5q3H8H9LZVFE0p21w68daReCn",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Неттопы и Мини ПК",
+                                "url": "/category/mini-pk-15705/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020614690.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UUQKYOyMq_lr_x3gC5-LYDPWY2S",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Майнеры и криптокошельки",
+                                "url": "/category/maynery-i-koshelki-dlya-kriptovalyut-15708/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022820068.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PuBbYctqOeJ_5Uu2vWied43nVgp",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Микрокомпьютеры и комплектующие",
+                                "url": "/category/mikrokompyutery-15707/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020614816.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SgDTuWEnbWcooFbJFuWkh80m14J",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Промышленные компьютеры и серверы",
+                                "url": "/category/promyshlennye-kompyutery-i-servery-31361/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1031306687.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ToAazdoaw0jvtc9yMXEUahIHadW",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти для мониторов",
+                                "url": "/category/zapchasti-dlya-monitorov-36076/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6030166734.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RwYw1CySlu_ofoGozTSijftwItX",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Программное обеспечение",
+                                "url": "/category/programmnoe-obespechenie-12905/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1000755793.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RbynTWNhYqcVxj8WDxY1ei32DND",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SrNIcdKtKb8wu84oJ-jgQQwe9Jv",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Фото и видеокамеры",
+                        "url": "/category/foto-i-videokamery-15623/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15623.png",
+                        "categories": [
+                            {
+                                "title": "Экшн-камеры",
+                                "url": "/category/ekshn-kamery-15630/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021901022.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TTvxwnDf7BAiLxmzGkItrIPQa93",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для экшн-камер",
+                                "url": "/category/aksessuary-dlya-ekshn-kamer-15678/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-d/6008429485.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xrs5nFt1TJ_-M93mp4p9O-_CXUF",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Видеокамеры",
+                                "url": "/category/videokamery-15629/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1011872102.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OX0Jon8Cl9xTtGzhI65KtN2ib6y",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зеркальные фотоаппараты",
+                                "url": "/category/zerkalnye-fotokamery-15625/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6000078325.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NnXLZhtKWTLLs7T2oUQSuIeVrdo",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Беззеркальные фотоаппараты",
+                                "url": "/category/bezzerkalnye-fotokamery-15628/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018922267.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZHWpvzdhxzDClJrNmuW4qemjs1b",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Объективы",
+                                "url": "/category/obektivy-15632/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023622555.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SvJ7o6B1sQo259LgrCXPNvOIOAH",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Компактные фотоаппараты",
+                                "url": "/category/kompaktnye-fotokamery-15626/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1017846130.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NkVeb3-avvnt_Rx5BTDVJ0x1-CV",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фотоаппараты мгновенной печати",
+                                "url": "/category/fotoapparaty-mgnovennoy-pechati-15627/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022332255.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-dsSVSOQDiMimS5BurutrDiWLfJ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детские фотоаппараты и видеокамеры",
+                                "url": "/category/detskie-fotoapparaty-i-videokamery-37754/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-q/6000183662.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ThVzatWkagllPYknWCWs5VNfTGB",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары для фото и видеотехники",
+                                "url": "/category/aksessuary-dlya-foto-i-videokamer-15644/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024228171.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-LPXZeUz-3M7dKqdLjzZNJpeQp3",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Фотофоны",
+                                "url": "/category/fotofony-15651/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019980955.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_cdI1k8PuN1xJ0vsHAEqucD2XRu",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Студийное оборудование",
+                                "url": "/category/studiynoe-oborudovanie-15676/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1011670209.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VL-cU-DFabmIiVgF6fiZalNRsFc",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Картриджи и фотопленка",
+                                "url": "/category/kartridzhi-dlya-foto-30484/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022349536.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U8NnfwMIbf4n4VPMA2xNkI8quNM",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Компактные фотопринтеры",
+                                "url": "/category/kompaktnye-fotoprintery-35946/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028551997.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YyOUY2yqvqqyNKsMM3sEu8690gC",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Цифровые фоторамки",
+                                "url": "/category/tsifrovye-fotoramki-15684/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016038024.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_hF48v1ACYEyw3p2VAik-kY6Nrx",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Прочие аксессуары",
+                                "url": "/category/pulty-distantsionnogo-upravleniya-dlya-fotokamer-15660/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1007540733.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N6I_TGFVxA8v71Zy3MC3CNY-YWe",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1XqryR0hMxkJ8XZvYNEC-wobok_Y",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Игровые приставки и ноутбуки",
+                        "url": "/category/igrovye-pristavki-i-kompyutery-15800/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15800.png",
+                        "categories": [
+                            {
+                                "title": "Игровые приставки",
+                                "url": "/category/igrovye-pristavki-30234/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PdTRq4h61hNV3XPWBcVV7GfhblX",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Игровые ноутбуки",
+                                "url": "/category/igrovye-noutbuki-15821/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022434094.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rpj_Y8DFVE7vOfjCt-GqiS21HSQ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RPcFJujFiZBJzmOIaqV3buNsbY2",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Офисная техника",
+                        "url": "/category/ofisnaya-tehnika-15770/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15770.png",
+                        "categories": [
+                            {
+                                "title": "Ноутбуки",
+                                "url": "/category/noutbuki-33113/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025481097.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XoCEOkcC9RRp9M0GCzlav2MeGF2",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Системные блоки",
+                                "url": "/category/sistemnye-bloki-33120/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025475191.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WBmoZcCkuVnLNOvMSF5XbcPIyfW",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мониторы",
+                                "url": "/category/monitory-37966/",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yy-ohf9U1A3pLljiCPkZp8WiQQ_",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "МФУ",
+                                "url": "/category/mfu-15772/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022607108.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UWDq3OYMV5sqkknxzTwkAlgCdT5",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Принтеры",
+                                "url": "/category/printery-15771/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021065790.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_dDraSCT8AHF0nKWTOlKCspxL1a",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Картриджи и расходные материалы",
+                                "url": "/category/rashodnye-materialy-dlya-ofisnoy-tehniki-15783/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022880108.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PH2El9lh7P7FDEQFhpnhaXdrn73",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оборудование для торговли",
+                                "url": "/category/kassovoe-oborudovanie-15875/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023417302.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZzFtFBju_5FwlTZYVzKY1W_drSQ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "3D-оборудование",
+                                "url": "/category/3d-pechat-30738/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028195610.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XyyUiU3Wt4FrrGGJ4_Ii_y1v10_",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти и аксессуары",
+                                "url": "/category/zapchasti-dlya-3d-printerov-39202/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-o/6229031520.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PXmbEHU6mtrjzCr8fBnL_Azvk-W",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сканеры",
+                                "url": "/category/skanery-15773/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1014126866.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PONAQZIwjismgCzTfNT7gK9gbxC",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Копировальные аппараты",
+                                "url": "/category/kopirovalnye-apparaty-15778/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028318527.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-1w8ZGuk9SZks72nsVoYLN36YjY",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Плоттеры",
+                                "url": "/category/plottery-15781/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018694511.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YjKJHNerEYurtU0IhSHyBj-aF8u",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ламинаторы",
+                                "url": "/category/laminatory-i-broshyurovshchiki-15777/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023900606.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V-WPvVzWEyvNfsKZD9RGXQfYbRL",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шредеры",
+                                "url": "/category/shredery-15782/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022368344.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SrTV01o0JK43Mf_DGoYu9QuT0M5",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Брошюровщики",
+                                "url": "/category/broshyurovshchiki-36266/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-e/6008032946.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QiAeceGp6ArLCEB8lRFQGrsfLm8",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Архивный переплёт",
+                                "url": "/category/stanki-i-lotki-dlya-arhivnogo-perepleta-39226/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-k/6551754308.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OcgNoCh6Lz40edDNAkU6pxML3dv",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Проекторы",
+                                "url": "/category/proektory-31978/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023198365.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Qkv2Da8pNsJxr5T0Fa3P4dshaeT",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SUOkae-w1_90Oni1V8aZTGvTGa5",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Квадрокоптеры и аксессуары",
+                        "url": "/category/kvadrokoptery-i-aksessuary-7159/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7159.png",
+                        "categories": [
+                            {
+                                "title": "Квадрокоптеры",
+                                "url": "/category/kvadrokoptery-7160/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019442828.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RgD5r1YOPRNwGe83LktCJn6rZAe",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти и аксессуары",
+                                "url": "/category/aksessuary-dlya-kvadrokopterov-7166/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024900686.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vsoad-uwXXydbd056NowFrI_SDO",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аккумуляторы",
+                                "url": "/category/akkumulyatory-dlya-kvadrokopterov-7164/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1034198030.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NSUaWAeLJg0JOMnboPAOPURcAj5",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чехлы",
+                                "url": "/category/chehly-dlya-kvadrokoptera-7161/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026333885.JPG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UYlsRYPGOwOBXz1XDDhjfUpPG2k",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Оптические фильтры",
+                                "url": "/category/opticheskie-filtry-dlya-kvadrokopterov-7162/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1036786209.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M06ishvvwPNk-tKBV9sPrOKPiZX",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1N2ZbI6ZWzVodurd6qsyQjX7QQDJ",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Навигаторы",
+                        "url": "/category/navigatory-15685/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15685.png",
+                        "categories": [
+                            {
+                                "title": "GPS-трекеры и GPS-маяки",
+                                "url": "/category/gps-trekery-30784/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026933725.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1O0ZDGbLwedL01Z1f6fNWqlMufTv",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туристические навигаторы",
+                                "url": "/category/turisticheskie-navigatory-15686/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1013839559.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OMkJtCzIylJhdXjqdbFVZQVtQcE",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автомобильные навигаторы",
+                                "url": "/category/avtomobilnye-navigatory-15687/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020977927.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T9EEm41or3ieQz8aBMbDhA7rmj-",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аксессуары и запчасти",
+                                "url": "/category/chehly-dlya-navigatorov-15903/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6001545718.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-CdYNxC4H8G8MC4naMgv15i5Nj0",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электронные компасы",
+                                "url": "/category/elektronnye-kompasy-15689/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-0/6014986080.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V33RcriX6jQn5UkQSMNBoG-76EB",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1RFFFEldPebSFOVlBmZEWtUZhISb",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Умный дом",
+                        "url": "/category/umnyy-dom-15849/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15849.png",
+                        "categories": [
+                            {
+                                "title": "Аксессуары",
+                                "url": "/category/aksessuary-dlya-umnogo-doma-15853/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1020135852.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Thxi861ATq_npqRTjKHJ3uwtQ1m",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Выключатели и реле",
+                                "url": "/category/umnye-vyklyuchateli-i-rele-39965/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39965.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-WcAqye1UjoQV_0Js1EFN_PmohB",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Датчики и регуляторы",
+                                "url": "/category/datchiki-dlya-umnogo-doma-39919/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-y/6362505094.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VQ5kXua0x9uDuwUbs2RwLzLI1v-",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комплекты умного дома",
+                                "url": "/category/komplekty-umnogo-doma-15851/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023617663.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WqRhFxkjXK9u3SvMI_-KL2_zd8I",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Освещение",
+                                "url": "/category/umnoe-osveshchenie-39963/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39963.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NUnHJifqTusjF58yPz5ICfCO8FY",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Розетки",
+                                "url": "/category/umnye-rozetki-15850/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021850118.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MqwQo_Bm8Cy0lvJB3u1U1MlghKv",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Устройства безопасности",
+                                "url": "/category/umnye-ustroystva-bezopasnosti-39964/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/39964.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MzsvDNTOJM21JeXnXoQgWdRTIDa",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Управление умным домом",
+                                "url": "/category/upravlenie-dlya-umnogo-doma-15852/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023243964.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TdHbv0kPXn3bktasx09fZ3NgyT6",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электрокарнизы",
+                                "url": "/category/elektrokarnizy-37724/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-l/6122513781.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PJbcrZCZow4HFe3iSrcu0vEzWa8",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1SATjRP62WKjPQXo2z-BKiHjUtGx",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Телевизоры и видеотехника",
+                        "url": "/category/televizory-i-videotehnika-15527/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15527.png",
+                        "categories": [
+                            {
+                                "title": "Телевизоры",
+                                "url": "/category/televizory-15528/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025461374.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YDIuC0NHV3CJ6VjUZsiHEDOfeYY",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "ТВ-приставки и медиаплееры",
+                                "url": "/category/mediapleery-15622/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021632492.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WI5W8rrKTIPhORrhR8d7Eabpz6C",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Кронштейны и крепления",
+                                "url": "/category/kronshteyny-dlya-televizorov-15529/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024317512.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NG1Ra2RQ3LYOytbAsaZlaqnJyYV",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Цифровое и спутниковое ТВ",
+                                "url": "/category/tsifrovoe-i-sputnikovoe-tv-15534/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037549342.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OdBT2TSWt6UvK2HI17B4vVczLkI",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Онлайн-кинотеатры",
+                                "url": "/category/podpiski-na-onlayn-kinoteatry-32131/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1037896041.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P5P5mfpC0WdzQQutpJZ2ufEZhLi",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пульты ДУ",
+                                "url": "/category/pulty-du-15542/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1015577150.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W1WIe8R98iZMpWE1Gk9peV-fXf_",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Антенны",
+                                "url": "/category/antenny-15531/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1012271914.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XqHYDP39fvgEtEa2o3VJVp4grGX",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Запчасти и аксессуары",
+                                "url": "/category/zapchasti-dlya-televizorov-35384/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6021184225.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Opxqsdsryz9zA4J4cVP2nWt8E1e",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "DVD-плееры",
+                                "url": "/category/dvd-pleery-15620/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021955239.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Q7WyAHhyQKZdv3gV_n-v_7LUGKt",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Проекторы",
+                                "url": "/category/proektory-15615/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023198365.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MDNJp1-5LWY4TSK5xp7WNbCcDyZ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Проекционные экраны",
+                                "url": "/category/aksessuary-dlya-proektorov-15616/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016365615.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QUnSGcKf1nSxrqELqL89xGMl4pw",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Интерактивные панели и светодиодные экраны",
+                                "url": "/category/interaktivnye-paneli-34684/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-s/6019751032.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MoxQifrt8-VWGdhynCO3jC6ReI5",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ZBxkNNhaXC-N6LDR90LHBnlPRIT",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Часы и электронные будильники",
+                        "url": "/category/chasy-i-elektronnye-budilniki-10706/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/10706.png",
+                        "categories": [
+                            {
+                                "title": "Электронные будильники",
+                                "url": "/category/elektronnye-budilniki-10708/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1028236374.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QMDalQwWnyjf9-jsmF2vt1BkTf7",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Радиобудильники",
+                                "url": "/category/radio-budilniki-10709/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1019489065.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xfc-367Y7ABChQfGKDsy2e8qlVE",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аромабудильники и картриджи",
+                                "url": "/category/aromabudilniki-i-kartridzhi-31332/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023302704.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UdFXdY_BopkLbI0gstJ_gZbYf8z",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_syjefG5F7k2wzHk5_eCbh0QtaO",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Охранные системы и видеонаблюдение",
+                        "url": "/category/umnyy-dom-i-bezopasnost-15835/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15835.png",
+                        "categories": [
+                            {
+                                "title": "Камеры видеонаблюдения",
+                                "url": "/category/ulichnye-kamery-videonablyudeniya-31773/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024330607.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yhb3cjs5SDCuBzgHCVWG15Pj3yy",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Системы видеонаблюдения",
+                                "url": "/category/sistemy-videonablyudeniya-15848/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022796874.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vz0LI6k1f6luW6PKRBFpDTZ3u1p",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автоматика для ворот",
+                                "url": "/category/avtomatika-dlya-vorot-32466/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-w/6009833144.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WS2FWJIsBuCkwn4m0xKOxTFsVoV",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домофоны",
+                                "url": "/category/domofony-15837/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023787746.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VIwL4KhRq8ZRntU0I_1h1HOsTIW",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Охранное оборудование для дома и дачи",
+                                "url": "/category/ohrannoe-oborudovanie-dlya-doma-i-dachi-15840/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1021842876.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-eQ5KoDTnYBXRVDbSBmYNR-7hB7",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Охранные системы для бизнеса",
+                                "url": "/category/skud-30686/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025952732.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YkELlKEjwE7iNEGfYMDnHh3KR1b",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Скрытые камеры и персональные видеорегистраторы",
+                                "url": "/category/skrytye-kamery-videonablyudeniya-35097/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-p/6034886257.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M_8-DuWZYirmfDHFBiZKrpRSVsu",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Регистраторы",
+                                "url": "/category/registratory-dlya-videonablyudeniya-15847/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024330805.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M5-f9SXwKbKtFrK31iMKiQMkjRD",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Муляжи камер видеонаблюдения",
+                                "url": "/category/mulyazhi-kamer-videonablyudeniya-15983/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1016544567.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V3IpyPq0rkS1InJowRVIEVE6hRQ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электронные замки",
+                                "url": "/category/elektronnye-zamki-15841/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024125562.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RW-gIengyyZ0q-mlmKoFinr13qO",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Электронные ключи и карты",
+                                "url": "/category/elektronnye-klyuchi-30573/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023902768.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U6hR6nX6Lpr1zDvKBE-fMDvh_26",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Подавители сигнала и антижучки",
+                                "url": "/category/podaviteli-signala-gps-31971/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-d/6003213409.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1W0GddH89X7Shl2RKjS-O7kzwHWs",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Установка видеонаблюдения",
+                                "url": "/category/kronshteyny-dlya-kamer-videonablyudeniya-30680/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025757438.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TOzOCvpIZ6gL22CjVL8EHGLQY3W",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Персональные сигнализации",
+                                "url": "/category/personalnye-signalizatsii-31838/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1035715462.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZAK4sSXIjL0AwH69_0wLsX9na-o",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1-75z1gfV2NyVb5sHXzmsEKhw4AB",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Аксессуары для электроники",
+                        "url": "/category/aksessuary-dlya-elektroniki-15879/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/15879.png",
+                        "categories": [
+                            {
+                                "title": "Кабели и переходники",
+                                "url": "/category/kabeli-i-perehodniki-15913/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1025036150.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VgnUjwKrU6-FXut5Gq9zx-cJ-eO",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Внешние аккумуляторы",
+                                "url": "/category/vneshnie-akkumulyatory-15881/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024192409.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UVBuqxsaCJgM9NZvjEvX4IDdfik",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Батарейки",
+                                "url": "/category/batareyki-15882/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024182529.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1N3qX7So1D7ZIDNSqEFSugRoC-Rv",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Аккумуляторные батарейки",
+                                "url": "/category/akkumulyatornye-batareyki-15883/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1024182528.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TF-_Ro8qimajvuMIhWDAwbavRXU",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Зарядные устройства для аккумуляторов и тестеры батареек",
+                                "url": "/category/zaryadnye-ustroystva-dlya-akkumulyatorov-15886/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1023996991.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_WGSnBkLqcsRYEFE_8oImJ2WQL5",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сетевые зарядные устройства",
+                                "url": "/category/setevye-zaryadnye-ustroystva-15922/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1022163134.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U6jeOzZFPn8CbMXpfkZ_4DFWCpu",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Беспроводные зарядные устройства",
+                                "url": "/category/besprovodnye-zaryadnye-ustroystva-15923/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1018588077.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RJruwu4-xonlK0Gpqdux1eo_mdz",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Автомобильные зарядные устройства",
+                                "url": "/category/avtomobilnye-zaryadnye-ustroystva-15921/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026203907.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-poJD2nWRyOXR7Gttgt3NPWEDiD",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Робототехника",
+                                "url": "/category/roboty-i-drony-15614/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-x/6006165681.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YZI3H_DZ1-biXQSUANDqRgll_tZ",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Дополнительные гарантии",
+                                "url": "/category/strahovye-polisy-1729/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-5/6020034833.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VLM2UPoewFoGigi1LChJurKSlvA",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чистящие средства и салфетки",
+                                "url": "/category/chistyashchie-sredstva-i-salfetki-dlya-elektroniki-15936/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-u/6029381862.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QhK1U1Sa2gwdV0df6SY5cA5N2_l",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сетевые блоки питания",
+                                "url": "/category/bloki-pitaniya-dlya-setevogo-oborudovaniya-36172/",
+                                "image": "https://cdn3.ozone.ru/s3/multimedia-a/6047484694.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_3TXbmgSvm_CK7dc_a_5tVig1xH",
+                                        "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1N6AD5NSLvXqQiox-EW8yKAT9XcU",
+                                "sliceKey": "1CZj1_VCFGDIeTaY-c_J788WnBLGw6AU"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1TIQ2nI8RFXqq_HICBfavIUm3WHf"
+            }
+        },
+        "countGoods": "68565",
+        "countGoodsTitle": "товаров"
+    }
+}

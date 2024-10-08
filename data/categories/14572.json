@@ -1,0 +1,240 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "14572",
+        "title": "Бытовая химия и гигиена",
+        "url": "/category/bytovaya-himiya-14572/",
+        "image": "https://cdn1.ozone.ru/graphics/main-category-logos/bh.png",
+        "icon": "ic_m_household_chemicals_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Бытовая химия",
+                        "url": "/category/bytovaya-himiya-36861/",
+                        "image": "https://ir.ozone.ru/s3/multimedia-1-1/7082199397.jpg",
+                        "categories": [
+                            {
+                                "title": "Средства для стирки",
+                                "url": "/category/sredstva-dlya-stirki-14580/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14580.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UVGr-AAoNmhurqJF2xZptjyQhQH",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Чистящие средства",
+                                "url": "/category/chistyashchie-sredstva-14587/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14587.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Yh98Px8fXAajc1Sm0GZ3ttELPjk",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для посудомоечных машин",
+                                "url": "/category/sredstva-dlya-posudomoechnyh-mashin-32310/",
+                                "image": "https://cdn1.ozone.ru/s3/cms/32/tbc/image_90.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-pnytCHeen5gleRHG7KFDA7Kn-f",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для мытья посуды",
+                                "url": "/category/sredstva-dlya-mytya-posudy-14591/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14591.PNG",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UK0ZjFxm_jjaguWHMDoNfciQn_5",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Для бытовой техники",
+                                "url": "/category/sredstva-dlya-uhoda-za-bytovoy-tehnikoy-14573/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14573.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RtXEoxJRq8YDTbVFDnKfrBdWwFx",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Освежители воздуха и нейтрализаторы запахов",
+                                "url": "/category/osvezhiteli-i-aromatizatory-14579/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14579.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1V35ff-CaJKhSprOYVjcERmZp0rS",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Защита от насекомых",
+                                "url": "/category/sredstva-ot-nasekomyh-34955/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-d/6637601965.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_6E77rsk0WURdG5thAQJZumOfhe",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Защита от грызунов",
+                                "url": "/category/sredstva-ot-gryzunov-34961/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-4/6887164180.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S1b5oI08b6EJJSidXsdR6qSUgAF",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1_c3W82wOXhPg5zkfWUabf0X8CKD",
+                                "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Личная гигиена",
+                        "url": "/category/lichnaya-gigiena-6310/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/6310.png",
+                        "categories": [
+                            {
+                                "title": "Гигиена полости рта",
+                                "url": "/category/gigiena-polosti-rta-6318/",
+                                "image": "https://ir-3.ozone.ru/s3/multimedia-e/6156996446.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1M_kfJgTXUs4MHdaQaDnLXHQNvw4",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Гигиена тела",
+                                "url": "/category/tovary-dlya-gigieny-tela-36848/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1027403739.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Nwb-m4Ja_aVpIPg2BG9kNLKaRUc",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Уход за волосами",
+                                "url": "/category/tovary-dlya-uhoda-za-volosami-36847/",
+                                "image": "https://nowatermark.ozone.ru/s3/multimedia-e/6053672378.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-idjdYaHXzqcHCondfFR5KZjinO",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Интимная гигиена",
+                                "url": "/category/intimnaya-gigiena-32177/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-j/6402847543.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-FOtlcmkXiqnoTV07FM-g0d6lmr",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Товары для мужского бритья",
+                                "url": "/category/tovary-dlya-britya-36855/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-m/6048299170.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_6VcDQtn1CzeObCovqYZuwxpIAh",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Детская гигиена",
+                                "url": "/category/tovary-dlya-detskoy-gigieny-36849/",
+                                "image": "https://ir.ozone.ru/s3/multimedia-1-g/7084074292.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WS-RruaHXCIXzBEZHmk1kimSwJF",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ватно-бумажная продукция",
+                                "url": "/category/bumazhnaya-produktsiya-dlya-doma-14854/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1026853204.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_mob1HTM4HilJtJEMeGBthMXAxu",
+                                        "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1ObGgCiyfQh7EyA16dSasn2LJVYH",
+                                "sliceKey": "1CZj1MHr_xhzzB2vS3AjdhWiCgcuE3Gk"
+                            }
+                        }
+                    }
+                ]
+            },
+            {}
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1Q7JAPgfSZjDkcQaas8rcJk4yyUe"
+            }
+        },
+        "countGoods": "68867",
+        "countGoodsTitle": "товаров"
+    }
+}

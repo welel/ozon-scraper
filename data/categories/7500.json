@@ -1,0 +1,813 @@
+{
+    "trackingInfo": null,
+    "trackingPayloads": {},
+    "trackingTokenAliases": null,
+    "error": "",
+    "data": {
+        "id": "7500",
+        "title": "Одежда",
+        "url": "/category/odezhda-obuv-i-aksessuary-7500/",
+        "image": "https://cdn1.ozone.ru/graphics/cms/odezhda_new.png",
+        "icon": "ic_m_apparel_filled",
+        "columns": [
+            {
+                "categories": [
+                    {
+                        "title": "Женщинам",
+                        "url": "/category/zhenskaya-odezhda-7501/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7501.png",
+                        "categories": [
+                            {
+                                "title": "Блузы и рубашки",
+                                "url": "/category/bluzy-i-rubashki-zhenskie-7511/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7511.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Rqly8aT_W123nzELzofRTu_Y2hz",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Брюки, бриджи и капри",
+                                "url": "/category/bryuki-zhenskie-7512/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7512.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Y-ajez8uk9aIUnLMTwg-2WS6bop",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Верхняя одежда",
+                                "url": "/category/verhnyaya-odezhda-zhenskaya-7528/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7528.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XMzYTu4oRSCQdJ7OT0hXxWowqKL",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Джемперы, свитеры и кардиганы",
+                                "url": "/category/svitery-dzhempery-i-kardigany-zhenskie-7537/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7537.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Sofn19O3klprk_PDnkCVWR8a-fC",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Джинсы и джеггинсы",
+                                "url": "/category/dzhinsy-zhenskie-7503/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7503.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-2n8C48YfNQTmTb_Zw6FN9evxDj",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домашняя одежда",
+                                "url": "/category/domashnyaya-odezhda-zhenskaya-7541/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7541.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Tq9scfEno_arXL77qtI54_HbJrS",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комбинезоны",
+                                "url": "/category/kombinezony-zhenskie-7513/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7513.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NuJKo1rMH1Fm6Chrb38UKiF0Qkg",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Костюмы и комплекты",
+                                "url": "/category/kostyumy-i-komplekty-odezhdy-zhenskie-7536/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7536.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WUEZamXFGbEfg9a4vMm59UmxdyV",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Купальники и пляжная одежда",
+                                "url": "/category/plyazhnaya-odezhda-zhenskaya-31690/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31690.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1PjpVfJ-ohVYxIKnHH-GUkaI_TQx",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лонгсливы",
+                                "url": "/category/longslivy-zhenskie-36407/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-7/6033727939.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SRPjU0KK-7pg48Au-1Qc5zyNjNF",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Нижнее белье",
+                                "url": "/category/nizhnee-bele-zhenskoe-7538/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7538.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VK_tBPkkq0_7YzaOUtInbrDJm7o",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Носки, колготки и чулки",
+                                "url": "/category/chulki-noski-kolgotki-zhenskie-31688/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31688.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1R-jg-eBGlVOi1_QuXSJNCofoVDc",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пиджаки, жакеты и жилеты",
+                                "url": "/category/zhakety-i-zhilety-zhenskie-7535/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7535.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MlduKdcBIJYKrmmWr7ZdSPVp58C",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Платья и сарафаны",
+                                "url": "/category/platya-zhenskie-7502/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7502.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U8PjwELByFfVyoy9c7u0d3Ws0P7",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Термобелье",
+                                "url": "/category/termobele-zhenskoe-30246/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30246.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QNIEPBPOHEbtoxz7V44MZSbqHeV",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Толстовки, свитшоты и худи",
+                                "url": "/category/tolstovki-i-olimpiyki-zhenskie-7788/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7788.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-urg1KpSX6Fd0L2eylu2NGmyBJs",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Туники",
+                                "url": "/category/tuniki-zhenskie-7507/",
+                                "image": "https://cdn1.ozone.ru/s3/multimedia-u/6005694366.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RcHTFXSgHrcj0UV0bZyGnBpr_uO",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Футболки и топы",
+                                "url": "/category/futbolki-i-topy-zhenskie-7505/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7505.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ny7-50e2fibs9Qex4l6RN9xUz6C",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шорты",
+                                "url": "/category/shorty-zhenskie-7514/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7514.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QajfMLg_66p1MAgathMFkuDvYbW",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Юбки",
+                                "url": "/category/yubki-zhenskie-7504/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7504.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Ww8cM4k6rhwOYfRvAQjmikIB4M_",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда больших размеров",
+                                "url": "/category/zhenskaya-odezhda-bolshih-razmerov-36728/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36728.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T98mIfTKjsNhzWnvcQml9E9OVoi",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда для беременных",
+                                "url": "/category/odezhda-dlya-beremennyh-30108/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30108.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Xza-lxNf2ky2Q48sBdFuwOl1572",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Свадебные платья",
+                                "url": "/category/svadebnye-platya-7798/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7798.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1TWT_YOzIojc5ecwxeqmF8oAumCX",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда для спорта",
+                                "url": "/category/sportivnaya-odezhda-zhenskaya-7515/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7515.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U4v89QwNQj551zXzBxyTyHbm6pL",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YWgiOAEBoaMgQtb6LZmMbO1VMLg",
+                                "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Мужчинам",
+                        "url": "/category/muzhskaya-odezhda-7542/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7542.png",
+                        "categories": [
+                            {
+                                "title": "Брюки",
+                                "url": "/category/bryuki-muzhskie-7552/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7552.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QTjPLTp7_LT969FqOUrs4e0vBfV",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Верхняя одежда",
+                                "url": "/category/verhnyaya-odezhda-muzhskaya-7543/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7543.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Vmjka9IaPwP7zdmDsvHCOMvQJ_O",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Джемперы, свитеры и кардиганы",
+                                "url": "/category/svitery-dzhempery-i-kardigany-muzhskie-7554/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7554.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1P5yK18qDaQI7G4sIqZNlGg8IKrY",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Джинсы",
+                                "url": "/category/dzhinsy-muzhskie-7556/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7556.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Zm6jpc74BD228ME9YvL16Y83GgF",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Домашняя одежда",
+                                "url": "/category/domashnyaya-odezhda-muzhskaya-7577/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7577.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Nh0hdqdRLMbD6JTd5zYe20qVmev",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Комбинезоны",
+                                "url": "/category/kombinezony-muzhskie-30249/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30249.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QAOq2vHvdEV69OS8EMZPofyJdAe",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Костюмы и комплекты",
+                                "url": "/category/komplekty-odezhdy-muzhskie-31080/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31080.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZAeXQfbxRLRIZaYviqe9so7dUv7",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Лонгсливы",
+                                "url": "/category/longslivy-muzhskie-36306/",
+                                "image": "https://cdn1.ozone.ru/multimedia/1031637108.jpg",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1T38frfmS7s-Ec9FnvkHOEy7hGaG",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Нижнее белье",
+                                "url": "/category/nizhnee-bele-muzhskoe-7578/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7578.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1SSXYey3RjPOuDiRTKBrpFqK46ma",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Носки и гетры",
+                                "url": "/category/noski-muzhskie-36563/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36563.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NmKhfplI2qAQLJw2Wo3zfkXPH5M",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пиджаки, жилеты и жакеты",
+                                "url": "/category/kostyumy-muzhskie-7550/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7550.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1URkuR1GxHyNAJLR4ZhE6dDD0paB",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Пляжная одежда",
+                                "url": "/category/plyazhnaya-odezhda-muzhskaya-i-plavki-36665/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36665.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-x8ZYhOIY6qeNwSuqBoTbNS3yX1",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рубашки",
+                                "url": "/category/rubashki-muzhskie-7553/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7553.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1RipEKbNjdXHUlfSBFVPZew_kImG",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Термобелье",
+                                "url": "/category/termobele-muzhskoe-7570/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7570.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1XIFPGvBKAVEAX22LPOIlXMACQe4",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Толстовки, свитшоты и худи",
+                                "url": "/category/tolstovki-i-olimpiyki-muzhskie-7555/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7555.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1Uuhdxas7fBKVn5Ym18-2C7h1YhW",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Футболки и майки",
+                                "url": "/category/futbolki-i-polo-muzhskie-7558/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7558.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OjvBZiRNFMEnEH60il0vxKXAh8j",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Шорты",
+                                "url": "/category/shorty-muzhskie-7557/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7557.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_w1axIrmNl-AwW-bOotbgYI2QZW",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда больших размеров",
+                                "url": "/category/muzhskaya-odezhda-bolshih-razmerov-36705/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36705.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1_yxJvG5HTvBvdEYZxKCaqr9hu6q",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Одежда для спорта",
+                                "url": "/category/sportivnaya-odezhda-muzhskaya-7563/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7563.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1NNu_OXRhcVGnkS3k4bDR1YfnWYN",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1UPcORmGi3Ovd4TVRkakM6ilWX5k",
+                                "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Детям",
+                        "url": "/category/detskaya-odezhda-7580/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7580.png",
+                        "categories": [
+                            {
+                                "title": "Девочкам",
+                                "url": "/category/odezhda-dlya-devochek-7581/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7581.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-D-U0-7xI9iTgQnY3NYYIgLhZCj",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Мальчикам",
+                                "url": "/category/odezhda-dlya-malchikov-7605/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7605.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1ZlQSvrYcKm25njvs0xk5gWY-9Of",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Новорожденным",
+                                "url": "/category/odezhda-dlya-novorozhdennyh-7627/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7627.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QbfJ9saN84tE7tDDF_Trx7GGgDQ",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Школа",
+                                "url": "/category/shkolnaya-forma-7803/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7803.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1UXm_xFz3JUs_rBeXTHbhCzochuS",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1Zzl-9n5KqIphAoYYX1nKORrmsyu",
+                                "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                            }
+                        }
+                    },
+                    {
+                        "title": "Униформа и рабочая одежда",
+                        "url": "/category/spetsodezhda-i-sredstva-individualnoy-zashchity-10189/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/10189.png",
+                        "categories": [
+                            {
+                                "title": "Академическая одежда",
+                                "url": "/category/akademicheskaya-odezhda-36179/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36179.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1WWp5Z1uvnsBePpqECV0tAI_tqa8",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Медицинская одежда",
+                                "url": "/category/meditsinskaya-odezhda-7787/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7787.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1YS8zvuTzuXCy6azHkxcAYsyLfwx",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Поварам и официантам",
+                                "url": "/category/odezhda-dlya-povarov-31611/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/31611.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1QXWRz_EpW9SYJfhD2c5RiYYSqJC",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Рабочая спецодежда",
+                                "url": "/category/spetsodezhda-dlya-remonta-i-stroitelstva-10190/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/10190.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U3vIStHLZX6mHG-qCHBm3cDa8Ab",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Сигнальная одежда",
+                                "url": "/category/signalnaya-odezhda-33119/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/33119.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VyWSgIuCX5rs25FfGW2DHw5Cldr",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Форменная одежда",
+                                "url": "/category/formennaya-odezhda-34989/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/34989.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1VxULHbU_cf9wazDDJFgc4ycxZ16",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Церковное облачение",
+                                "url": "/category/tserkovnoe-oblachenie-36811/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/36811.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1MGFEy8keQ6mHmhPAGxsKCIpq8Pd",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1YdC9oetPfGmEUkxUQVtbMlWdSXD",
+                                "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "categories": [
+                    {
+                        "title": "Уход за одеждой",
+                        "url": "/category/sredstva-dlya-uhoda-za-odezhdoy-7757/",
+                        "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7757.png",
+                        "categories": [
+                            {
+                                "title": "Бретели, резинки и штрипки",
+                                "url": "/category/breteli-30505/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/30505.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1OiIXIUBpsVgdpbM460HtcNBzZU7",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Красители",
+                                "url": "/category/krasiteli-dlya-odezhdy-32949/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/32949.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1S1gWSdnSNi_v7tOBWTqnhNqHx6X",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Машинки для удаления катышков",
+                                "url": "/category/mashinki-dlya-udaleniya-katyshkov-14624/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/14624.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1-bPch23qx_lpJnPE4C3aod4BXpJ",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Ролики и щётки",
+                                "url": "/category/roliki-shchetki-dlya-snyatiya-vorsinok-7762/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7762.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U-fkgXtYQ_Jv6ZWlRuJZbHiyQC7",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Средства для ухода за одеждой",
+                                "url": "/category/antistatiki-i-propitki-7813/",
+                                "image": "https://cdn1.ozone.ru/s3/searchteam-cdn/7813.png",
+                                "trackingInfo": {
+                                    "click": {
+                                        "actionType": "click",
+                                        "key": "1mZj1U-OT_p4bzzuXKH5KJtdMml2Vp89",
+                                        "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                                    }
+                                }
+                            }
+                        ],
+                        "trackingInfo": {
+                            "click": {
+                                "actionType": "click",
+                                "key": "1mZj1MxtVU8eL96Ey7_lrQRarew9RsLL",
+                                "sliceKey": "1CZj1Qz53g5qA4coMNuwXGKFwNKanfRF"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "trackingInfo": {
+            "click": {
+                "actionType": "click",
+                "key": "1mZj1ZDXNTVyK1OzM7aUgON0Qwk-1aiC"
+            }
+        },
+        "countGoods": "41923",
+        "countGoodsTitle": "товара"
+    }
+}
