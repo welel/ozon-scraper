@@ -1,5 +1,4 @@
 from enum import Enum
-from typing import Optional
 
 from pydantic import Field, HttpUrl
 
@@ -29,15 +28,15 @@ class BaseOzonReviewMedia(DTO):
         max_length=16,
         description="File extension of the media (without dot).",
     )
-    video_duration_sec: Optional[int] = Field(
+    video_duration_sec: int | None = Field(
         None,
         description="Video duration in seconds",
     )
-    width: Optional[int] = Field(
+    width: int | None = Field(
         None,
         description="Media width pixels",
     )
-    height: Optional[int] = Field(
+    height: int | None = Field(
         None,
         description="Media height pixels",
     )

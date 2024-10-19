@@ -11,18 +11,19 @@ from scrap.loaders.abstract import Loader
 class SeleniumLoader(Loader):
     url: str
     wait_time: float = 1.0
+    headless: bool = False
 
-    def __init__(self, url: str | None = None):
+    def __init__(self, url: str | None = None) -> None:
         super().__init__()
         self.url = url or self.url
         options = uc.ChromeOptions()
         options.add_argument(f"user-agent={SeleniumConfig.default_user_agent}")
-        options.add_argument('--no-sandbox')
-        # options.add_argument('--headless')
-        options.add_argument('--disable-gpu')
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-gpu")
         self.driver = uc.Chrome(
             options=options,
             driver_executable_path=SeleniumConfig.chrome_driver_path,
+            headless=self.headless,
         )
         self.driver.set_window_size(1440, 900)
         self.driver.get(self.url)
@@ -39,11 +40,11 @@ class SeleniumLoader(Loader):
         self.driver.quit()
 
     def _scroll_down_until_bottom(
-            self,
-            step_px: int = 1000,
-            wait_time: float = 2.0,
-            step_in_row: int = 1,
-            max_step: int | None = None,
+        self,
+        step_px: int = 1000,
+        wait_time: float = 2.0,
+        step_in_row: int = 1,
+        max_step: int | None = None,
     ) -> bool:
         """Scrolls page with dynamically loading content to the very bottom.
 
@@ -57,6 +58,7 @@ class SeleniumLoader(Loader):
             True - stopped by the end of the page;
             False - stopped by max_step steps.
         """
+
         def get_last_element_y_coordinate() -> int:
             last_element_of_body = "//body/*[last()]"
             last_el = self.driver.find_element(By.XPATH, last_element_of_body)

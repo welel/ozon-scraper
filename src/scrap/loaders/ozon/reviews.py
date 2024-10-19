@@ -1,6 +1,6 @@
 import hashlib
 from datetime import datetime
-from typing import Any, Optional
+from typing import Any
 
 from pydantic import BaseModel
 from selenium.webdriver.common.by import By
@@ -20,7 +20,7 @@ class OzonReviewsData(BaseModel):
 
 def time_to_seconds(time_str: str) -> int | None:
     try:
-        time_obj = datetime.strptime(time_str, "%M:%S")
+        time_obj = datetime.strptime(time_str, "%M:%S")  # noqa: DTZ007
         return time_obj.hour * 3600 + time_obj.minute * 60
     except ValueError:
         return None
@@ -32,11 +32,14 @@ def to_md5(data: Any) -> str:
 
 class OzonReviewsLoader(OzonLoader):
     """Loads reviews and its media from product reviews."""
+
     schema = OzonReviewsData
     wait_time = 5
 
-    def __init__(self, *args, product: OzonProductEntity, **kwargs):
-        super().__init__(*args, **kwargs)
+    def __init__(
+        self, product: OzonProductEntity, url: str | None = None
+    ) -> None:
+        super().__init__(url=url)
         self.product = product
         self.media_number = 0
 
@@ -56,7 +59,7 @@ class OzonReviewsLoader(OzonLoader):
         else:
             self.media_number = 0
 
-    def _load(self) -> Optional[LoadedData]:
+    def _load(self) -> LoadedData | None:
         if self.media_number == 0:
             self.logger.info("No media for %s product", self.product.sku_id)
             self._shutdown()
@@ -75,39 +78,44 @@ class OzonReviewsLoader(OzonLoader):
 
             reviews_data = []
             for review in data.reviews.values():
-
                 if review.is_anonymous:
                     user_name = None
                 else:
                     user_name = review.author.first_name.strip()
 
-                reviews_data.append(OzonReviewCreateProperties(
-                    uuid=review.uuid,
-                    product_sku_id=self.product.sku_id,
-                    rating=review.content.score,
-                    user_name=user_name,
-                    user_image_url=review.author.avatar_url or None,
-                    comment_count=review.comments.total_count,
-                    url=review.sharing.url,
-                    like_count=review.usefulness.useful,
-                    dislike_count=review.usefulness.unuseful,
-                    comment_text=review.content.comment,
-                    advantages_text=review.content.positive,
-                    disadvantages_text=review.content.negative,
-                ))
+                reviews_data.append(
+                    OzonReviewCreateProperties(
+                        uuid=review.uuid,
+                        product_sku_id=self.product.sku_id,
+                        rating=review.content.score,
+                        user_name=user_name,
+                        user_image_url=review.author.avatar_url or None,
+                        comment_count=review.comments.total_count,
+                        url=review.sharing.url,
+                        like_count=review.usefulness.useful,
+                        dislike_count=review.usefulness.unuseful,
+                        comment_text=review.content.comment,
+                        advantages_text=review.content.positive,
+                        disadvantages_text=review.content.negative,
+                    )
+                )
 
             media_data = []
             for media in data.media:
-                media_data.append(OzonReviewMediaCreateProperties(
-                    id=to_md5(media.url),
-                    review_uuid=media.review_uuid,
-                    type=media.type.lower(),
-                    url=media.url,
-                    extension=media.url.split(".")[-1],
-                    video_duration_sec=time_to_seconds(media.video_duration),
-                    width=media.size.width,
-                    height=media.size.height,
-                ))
+                media_data.append(
+                    OzonReviewMediaCreateProperties(
+                        id=to_md5(media.url),
+                        review_uuid=media.review_uuid,
+                        type=media.type.lower(),
+                        url=media.url,
+                        extension=media.url.split(".")[-1],
+                        video_duration_sec=time_to_seconds(
+                            media.video_duration
+                        ),
+                        width=media.size.width,
+                        height=media.size.height,
+                    )
+                )
 
             return OzonReviewsData(reviews=reviews_data, media=media_data)
 

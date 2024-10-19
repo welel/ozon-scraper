@@ -1,7 +1,7 @@
-from .ozon import (  # noqa
+from .ozon import (
     OzonMediaType,
     OzonProduct,
     OzonReview,
     OzonReviewMedia,
 )
-from .scraper import ScraperOzonCategoryMeta  # noqa
+from .scraper import ScraperOzonCategoryMeta

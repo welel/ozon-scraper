@@ -1,5 +1,3 @@
-from typing import Optional
-
 from pydantic import Field, HttpUrl
 
 from scrap.config import UUID_LEN
@@ -11,16 +9,16 @@ class BaseOzonReview(DTO):
         ...,
         description="Product Stock Keeping Unit ID",
     )
-    rating: Optional[int] = Field(
+    rating: int | None = Field(
         None,
         description="Rating given by the reviewer",
     )
-    user_name: Optional[str] = Field(
+    user_name: str | None = Field(
         None,
         max_length=64,
         description="Name of the user who reviewed",
     )
-    user_image_url: Optional[HttpUrl] = Field(
+    user_image_url: HttpUrl | None = Field(
         None,
         description="URL to the user's profile image",
     )
@@ -32,23 +30,23 @@ class BaseOzonReview(DTO):
         ...,
         description="URL to the review page",
     )
-    like_count: Optional[int] = Field(
+    like_count: int | None = Field(
         None,
         description="Number of likes on the review",
     )
-    dislike_count: Optional[int] = Field(
+    dislike_count: int | None = Field(
         None,
         description="Number of dislikes on the review",
     )
-    comment_text: Optional[str] = Field(
+    comment_text: str | None = Field(
         None,
         description="Text of the review",
     )
-    advantages_text: Optional[str] = Field(
+    advantages_text: str | None = Field(
         None,
         description="Text describing the advantages in the review",
     )
-    disadvantages_text: Optional[str] = Field(
+    disadvantages_text: str | None = Field(
         None,
         description="Text describing the disadvantages in the review",
     )

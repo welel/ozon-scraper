@@ -16,11 +16,10 @@ class OzonCategoryInterface(
         OzonCategoryUpdatableProperties,
     ],
 ):
-
     @abc.abstractmethod
     def create_or_update(
-            self,
-            create_data: OzonCategoryCreateProperties,
+        self,
+        create_data: OzonCategoryCreateProperties,
     ) -> tuple[OzonCategoryEntity, bool]:
         pass
 

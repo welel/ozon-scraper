@@ -1,14 +1,12 @@
+from collections.abc import Generator
 from contextlib import contextmanager
-from typing import Generator
 
 from sqlalchemy.engine import create_engine
-# from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import Session, sessionmaker
 
 from scrap.config import DBConfig
 
 
-# BaseModel = declarative_base()
 engine = create_engine(DBConfig.url)
 _session = sessionmaker(engine)
 

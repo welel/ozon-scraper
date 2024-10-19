@@ -2,6 +2,8 @@
 .vscode/
 out/
 .env
+.ruff_cache/
+.mypy_cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

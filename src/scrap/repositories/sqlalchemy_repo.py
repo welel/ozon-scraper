@@ -1,4 +1,4 @@
-from typing import Any, Type
+from typing import Any
 
 from pydantic import BaseModel
 from sqlalchemy.exc import IntegrityError
@@ -14,10 +14,11 @@ from scrap.repositories.repository import Repository
 
 
 class SqlalchemyRepository[
-    PK: Any, Entity_: Entity, CreateDTO: DTO, UpdateDTO: DTO
-](
-    Repository[PK, CreateDTO, UpdateDTO, Entity_]
-):
+    PK: Any,
+    Entity_: Entity,
+    CreateDTO: DTO,
+    UpdateDTO: DTO,
+](Repository[PK, CreateDTO, UpdateDTO, Entity_]):
     """Base repository managed by sqlalchemy.
 
     Attributes:
@@ -25,26 +26,25 @@ class SqlalchemyRepository[
         entity_py_model: Entity (pydantic) class.
 
     """
-    sa_model: Type[DeclarativeMeta]
-    entity_py_model: Type[Entity_]
 
-    def _get(
-            self, pk: PK, session: Session
-    ) -> DeclarativeMeta | None:
+    sa_model: type[DeclarativeMeta]
+    entity_py_model: type[Entity_]
+
+    def _get(self, pk: PK, session: Session) -> DeclarativeMeta | None:
         return session.get(self.sa_model, pk)
 
     def _update_fields_by_schema(
-            self, db_object: DeclarativeMeta, schema: BaseModel
+        self, db_object: DeclarativeMeta, schema: BaseModel
     ) -> None:
         update_properties = schema.model_dump(mode="json", exclude_unset=True)
         for field, value in update_properties.items():
             setattr(db_object, field, value)
 
     def _update(
-            self,
-            pk: Any,
-            schema: BaseModel,
-            session: Session,
+        self,
+        pk: Any,
+        schema: BaseModel,
+        session: Session,
     ) -> BaseModel:
         db_object = self._get(pk, session)
         if db_object is None:
@@ -54,14 +54,14 @@ class SqlalchemyRepository[
         return self.entity_py_model.model_validate(db_object)
 
     def _create_from_schema(
-            self, schema: BaseModel, session: Session
+        self, schema: BaseModel, session: Session
     ) -> DeclarativeMeta:
         db_object = self.sa_model(**schema.model_dump(mode="json"))
         session.add(db_object)
         try:
             session.commit()
-        except IntegrityError:
-            raise ObjectExists
+        except IntegrityError as e:
+            raise ObjectExists from e
         return db_object
 
     def _create(self, schema: BaseModel, session: Session) -> BaseModel:
@@ -69,10 +69,10 @@ class SqlalchemyRepository[
         return self.entity_py_model.model_validate(db_object)
 
     def _create_or_update(
-            self,
-            pk: PK,
-            schema: BaseModel,
-            session: Session,
+        self,
+        pk: PK,
+        schema: BaseModel,
+        session: Session,
     ) -> tuple[BaseModel, bool]:
         """Creates or updates an object.
 
@@ -90,7 +90,7 @@ class SqlalchemyRepository[
         return self._update(pk, schema, session), False
 
     def _bulk_upsert(
-            self, schemas: list[BaseModel], session: Session
+        self, schemas: list[BaseModel], session: Session
     ) -> list[BaseModel]:
         """Bulk upsert objects from a list of schemas.
 
@@ -152,9 +152,7 @@ class SqlalchemyRepository[
                 Entity and `is_created` flag.
         """
         with get_session() as session:
-            return self._create_or_update(
-                create_data.id, create_data, session
-            )
+            return self._create_or_update(create_data.id, create_data, session)
 
     def bulk_upsert(self, create_data_list: list[CreateDTO]) -> list[Entity_]:
         """Bulk upsert objects.

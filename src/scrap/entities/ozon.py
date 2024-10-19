@@ -1,5 +1,4 @@
 from enum import Enum
-from typing import Optional
 
 from pydantic import Field, HttpUrl
 
@@ -9,40 +8,40 @@ from scrap.entities.entity import Entity
 
 class OzonCategoryEntity(Entity):
     id: int
-    parent_id: Optional[int] = None
+    parent_id: int | None = None
     level: int
     url: HttpUrl
     short_url: HttpUrl
-    name: Optional[str] = Field(None, max_length=1024)
-    image_url: Optional[HttpUrl] = None
+    name: str | None = Field(None, max_length=1024)
+    image_url: HttpUrl | None = None
 
 
 class OzonProductEntity(Entity):
     sku_id: int
-    name: Optional[str] = Field(None, max_length=1024)
-    price: Optional[int] = None
-    original_price: Optional[int] = None
-    stock: Optional[int] = None
-    rating: Optional[float] = None
-    review_count: Optional[int] = None
+    name: str | None = Field(None, max_length=1024)
+    price: int | None = None
+    original_price: int | None = None
+    stock: int | None = None
+    rating: float | None = None
+    review_count: int | None = None
     url: HttpUrl
-    image_url: Optional[HttpUrl] = None
-    category_id: Optional[int] = None
+    image_url: HttpUrl | None = None
+    category_id: int | None = None
 
 
 class OzonReviewEntity(Entity):
     uuid: str = Field(..., max_length=UUID_LEN)
     product_sku_id: int
-    rating: Optional[int] = None
-    user_name: Optional[str] = Field(None, max_length=64)
-    user_image_url: Optional[HttpUrl] = None
+    rating: int | None = None
+    user_name: str | None = Field(None, max_length=64)
+    user_image_url: HttpUrl | None = None
     comment_count: int
     url: HttpUrl
-    like_count: Optional[int] = None
-    dislike_count: Optional[int] = None
-    comment_text: Optional[str] = None
-    advantages_text: Optional[str] = None
-    disadvantages_text: Optional[str] = None
+    like_count: int | None = None
+    dislike_count: int | None = None
+    comment_text: str | None = None
+    advantages_text: str | None = None
+    disadvantages_text: str | None = None
 
 
 class OzonMediaType(str, Enum):
@@ -56,6 +55,6 @@ class OzonReviewMediaEntity(Entity):
     type: OzonMediaType
     url: HttpUrl
     extension: str = Field(..., max_length=16)
-    video_duration_sec: Optional[int] = None
-    width: Optional[int] = None
-    height: Optional[int] = None
+    video_duration_sec: int | None = None
+    width: int | None = None
+    height: int | None = None

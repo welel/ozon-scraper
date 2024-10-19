@@ -10,25 +10,29 @@ from scrap.repositories.sqlalchemy_repo import SqlalchemyRepository
 
 
 class OzonProductsRepository(
-        SqlalchemyRepository[
-            int,
-            OzonProductEntity,
-            OzonProductCreateProperties,
-            OzonProductUpdatableProperties,
-        ],
-        OzonProductInterface,
+    SqlalchemyRepository[
+        int,
+        OzonProductEntity,
+        OzonProductCreateProperties,
+        OzonProductUpdatableProperties,
+    ],
+    OzonProductInterface,
 ):
     sa_model = OzonProduct
     entity_py_model = OzonProductEntity
 
     def get_list_on_parsing(self) -> list[OzonProductEntity]:
+        min_count_view = 500
         with get_session() as session:
-            query = session.query(OzonProduct).filter(
-                OzonProduct.review_count >= 500,
-                # OzonProduct.category_id.in_((...)),
-            ).order_by(
-                OzonProduct.category_id,
-                OzonProduct.review_count.desc(),
+            query = (
+                session.query(OzonProduct)
+                .filter(
+                    OzonProduct.review_count >= min_count_view,
+                )
+                .order_by(
+                    OzonProduct.category_id,
+                    OzonProduct.review_count.desc(),
+                )
             )
             return [
                 self.entity_py_model.model_validate(product)

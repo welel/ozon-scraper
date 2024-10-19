@@ -16,9 +16,8 @@ class OzonReviewMediaInterface(
         OzonReviewMediaUpdatableProperties,
     ],
 ):
-
     @abc.abstractmethod
     def create_or_update(
-            self, review_media: OzonReviewMediaCreateProperties
+        self, review_media: OzonReviewMediaCreateProperties
     ) -> tuple[OzonReviewMediaEntity, bool]:
         pass

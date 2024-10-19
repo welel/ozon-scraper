@@ -14,11 +14,10 @@ load_dotenv()
 
 def load_yaml_config(filepath: PosixPath | str) -> dict:
     """Loads yaml file by `filepath` and returns content as a dict."""
-    if not os.path.isfile(filepath) or not os.access(filepath, os.R_OK):
-        print(f"ERROR: config file '{filepath}' not eixsts or not readable")
+    if not Path.is_file(filepath) or not os.access(filepath, os.R_OK):
         sys.exit(1)
-    with open(filepath, "r") as config_file:
-        return yaml.load(config_file, Loader=yaml.FullLoader)
+    with Path.open(filepath) as config_file:
+        return yaml.safe_load(config_file)
 
 
 class SettingField:
@@ -33,34 +32,34 @@ class SettingField:
     """
 
     def __init__(
-            self,
-            var_name: str,
-            cast_to: type = str,
-            default: Any = None,
-    ):
+        self,
+        var_name: str,
+        cast_to: type = str,
+        default: Any = None,
+    ) -> None:
         self.var_name = var_name
         self.type = cast_to
         self.default = default
 
-    def __get__(self, instance, owner):
+    def __get__(self, instance, owner) -> Any:  # noqa: ANN001
         value = None
         if self.default is not None:
             value = os.environ.get(self.var_name, self.default)
         else:
             try:
                 value = os.environ[self.var_name]
-            except KeyError:
-                raise ValueError(
-                    f"'{self.var_name}' environment variable should be set!"
-                )
+            except KeyError as e:
+                msg = f"'{self.var_name}' environment variable should be set!"
+                raise ValueError(msg) from e
 
-        if self.type == bool:
+        if self.type is bool:
             return value.lower() == "true"
 
         try:
             return self.type(value)
-        except TypeError:
-            raise TypeError(f"Cannot cast {value} to {self.type}!")
+        except TypeError as e:
+            msg = f"Cannot cast {value} to {self.type}!"
+            raise TypeError(msg) from e
 
 
 UUID_LEN = 36
@@ -71,8 +70,8 @@ URL_MAX_LEN = 2083
 class ProjectConfig:
     base_dir = Path(__file__).resolve().parent
     project_dir = base_dir.parent.parent
-    categories_data_dir = os.path.join(project_dir, "data", "categories")
-    logging_config_path = os.path.join(base_dir, "logging.yml")
+    categories_data_dir = project_dir / "data" / "categories"
+    logging_config_path = base_dir / "logging.yml"
 
 
 logging.config.dictConfig(load_yaml_config(ProjectConfig.logging_config_path))

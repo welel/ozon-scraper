@@ -1,4 +1,3 @@
-
 import logging
 
 from scrap.config import AppConfig
@@ -30,7 +29,8 @@ class OzonReviewsStateScraper(Scraper):
                     continue
                 self.logger.info(
                     "Scraped %d reviews and %d media",
-                    len(data.reviews), len(data.media)
+                    len(data.reviews),
+                    len(data.media),
                 )
                 for review in data.reviews:
                     reviews_repo.create_or_update(review)
