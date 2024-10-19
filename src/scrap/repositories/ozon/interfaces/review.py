@@ -16,9 +16,8 @@ class OzonReviewInterface(
         OzonReviewUpdatableProperties,
     ],
 ):
-
     @abc.abstractmethod
     def create_or_update(
-            self, create_data: OzonReviewCreateProperties
+        self, create_data: OzonReviewCreateProperties
     ) -> tuple[OzonReviewEntity, bool]:
         pass

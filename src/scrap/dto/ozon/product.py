@@ -1,33 +1,31 @@
-from typing import Optional
-
 from pydantic import Field, HttpUrl
 
 from scrap.dto.dto import DTO
 
 
 class BaseOzonProduct(DTO):
-    name: Optional[str] = Field(
+    name: str | None = Field(
         None,
         max_length=1024,
         description="Product name",
     )
-    price: Optional[int] = Field(
+    price: int | None = Field(
         None,
         description="Current price of the product in RUB",
     )
-    original_price: Optional[int] = Field(
+    original_price: int | None = Field(
         None,
         description="Original price of the product before discount in RUB",
     )
-    stock: Optional[int] = Field(
+    stock: int | None = Field(
         None,
         description="Stock availability",
     )
-    rating: Optional[float] = Field(
+    rating: float | None = Field(
         None,
         description="Average rating of the product",
     )
-    review_count: Optional[int] = Field(
+    review_count: int | None = Field(
         None,
         description="Number of reviews for the product",
     )
@@ -35,11 +33,11 @@ class BaseOzonProduct(DTO):
         ...,
         description="URL to the product page",
     )
-    image_url: Optional[HttpUrl] = Field(
+    image_url: HttpUrl | None = Field(
         None,
         description="URL to the product image",
     )
-    category_id: Optional[int] = Field(
+    category_id: int | None = Field(
         None,
         description="Category ID which triggered parsing of this product",
     )

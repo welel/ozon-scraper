@@ -1,5 +1,3 @@
-from typing import Dict, List
-
 from pydantic import BaseModel, Field
 
 
@@ -55,8 +53,8 @@ class Review(BaseModel):
 
 
 class ReviewsDataState(BaseModel):
-    media: List[Media]
-    reviews: Dict[str, Review]
+    media: list[Media]
+    reviews: dict[str, Review]
 
     class Config:
         populate_by_name = True

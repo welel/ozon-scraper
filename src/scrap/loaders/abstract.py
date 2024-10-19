@@ -1,6 +1,7 @@
 import abc
 import logging
-from typing import Any, Iterator, Optional, Union
+from collections.abc import Iterator
+from typing import Any
 
 from pydantic import BaseModel
 
@@ -8,8 +9,8 @@ from scrap.config import AppConfig
 
 
 Data = dict[str, Any]
-LoadedData = Union[Data, list[Data]]
-ValidatedData = Union[LoadedData, BaseModel, list[BaseModel]]
+LoadedData = Data | list[Data]
+ValidatedData = LoadedData | BaseModel | list[BaseModel]
 
 
 class Loader(abc.ABC):
@@ -24,13 +25,14 @@ class Loader(abc.ABC):
             and deserialization.
 
     """
-    schema: Optional[BaseModel] = None
 
-    def __init__(self):
+    schema: BaseModel | None = None
+
+    def __init__(self) -> None:
         self.logger = logging.getLogger(AppConfig.logger_prefix + __name__)
         self._shutdown_after_load = True
 
-    def _init_next_page(self, data: ValidatedData):
+    def _init_next_page(self, data: ValidatedData) -> None:  # noqa: B027
         """Initializes loading for the next page of data.
 
         Subclasses can override this method to handle pagination.
@@ -38,10 +40,9 @@ class Loader(abc.ABC):
         Args:
             data: The loaded data from the current page.
         """
-        pass
 
     @abc.abstractmethod
-    def _load(self) -> Optional[LoadedData]:
+    def _load(self) -> LoadedData | None:
         """Abstract method to load data.
 
         This method must be implemented by subclasses to provide
@@ -51,7 +52,7 @@ class Loader(abc.ABC):
             The loaded data, or None a resource is empty.
         """
 
-    def load(self) -> Optional[LoadedData]:
+    def load(self) -> LoadedData | None:
         """Loads data.
 
         This method loads data using the `_load` method and then
@@ -122,10 +123,9 @@ class Loader(abc.ABC):
             self._init_next_page(data)
         self._shutdown()
 
-    def _shutdown(self) -> None:
+    def _shutdown(self) -> None:  # noqa: B027
         """Shutdown operations after loading.
 
         Calls after single load call: loader.load()
         or on end of iteration loader.iload().
         """
-        pass

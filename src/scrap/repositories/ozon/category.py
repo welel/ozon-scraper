@@ -11,25 +11,28 @@ from scrap.repositories.sqlalchemy_repo import SqlalchemyRepository
 
 
 class OzonCategoriesRepository(
-        SqlalchemyRepository[
-            int,
-            OzonCategoryEntity,
-            OzonCategoryCreateProperties,
-            OzonCategoryUpdatableProperties,
-        ],
-        OzonCategoryInterface,
+    SqlalchemyRepository[
+        int,
+        OzonCategoryEntity,
+        OzonCategoryCreateProperties,
+        OzonCategoryUpdatableProperties,
+    ],
+    OzonCategoryInterface,
 ):
     sa_model = OzonCategory
     entity_py_model = OzonCategoryEntity
 
     def get_list_on_parsing(self) -> list[OzonCategoryEntity]:
         with get_session() as session:
-            query = session.query(OzonCategory).join(
-                ScraperOzonCategoryMeta,
-                OzonCategory.id == ScraperOzonCategoryMeta.category_id,
-            ).filter(
-                ScraperOzonCategoryMeta.is_parsing_enabled.is_(True),
-            ).order_by(
-                ScraperOzonCategoryMeta.parsing_priority
+            query = (
+                session.query(OzonCategory)
+                .join(
+                    ScraperOzonCategoryMeta,
+                    OzonCategory.id == ScraperOzonCategoryMeta.category_id,
+                )
+                .filter(
+                    ScraperOzonCategoryMeta.is_parsing_enabled.is_(True),
+                )
+                .order_by(ScraperOzonCategoryMeta.parsing_priority)
             )
             return [self.entity_py_model.model_validate(cat) for cat in query]

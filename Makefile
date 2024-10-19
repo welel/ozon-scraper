@@ -7,3 +7,10 @@ up:
 
 down:
 	docker compose -p ozon-scraper -f contrib/docker/docker-compose.yml down
+
+install_linters:
+	pip install ruff==0.7.0 mypy==1.12.0 mypy-extensions==1.0.0
+
+ruff:
+	ruff format .
+	ruff check . --fix

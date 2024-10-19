@@ -8,7 +8,7 @@ from scrap.scrapers.ozon.product_reviews import OzonReviewsStateScraper
     "scrape_ozon_category_pages",
     help="Scrapes products from category pages.",
 )
-def scrape_ozon_category_pages():
+def scrape_ozon_category_pages() -> None:
     scraper = OzonCategoryPageScraper()
     click.echo(f"Scraper created: {scraper}. Starting parsing...")
     try:
@@ -25,7 +25,7 @@ def scrape_ozon_category_pages():
         "(only first 15 reviews and media)."
     ),
 )
-def scrape_ozon_product_reviews():
+def scrape_ozon_product_reviews() -> None:
     scraper = OzonReviewsStateScraper()
     click.echo(f"Scraper created: {scraper}. Starting parsing...")
     try:

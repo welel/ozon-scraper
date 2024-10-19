@@ -1,12 +1,10 @@
-from typing import Optional
-
 from pydantic import Field, HttpUrl
 
 from scrap.dto.dto import DTO
 
 
 class BaseOzonCategory(DTO):
-    parent_id: Optional[int] = Field(
+    parent_id: int | None = Field(
         None,
         description="Parent category ID from Ozon",
     )
@@ -22,12 +20,12 @@ class BaseOzonCategory(DTO):
         ...,
         description="Short URL to the category page",
     )
-    name: Optional[str] = Field(
+    name: str | None = Field(
         None,
         max_length=1024,
         description="Category name",
     )
-    image_url: Optional[HttpUrl] = Field(
+    image_url: HttpUrl | None = Field(
         None,
         description="URL to the category image",
     )

@@ -9,13 +9,13 @@ from scrap.repositories.sqlalchemy_repo import SqlalchemyRepository
 
 
 class OzonReviewsRepository(
-        SqlalchemyRepository[
-            str,
-            OzonReviewEntity,
-            OzonReviewCreateProperties,
-            OzonReviewUpdatableProperties,
-        ],
-        OzonReviewInterface,
+    SqlalchemyRepository[
+        str,
+        OzonReviewEntity,
+        OzonReviewCreateProperties,
+        OzonReviewUpdatableProperties,
+    ],
+    OzonReviewInterface,
 ):
     sa_model = OzonReview
     entity_py_model = OzonReviewEntity

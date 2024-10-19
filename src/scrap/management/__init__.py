@@ -9,7 +9,7 @@ from .ozon_scrapers import (
 
 
 @click.group()
-def cli():
+def cli() -> None:
     pass
 
 

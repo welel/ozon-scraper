@@ -1,4 +1,3 @@
-
 import logging
 
 from scrap.config import AppConfig
@@ -20,7 +19,7 @@ class OzonCategoryPageScraper(Scraper):
         for cat in cats:
             self.logger.info("Scrape category: %s", cat.short_url)
             for product_batch in OzonProductsLoader(
-                    str(cat.short_url), cat_id=cat.id
+                url=str(cat.short_url), cat_id=cat.id
             ).iload():
                 self.logger.info("Scraped %d products", len(product_batch))
                 for product in product_batch:

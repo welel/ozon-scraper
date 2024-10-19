@@ -9,7 +9,7 @@ from scrap.loaders.selenium_loader import SeleniumLoader
 class OzonLoader(SeleniumLoader):
     """Base ozon loader."""
 
-    def bypass_captcha(self):
+    def bypass_captcha(self) -> None:
         max_tries = 10
         while True:
             if max_tries == 0:
@@ -18,18 +18,18 @@ class OzonLoader(SeleniumLoader):
                 btn = self.driver.find_element(by=By.CLASS_NAME, value="rb")
                 self.logger.warning(
                     "Captha - reload button found: %s",
-                    btn.get_attribute('outerHTML'),
+                    btn.get_attribute("outerHTML"),
                 )
                 btn.click()
                 self.logger.info(
-                    "Browser log: %s", self.driver.get_log('browser')
+                    "Browser log: %s", self.driver.get_log("browser")
                 )
                 self._wait()
                 max_tries -= 1
             except NoSuchElementException:
                 break
 
-    def bypass_age_banner(self):
+    def bypass_age_banner(self) -> None:
         try:
             birth_input = self.driver.find_element(By.TAG_NAME, "input")
             name = birth_input.get_attribute("name")
@@ -44,7 +44,7 @@ class OzonLoader(SeleniumLoader):
         except NoSuchElementException:
             pass
 
-    def accept_cookie(self):
+    def accept_cookie(self) -> None:
         try:
             accept_cookie_btn = self.driver.find_element(
                 By.CLASS_NAME, "d6f_9"

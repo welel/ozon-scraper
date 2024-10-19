@@ -12,7 +12,7 @@ class ObjectExists(RepositoryError):
         existing_pk (Any): Object with this PK is exists in the repo.
     """
 
-    def __init__(self, *args, existing_pk: Any, **kwargs):
+    def __init__(self, existing_pk: Any = None) -> None:
         if existing_pk is not None:
             super().__init__(
                 f"Object with {existing_pk} pk is already exists."
@@ -28,10 +28,8 @@ class ObjectNotExists(RepositoryError):
         missin_pk (Any): Object with this PK doesn't exist in the repo.
     """
 
-    def __init__(self, *args, missin_pk: Any, **kwargs):
+    def __init__(self, missin_pk: Any = None) -> None:
         if missin_pk is not None:
-            super().__init__(
-                f"Object with {missin_pk} pk doesn't exist."
-            )
+            super().__init__(f"Object with {missin_pk} pk doesn't exist.")
         else:
             super().__init__("Object doesn't exist.")
