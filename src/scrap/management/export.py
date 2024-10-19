@@ -73,13 +73,13 @@ def export_media(
     max_files: int,
     dir_batch: int | None,
 ) -> None:
-    out_path = Path(out_path)
-    if not Path.exists(out_path):
-        click.echo(f"Error: The specified path '{out_path}' does not exist.")
+    out_path_ = Path(out_path)
+    if not out_path_.exists():
+        click.echo(f"Error: The specified path '{out_path_}' does not exist.")
         return
-    if not Path.is_dir(out_path):
+    if not out_path_.is_dir():
         click.echo(
-            f"Error: The specified path '{out_path}' isn't a directory."
+            f"Error: The specified path '{out_path_}' isn't a directory."
         )
         return
 
@@ -96,11 +96,11 @@ def export_media(
     with ThreadPoolExecutor(max_workers=25) as executor:
         futures = []
 
-        current_dir = out_path
+        current_dir = out_path_
 
         if dir_batch is not None:
-            current_dir = Path(out_path / "1")
-            Path.mkdir(current_dir)
+            current_dir = out_path_ / Path("1")
+            current_dir.mkdir()
 
         for i, media in enumerate(media_list, start=1):
             futures.append(
@@ -114,8 +114,8 @@ def export_media(
 
             if i % dir_batch == 0:
                 current_dir_num = int(current_dir.parts[-1])
-                current_dir = Path(out_path / str(current_dir_num + 1))
-                Path.mkdir(current_dir)
+                current_dir = out_path_ / Path(str(current_dir_num + 1))
+                current_dir.mkdir()
 
     list(as_completed(futures))
     click.echo(f"All downloaded: {len(media_list)}")

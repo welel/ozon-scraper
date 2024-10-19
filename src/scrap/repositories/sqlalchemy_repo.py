@@ -136,7 +136,7 @@ class SqlalchemyRepository[
 
     def create(self, create_data: CreateDTO) -> Entity_:
         with get_session() as session:
-            self._create(create_data, session)
+            return self._create(create_data, session)
 
     def update(self, pk: PK, update_data: UpdateDTO) -> Entity_:
         with get_session() as session:
